@@ -1,0 +1,45 @@
+import Link from 'next/link'
+import React from 'react'
+
+const SocialGathering = () => {
+  return (
+    <section className="tl-1-blogs pt-100 pb-100">
+        <div className="container">
+            <h2 className="tl-9-section-title py-4 rounded-tl-[40px] rounded-br-[40px] w-fit px-8 bg-[#4f70b6] font-bold text-white mx-auto mb-50">Photo Gallery - Social Gathering 'UMANG'</h2>
+                <div className="row gy-4 gy-sm-5 tl-1-blogs-row">
+                    <div className="col-lg-4">
+                        <div className="tl-1-blog">
+                            <img src="assets/images/photo-gallery/social-gathering/social-gathering-2023/8.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
+                                <div className="tl-1-blog-txt">
+                                    <h4 className="tl-1-blog-title"><Link href="/social-gathering-2023">Social Gathering 2023</Link></h4>
+                                    <Link href="/social-gathering-2023" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
+                                </div>
+                        </div>
+                    </div> 
+
+                    <div className="col-lg-4">
+                        <div className="tl-1-blog">
+                            <img src="assets/images/photo-gallery/social-gathering/social-gathering-2018/34.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
+                                <div className="tl-1-blog-txt">
+                                    <h4 className="tl-1-blog-title"><Link href="/social-gathering-2018">Social Gathering 2018</Link></h4>
+                                    <Link href="/social-gathering-2018" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
+                                </div>
+                        </div>
+                    </div>
+
+                    <div className="col-lg-4">
+                        <div className="tl-1-blog">
+                            <img src="assets/images/photo-gallery/social-gathering/social-gathering-2022/1.jfif" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
+                                <div className="tl-1-blog-txt">
+                                    <h4 className="tl-1-blog-title"><Link href="/social-gathering-2022">Social Gathering 2022</Link></h4>
+                                    <Link href="/social-gathering-2022" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
+                                </div>
+                        </div>
+                    </div> 
+                </div>
+             </div>
+    </section>
+  )
+}
+
+export default SocialGathering

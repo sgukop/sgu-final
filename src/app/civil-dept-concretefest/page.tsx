@@ -1,0 +1,24 @@
+import CivilDeptConcreteFest from '@/component/faculty/Civil-Engineering/CivilDeptConcreteFest';
+import BreadcrumbSection from '@/component/breadcrumb/BreadcrumbSection'
+import CtaSection4 from '@/component/cta/CtaSection4'
+import Layout5 from '@/component/layout/Layout5'
+import PricingSection from '@/component/pricing/PricingSection'
+import { Metadata } from 'next'
+import React from 'react'
+export const metadata: Metadata = {
+    title: 'SGU University',
+    description: 'Developed by Enark',
+  }
+const CivilDeptConcreteFestPage = () => {
+  return (
+    <Layout5>
+        <BreadcrumbSection title='Concrete Fest' style=''/>
+        <CivilDeptConcreteFest/>
+        
+       {/* <PricingSection/>
+        <CtaSection4 style='tl-8-cta-inner'/> */}
+    </Layout5>
+  )
+}
+
+export default CivilDeptConcreteFestPage
