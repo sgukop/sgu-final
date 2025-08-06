@@ -310,6 +310,7 @@ const NewHeaderSection = () => {
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/icctvb2025">International Conference ICCTVB 2025</NavLink></li>
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="#">International Conference ICSHFSE 2026</NavLink></li>
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="#">International Conference MBA 2026</NavLink></li>
+                               <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="#">International Conference MBA 2026</NavLink></li>
                                
                                 
                         </ul>
