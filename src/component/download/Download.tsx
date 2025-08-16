@@ -72,7 +72,7 @@ const Download = () => {
                           <h3 className="tl-event-details-area-title text-[#4f70b6]">Training and Placement Policy 2025</h3>
                             <div className="col-lg-12 col-md-12 col-xxs-12">
                                 <div className="publications-content">
-                                    <Link href="https://www.sanjayghodawatuniversity.ac.in/sgu%20download" target="_blank">
+                                    <Link href="https://manage-api.sguk.ac.in/api/assets/68a017269d299d878147054a" target="_blank">
                                         <h6 className="tl-3-single-program-title publication-title">Training and Placement Policy 2025 <i className="fa-regular fa-arrow-right-long"></i></h6>
                                     </Link>
                                 </div>
