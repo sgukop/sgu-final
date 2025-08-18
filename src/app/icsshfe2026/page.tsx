@@ -1,4 +1,4 @@
-import  ICCTVB from '@/component/conference/ICCTVB'
+import ICSSHFE from "@/component/conference/ICSSHFE";
 import BreadcrumbSection from '@/component/breadcrumb/BreadcrumbSection'
 import CtaSection4 from '@/component/cta/CtaSection4'
 import Layout5 from '@/component/layout/Layout5'
@@ -9,15 +9,15 @@ export const metadata: Metadata = {
     title: 'SGU University',
     description: 'Developed by Enark',
   }
-const ICCTVBPage = () => {
+const ICSSHFEPage = () => {
   return (
     <Layout5>
         <BreadcrumbSection title='About international conference ' style=''/>
-        <ICCTVB />
+        <ICSSHFE />
        {/* <PricingSection/>
         <CtaSection4 style='tl-8-cta-inner'/> */}
     </Layout5>
   )
 }
 
-export default ICCTVBPage
+export default ICSSHFEPage;

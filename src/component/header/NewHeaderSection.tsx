@@ -308,11 +308,9 @@ const NewHeaderSection = () => {
                         Events
                         <ul className="dropdown-menu absolute hidden mt-6 py-2 text-left rounded-none border-t-4 border-[#f4b826]">
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/icctvb2025">International Conference ICCTVB 2025</NavLink></li>
-                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="#">International Conference ICSHFSE 2026</NavLink></li>
+                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/icsshfe2026">International Conference ICSHFSE 2026</NavLink></li>
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="#">International Conference MBA 2026</NavLink></li>
-                               <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="#">International Conference MBA 2026</NavLink></li>
-                               
-                                
+                                                               
                         </ul>
                       </li>
 
