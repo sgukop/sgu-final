@@ -291,7 +291,7 @@ const ICSSHFEC = () => {
             <div className="flex flex-col md:flex-row items-center justify-center space-y-4 md:space-y-0 md:space-x-8 mb-12">
               <div className="flex items-center space-x-2">
                 <Calendar className="w-6 h-6 text-blue-400" />
-                <span className="text-lg">December 19-20, 2025</span>
+                <span className="text-lg">January 23-24, 2026</span>
               </div>
               <div className="flex items-center space-x-2">
                 <MapPin className="w-6 h-6 text-blue-400" />
@@ -374,14 +374,6 @@ const ICSSHFEC = () => {
                 <p>The USP of the University is its curriculum in tandem with the requirements of the industry plus choice-based credit system that allows students to choose major as well minor in the subjects of their choice. It encourages multi-disciplinary approach that helps students' creativity and productivity. The University also offers hand on experience with establishment of Tata Technology Centre, Mechatronics Lab Car, BOSCH Collaboration Centre, Centre of Space and Atmospheric Science etc.</p>
                 <p>The University campus is a state of art facility provided to students to help them study in a pristine environment. The 165 acres campus is replete with facilities like spacious classrooms, smart classrooms, well equipped labs, food court, amphi-theatre, stadium with flood lights, swimming pool, horse riding, tennis court etc.</p>
                 <p>SGU is Recognized in the band "PROMISSING" under the category "University & Deemed to be University (Private / Self-Financed) (Technical)" in Atal Ranking Institutions on Innovation Achievement (ARIIA) 2021. Certificate SGU Awarded All India 4th Rank for Top Emerging Engineering Institute by Times Engineering Survey-2021. SGU Awarded All India 5th Rank for Emerging Engineering Institute: Placement by Times Engineering Survey-2021. SGU Awarded All India 2nd Rank for Emerging Engineering Institute: Research Capability by Times Engineering Survey-2021. SGU Awarded for Top Emerging Private University of India by Times B-School Survey-2020. SGU Awarded for Best Emerging Private University of Maharashtra by Navbharat times at Nagpur.</p>
-                <div className="mt-6 space-y-2">
-                  <h4 className="font-semibold text-gray-900">Recent Achievements:</h4>
-                  <ul className="space-y-1 text-sm">
-                    <li>• ARIIA 2021 "Promising" band recognition</li>
-                    <li>• 4th Rank (All India) - Top Emerging Engineering Institute</li>
-                    <li>• Top Emerging Private University of India - Times B-School Survey 2020</li>
-                  </ul>
-                </div>
               </div>
             </div>
           </div>
