@@ -136,79 +136,46 @@ const ICSSHFEC = () => {
   ];
 
   const tracks : Track[] = [
-     {
-    title: "Next Generation Networks & Semiconductor Technologies",
-    topics: [
-      "5G Technology and Beyond",
-      "Advanced VLSI Design",
-      "Semiconductor Technology as VLSI",
-      "Green Electronics",
-    ],
-  },
-  {
-    title: "Intelligent Computing",
-    topics: [
-      "Artificial Intelligence and Machine Learning",
-      "Deep Learning",
-      "Computer Vision",
-      "Expert Systems",
-      "Explainable and Ethical AI",
-    ],
-  },
-  {
-    title: "Data Science & Cyber-Security",
-    topics: [
-      "Big Data Analytics",
-      "Cyber Security",
-      "Cloud Computing",
-      "Block chain Technology",
-    ],
-  },
-  {
-    title: "Robotics, Automation & Drone Technology",
-    topics: [
-      "Robotics and Automation",
-      "Internet of Things (IoT) and IIOT",
-      "Automated Machine Learning",
-    ],
-  },
-  {
-    title: "Life Sciences",
-    topics: [
-      "Disease diagnosis",
-      "AI in data analysis",
-      "Biologics",
-      "Synthetic biology",
-      "Genomics and proteomics",
-      "Towards greener plates: Sustainable Food technologies",
-    ],
-  },
-  {
-    title: "Health and Allied Discipline",
+    {
+    title: "Track 1: Pharmacy, Health and allied sciences",
     topics: [
       "Novel Drug Delivery Systems",
       "Synthesis of Drugs",
       "AI in Drug discovery",
-      "Ionic liquids and DES for Formulations",
+      "Ionic liquids and DES in Pharma",
       "Pharmacovigilance",
+      "Clinical Research",
+      "AI for Sustainable Healthcare",
     ],
   },
   {
-    title: "Applied Materials",
+    title: "Track 2: Applied Nanomaterials: Molecular design to Functional Systems",
     topics: [
       "Nanomaterials for Green Energy",
-      "Carbon Capture, Utilisation and Storage (CCUS)",
+      "Carbon Capture, Utilization and Storage (CCUS)",
       "Catalysis",
       "Functional coating",
+    ],
+  },
+  {
+    title: "Track 3: Life sciences an Interdisciplinary Pathway",
+    topics: [
+      "Genomics and Proteomics",
+      "Biologics",
+      "Synthetic biology",
+      "Towards Greener plates: Sustainable Food Technologies",
+      "Disease Diagnosis",
     ],
   },
 ];
 
   const importantDates : DateInfo[] = [
-  { event: "Paper Submission Deadline", date: "30 September 2025", icon: FileText },
-  { event: "Notification of Acceptance", date: "31 October 2025", icon: Mail },
-  { event: "Registration Deadline", date: "31 October 2025", icon: Users },
-  { event: "Conference Dates", date: "18th & 19th December 2025", icon: Calendar },
+  { event: "Abstract Submission Deadline", date: "10th December 2025", icon: FileText },
+  { event: "Abstract Acceptance", date: "15th December 2025", icon: Mail },
+  { event: "Submission of Manuscript", date: "30th December 2025", icon: FileText },
+  { event: "Acceptance of Manuscript", date: "10th January 2026", icon: Mail },
+  { event: "Payment of Registration Fees", date: "15th December 2025", icon: Users },
+  { event: "Conference Dates", date: "23rd & 24th January 2026", icon: Calendar },
   ];
 
   const registrationFees : FeeInfo[] = [
@@ -217,12 +184,14 @@ const ICSSHFEC = () => {
   { category: "Academician", fee: "INR 2500/-", icon: Users },
   { category: "Industry", fee: "INR 4000/-", icon: Award },
   { category: "Foreign Delegates", fee: "55 USD", icon: Globe },
+   { category: "18% GST ", fee: "18% GST will be applicable on registration amount", icon: Globe },
+   { category: "first come first serve ", fee: "Limited accommodation is available on campus. It will be given on ‘first come first serve’ basis", icon: Globe },
   ];
 
   const objectives : string[] = [
     "Pharmacy, Health and allied sciences",
-    "Applied Nanomaterials",
-    "Advances in Life sciences",
+    "Applied Nanomaterials:Molecular design to Functional Systems",
+    "Life sciences an Interdisciplinary Pathway",
   ];
 
   useEffect(() => {
@@ -328,31 +297,16 @@ const ICSSHFEC = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                  The International Conference on Sustainable Health Care, Food Science and Energy-2026 (ICSHFSE-2026) is research fest scheduled to be held on 
-                  18 th and –19 th December 2025.This conference aims to bring together leading researchers, academicians, industry experts,and policy-makers to 
-                  exchange knowledge, foster innovation, and explore collaborative opportunities in the intersecting domains of health care, food science, 
-                  and sustainable energy.
+                  The International Conference on Sustainable Health Care, Food Science and Energy-2026 (ICSHFE-2026) is research fest scheduled to be held on 23rd and –24th January 2026. This conference aims to bring together leading researchers, academicians, industry experts, and policy-makers to exchange knowledge, foster innovation, and explore collaborative opportunities in the intersecting domains of health care, food science, and sustainable energy.
               </p>
               <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-                In an era marked by rapid technological advancement and growing environmental concerns, ICSHFSE-2025 serves as a timely platform to discuss sustainable 
-                solutions for global challenges. The conference emphasizes interdisciplinary dialogue and cutting-edge research that promotes human well-being while ensuring 
-                ecological balance and resource efficiency.
+                In an era marked by rapid technological advancement and growing environmental concerns, ICSHFE-2026 serves as a timely platform to discuss sustainable solutions for global challenges. The conference emphasizes interdisciplinary dialogue and cutting-edge research that promotes human well-being while ensuring ecological balance and resource efficiency.
               </p>
               <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-                    The core themes of the conference span a diverse range of critical and emerging
-                    areas, including innovations and advancements in early detection and diagnostic
-                    technologies, artificial Intelligence in Data Analysis – Leveraging AI for improved decision-
-                    making, pattern recognition, and personalized medicine, research and development in
-                    therapeutic biological products, designing and constructing new biological parts and systems
-                    for practical applications, understanding genetic and protein-level mechanisms to enhance
-                    healthcare outcomes, sustainable practices and innovations for healthier and eco-friendly
-                    food systems.
+                    The core themes of the conference span a diverse range of critical and emerging areas, including innovations and advancements in early detection and diagnostic technologies, artificial Intelligence in Data Analysis – Leveraging AI for improved decision-making, pattern recognition, and personalized medicine, research and development in therapeutic biological products, designing and constructing new biological parts and systems for practical applications, understanding genetic and protein-level mechanisms to enhance healthcare outcomes, sustainable practices and innovations for healthier and eco-friendly food systems
               </p>
               <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-                      ICSHFSE-2025 promises a stimulating environment that encourages knowledge
-                      sharing, networking, and the advancement of sustainable and impactful research. Participants
-                      can look forward to keynote lectures, panel discussions, oral and poster presentations, and
-                      opportunities to engage with thought leaders from around the world.
+                      ICSHFE-2026 promises a stimulating environment that encourages knowledge sharing, networking, and the advancement of sustainable and impactful research. Participants can look forward to keynote lectures, panel discussions, oral and poster presentations, and opportunities to engage with thought leaders from around the world
               </p>
               
               <div className="space-y-4">
@@ -378,6 +332,32 @@ const ICSSHFEC = () => {
             </div>
           </div>
         </div>
+                        <div className="bg-white rounded-lg shadow p-6 col-span-full mt-6 max-w-3xl mx-auto">
+                        <h3 className="text-base font-semibold text-gray-900 mb-6">Expected Outcomes</h3>
+                        <ul className="list-disc pl-4 space-y-3 text-sm text-gray-700 leading-tight">
+                        <li>
+                          Promote joint projects between healthcare, food science, and energy researchers — 
+                          like developing nutrient-rich foods with reduced carbon footprints or hospital systems powered by renewable energy.
+                        </li>
+                        <li>
+                          Establish regional and global consortiums where experts convene to address overlapping challenges —
+                          malnutrition, climate change, and energy poverty — and design coordinated action plans.
+                        </li>
+                        <li>
+                          Promote interdisciplinary coursework at universities, blending health, environmental science, and sustainable engineering 
+                          to prepare the next generation of eco-conscious professionals.
+                        </li>
+                        <li>
+                          Collaborate with local communities to trial sustainable models — like decentralized renewable energy for rural clinics 
+                          or school lunch programs using indigenous crops with minimal inputs.
+                        </li>
+                        <li>
+                          Develop actionable tasks for organizations that want to adopt sustainable health and food systems, 
+                          backed by evidence shared at the conference.
+                        </li>
+                      </ul>
+                    </div>
+
       </section>
 
       {/* Tracks Section */}
@@ -476,6 +456,9 @@ const ICSSHFEC = () => {
               </div>
             </div>
 
+            
+            
+
             {/* Right column */}
             <div className="space-y-4">
               <div className="flex items-start space-x-3">
@@ -517,26 +500,23 @@ const ICSSHFEC = () => {
                 <p className="text-gray-600">Honorable President, SGU</p>
               </div>
             </div>
+            </div>
 
             {/* Patrons */}
-            <div className="bg-white rounded-xl shadow-lg p-6 col-span-full lg:col-span-2">
-              <h3 className="text-xl font-bold text-gray-900 mb-4">Patrons</h3>
-              <div className="grid sm:grid-cols-2 gap-4">
-                {[
-                  { name: "Mr. Shrenik S. Ghodawat", title: "Secretary, SGU" },
-                  { name: "Mr. Vinayak V. Bhosale", title: "Trustee, SGU" },
-                  { name: "Dr. Udhav Bhosale", title: "Vice Chancellor, SGU" },
-                  { name: "Dr. Vivek M. Kayande", title: "Registrar, SGU" },
-                  { name: "Dr. Vivek V. Kulkarni", title: "Dean of Academics, SGU" }
-                ].map((patron, index) => (
-                  <div key={index} className="space-y-1">
-                    <p className="font-semibold text-blue-700">{patron.name}</p>
-                    <p className="text-sm text-gray-600">{patron.title}</p>
-                  </div>
-                ))}
-              </div>
-             </div>
-             </div>
+                <div className="bg-white rounded-xl shadow-lg p-6 col-span-full lg:col-span-2">
+                <h3 className="text-xl font-bold text-gray-900 mb-4">Patrons</h3>
+                <div className="grid sm:grid-cols-2 gap-4">
+                  {[
+                    { name: "Mr. Vinayak V. Bhosale", title: "Trustee, SGU" },
+                    { name: "Dr. Udhav Bhosale", title: "Vice Chancellor, SGU" },
+    ].map((patron, index) => (
+      <div key={index} className="space-y-1">
+        <p className="font-semibold text-blue-700">{patron.name}</p>
+        <p className="text-sm text-gray-600">{patron.title}</p>
+      </div>
+    ))}
+  </div>
+</div>
              
 
             </div>
@@ -548,6 +528,8 @@ const ICSSHFEC = () => {
                     <div className="grid md:grid-cols-2 gap-6">
                       {[
                         { name: "Dr. Anand D. Sawant", phone: "9028466507" },
+                        { name: "Dr. Sambhaji Pawar", phone: "9665572111" },
+                        { name: "Dr. Vidyarani Khot ", phone: "9325264000" },
                         ].map((convener, index) => (
                         <div key={index} className="space-y-2">
                           <p className="font-semibold text-blue-700">{convener.name}</p>
@@ -558,53 +540,41 @@ const ICSSHFEC = () => {
                   </div>
                 </div>
 
-                {/* Co-Conveners */}
-                <div className="bg-white rounded-xl shadow-lg p-6 col-span-full lg:col-span-10">
-                  <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                    <h3 className="text-xl font-bold text-gray-900 mb-4">Co-Convener</h3>
-                    <div className="grid md:grid-cols-2 gap-6">
-                      {[
-                        { name: "Dr Sambhaji Pawar", phone: "9665572111" },
-                        { name: "Dr Vidyarani Khot", phone: "9325264000" },
-                      ].map((coConvener, index) => (
-                        <div key={index} className="space-y-2">
-                          <p className="font-semibold text-blue-700">{coConvener.name}</p>
-                          <p className="text-gray-600">Contact: {coConvener.phone}</p>
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-                </div>
-
+                
             {/* Organizing Committee */}
             
             {/* National Advisory Committee*/}
-                    <div className="bg-white rounded-xl shadow-lg p-6 col-span-full mt-10">
-                    
-                    <h3 className="text-xl font-bold text-gray-900 mb-4">National Advisory Committee</h3>
-                    <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
-                      {[
-                        { name: "Dr. Rajendra Kadam", title: "US Pfizer, Denver, USA" },
-                        { name: "Dr. John Dsouza", title: "Bombay College of Pharmacy" },
-                        { name: "Dr. Manojkumar Shukla", title: "Vice President, Gold Lake Life Science Pune" },
-                        { name: "Dr. Swapnil Mohile", title: "Sr. Manager, Global Business Management, Novosis, USA" },
-                        { name: "Prof. J H Kim", title: "CHONNAM National University, South Korea" },
-                        { name: "Prof. P S Pail", title: "Pro VC, Shivaji University, Kolhapur" },
-                        { name: "Prof. C S Gopinath", title: "IIT Kerala / Ret. Deputy Director, NCL" },
-                        { name: "Dr. Satish Patil", title: "IISc Bengaluru" },
-                        { name: "Dr. Ramesh Laxminarayan Gardas", title: "IITM Chennai" },
-                        { name: "Dr. Shubhangi Nikam", title: "Assistant Director, FSSAI" },
-                        { name: "Anand Mishra", title: "Vice President – QMS & ESG, GCL" },
-                      ].map((member, index) => (
-                        <div key={index} className="space-y-2">
-                          <p className="font-semibold text-blue-700">{member.name}</p>
-                          <p className="text-sm text-gray-600">{member.title}</p>
+                          <div className="bg-white rounded-xl shadow-lg p-6 col-span-full mt-10">
+                          <h3 className="text-xl font-bold text-gray-900 mb-4">National Advisory Committee</h3>
+                          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
+                            {[
+                              { name: "Dr. Rajendra Kadam", title: "US Pfizer, Denver, USA" },
+                              { name: "Dr. John Dsouza", title: "Bombay College of Pharmacy" },
+                              { name: "Dr. Manojkumar Shukla", title: "Vice President, Gold Lake Life Science Pune" },
+                              { name: "Dr. Swapnil Mohile", title: "Sr. Manager, Global Business Management, Novosis, USA" },
+                              { name: "Prof. J H Kim", title: "CHONNAM National University, South Korea" },
+                              { name: "Prof. P S Pail", title: "Pro VC, Shivaji University, Kolhapur" },
+                              { name: "Prof. C S Gopinath", title: "IIT Kerala / Ret. Deputy Director, NCL" },
+                              { name: "Dr. Satish Patil", title: "IISc Bengaluru" },
+                              { name: "Dr. Ramesh Laxminarayan Gardas", title: "IITM Chennai" },
+                              { name: "Dr. Shubhangi Nikam", title: "Assistant Director, FSSAI" },
+                              { name: "Anand Mishra", title: "Vice President – QMS & ESG, GCL" },
+                              { name: "Prof. G D Yadav", title: "Former VC, ICT Mumbai" },
+                              { name: "Prof. M M Salunkhe", title: "Former VC, Central University of Rajasthan" },
+                              { name: "Dr. D Srinivasa Reddy", title: "Director, CSIR-IICT, Hyderabad" },
+                              { name: "Prof. Gajanan B Zore", title: "Dept. of Biotech, Central University of Rajasthan" },
+                            ].map((member, index) => (
+                              <div key={index} className="space-y-2">
+                                <p className="font-semibold text-blue-700">{member.name}</p>
+                                <p className="text-sm text-gray-600">{member.title}</p>
+                              </div>
+                            ))}
+                          </div>
                         </div>
-                      ))}
-                    </div>
-                  </div>
+
 
   </section>
+  
   {/* keynote speaker */}
       
 
@@ -652,8 +622,19 @@ const ICSSHFEC = () => {
                     </div>
                     <div>
                       <p className="font-semibold text-gray-900">Contact Person</p>
-                      <p className="text-gray-600">Dr. Anand D. Sawant </p>
-                      <p className="text-blue-600">9028466507</p>
+                      
+                      
+                      <p className="text-gray-600">Mrs. Mitali Bora</p>
+                      <p className="text-blue-600">7972817415</p>
+
+                      <p className="text-gray-600">Dr. Tejaswini Vhaskoti</p>
+                      <p className="text-blue-600">9403672449</p>
+
+                      <p className="text-gray-600">Mrs. Chaitali Shinde</p>
+                      <p className="text-blue-600">9970071451</p>
+
+                      <p className="text-gray-600">Mr. Sangram Salve</p>
+                      <p className="text-blue-600">7387478287</p>
                      
                   </div>
                   </div>
@@ -699,6 +680,7 @@ const ICSSHFEC = () => {
             </div>
           </div>
         </div>
+        
       </section>
 
       </div>
