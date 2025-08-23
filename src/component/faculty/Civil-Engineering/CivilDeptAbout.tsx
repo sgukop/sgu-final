@@ -44,7 +44,7 @@ const CivilDeptAbout = () => {
                   >
                     {" "}
                     Sincerely,<br/> </span>
-<p style={{ fontWeight: "bold" }}>Dr. Amey D Katdare<br/>
+<p style={{ fontWeight: "bold" }}>Dr. Sachin Popat Patil<br/>
 Head of Civil Engineering Department<br/>
 Sanjay Ghodawat University</p>
 

@@ -11,17 +11,331 @@ const ExamTimeTable = () => {
 
                     <div className="row tl-event-details-row g-2">
                         <div className="col-lg-10 mb-0">
-                        <h6 className="exam-title">SEE Winter 2024 for Aero Time Table Winter-2024</h6> 
+                        <h6 className="exam-title">Aeronautical Make-Up Time Table 2025-26 </h6> 
                         </div>
 
                         <div className="col-lg-2">
-                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6759219f9173bf9f471ac171"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68a954f59d299d8781472167"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
                         </div>
                     </div>
                     
                 </div>
-              
                 <div className="examination-container">
+
+                    <div className="row tl-event-details-row g-2">
+                        <div className="col-lg-10 mb-0">
+                        <h6 className="exam-title">AIML Make-Up Time Table 2025-26</h6> 
+                        </div>
+
+                        <div className="col-lg-2">
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68a956269d299d878147216c"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                        </div>
+                    </div>
+                    
+                </div>
+                <div className="examination-container">
+
+                    <div className="row tl-event-details-row g-2">
+                        <div className="col-lg-10 mb-0">
+                        <h6 className="exam-title">BA Make-Up Time Table 2025-26</h6> 
+                        </div>
+
+                        <div className="col-lg-2">
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68a956389d299d8781472171"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                        </div>
+                    </div>
+                    
+                </div>
+                <div className="examination-container">
+
+                    <div className="row tl-event-details-row g-2">
+                        <div className="col-lg-10 mb-0">
+                        <h6 className="exam-title">Bachelor of Design Make-Up Time Table 2025-26</h6> 
+                        </div>
+
+                        <div className="col-lg-2">
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68a956579d299d8781472176"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                        </div>
+                    </div>
+                    
+                </div>
+                <div className="examination-container">
+
+                    <div className="row tl-event-details-row g-2">
+                        <div className="col-lg-10 mb-0">
+                        <h6 className="exam-title">Bachelor of Science Make-Up Time Table 2025-26</h6> 
+                        </div>
+
+                        <div className="col-lg-2">
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68a956809d299d878147217b"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                        </div>
+                    </div>
+                    
+                </div>
+                <div className="examination-container">
+
+                    <div className="row tl-event-details-row g-2">
+                        <div className="col-lg-10 mb-0">
+                        <h6 className="exam-title">BBA Make-Up Time Table 2025-26</h6> 
+                        </div>
+
+                        <div className="col-lg-2">
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68a9569b9d299d8781472180"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                        </div>
+                    </div>
+                    
+                </div>
+                <div className="examination-container">
+
+                    <div className="row tl-event-details-row g-2">
+                        <div className="col-lg-10 mb-0">
+                        <h6 className="exam-title">BCA Make-Up Time Table 2025-26</h6> 
+                        </div>
+
+                        <div className="col-lg-2">
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68a956af9d299d8781472185"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                        </div>
+                    </div>
+                    
+                </div>
+                <div className="examination-container">
+
+                    <div className="row tl-event-details-row g-2">
+                        <div className="col-lg-10 mb-0">
+                        <h6 className="exam-title">B-Com Make-Up Time Table 2025-26</h6> 
+                        </div>
+
+                        <div className="col-lg-2">
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68a956cc9d299d878147218a"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                        </div>
+                    </div>
+                    
+                </div>
+                <div className="examination-container">
+
+                    <div className="row tl-event-details-row g-2">
+                        <div className="col-lg-10 mb-0">
+                        <h6 className="exam-title">Biotechnology Make-Up Time Table 2025-26</h6> 
+                        </div>
+
+                        <div className="col-lg-2">
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68a956e89d299d878147218f"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                        </div>
+                    </div>
+                    
+                </div>
+                <div className="examination-container">
+
+                    <div className="row tl-event-details-row g-2">
+                        <div className="col-lg-10 mb-0">
+                        <h6 className="exam-title">BJMC Make-Up Time Table 2025-26</h6> 
+                        </div>
+
+                        <div className="col-lg-2">
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68a957009d299d8781472196"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                        </div>
+                    </div>
+                    
+                </div>
+                <div className="examination-container">
+
+                    <div className="row tl-event-details-row g-2">
+                        <div className="col-lg-10 mb-0">
+                        <h6 className="exam-title">Civil Make-Up Time Table 2025-26</h6> 
+                        </div>
+
+                        <div className="col-lg-2">
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68a957159d299d878147219b"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                        </div>
+                    </div>
+                    
+                </div>
+                <div className="examination-container">
+
+                    <div className="row tl-event-details-row g-2">
+                        <div className="col-lg-10 mb-0">
+                        <h6 className="exam-title">CSE Make-Up Time Table 2025-26</h6> 
+                        </div>
+
+                        <div className="col-lg-2">
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68a957339d299d87814721a0"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                        </div>
+                    </div>
+                    
+                </div>
+                <div className="examination-container">
+
+                    <div className="row tl-event-details-row g-2">
+                        <div className="col-lg-10 mb-0">
+                        <h6 className="exam-title">Electronics and Communication Make-Up Time Table 2025-26</h6> 
+                        </div>
+
+                        <div className="col-lg-2">
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68a9574d9d299d87814721a5"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                        </div>
+                    </div>
+                    
+                </div>
+                <div className="examination-container">
+
+                    <div className="row tl-event-details-row g-2">
+                        <div className="col-lg-10 mb-0">
+                        <h6 className="exam-title">FST Make-Up Time Table 2025-26</h6> 
+                        </div>
+
+                        <div className="col-lg-2">
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68a957659d299d87814721aa"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                        </div>
+                    </div>
+                    
+                </div>
+                <div className="examination-container">
+
+                    <div className="row tl-event-details-row g-2">
+                        <div className="col-lg-10 mb-0">
+                        <h6 className="exam-title">Law Make-Up Time Table 2025-26</h6> 
+                        </div>
+
+                        <div className="col-lg-2">
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68a9577b9d299d87814721af"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                        </div>
+                    </div>
+                    
+                </div>
+                <div className="examination-container">
+
+                    <div className="row tl-event-details-row g-2">
+                        <div className="col-lg-10 mb-0">
+                        <h6 className="exam-title">M Tech Aero Make-Up Time Table 2025-26</h6> 
+                        </div>
+
+                        <div className="col-lg-2">
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68a957969d299d87814721b4"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                        </div>
+                    </div>
+                    
+                </div>
+                <div className="examination-container">
+
+                    <div className="row tl-event-details-row g-2">
+                        <div className="col-lg-10 mb-0">
+                        <h6 className="exam-title">M Tech AIDS Make-Up Time Table 2025-26</h6> 
+                        </div>
+
+                        <div className="col-lg-2">
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68a957a99d299d87814721b9"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                        </div>
+                    </div>
+                    
+                </div>
+                <div className="examination-container">
+
+                    <div className="row tl-event-details-row g-2">
+                        <div className="col-lg-10 mb-0">
+                        <h6 className="exam-title">M Tech C CEM20250822_14160132 2025-26</h6> 
+                        </div>
+
+                        <div className="col-lg-2">
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68a957c29d299d87814721be"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                        </div>
+                    </div>
+                    
+                </div>
+                <div className="examination-container">
+
+                    <div className="row tl-event-details-row g-2">
+                        <div className="col-lg-10 mb-0">
+                        <h6 className="exam-title">M Tech Civil SE 2025-26</h6> 
+                        </div>
+
+                        <div className="col-lg-2">
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68a957d99d299d87814721c3"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                        </div>
+                    </div>
+                    
+                </div>
+                <div className="examination-container">
+
+                    <div className="row tl-event-details-row g-2">
+                        <div className="col-lg-10 mb-0">
+                        <h6 className="exam-title">M.Sc. Physics Make-Up Time Table 2025-26</h6> 
+                        </div>
+
+                        <div className="col-lg-2">
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68a957ee9d299d87814721c8"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                        </div>
+                    </div>
+                    
+                </div>
+                <div className="examination-container">
+
+                    <div className="row tl-event-details-row g-2">
+                        <div className="col-lg-10 mb-0">
+                        <h6 className="exam-title">M.Tech Electronics Engineering ES Make-Up Time Table 2025-26</h6> 
+                        </div>
+
+                        <div className="col-lg-2">
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68a958039d299d87814721cd"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                        </div>
+                    </div>
+                    
+                </div>
+                <div className="examination-container">
+
+                    <div className="row tl-event-details-row g-2">
+                        <div className="col-lg-10 mb-0">
+                        <h6 className="exam-title">MBA in Disaster Management Make-Up Time Table 2025-26</h6> 
+                        </div>
+
+                        <div className="col-lg-2">
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68a958169d299d87814721d2"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                        </div>
+                    </div>
+                    
+                </div>
+                <div className="examination-container">
+
+                    <div className="row tl-event-details-row g-2">
+                        <div className="col-lg-10 mb-0">
+                        <h6 className="exam-title">MBA Make-Up Time Table 2025-26</h6> 
+                        </div>
+
+                        <div className="col-lg-2">
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68a958169d299d87814721d2"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                        </div>
+                    </div>
+                    
+                </div>
+                <div className="examination-container">
+
+                    <div className="row tl-event-details-row g-2">
+                        <div className="col-lg-10 mb-0">
+                        <h6 className="exam-title">MCA Make-Up Time Table 2025-26</h6> 
+                        </div>
+
+                        <div className="col-lg-2">
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68a958399d299d87814721de"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                        </div>
+                    </div>
+                    
+                </div>
+                <div className="examination-container">
+
+                    <div className="row tl-event-details-row g-2">
+                        <div className="col-lg-10 mb-0">
+                        <h6 className="exam-title">MLT Make-Up Time Table 2025-26</h6> 
+                        </div>
+
+                        <div className="col-lg-2">
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68a9584b9d299d87814721e3"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                        </div>
+                    </div>
+                    
+                </div>
+                
+
+              
+                {/* <div className="examination-container">
                     <div className="row tl-event-details-row g-2">
                         <div className="col-lg-10 mb-0">
                         <h6 className="exam-title">SEE Winter 2024 for AIML Time Table Winter-2024</h6> 
@@ -415,7 +729,7 @@ const ExamTimeTable = () => {
                             <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/675926c19173bf9f471ac212"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
                         </div>
                     </div>
-                </div>
+                </div>*/}
             </div>
         </div>
     </div>

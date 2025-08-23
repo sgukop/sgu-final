@@ -119,7 +119,7 @@ const Target : React.FC<IconProps> = ({ className }) => (
   </svg>
 );
 
-const ICSSHFEC = () => {
+const ICSSHFE = () => {
   
   const [activeSection, setActiveSection] = useState<string>('home');
   const [isMenuOpen, setIsMenuOpen] = useState<boolean>(false);
@@ -687,4 +687,4 @@ const ICSSHFEC = () => {
   );
 };
 
-export default ICSSHFEC;
+export default ICSSHFE;
