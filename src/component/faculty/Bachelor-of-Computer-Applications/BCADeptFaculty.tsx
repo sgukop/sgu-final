@@ -205,7 +205,7 @@ const BCADeptFaculty = () => {
                             <div className="tl-1-course-txt">
                                 <h4 className="tl-1-course-title-new mt-30">Ms. Supriya Sawant</h4>
                                 <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                                <Link href="https://manage-api.sguk.ac.in/api/assets/68abef745edda276c8f635b0" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
                         </div>
                     </div>
@@ -218,7 +218,7 @@ const BCADeptFaculty = () => {
                             <div className="tl-1-course-txt">
                                 <h4 className="tl-1-course-title-new mt-30">Ms. Pratiksha R. Talewadikar</h4>
                                 <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                                <Link href="https://manage-api.sguk.ac.in/api/assets/68abefc65edda276c8f635b7" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
                         </div>
                     </div>
