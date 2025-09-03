@@ -23,6 +23,11 @@ function ExamNotice() {
               </thead>
               <tbody>
                 <tr>
+                  <td><p>30-08-2025</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/686cfba7ab9e6efa3e79e0e7" rel="noopener noreferrer" target="_blank" className="table-link">Re-Valuation Notice Summer-2025<i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
+                <tr>
                   <td><p>08-07-2025</p></td>
                   <td><a href="https://manage-api.sguk.ac.in/api/assets/686cfba7ab9e6efa3e79e0e7" rel="noopener noreferrer" target="_blank" className="table-link">Re-Valuation Notice Summer-2025<i className="fa-regular fa-arrow-right"></i></a></td>
                   <td><p>NOTICE</p></td>
