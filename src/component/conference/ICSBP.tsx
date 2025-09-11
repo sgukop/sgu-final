@@ -137,34 +137,85 @@ const ICSBP = () => {
 
   const tracks : Track[] = [
     {
-    title: "Track 1: Pharmacy, Health and allied sciences",
+    title: "Track 1: Marketing",
     topics: [
-      "Novel Drug Delivery Systems",
-      "Synthesis of Drugs",
-      "AI in Drug discovery",
-      "Ionic liquids and DES in Pharma",
-      "Pharmacovigilance",
-      "Clinical Research",
-      "AI for Sustainable Healthcare",
+      "Sustainability and Marketing",
+      "Customer Experience, Engagement and Relationship Management",
+      "Social and Public Service Marketing",
+      "Marketing Analytics, Business Intelligence and Automation",
+      "Social and Digital Media Marketing",
+      "Green Marketing and Consumerism",
+      "Disruptive Marketing and Sustainability",
+      "E-Commerce and Marketing Management",
+      "Consumer Behaviour and Marketing Innovations",
+      "Role of Mascots in Marketing Communication",
+      "Rural Consumers and Digital Marketing Strategies",
+      "Retail and Distribution Management for Shoppers’ Experience",
     ],
   },
   {
-    title: "Track 2: Applied Nanomaterials: Molecular design to Functional Systems",
+    title: "Track 2: Human Resource and Organizational Behaviour (HR and OB)",
     topics: [
-      "Nanomaterials for Green Energy",
-      "Carbon Capture, Utilization and Storage (CCUS)",
-      "Catalysis",
-      "Functional coating",
+      "Employee Engagement and Retention in Digital Age",
+      "Recruitment Trends and Talent Management",
+      "Leadership and Change Management",
+      "Sustainable Green HRM Practices and Work Resilience",
+      "Diversity and Inclusion at Workplace",
+      "Organizational Learning for Managing Disruption",
+      "Agile, Adaptive and Alert Organizations",
+      "Employee Well-being and Work-life Balance",
+      "HR-Analytics for Sustainable Business",
+      "Spirituality and Religious Practices in Sustainable Work Culture",
+      "Artificial Intelligence and HR",
+      "Sustainable Talent Management and Acquisition",
     ],
   },
   {
-    title: "Track 3: Life sciences an Interdisciplinary Pathway",
+    title: "Track 3: Sustainable IT, Operations and Supply Chain Management",
     topics: [
-      "Genomics and Proteomics",
-      "Biologics",
-      "Synthetic biology",
-      "Towards Greener plates: Sustainable Food Technologies",
-      "Disease Diagnosis",
+      "Technology for Sustainability",
+      "Sustainability Metrics and Dash boarding",
+      "Energy-efficient Software Development",
+      "Data Science and Machine Learning",
+      "Robotics and Artificial Intelligence",
+      "Sustainable Product Design and Green Manufacturing",
+      "Smart Cities and Sustainable Infrastructure",
+      "Sustainable Operation and Supply Chain Management",
+      "Circular Economy and Operations",
+      "Reverse Logistics and Network Optimization",
+      "Behavioural Operation Management",
+      "New Product and Service Management",
+    ],
+  },
+  {
+    title: "Track 4: Fintech - Sustainable Finance and Accounting",
+    topics: [
+      "Sustainable Micro –Finance and Rural Development",
+      "Social and human rights dimensions of sustainable finance",
+      "Sustainable / Green Finance and Investment",
+      "Risk Management in a Changing Climate",
+      "Innovative Economic Strategies for Financial Inclusion",
+      "Sustainability Budgeting and Forecasting",
+      "Sustainable Financial Performance and Accounting Practices",
+      "Fintech Innovation, Engineering and Analytics",
+      "Crypto Currency",
+      "Digital Banking Practices and E-wallet",
+      "Value Chain Financing for Sustainability",
+    ],
+  },
+  {
+    title: "Track 5: Other Interdisciplinary Areas",
+    topics: [
+      "Sustainable Development Goals and Role of Technology",
+      "Climate Change and Environmental Sustainability",
+      "Entrepreneurship and Innovation for Sustainable Rural and Urban Development",
+      "Sustainability through Education and Capacity Building",
+      "Science and Pharmaceutical Science for Sustainable Development",
+      "Behavioral Economics and Sustainability",
+      "Digital Transformation and New Social Perspectives",
+      "Ethical Business Practices and Corporate Social Responsibility",
+      "Clean Technologies and Renewable Energy",
+      "Waste Management and Resource Recovery",
     ],
   },
 ];
@@ -179,13 +230,26 @@ const ICSBP = () => {
   ];
 
   const registrationFees : FeeInfo[] = [
-    { category: "Student UG/PG", fee: "INR 1200/-", icon: BookOpen },
-  { category: "Research Scholar", fee: "INR 2000/-", icon: FileText },
-  { category: "Academician", fee: "INR 2500/-", icon: Users },
-  { category: "Industry", fee: "INR 4000/-", icon: Award },
-  { category: "Foreign Delegates", fee: "55 USD", icon: Globe },
-   { category: "18% GST ", fee: "18% GST will be applicable on registration amount", icon: Globe },
-   { category: "first come first serve ", fee: "Limited accommodation is available on campus. It will be given on ‘first come first serve’ basis", icon: Globe },
+    {
+    category: "UG / PG Student*",
+    fee: "Early Bird (Before 1st Nov): INR 1000 / USD 30 | Late (After 1st Nov): INR 1500 / USD 35",
+    icon: BookOpen,
+  },
+  {
+    category: "Research Scholar*",
+    fee: "Early Bird (Before 1st Nov): INR 1500 / USD 40 | Late (After 1st Nov): INR 2000 / USD 45",
+    icon: FileText,
+  },
+  {
+    category: "Faculty*",
+    fee: "Early Bird (Before 1st Nov): INR 3000 / USD 50 | Late (After 1st Nov): INR 3500 / USD 55",
+    icon: Users,
+  },
+  {
+    category: "Corporate / Industry",
+    fee: "Early Bird (Before 1st Nov): INR 5000 / USD 60 | Late (After 1st Nov): INR 5500 / USD 65",
+    icon: Award,
+  },
   ];
 
   const objectives : string[] = [
@@ -251,16 +315,16 @@ const ICSBP = () => {
             <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
               International Conference on<br />
               <span className="bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
-                Sustainable Health Care, Food Science and Energy-2026
+                SUSTAINABLE BUSINESS PRACTICES IN THE AGE OF DIGITAL TRANSFORMATION: A STEP TOWARDS VIKASIT BHARAT@2047
               </span><br />
-              (ICSHFE-2026)
+              (ICSBP-2026)
             </h1>
-            <p className="text-xl md:text-2xl mb-8 text-blue-200"> ICSHFE-2026</p>
+            <p className="text-xl md:text-2xl mb-8 text-blue-200"> ICSBP-2026</p>
             
             <div className="flex flex-col md:flex-row items-center justify-center space-y-4 md:space-y-0 md:space-x-8 mb-12">
               <div className="flex items-center space-x-2">
                 <Calendar className="w-6 h-6 text-blue-400" />
-                <span className="text-lg">January 23-24, 2026</span>
+                <span className="text-lg">December 17-18, 2025 (Wednesday & Thursday)</span>
               </div>
               <div className="flex items-center space-x-2">
                 <MapPin className="w-6 h-6 text-blue-400" />
@@ -297,67 +361,55 @@ const ICSBP = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                  The International Conference on Sustainable Health Care, Food Science and Energy-2026 (ICSHFE-2026) is research fest scheduled to be held on 23rd and –24th January 2026. This conference aims to bring together leading researchers, academicians, industry experts, and policy-makers to exchange knowledge, foster innovation, and explore collaborative opportunities in the intersecting domains of health care, food science, and sustainable energy.
+                  International Conference focused on the theme “Sustainable Business Practices in the Age of Digital
+                  Transformation: A Step towards Vikasit Bharat@2047” organized by Faculty of Commerce and
+                  Management, Sanjay Ghodawat University, Kolhapur. This two days International Conference is a forum
+                  where the top industry experts and educationists from across the country & overseas will assemble to discuss
+                  and deliberate how to make higher education system compatible with sustainable business practices and also
+                  to share their experiences, knowledge and research contribution on how institutes/universities strategize for
+                  structural changes in terms of curricula, research, industry interface, leadership, faculty quality, etc. in higher
+                  education to align with requirements of digital transformation for sustainable economic and social
+                  development of India align with the vision of Vikasit Bharat 2047. India has various well-known universities
+                  and institutions brimming with the large, potential pool of talent, which can be leveraged to deal with
+                  challenges posed by theme of Vikasit Bharat - 2047. In this conference, we are expecting participation of
+                  Directors, Principals, Deans, Associate Deans, Heads of Departments, and Professors, Faculty members,
+                  research scholars from various institutes, universities and industry leaders along with 100+ papers in presence
+                  of International & National delegates as session chairs, speakers and participant. This conference will provide
+                  an opportunity to academicians, doctoral students, and practitioners to share and exchange ideas in the area
+                  of sustainable business practices with integration of digital technology and how emerging technologies
+                  contribute to sustainable development in various industries. Given the new normal, the participants will have
+                  the opportunity to present their research / paper virtually & physically
               </p>
-              <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-                In an era marked by rapid technological advancement and growing environmental concerns, ICSHFE-2026 serves as a timely platform to discuss sustainable solutions for global challenges. The conference emphasizes interdisciplinary dialogue and cutting-edge research that promotes human well-being while ensuring ecological balance and resource efficiency.
-              </p>
-              <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-                    The core themes of the conference span a diverse range of critical and emerging areas, including innovations and advancements in early detection and diagnostic technologies, artificial Intelligence in Data Analysis – Leveraging AI for improved decision-making, pattern recognition, and personalized medicine, research and development in therapeutic biological products, designing and constructing new biological parts and systems for practical applications, understanding genetic and protein-level mechanisms to enhance healthcare outcomes, sustainable practices and innovations for healthier and eco-friendly food systems
-              </p>
-              <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-                      ICSHFE-2026 promises a stimulating environment that encourages knowledge sharing, networking, and the advancement of sustainable and impactful research. Participants can look forward to keynote lectures, panel discussions, oral and poster presentations, and opportunities to engage with thought leaders from around the world
-              </p>
+     
               
-              <div className="space-y-4">
-                <h3 className="text-xl font-semibold text-gray-900 mb-4">Conference Subthemes:</h3>
-                {objectives.map((objective, index) => (
-                  <div key={index} className="flex items-start space-x-3">
-                    <div className="w-2 h-2 bg-blue-600 rounded-full mt-2 flex-shrink-0"></div>
-                    <p className="text-gray-600">{objective}</p>
-                  </div>
-                ))}
-              </div>
             </div>
 
             <div className="bg-gradient-to-br from-blue-50 to-purple-50 rounded-2xl p-8">
               <h3 className="text-2xl font-bold text-gray-900 mb-6">About Sanjay Ghodawat University</h3>
               <div className="space-y-4 text-gray-600">
-                <p>Sanjay Ghodawat University was established as a State Private University in the year 2017. Previously it was Sanjay Ghodawat Institutes formed in the year 2009 by the Chairman Hon. Sanjay Ghodawat. The Institute had received NAAC A grade and also its programs were accredited by NBA and after this the natural progression was the evolvement of Sanjay Ghodawat University.</p>
-                <p>The University was formed to accommodate more students and give them a variety of choices for their career path. The University offers Diploma, UG, PG and PhD programs in Technology, Management, Commerce, Science, Liberal Arts, Architecture, Pharmacy and Computer Sciences.</p>
-                <p>The USP of the University is its curriculum in tandem with the requirements of the industry plus choice-based credit system that allows students to choose major as well minor in the subjects of their choice. It encourages multi-disciplinary approach that helps students' creativity and productivity. The University also offers hand on experience with establishment of Tata Technology Centre, Mechatronics Lab Car, BOSCH Collaboration Centre, Centre of Space and Atmospheric Science etc.</p>
-                <p>The University campus is a state of art facility provided to students to help them study in a pristine environment. The 165 acres campus is replete with facilities like spacious classrooms, smart classrooms, well equipped labs, food court, amphi-theatre, stadium with flood lights, swimming pool, horse riding, tennis court etc.</p>
-                <p>SGU is Recognized in the band "PROMISSING" under the category "University & Deemed to be University (Private / Self-Financed) (Technical)" in Atal Ranking Institutions on Innovation Achievement (ARIIA) 2021. Certificate SGU Awarded All India 4th Rank for Top Emerging Engineering Institute by Times Engineering Survey-2021. SGU Awarded All India 5th Rank for Emerging Engineering Institute: Placement by Times Engineering Survey-2021. SGU Awarded All India 2nd Rank for Emerging Engineering Institute: Research Capability by Times Engineering Survey-2021. SGU Awarded for Top Emerging Private University of India by Times B-School Survey-2020. SGU Awarded for Best Emerging Private University of Maharashtra by Navbharat times at Nagpur.</p>
+                    <p>Sanjay Ghodawat University was established as a State Private University in the year 2017. Previously it was
+                    Sanjay Ghodawat Insitutes formed in the year 2009 by the Chairman of SG Group, Sanjay Ghodawat. The
+                    Institute had received NAAC A grade and also its programs were accredited by NBA and after this the natural
+                    progression was the evolvement of Sanjay Ghodawat University.The University was formed to accomodate
+                    more students and give them a variety of choices for their career path. The University offers UG, PG and
+                    PhD programs in Technology, Management, Commerce, Science, Liberal Arts, Architecture, Pharmacy and
+                    Computer Applications. The USP of the University is its curriculum in tandem with the requirements of the
+                    Industry plus choice based credit system that allows students to choose major as well minor in the subjects
+                    of their choice. It encourages multi - disciplinary approach that helps students’ creativity and productivity.
+                    The University also offers hand on experience with establishment of Tata Technology Centre, Mechatronics
+                    Lab Car, BOSCH Collaboration Centre, Centre of Space and Atmospheric Science etc. The University
+                    campus is a state of art facility provided to students to help them study in a pristine environment. The 165
+                    acres campus is replete with facilities like spacious classrooms, smart classrooms, well equipped labs, food
+                    court, amphitheatre, stadium with flood lights, swimming pool, horse riding, tennis court etc. The School
+                    of Commerce and Management, SGU was recognized as Top Emerging B School by Times B School
+                    Survey 2020. School of Technology, SGU Ranked 4th in Top Emerging Engineering Institutes of the Nation,
+                    9th in Placement Category and 2nd in Research Capabilities by Times Ranking 2020.</p>
+                
               </div>
             </div>
           </div>
         </div>
-                        <div className="bg-white rounded-lg shadow p-6 col-span-full mt-6 max-w-3xl mx-auto">
-                        <h3 className="text-base font-semibold text-gray-900 mb-6">Expected Outcomes</h3>
-                        <ul className="list-disc pl-4 space-y-3 text-sm text-gray-700 leading-tight">
-                        <li>
-                          Promote joint projects between healthcare, food science, and energy researchers — 
-                          like developing nutrient-rich foods with reduced carbon footprints or hospital systems powered by renewable energy.
-                        </li>
-                        <li>
-                          Establish regional and global consortiums where experts convene to address overlapping challenges —
-                          malnutrition, climate change, and energy poverty — and design coordinated action plans.
-                        </li>
-                        <li>
-                          Promote interdisciplinary coursework at universities, blending health, environmental science, and sustainable engineering 
-                          to prepare the next generation of eco-conscious professionals.
-                        </li>
-                        <li>
-                          Collaborate with local communities to trial sustainable models — like decentralized renewable energy for rural clinics 
-                          or school lunch programs using indigenous crops with minimal inputs.
-                        </li>
-                        <li>
-                          Develop actionable tasks for organizations that want to adopt sustainable health and food systems, 
-                          backed by evidence shared at the conference.
-                        </li>
-                      </ul>
-                    </div>
-
+                        
       </section>
 
       {/* Tracks Section */}
@@ -485,95 +537,86 @@ const ICSBP = () => {
 
       {/* Committee */}
       <section id="committee" className="py-20 bg-gray-50">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-gray-900 mb-4">Organizing Committee</h2>
-            <div className="w-24 h-1 bg-gradient-to-r from-blue-600 to-purple-600 mx-auto rounded-full"></div>
-          </div>
+  <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div className="text-center mb-16">
+      <h2 className="text-4xl font-bold text-gray-900 mb-4">Organizing Committee</h2>
+      <div className="w-24 h-1 bg-gradient-to-r from-blue-600 to-purple-600 mx-auto rounded-full"></div>
+    </div>
 
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {/* Chief Patron */}
-            <div className="bg-white rounded-xl shadow-lg p-6 col-span-full lg:col-span-1">
-              <h3 className="text-xl font-bold text-gray-900 mb-4">Chief Patron</h3>
-              <div className="space-y-2">
-                <p className="font-semibold text-blue-700">Mr. Sanjay D. Ghodawat</p>
-                <p className="text-gray-600">Honorable President, SGU</p>
-              </div>
-            </div>
-            </div>
-
-            {/* Patrons */}
-                <div className="bg-white rounded-xl shadow-lg p-6 col-span-full lg:col-span-2">
-                <h3 className="text-xl font-bold text-gray-900 mb-4">Patrons</h3>
-                <div className="grid sm:grid-cols-2 gap-4">
-                  {[
-                    { name: "Mr. Vinayak V. Bhosale", title: "Trustee, SGU" },
-                    { name: "Dr. Udhav Bhosale", title: "Vice Chancellor, SGU" },
-    ].map((patron, index) => (
-      <div key={index} className="space-y-1">
-        <p className="font-semibold text-blue-700">{patron.name}</p>
-        <p className="text-sm text-gray-600">{patron.title}</p>
+    <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+      {/* Chief Patron */}
+      <div className="bg-white rounded-xl shadow-lg p-6 col-span-full lg:col-span-1">
+        <h3 className="text-xl font-bold text-gray-900 mb-4">Chief Patron</h3>
+        <div className="space-y-2">
+          <p className="font-semibold text-blue-700">Mr. Sanjay D. Ghodawat</p>
+          <p className="text-gray-600">Honorable President, SGU</p>
+        </div>
       </div>
-    ))}
+    </div>
+
+    {/* Patrons */}
+    <div className="bg-white rounded-xl shadow-lg p-6 col-span-full lg:col-span-2 mt-8">
+      <h3 className="text-xl font-bold text-gray-900 mb-4">Patrons</h3>
+      <div className="grid sm:grid-cols-2 gap-4">
+        {[
+          { name: "Mr. Shrenik Ghodawat", title: "Secretary, SGU" },
+          { name: "Mr. Vinayak V. Bhosale", title: "Trustee, SGU" },
+          { name: "Dr. Udhav Bhosale", title: "Vice Chancellor, SGU" },
+        ].map((patron, index) => (
+          <div key={index} className="space-y-1">
+            <p className="font-semibold text-blue-700">{patron.name}</p>
+            <p className="text-sm text-gray-600">{patron.title}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+
+    {/* Convener */}
+    <div className="bg-white rounded-xl shadow-lg p-6 col-span-full lg:col-span-2 mt-8">
+      <h3 className="text-xl font-bold text-gray-900 mb-4">Convener</h3>
+      <div className="grid sm:grid-cols-2 gap-4">
+        {[
+          { name: "Dr. Vilas Balgaonkar", title: "Head, Department of Management" },
+        ].map((convener, index) => (
+          <div key={index} className="space-y-1">
+            <p className="font-semibold text-blue-700">{convener.name}</p>
+            <p className="text-sm text-gray-600">{convener.title}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+
+    {/* National Advisory Committee */}
+    <div className="bg-white rounded-xl shadow-lg p-6 col-span-full mt-10">
+      <h3 className="text-xl font-bold text-gray-900 mb-4">
+        National Advisory Committee
+      </h3>
+      <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
+        {[
+          { name: "Dr. Joe Thomas", title: "Director – Learning, AICHM, Melbourne" },
+          { name: "Mr. Murlidharan Subramanin", title: "Head Global Sales & Director – Smart City Parking, UK" },
+          { name: "Dr. Bhanu Choudhary", title: "Dean – College of Food and Agriculture, UAE University" },
+          { name: "Dr. Ramesh Jare", title: "Director – TISS" },
+          { name: "Mr. Yogesh Kore", title: "Managing Director – Home Revise" },
+          { name: "Dr. Vivek Marathe", title: "" },
+          { name: "Dr. Ranit Kishore", title: "Director – MGM University" },
+          { name: "Prof. Pratapsingh Chauhan", title: "Vice Chancellor – Shri Govind Guru University, Godhara" },
+          { name: "Dr. Sagar Jambholkar", title: "NDA – Civilian Gazetted Officer, Ministry of Defense" },
+        ].map((member, index) => (
+          <div key={index} className="space-y-2">
+            <p className="font-semibold text-blue-700">{member.name}</p>
+            {member.title && (
+              <p className="text-sm text-gray-600">{member.title}</p>
+            )}
+          </div>
+        ))}
+      </div>
+    </div>
   </div>
-</div>
-             
-
-            </div>
-            
-            {/* Convener */}
-                <div className="bg-white rounded-xl shadow-lg p-6 col-span-full lg:col-span-10">
-                  <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                    <h3 className="text-xl font-bold text-gray-900 mb-4">Convener</h3>
-                    <div className="grid md:grid-cols-2 gap-6">
-                      {[
-                        { name: "Dr. Anand D. Sawant", phone: "9028466507" },
-                        { name: "Dr. Sambhaji Pawar", phone: "9665572111" },
-                        { name: "Dr. Vidyarani Khot ", phone: "9325264000" },
-                        ].map((convener, index) => (
-                        <div key={index} className="space-y-2">
-                          <p className="font-semibold text-blue-700">{convener.name}</p>
-                          <p className="text-gray-600">Contact: {convener.phone}</p>
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-                </div>
-
-                
-            {/* Organizing Committee */}
-            
-            {/* National Advisory Committee*/}
-                          <div className="bg-white rounded-xl shadow-lg p-6 col-span-full mt-10">
-                          <h3 className="text-xl font-bold text-gray-900 mb-4">National Advisory Committee</h3>
-                          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
-                            {[
-                              { name: "Dr. Rajendra Kadam", title: "US Pfizer, Denver, USA" },
-                              { name: "Dr. John Dsouza", title: "Bombay College of Pharmacy" },
-                              { name: "Dr. Manojkumar Shukla", title: "Vice President, Gold Lake Life Science Pune" },
-                              { name: "Dr. Swapnil Mohile", title: "Sr. Manager, Global Business Management, Novosis, USA" },
-                              { name: "Prof. J H Kim", title: "CHONNAM National University, South Korea" },
-                              { name: "Prof. P S Pail", title: "Pro VC, Shivaji University, Kolhapur" },
-                              { name: "Prof. C S Gopinath", title: "IIT Kerala / Ret. Deputy Director, NCL" },
-                              { name: "Dr. Satish Patil", title: "IISc Bengaluru" },
-                              { name: "Dr. Ramesh Laxminarayan Gardas", title: "IITM Chennai" },
-                              { name: "Dr. Shubhangi Nikam", title: "Assistant Director, FSSAI" },
-                              { name: "Anand Mishra", title: "Vice President – QMS & ESG, GCL" },
-                              { name: "Prof. G D Yadav", title: "Former VC, ICT Mumbai" },
-                              { name: "Prof. M M Salunkhe", title: "Former VC, Central University of Rajasthan" },
-                              { name: "Dr. D Srinivasa Reddy", title: "Director, CSIR-IICT, Hyderabad" },
-                              { name: "Prof. Gajanan B Zore", title: "Dept. of Biotech, Central University of Rajasthan" },
-                            ].map((member, index) => (
-                              <div key={index} className="space-y-2">
-                                <p className="font-semibold text-blue-700">{member.name}</p>
-                                <p className="text-sm text-gray-600">{member.title}</p>
-                              </div>
-                            ))}
-                          </div>
-                        </div>
+</section>
 
 
-  </section>
+  
   
   {/* keynote speaker */}
       
@@ -599,7 +642,7 @@ const ICSBP = () => {
                     <div>
                       <p className="font-semibold text-gray-900">Website</p>
                       <a href="http://www.sguk.ac.in/icsshfe2026" className="text-blue-600 hover:text-blue-800">
-                       www.sguk.ac.in/icsshfe2026
+                       www.sguk.ac.in/icsbp2025
                       </a>
                     </div>
                   </div>
@@ -611,7 +654,7 @@ const ICSBP = () => {
                     <div>
                       <p className="font-semibold text-gray-900">Email</p>
                       <a href="mailto:icctvb25@sgu.ac.in" className="text-blue-600 hover:text-blue-800">
-                        icshfe2026@sguk.ac.in
+                        https://www.sguk.ac.in/icsbp2025
                       </a>
                     </div>
                   </div>
@@ -624,17 +667,10 @@ const ICSBP = () => {
                       <p className="font-semibold text-gray-900">Contact Person</p>
                       
                       
-                      <p className="text-gray-600">Mrs. Mitali Bora</p>
-                      <p className="text-blue-600">7972817415</p>
+                      <p className="text-gray-600"> Dr. Ganesh Jagtap</p>
+                      <p className="text-blue-600">9822837699</p>
 
-                      <p className="text-gray-600">Dr. Tejaswini Vhaskoti</p>
-                      <p className="text-blue-600">9403672449</p>
-
-                      <p className="text-gray-600">Mrs. Chaitali Shinde</p>
-                      <p className="text-blue-600">9970071451</p>
-
-                      <p className="text-gray-600">Mr. Sangram Salve</p>
-                      <p className="text-blue-600">7387478287</p>
+                      
                      
                   </div>
                   </div>
