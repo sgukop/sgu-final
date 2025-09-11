@@ -109,6 +109,9 @@ const HeaderSection8: React.FC<HeaderProps> = ({
                           <li>
                               <NavLink href="/photo-gallery">Photo Gallery</NavLink>
                           </li>
+                          <li>
+                              <NavLink href="https://sgu.edulip.in/UI/indexSGU.php">Staff Login</NavLink>
+                          </li>
                         {/* <li>
                               <NavLink href="/download">Download</NavLink>
                           </li>   */}
