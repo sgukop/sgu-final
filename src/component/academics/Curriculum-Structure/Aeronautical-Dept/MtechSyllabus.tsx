@@ -22,12 +22,16 @@ const MtechSyllabus = () => {
              </tr>  */}
               
               <tr>
-                  <td><p>First Year R24</p></td>
-                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68834a8f153ff71942442981">First Year R24 <i className="fa-regular fa-arrow-right-long"></i></a></td>
+                  <td><p>Curriculum Structure Sem I-IV R24</p></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68c2ba67dceab808938fd3a5">Curriculum Structure Sem I-VIII R23<i className="fa-regular fa-arrow-right-long"></i></a></td>
              </tr>
              <tr>
-                  <td><p>Second year R22</p></td>
-                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68834a9e153ff71942442988">Second year R22 <i className="fa-regular fa-arrow-right-long"></i></a></td>
+                  <td><p>First Year Structure and Syllabus R24</p></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68c2babadceab808938fd3b7">First Year Structure and Syllabus R24 <i className="fa-regular fa-arrow-right-long"></i></a></td>
+             </tr>
+             <tr>
+                  <td><p>Second year Structure and Syllabus R24</p></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68c2baa8dceab808938fd3b2">Second Year Structure and Syllabus R24 <i className="fa-regular fa-arrow-right-long"></i></a></td>
              </tr>
              
             
