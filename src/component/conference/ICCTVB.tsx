@@ -155,15 +155,15 @@ const ICCTVB2025 = () => {
   ];
 
   const importantDates : DateInfo[] = [
-    { event: "Paper Submission Deadline", date: "30 September 2025", icon: FileText },
-    { event: "Notification of Acceptance", date: "20 October 2025", icon: Mail },
-    { event: "Camera-Ready Submission", date: "25 October 2025", icon: FileText },
-    { event: "Registration Deadline", date: "10 November 2025", icon: Users },
+    { event: "Paper Submission Deadline", date: "30th October 2025", icon: FileText },
+    { event: "Notification of Acceptance", date: "14th November 2025", icon: Mail },
+    { event: "Camera-Ready Submission", date: "25th November 2025", icon: FileText },
+    { event: "Registration Deadline", date: "1st December 2025", icon: Users },
     { event: "Conference Dates", date: "19th & 20th December 2025", icon: Calendar }
   ];
 
   const registrationFees : FeeInfo[] = [
-    { category: "Student UG/PG/Research scholar", fee: "INR 1,500/-", icon: BookOpen },
+    { category: "Student UG/PG/Research scholar", fee: "INR 2,000/-", icon: BookOpen },
     { category: "Faculty", fee: "INR 3,000/-", icon: Users },
     { category: "International Authors", fee: "INR 5,000/- Or $60", icon: Globe },
     { category: "Industry Participants", fee: "INR 4,000/-", icon: Award }
@@ -349,7 +349,7 @@ const ICCTVB2025 = () => {
             <h3 className="text-xl font-bold text-gray-900 mb-6">Additional Scope Areas</h3>
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
               {[
-                "Natural Language Processing (NLP)", "Quarter Computing", "Biomedical Image Processing",
+                "Natural Language Processing (NLP)", "Quantum Computing", "Biomedical Image Processing",
                 "Multimedia Signal Processing", "Augmented/Virtual Reality", "Computational Linguistics",
                 "Internet of Things (IoT)", "Blockchain Technology", "Explainable AI"
               ].map((area, index) => (
@@ -429,11 +429,11 @@ const ICCTVB2025 = () => {
               <div className="space-y-4">
                 <div className="flex items-start space-x-3">
                   <div className="w-2 h-2 bg-purple-400 rounded-full mt-2"></div>
-                  <p>Submission opens July 2025 at www.icctvb2025sgu.com</p>
+                  <p>Submission opens August 2025 at www.sguk.ac.in/icctvb2025</p>
                 </div>
                 <div className="flex items-start space-x-3">
                   <div className="w-2 h-2 bg-purple-400 rounded-full mt-2"></div>
-                  <p>Selected papers recommended for Scopus-indexed Taylor & Francis journals</p>
+                  <p>Selected papers recommended for Scopus-indexed journals subject to respective journal's peer review and editorial process. Jorrnals publication processing charges applicable for selective papers .</p>
                 </div>
                 <div className="flex items-start space-x-3">
                   <div className="w-2 h-2 bg-purple-400 rounded-full mt-2"></div>
@@ -552,9 +552,9 @@ const ICCTVB2025 = () => {
                 {[
                   { name: "Dr. Lung Jieh Yang", title: "Professor,Taiwan" },
                   { name: "Dr. P. Sanjeevikumar", title: "Professor, University of South Eastern Norway" },
-                  { name: "Dr. Devid Jenkans", title: "Professor, University of Plymouth, London" },
-                  { name: "Dr. Kumar Yelamarathi", title: "Professor & Dean, University of Tennessee, USA" },
-                  { name: "Dr. Sudep Dasgupta", title: "Professor, IIT, Roorkee" },
+                  { name: "Dr. Devid Jenkins", title: "Professor, University of Plymouth, London" },
+                  { name: "Dr. Kumar Yelamarthi", title: "Professor & Dean, University of Tennessee, USA" },
+                  { name: "Dr. Sudeb Dasgupta", title: "Professor, IIT, Roorkee" },
                   { name: "Dr. C. Periyasamy", title: "Asso. Professor, NITC" },
                   { name: "Dr. Deepali R. Vora", title: "Professor, CIOT, Pune" },
                   { name: "Dr. Ameya Naik", title: "Professor, SSOE" },
@@ -675,7 +675,7 @@ const ICCTVB2025 = () => {
                     </div>
                     <div>
                       <p className="font-semibold text-gray-900">Email</p>
-                      <a href="mailto:icctvb25@sgu.ac.in" className="text-blue-600 hover:text-blue-800">
+                      <a href="mailto:icctvb25@sguk.ac.in" className="text-blue-600 hover:text-blue-800">
                         icctvb25@sguk.ac.in
                       </a>
                     </div>
@@ -731,6 +731,12 @@ const ICCTVB2025 = () => {
                   <h4 className="font-semibold mb-2">Submission Deadline</h4>
                   <p className="text-blue-200">September 30, 2025</p>
                 </div>
+                <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
+                  <h4 className="font-semibold mb-2">Download Paper Template</h4>
+                  <p className="text-blue-200"><a href="https://manage-api.sguk.ac.in/api/assets/68c26818a38d33e79780a6c0" rel="noopener noreferrer" target="_blank" className="table-link">Sample Research Paper Template</a> </p>
+                </div>
+                
+                
               </div>
             </div>
           </div>
