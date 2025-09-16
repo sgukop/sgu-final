@@ -52,12 +52,12 @@ const AIandDSDeptAlumni:React.FC<AboutProps> = ({margin}) => {
           {
             imgSrc: "assets/images/AIML/recruiters/6.png",
           },
-          /*  {
+            {
             imgSrc: "assets/images/AIML/recruiters/7.png",
           },
           {
             imgSrc: "assets/images/AIML/recruiters/8.png",
-          },  */
+          },  
           {
             imgSrc: "assets/images/AIML/recruiters/9.png",
           },
@@ -93,7 +93,7 @@ const AIandDSDeptAlumni:React.FC<AboutProps> = ({margin}) => {
           },
           /* {
             imgSrc: "assets/images/AIML/recruiters/20.png",
-          },  */
+          },  */ 
                           
       ]
   return (
@@ -106,7 +106,7 @@ const AIandDSDeptAlumni:React.FC<AboutProps> = ({margin}) => {
                         <div className="row gx-0 tl-blog-details-row">
                              <div className="tl-11-section-heading"><h2 className="tl-11-section-title">Internship</h2></div>  
                                 <div className="col-lg-12">
-                                   <Table bordered responsive className="governing-table">
+                                  {/* <Table bordered responsive className="governing-table">
                                         <thead>
                                             <tr>
                                                 <th><p className="text-[#4f70b6]">Sr.No</p></th>
@@ -122,7 +122,7 @@ const AIandDSDeptAlumni:React.FC<AboutProps> = ({margin}) => {
                                                 <td><p>65</p></td>
                                             </tr>
                                         </tbody>
-                                    </Table>  
+                                    </Table>   
                                 </div>
                             </div>
 
@@ -145,7 +145,7 @@ const AIandDSDeptAlumni:React.FC<AboutProps> = ({margin}) => {
                                                 <td><p>41</p></td>
                                             </tr>
                                         </tbody>
-                                    </Table>  
+                                    </Table>  */}
                                 </div>
                             </div>
 

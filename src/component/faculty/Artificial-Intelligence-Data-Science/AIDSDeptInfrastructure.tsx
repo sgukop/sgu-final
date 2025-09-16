@@ -21,7 +21,7 @@ const AIMLDeptInfrastructure = () => {
                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/AIML/academic-infrastructure/image1.png" alt="Infrastructure Image"/></figure>
+                            <figure><img src="assets/images/AIDS/academic-infrastructure/#.png" alt="Infrastructure Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">HOD Cabin</h3>
                     </div>

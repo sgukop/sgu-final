@@ -8,8 +8,8 @@ const PSO = () => {
                 <h3 className="tl-event-details-area-title text-[#4f70b6]">Program Specific Outcomes(PSOs)</h3>
                
                     <ul className="tl-event-details-key-content-list">
-                        <li><strong>PSO 1 : </strong>Develop and deploy AI/ML solutions using industry-standard tools, frameworks, and technologies.</li>
-                        <li><strong>PSO 2 : </strong>Apply AI/ML concepts with core computing domains to solve real-world and futuristic challenges.</li>
+                        <li><strong>Design, develop, and deploy AI and Data Science solutions : </strong>Design, develop, and deploy AI and Data Science solutions by leveraging machine learning, deep learning, cloud computing, and modern software engineering practices to address real-world challenges across industries.</li>
+                        
                     </ul>
             </div>
         </div>

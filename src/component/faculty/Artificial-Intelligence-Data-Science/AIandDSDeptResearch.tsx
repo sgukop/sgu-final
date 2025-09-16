@@ -14,9 +14,9 @@ const AIandDSDeptResearch = () => {
                 <MenuList dept="Artificial Intelligence and Machine Learning" subMenu={NavLinks} />
                     <div data-spy="scroll" className="scrollspy-example z-depth-1 mt-4 p-3 mb-4 col-lg-9 col-md-6 col-sm-12 dept-content" data-target="#menu-navbar" data-offset="0">
                         <div className="row gx-0 tl-blog-details-row">
-                            <div className="tl-11-section-heading"><h2 className="tl-11-section-title">Research papers published in the Journals By AIML Department</h2></div>
+                            <div className="tl-11-section-heading"><h2 className="tl-11-section-title">Research papers published in the Journals By AIDS Department</h2></div>
                                 <div className="col-lg-12">
-                                    <Table bordered responsive className="governing-table">
+                                  {/*  <Table bordered responsive className="governing-table">
                                         <thead>
                                             <tr>
                                                 <th><p className="text-[#4f70b6]">Sr.No.</p></th>
@@ -246,7 +246,7 @@ const AIandDSDeptResearch = () => {
                                                 <td><p>IEEE Conference at Vellore. 22-23 February 2024, India. IEEE Xplore.</p></td>
                                             </tr>
                                         </tbody>
-                                    </Table>
+                                    </Table>*/}
                                 </div>
                             </div>
                         </div>

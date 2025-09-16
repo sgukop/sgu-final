@@ -15,7 +15,7 @@ const AIDSDeptActivities = () => {
             data-target="#menu-navbar"
             data-offset="0"
           >
-           <div className="row g-3 g-lg-4 justify-content-center">
+          {/*  <div className="row g-3 g-lg-4 justify-content-center">
                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
@@ -248,8 +248,8 @@ const AIDSDeptActivities = () => {
                       <div className="tl-8-course-txt">
                           <p className="dark-mode-white-color">Webverse Compitition Orgnized by AIMLSA.</p>
                       </div>
-                  </div>
-              </div>
+                  </div>*/}
+              </div> 
           </div>
        </div>
     </section>

@@ -8,11 +8,11 @@ const PEO = () => {
                 <h3 className="tl-event-details-area-title text-[#4f70b6]">Program Educational Objectives (PEOs)</h3>
                
                     <ul className="tl-event-details-key-content-list">
-                        <li>To prepare students for placement ,higher education, research and development (R&D) in AI and ML by providing value-based quality education.</li>
-                        <li>To develop students to work on multidisciplinary projects with teamwork, effective communications skills and ethical principles.</li>
-                        <li>To cultivate students to provide acceptable solutions to real world problems utilizing problem-solving skills, knowledge of mathematics and engineering fundamentals. 
-                        </li>
-                        <li>To expose students to emerging AI and ML technologies and provide ample opportunities to work on interdisciplinary projects, enhancing teamwork, leadership, and effective communication skills.</li>
+                        <li>Excel in professional careers or higher studies in Artificial Intelligence, Data Science, and related domains</li>
+                        <li>Apply problem-solving, analytical, and technical skills to design effective AI/ML and data-driven solutions.</li>
+                        <li>Demonstrate leadership, teamwork, and effective communication in multidisciplinary environments.</li>
+                        <li>Pursue lifelong learning to adapt to emerging technologies and evolving industry needs.</li>
+                        <li>Contribute ethically and responsibly to society, industry, and the global community through innovative practices.</li>
                     </ul>
             </div>
         </div>

@@ -29,7 +29,7 @@ const AIandDSDeptAbout = () => {
               <div className="col-lg-5">
                 <div className="tl-14-about-img">
                   <img
-                    src="assets/images/AIML/hod-photo/aiml-hod.png"
+                    src="assets/images/AIDS/hod-photo/aids-hod.JPG"
                     alt="HOD Image"
                     className="rounded-full"
                     style={{border:"10px solid #4f70b6", padding:"20px"}}
@@ -41,7 +41,10 @@ const AIandDSDeptAbout = () => {
                 <div>
                   <h2 className="tl-14-section-title text-[#4f70b6] lg:mt-10 sm:mt-0">HOD's Desk</h2>
                   <p className="dark-mode-white-color text-justify">
-                  We feel elated to Well-Come and introduce you to our Department of Artificial Intelligence & Data Science.ArtificialIntelligence (AI) is now one of the fastest-growing technologies in the job market. Our AIML program aims to provide students with a solid foundation in the principles and techniques of AIML, as well as hands-on experience in applying these technologies to real-world problems. The curriculum of the AIML program is designed with specialized knowledge and skills in Artificial Intelligence, Machine Learning, Deep Learning, Reinforcement learning, Natural Language Processing (NLP), Data Science, Computer Vision, Business Intelligence, Robotics and other interdisciplinary areas. The students will study algorithms and techniques for machine learning and gain practical experience through laboratory work and projects.The department is equipped itself with well qualified teaching faculty with rich teaching, research and industrial experience. The department committed to impart rigorous training to students to generate knowledge through the state-of-the-art concepts and technologies in AI & ML, and transform the Department as a leader in imparting AI & ML education and research. The department offers Bachelor of Technology in AIML and Master of Technology in AIDS.
+                  It gives me immense pleasure to welcome you to the Department of Artificial Intelligence and Data Science at Sanjay Ghodawat University. With the world moving rapidly towards an AI-driven economy, this program is a unique initiative to empower students with the knowledge and skills required to become innovative technologists, researchers, and entrepreneurs.
+                  </p>
+                  <p className="dark-mode-white-color text-justify">
+                  Our tie-up with NxtWave Institute of Advanced Technology bridges the gap between academia and industry, ensuring that students learn not just theory but also its application in solving real-world challenges. The department focuses on holistic development through rigorous academics, industry-driven projects, internships, aptitude building, and communication skills. I firmly believe that our students will emerge as industry-ready professionals and responsible citizens who will contribute meaningfully to society
                   </p>
                   <p className="text-center mt-2"><strong>“WISH YOU ALL THE BEST”</strong></p>
                   <span
@@ -49,7 +52,7 @@ const AIandDSDeptAbout = () => {
                     style={{ fontWeight: "bold" }}
                   >
                     {" "}
-                    Dr. Mahesh Gaikwad <br /> Head of Department{" "}
+                    Mr. Gurunath Machhale <br /> Head of Department{" "}
                   </span>
                 </div>
               </div>
@@ -68,16 +71,19 @@ const AIandDSDeptAbout = () => {
                     <h3 className="tl-event-details-area-title text-white">Mission</h3>
                     <ul className="course-subjects">
                       <li>
-                      To provide a robust curriculum and hands-on learning in AI and ML that enhances academic excellence
+                      To provide quality education in Artificial Intelligence, Data Science, and emerging technologies through a well-structured curriculum and innovative pedagogy.
                       </li>
                       <li>
-                      To provide mentorship and resources that support student-led research, startups, and innovative projects , fostering a culture of entrepreneurship.
+                      To foster industry-academia collaboration for skill development, internships, and real-world project exposure.
                       </li>
                       <li>
-                      To collaborate with industry partners and research institutions, offering students exposure to cutting-edge technologies in AI and ML.
+                      To nurture critical thinking, problem-solving abilities, and research aptitude among students.
                       </li>
                       <li>
-                      To encourage students for lifelong learning and adaptability in AI and MLworld.
+                      To inculcate ethical values, communication skills, and social responsibility for holistic personality development.
+                      </li>
+                      <li>
+                      To encourage innovation, entrepreneurship, and continuous learning for addressing global challenges.
                       </li>
                     </ul>
                     </div>
@@ -126,10 +132,228 @@ const AIandDSDeptAbout = () => {
                   </Tab.Content>
                 </Tab.Container>
               </div>
+
+                <h3 className="tl-event-details-area-title text-[#4f70b6]">
+                  Programmes Offered Under AI and DS Department
+                </h3>
+                <div className="mt-4 mb-8">
+                  <h4 className="font-semibold">UG Program</h4>
+                  <p className="mt-2">
+                    Department of Artificial Intelligence and Data Science (AI & DS)
+                    <br />
+                    The Department of Artificial Intelligence and Data Science at Sanjay
+                    Ghodawat University was established in 2025 with the vision of nurturing
+                    future-ready engineers equipped with strong technical expertise,
+                    problem-solving ability, and industry-aligned skills. The program has been
+                    designed in collaboration with our esteemed training partner, NxtWave
+                    Institute of Advanced Technology, to provide students with cutting-edge
+                    knowledge and hands-on experience in Artificial Intelligence, Data Science,
+                    and modern computing technologies. The curriculum integrates core computing,
+                    mathematics, AI/ML, cloud, and communication skills along with industry
+                    projects, internships, and multi-disciplinary learning to ensure graduates
+                    are well-prepared for the dynamic global workforce.
+                  </p>
+                </div>
+
+               <h3 className="tl-event-details-area-title text-[#4f70b6]">Career Opportunities after B.Tech in AI & DS</h3>
+               <p>Graduates of the Artificial Intelligence and Data Science program will have a wide spectrum of career opportunities in IT, research, product development, consulting, and entrepreneurship. Since AI & DS are driving the Industry 4.0 revolution, students will be in demand across multiple sectors including technology, finance, healthcare, retail, manufacturing, education, and government services</p>
+                {/* Core AI & Data Science Roles */}
+                  <div className="mt-8 mb-8">
+                    <h3 className="tl-event-details-area-title text-[#4f70b6]">
+                      Core AI & Data Science Roles
+                    </h3>
+                    <ul className="tl-event-details-key-content-list">
+                      <li>
+                        <strong>Data Scientist : </strong>
+                        Analyzing and interpreting complex data to derive insights for business decisions.
+                      </li>
+                      <li>
+                        <strong>Machine Learning Engineer : </strong>
+                        Designing, training, and deploying machine learning models.
+                      </li>
+                      <li>
+                        <strong>Artificial Intelligence Engineer : </strong>
+                        Developing intelligent systems using NLP, computer vision, and deep learning.
+                      </li>
+                      <li>
+                        <strong>Deep Learning Specialist : </strong>
+                        Working on advanced neural network architectures (CNNs, RNNs, Transformers).
+                      </li>
+                      <li>
+                        <strong>LLM/Generative AI Developer : </strong>
+                        Building applications using Large Language Models (LLMs) like GPT, BERT, etc.
+                      </li>
+                      <li>
+                        <strong>AI Research Scientist : </strong>
+                        Researching cutting-edge algorithms and AI technologies.
+                      </li>
+                    </ul>
+                  </div>
+
+                  {/* Software Engineering & Development Roles */}
+                  <div className="mt-8 mb-8">
+                    <h3 className="tl-event-details-area-title text-[#4f70b6]">
+                      Software Engineering & Development Roles
+                    </h3>
+                    <ul className="tl-event-details-key-content-list">
+                      <li>
+                        <strong>Full Stack Developer (AI-enabled Applications) : </strong>
+                        Building end-to-end web and mobile applications.
+                      </li>
+                      <li>
+                        <strong>Backend Developer (with AI/ML Integration) : </strong>
+                        Specializing in scalable server-side systems.
+                      </li>
+                      <li>
+                        <strong>Data Engineer : </strong>
+                        Designing and managing data pipelines and architectures.
+                      </li>
+                      <li>
+                        <strong>MLOps Engineer : </strong>
+                        Automating ML workflows for production systems.
+                      </li>
+                      <li>
+                        <strong>Cloud Engineer (AI/DS Focus) : </strong>
+                        Deploying AI/ML workloads on cloud platforms (AWS, Azure, GCP).
+                      </li>
+                      <li>
+                        <strong>Software Engineer (AI Products) : </strong>
+                        Developing AI-powered solutions for industries.
+                      </li>
+                    </ul>
+                  </div>
+
+                  {/* Analytics & Business Intelligence */}
+                  <div className="mt-8 mb-8">
+                    <h3 className="tl-event-details-area-title text-[#4f70b6]">
+                      Analytics & Business Intelligence
+                    </h3>
+                    <ul className="tl-event-details-key-content-list">
+                      <li>
+                        <strong>Business Analyst (AI-driven Insights) : </strong>
+                        Converting business needs into data solutions.
+                      </li>
+                      <li>
+                        <strong>Data Analyst : </strong>
+                        Visualizing and interpreting structured/unstructured data.
+                      </li>
+                      <li>
+                        <strong>BI Developer (Business Intelligence) : </strong>
+                        Developing dashboards and KPI monitoring tools.
+                      </li>
+                      <li>
+                        <strong>Decision Scientist : </strong>
+                        Applying AI/DS to optimize strategic decisions.
+                      </li>
+                    </ul>
+                  </div>
+
+                  {/* Emerging & Interdisciplinary Careers */}
+                  <div className="mt-8 mb-8">
+                    <h3 className="tl-event-details-area-title text-[#4f70b6]">
+                      Emerging & Interdisciplinary Careers
+                    </h3>
+                    <ul className="tl-event-details-key-content-list">
+                      <li>
+                        <strong>Robotics Engineer : </strong>
+                        AI-driven Robotics & Automation.
+                      </li>
+                      <li>
+                        <strong>AI in Healthcare Specialist : </strong>
+                        Building diagnostic and predictive health solutions.
+                      </li>
+                      <li>
+                        <strong>AI in Finance Expert : </strong>
+                        Fraud detection, algorithmic trading, and risk analysis.
+                      </li>
+                      <li>
+                        <strong>AI in Cybersecurity Analyst : </strong>
+                        AI-based intrusion detection and threat prediction.
+                      </li>
+                      <li>
+                        <strong>Autonomous Systems Developer : </strong>
+                        Working on self-driving cars, drones, and smart systems.
+                      </li>
+                      <li>
+                        <strong>AI for Sustainability Specialist : </strong>
+                        Applying AI for energy, agriculture, and climate solutions.
+                      </li>
+                    </ul>
+                  </div>
+
+                  {/* Higher Studies & Research Opportunities */}
+                  <div className="mt-8 mb-8">
+                    <h3 className="tl-event-details-area-title text-[#4f70b6]">
+                      Higher Studies & Research Opportunities
+                    </h3>
+                    <ul className="tl-event-details-key-content-list">
+                      <li>
+                        <strong>M.Tech / MS : </strong>
+                        AI, ML, Data Science, Robotics, or Cloud Computing (India/Abroad).
+                      </li>
+                      <li>
+                        <strong>Ph.D. : </strong>
+                        AI/DS/Computer Science for academic and R&D careers.
+                      </li>
+                      <li>
+                        <strong>MBA : </strong>
+                        Technology Management / Business Analytics for leadership roles.
+                      </li>
+                      <li>
+                        <strong>Research Opportunities : </strong>
+                        IITs, IISc, NITs, IIITs, and global universities.
+                      </li>
+                    </ul>
+                  </div>
+
+                  {/* Entrepreneurship & Startups */}
+                  <div className="mt-8 mb-8">
+                    <h3 className="tl-event-details-area-title text-[#4f70b6]">
+                      Entrepreneurship & Startups
+                    </h3>
+                    <ul className="tl-event-details-key-content-list">
+                      <li>
+                        <strong>AI-driven Startups : </strong>
+                        FinTech, EdTech, HealthTech, AgriTech, RetailTech.
+                      </li>
+                      <li>
+                        <strong>AI SaaS Products : </strong>
+                        Chatbots, recommendation engines, workflow automation tools.
+                      </li>
+                      <li>
+                        <strong>Freelancing / Consulting : </strong>
+                        AI & Data Science domains.
+                      </li>
+                    </ul>
+                  </div>
+
+                  {/* Competitive Exams & Public Sector */}
+                  <div className="mt-8 mb-8">
+                    <h3 className="tl-event-details-area-title text-[#4f70b6]">
+                      Competitive Exams & Public Sector
+                    </h3>
+                    <ul className="tl-event-details-key-content-list">
+                      <li>
+                        <strong>GATE (CS/AI/DS) : </strong>
+                        PSU jobs and M.Tech admissions.
+                      </li>
+                      <li>
+                        <strong>Government AI/ML Roles : </strong>
+                        DRDO, ISRO, NIC, CDAC, BARC, Defense AI Projects.
+                      </li>
+                      <li>
+                        <strong>Public Sector Opportunities : </strong>
+                        Digital India, Smart Cities, and Government AI initiatives.
+                      </li>
+                    </ul>
+                  </div>
+   
+              
+            
+              </div>
           </div>
-        </div>
-        </div>
       </div>
+  </div>
     </section>
   );
 };

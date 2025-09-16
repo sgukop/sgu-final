@@ -24,7 +24,7 @@ function AIandDSDeptBOS() {
           <div className="col-lg-12">
             
 
-            <Table striped bordered hover responsive className="governing-table">
+            {/* <Table striped bordered hover responsive className="governing-table">
               <thead>
                 <tr>
                   <th><p className="text-[#4f70b6]">Sr.No</p></th>
@@ -116,7 +116,7 @@ function AIandDSDeptBOS() {
                 </tr>
 
             </tbody>
-            </Table>
+            </Table> */}
           </div>
         </div>
       </div>

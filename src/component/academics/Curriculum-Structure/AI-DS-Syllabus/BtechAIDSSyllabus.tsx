@@ -51,7 +51,7 @@ const BtechAIMLSyllabus = () => {
              <tr>
                   <td><p>6.ANNEXURE VI_FinalYear (2)</p></td>
                   <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/677f5ec84f56d3a0bcfb4b56">6.ANNEXURE VI_FinalYear (2) <i className="fa-regular fa-arrow-right-long"></i></Link></td>
-             </tr>   */}
+             </tr>   
 
                <tr>
                   <td><p>First Year B.Tech AIML</p></td>
@@ -71,7 +71,7 @@ const BtechAIMLSyllabus = () => {
              <tr>
                   <td><p>Final Year B.Tech AIML</p></td>
                   <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/67d93f9b4f56d3a0bcfba05a">Final Year B.Tech AIML <i className="fa-regular fa-arrow-right-long"></i></Link></td>
-             </tr> 
+             </tr> */}
           </tbody>
       </Table>
 
