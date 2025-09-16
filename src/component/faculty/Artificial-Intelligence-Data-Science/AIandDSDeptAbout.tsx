@@ -29,7 +29,7 @@ const AIandDSDeptAbout = () => {
               <div className="col-lg-5">
                 <div className="tl-14-about-img">
                   <img
-                    src="assets/images/AIDS/hod-photo/aids-hod.JPG"
+                    src="assets/images/AIDS/hod-photo/aids-hod.jpg"
                     alt="HOD Image"
                     className="rounded-full"
                     style={{border:"10px solid #4f70b6", padding:"20px"}}
