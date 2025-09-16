@@ -282,73 +282,73 @@ const ICSBP = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gray-50">
-     {/* Tabbed Navigation with Orange Background */}
-<section className="w-full bg-[#F26122] shadow-md border-b border-orange-300 sticky top-0 z-50">
-  <div className="max-w-10xl mx-auto px-4 sm:px-6 lg:px-8">
-    <div className="flex overflow-x-auto md:justify-center space-x-2 md:space-x-6 py-2 scrollbar-hide">
-      {navItems.map((item) => (
-        <button
-          key={item.id}
-          onClick={() => scrollToSection(item.id)}
-          className={`flex items-center space-x-1 px-4 py-2 rounded-full text-sm md:text-base whitespace-nowrap transition-all duration-200 ${
-            activeSection === item.id
-              ? 'bg-white text-[#F26122] shadow-md'
-              : 'bg-[#f5804a] text-white hover:bg-white/20'
-          }`}
-        >
-          <item.icon className="w-4 h-4" />
-          <span>{item.label}</span>
-        </button>
-      ))}
+  <div className="min-h-screen bg-gray-50">
+  {/* Tabbed Navigation with Orange Background */}
+  <section className="w-full bg-white shadow-md border-b border-gray-200 sticky top-0 z-50">
+    <div className="max-w-10xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="flex overflow-x-auto md:justify-center space-x-2 md:space-x-6 py-2 scrollbar-hide">
+        {navItems.map((item) => (
+          <button
+            key={item.id}
+            onClick={() => scrollToSection(item.id)}
+            className={`flex items-center space-x-1 px-4 py-2 rounded-full text-sm md:text-base whitespace-nowrap transition-all duration-200 ${
+              activeSection === item.id
+                ? 'bg-white text-gray-900 shadow-md'
+                : 'bg-white text-gray-900 hover:bg-gray-100'
+            }`}
+          >
+            <item.icon className="w-4 h-4" />
+            <span>{item.label}</span>
+          </button>
+        ))}
+      </div>
     </div>
-  </div>
-</section>
+  </section>
 
 
 
 
-      {/* Hero Section */}
-      <section id="home" className="pt-16 bg-gradient-to-br from-blue-900 via-purple-900 to-indigo-900 text-white">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
-          <div className="text-center">
-            <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
-              International Conference on<br />
-              <span className="bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
-                SUSTAINABLE BUSINESS PRACTICES IN THE AGE OF DIGITAL TRANSFORMATION: A STEP TOWARDS VIKASIT BHARAT@2047
-              </span><br />
-              (ICSBP-2026)
-            </h1>
-            <p className="text-xl md:text-2xl mb-8 text-blue-200"> ICSBP-2026</p>
-            
-            <div className="flex flex-col md:flex-row items-center justify-center space-y-4 md:space-y-0 md:space-x-8 mb-12">
-              <div className="flex items-center space-x-2">
-                <Calendar className="w-6 h-6 text-blue-400" />
-                <span className="text-lg">December 17-18, 2025 (Wednesday & Thursday)</span>
+            {/* Hero Section */}
+            <section id="home" className="pt-16 bg-[#212529] text-white">
+              <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
+                <div className="text-center">
+                  <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight text-white">
+                    International Conference on<br />
+                    <span className="bg-gradient-to-r from-red-400 to-orange-400 bg-clip-text text-transparent">
+                      SUSTAINABLE BUSINESS PRACTICES IN THE AGE OF DIGITAL TRANSFORMATION: A STEP TOWARDS VIKASIT BHARAT@2047
+                    </span><br />
+                    (ICSBP-2026)
+                  </h1>
+                  <p className="text-xl md:text-2xl mb-8 text-gray-200"> ICSBP-2026</p>
+
+                  <div className="flex flex-col md:flex-row items-center justify-center space-y-4 md:space-y-0 md:space-x-8 mb-12">
+                    <div className="flex items-center space-x-2">
+                      <Calendar className="w-6 h-6 text-orange-300" />
+                      <span className="text-lg">December 17-18, 2025 (Wednesday & Thursday)</span>
+                    </div>
+                    <div className="flex items-center space-x-2">
+                      <MapPin className="w-6 h-6 text-orange-300" />
+                      <span className="text-lg">Sanjay Ghodawat University, Kolhapur</span>
+                    </div>
+                  </div>
+
+                  <div className="flex flex-col sm:flex-row gap-4 justify-center">
+                    <button
+                      onClick={() => scrollToSection('registration')}
+                      className="px-8 py-3 bg-gradient-to-r from-red-600 to-orange-600 rounded-lg font-semibold hover:from-red-700 hover:to-orange-700 transform hover:scale-105 transition-all duration-200 shadow-lg"
+                    >
+                      Register Now
+                    </button>
+                    <button
+                      onClick={() => scrollToSection('about')}
+                      className="px-8 py-3 bg-white/10 backdrop-blur-sm border border-white/20 rounded-lg font-semibold hover:bg-white/20 transition-all duration-200"
+                    >
+                      Learn More
+                    </button>
+                  </div>
+                </div>
               </div>
-              <div className="flex items-center space-x-2">
-                <MapPin className="w-6 h-6 text-blue-400" />
-                <span className="text-lg">Sanjay Ghodawat University, Kolhapur</span>
-              </div>
-            </div>
-
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <button
-                onClick={() => scrollToSection('registration')}
-                className="px-8 py-3 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg font-semibold hover:from-blue-700 hover:to-purple-700 transform hover:scale-105 transition-all duration-200 shadow-lg"
-              >
-                Register Now
-              </button>
-              <button
-                onClick={() => scrollToSection('about')}
-                className="px-8 py-3 bg-white/10 backdrop-blur-sm border border-white/20 rounded-lg font-semibold hover:bg-white/20 transition-all duration-200"
-              >
-                Learn More
-              </button>
-            </div>
-          </div>
-        </div>
-      </section>
+            </section>
 
       {/* About Section */}
       <section id="about" className="py-20 bg-white">
@@ -464,76 +464,126 @@ const ICSBP = () => {
       </section>
 
       {/* Registration */}
-      <section id="registration" className="py-20 bg-image from-blue-900 to-purple-900 text-white">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold mb-4">Registration Details</h2>
-            <div className="w-24 h-1 bg-gradient-to-r from-blue-400 to-purple-400 mx-auto rounded-full"></div>
+{/* Registration */}
+<section id="registration" className="py-20 bg-white text-black">
+  <div className="bg-white rounded-xl p-8">
+    <div className="text-center mb-16">
+          
+      <h2 className="text-4xl font-bold text-gray-900 mb-4">Registration Details</h2>
+      <div className="w-24 h-1 bg-gradient-to-r from-blue-400 to-purple-400 mx-auto rounded-full"></div>
+    </div>
+
+    <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
+      {registrationFees.map((item, index) => (
+        <div 
+          key={index} 
+          className="bg-gradient-to-br from-blue-50 to-purple-50 rounded-xl p-6 hover:from-blue-100 hover:to-purple-100 transition-all duration-300"
+        >
+          <div className="flex items-center space-x-3 mb-4">
+            <div className="w-10 h-10 bg-white rounded-lg flex items-center justify-center">
+              <item.icon className="w-5 h-5 text-gray-800" />
+            </div>
+            <h3 className="font-semibold text-gray-800">{item.category}</h3>
           </div>
+          <p className="text-2xl font-bold text-gray-900">{item.fee}</p>
+        </div>
+      ))}
+    </div>
 
-          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
-            {registrationFees.map((item, index) => (
-              <div key={index} className="bg-white/10 backdrop-blur-sm rounded-xl p-6 hover:bg-white/20 transition-all duration-300">
-                <div className="flex items-center space-x-3 mb-4">
-                  <div className="w-10 h-10 bg-white/20 rounded-lg flex items-center justify-center">
-                    <item.icon className="w-5 h-5 text-white" />
-                  </div>
-                  <h3 className="font-semibold text-white">{item.category}</h3>
-                </div>
-                <p className="text-2xl font-bold text-blue-400">{item.fee}</p>
-              </div>
-            ))}
+    <div className="bg-gray-100 backdrop-blur-sm rounded-xl p-8">
+      <h3 className="text-2xl font-bold mb-6 text-gray-900">Paper Submission Guidelines</h3>
+      <div className="grid md:grid-cols-2 gap-6 text-gray-700">
+        {/* Left column */}
+        <div className="space-y-4">
+          <div className="flex items-start space-x-3">
+            <div className="w-2 h-2 bg-blue-600 rounded-full mt-2"></div>
+            <p>All papers must be written in English.</p>
           </div>
-
-          <div className="bg-white/10 backdrop-blur-sm rounded-xl p-8">
-            <h3 className="text-2xl font-bold mb-6">Paper Submission Guidelines</h3>
-            <div className="grid md:grid-cols-2 gap-6">
-              {/* Left column */}
-            <div className="space-y-4">
-              <div className="flex items-start space-x-3">
-                <div className="w-2 h-2 bg-blue-400 rounded-full mt-2"></div>
-                <p>All papers must be written in English.</p>
-              </div>
-              <div className="flex items-start space-x-3">
-                <div className="w-2 h-2 bg-blue-400 rounded-full mt-2"></div>
-                <p>All papers must be original unpublished work.</p>
-              </div>
-              <div className="flex items-start space-x-3">
-                <div className="w-2 h-2 bg-blue-400 rounded-full mt-2"></div>
-                <p>Each author listed on the paper must be listed in the paper management system.</p>
-              </div>
-              <div className="flex items-start space-x-3">
-                <div className="w-2 h-2 bg-blue-400 rounded-full mt-2"></div>
-                <p>We highly recommend the usage of the provided templates to generate your paper.</p>
-              </div>
-            </div>
-
-            
-            
-
-            {/* Right column */}
-            <div className="space-y-4">
-              <div className="flex items-start space-x-3">
-                <div className="w-2 h-2 bg-purple-400 rounded-full mt-2"></div>
-                <p>
-                  Each submission will be reviewed for compliance of margins, headers,
-                  footers, page numbers, and size specifications. Papers which are
-                  non-compliant may not be included in the proceeding.
-                </p>
-              </div>
-              <div className="flex items-start space-x-3">
-                <div className="w-2 h-2 bg-purple-400 rounded-full mt-2"></div>
-                <p>Paper must follow a 5-page limit as per the official template.</p>
-              </div>
-              <div className="flex items-start space-x-3">
-                <div className="w-2 h-2 bg-purple-400 rounded-full mt-2"></div>
-                <p>Papers which are non-compliant may not be included in the proceeding.</p>
-              </div>
-            </div>
-            </div>
+          <div className="flex items-start space-x-3">
+            <div className="w-2 h-2 bg-blue-600 rounded-full mt-2"></div>
+            <p>All papers must be original unpublished work.</p>
+          </div>
+          <div className="flex items-start space-x-3">
+            <div className="w-2 h-2 bg-blue-600 rounded-full mt-2"></div>
+            <p>Each author listed on the paper must be listed in the paper management system.</p>
+          </div>
+          <div className="flex items-start space-x-3">
+            <div className="w-2 h-2 bg-blue-600 rounded-full mt-2"></div>
+            <p>We highly recommend the usage of the provided templates to generate your paper.</p>
           </div>
         </div>
-      </section>
+        
+        {/* Right column */}
+        <div className="space-y-4">
+          <div className="flex items-start space-x-3">
+            <div className="w-2 h-2 bg-purple-600 rounded-full mt-2"></div>
+            <p>
+              Each submission will be reviewed for compliance of margins, headers,
+              footers, page numbers, and size specifications. Papers which are
+              non-compliant may not be included in the proceeding.
+            </p>
+          </div>
+          <div className="flex items-start space-x-3">
+            <div className="w-2 h-2 bg-purple-600 rounded-full mt-2"></div>
+            <p>Paper must follow a 5-page limit as per the official template.</p>
+          </div>
+          <div className="flex items-start space-x-3">
+            <div className="w-2 h-2 bg-purple-600 rounded-full mt-2"></div>
+            <p>Papers which are non-compliant may not be included in the proceeding.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+  
+
+
+    <div className="bg-gray-100 backdrop-blur-sm rounded-xl p-8">
+      <h3 className="text-2xl font-bold mb-6 text-gray-900">Paper Submission Guidelines</h3>
+      <div className="grid md:grid-cols-2 gap-6 text-gray-700">
+        {/* Left column */}
+        <div className="space-y-4">
+          <div className="flex items-start space-x-3">
+            <div className="w-2 h-2 bg-blue-600 rounded-full mt-2"></div>
+            <p>All papers must be written in English.</p>
+          </div>
+          <div className="flex items-start space-x-3">
+            <div className="w-2 h-2 bg-blue-600 rounded-full mt-2"></div>
+            <p>All papers must be original unpublished work.</p>
+          </div>
+          <div className="flex items-start space-x-3">
+            <div className="w-2 h-2 bg-blue-600 rounded-full mt-2"></div>
+            <p>Each author listed on the paper must be listed in the paper management system.</p>
+          </div>
+          <div className="flex items-start space-x-3">
+            <div className="w-2 h-2 bg-blue-600 rounded-full mt-2"></div>
+            <p>We highly recommend the usage of the provided templates to generate your paper.</p>
+          </div>
+        </div>
+        
+        {/* Right column */}
+        <div className="space-y-4">
+          <div className="flex items-start space-x-3">
+            <div className="w-2 h-2 bg-purple-600 rounded-full mt-2"></div>
+            <p>
+              Each submission will be reviewed for compliance of margins, headers,
+              footers, page numbers, and size specifications. Papers which are
+              non-compliant may not be included in the proceeding.
+            </p>
+          </div>
+          <div className="flex items-start space-x-3">
+            <div className="w-2 h-2 bg-purple-600 rounded-full mt-2"></div>
+            <p>Paper must follow a 5-page limit as per the official template.</p>
+          </div>
+          <div className="flex items-start space-x-3">
+            <div className="w-2 h-2 bg-purple-600 rounded-full mt-2"></div>
+            <p>Papers which are non-compliant may not be included in the proceeding.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
       {/* Committee */}
       <section id="committee" className="py-20 bg-gray-50">
