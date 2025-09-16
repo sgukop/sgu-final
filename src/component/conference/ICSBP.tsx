@@ -490,7 +490,7 @@ const ICSBP = () => {
       ))}
     </div>
 
-    <div className="bg-gray-100 backdrop-blur-sm rounded-xl p-8">
+    <div className="bg-white rounded-xl p-8">
       <h3 className="text-2xl font-bold mb-6 text-gray-900">Paper Submission Guidelines</h3>
       <div className="grid md:grid-cols-2 gap-6 text-gray-700">
         {/* Left column */}
@@ -534,55 +534,8 @@ const ICSBP = () => {
         </div>
       </div>
     </div>
-  
-  
-
-
-    <div className="bg-gray-100 backdrop-blur-sm rounded-xl p-8">
-      <h3 className="text-2xl font-bold mb-6 text-gray-900">Paper Submission Guidelines</h3>
-      <div className="grid md:grid-cols-2 gap-6 text-gray-700">
-        {/* Left column */}
-        <div className="space-y-4">
-          <div className="flex items-start space-x-3">
-            <div className="w-2 h-2 bg-blue-600 rounded-full mt-2"></div>
-            <p>All papers must be written in English.</p>
-          </div>
-          <div className="flex items-start space-x-3">
-            <div className="w-2 h-2 bg-blue-600 rounded-full mt-2"></div>
-            <p>All papers must be original unpublished work.</p>
-          </div>
-          <div className="flex items-start space-x-3">
-            <div className="w-2 h-2 bg-blue-600 rounded-full mt-2"></div>
-            <p>Each author listed on the paper must be listed in the paper management system.</p>
-          </div>
-          <div className="flex items-start space-x-3">
-            <div className="w-2 h-2 bg-blue-600 rounded-full mt-2"></div>
-            <p>We highly recommend the usage of the provided templates to generate your paper.</p>
-          </div>
-        </div>
-        
-        {/* Right column */}
-        <div className="space-y-4">
-          <div className="flex items-start space-x-3">
-            <div className="w-2 h-2 bg-purple-600 rounded-full mt-2"></div>
-            <p>
-              Each submission will be reviewed for compliance of margins, headers,
-              footers, page numbers, and size specifications. Papers which are
-              non-compliant may not be included in the proceeding.
-            </p>
-          </div>
-          <div className="flex items-start space-x-3">
-            <div className="w-2 h-2 bg-purple-600 rounded-full mt-2"></div>
-            <p>Paper must follow a 5-page limit as per the official template.</p>
-          </div>
-          <div className="flex items-start space-x-3">
-            <div className="w-2 h-2 bg-purple-600 rounded-full mt-2"></div>
-            <p>Papers which are non-compliant may not be included in the proceeding.</p>
-          </div>
-        </div>
-      </div>
     </div>
-  </div>
+  
 </section>
 
       {/* Committee */}
@@ -739,28 +692,28 @@ const ICSBP = () => {
               </div>
             </div>
 
-            <div className="bg-gradient-to-br from-blue-900 to-purple-900 rounded-xl p-8 text-white">
+            <div className="bg-gradient-to-br from-blue-50 to-purple-50 rounded-xl p-8">
               <h3 className="text-2xl font-bold mb-6">Quick Links</h3>
               
               <div className="space-y-4">
                 <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
                   <h4 className="font-semibold mb-2">Paper Submission</h4>
-                  <p className="text-blue-200">Opens July 2025</p>
+                  <p className="text-blue-600 hover:text-blue-800">Opens July 2025</p>
                 </div>
 
                 <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
                   <h4 className="font-semibold mb-2">Registration</h4>
-                  <p className="text-blue-200">Early bird discounts available</p>
+                  <p className="text-blue-600 hover:text-blue-800">Early bird discounts available</p>
                 </div>
 
                 <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
                   <h4 className="font-semibold mb-2">Publication</h4>
-                  <p className="text-blue-200">Scopus-indexed Taylor & Francis journals</p>
+                  <p className="text-blue-600 hover:text-blue-800">Scopus-indexed Taylor & Francis journals</p>
                 </div>
 
                 <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
                   <h4 className="font-semibold mb-2">Submission Deadline</h4>
-                  <p className="text-blue-200">September 30, 2025</p>
+                  <p className="text-blue-600 hover:text-blue-800">September 30, 2025</p>
                 </div>
               </div>
             </div>
