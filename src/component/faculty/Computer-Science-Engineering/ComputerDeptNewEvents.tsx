@@ -94,6 +94,15 @@ const ComputerDeptNewEvents = () => {
           {
             imgSrc: "assets/images/computer-science-engineering/activities/acses/image9.jpeg",
           },
+          {
+            imgSrc: "assets/images/computer-science-engineering/activities/acses/image10.jpeg",
+          },
+          {
+            imgSrc: "assets/images/computer-science-engineering/activities/acses/image11.jpeg",
+          },
+          {
+            imgSrc: "assets/images/computer-science-engineering/activities/acses/image12.jpeg",
+          },
     ]
 
     const orientation = [
@@ -379,6 +388,7 @@ const ComputerDeptNewEvents = () => {
                         </div>
                     </div>
                 </div>
+        
                 <div className="col-xl-4 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
@@ -418,6 +428,7 @@ const ComputerDeptNewEvents = () => {
                         </div>
                     </div>
                 </div>
+
             </div>
        
         <div className="tl-11-section-heading mt-50">

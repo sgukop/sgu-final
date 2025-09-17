@@ -47,19 +47,7 @@ const ComputerDeptFaculty = () => {
                         </div>
                     </div> 
                     
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/cse/male.jpg" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Dr. Krishna Kumar</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Associate Professor</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/674ed8da4b17e19d8f361769" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div> 
+                     
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
@@ -73,20 +61,7 @@ const ComputerDeptFaculty = () => {
                             </div>
                         </div>
                     </div> 
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/cse/2. Mr. KRISHNA ALDAR.jpg" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Mr. Krishna Maruti Aldar</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/674ed8da4b17e19d8f361769" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div>  
-
+                    
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
@@ -226,6 +201,7 @@ const ComputerDeptFaculty = () => {
                             </div>
                         </div>
                     </div>
+                    
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
@@ -233,21 +209,8 @@ const ComputerDeptFaculty = () => {
                             </div>
 
                             <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Ms. Vrishali Kadam</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/cse/male.jpg" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Mr. Santosh Doifode</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
+                                <h4 className="tl-1-course-title-new mt-30">Ms. Pallavi Patil</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Teaching Assistant</p>
                                 <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
                         </div>
@@ -256,32 +219,6 @@ const ComputerDeptFaculty = () => {
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
                                 <img src="/assets/images/faculty-profile-photos/cse/female.jpg" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Ms. Priyanka Padole</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/cse/female.jpg" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Ms. Shreya Kubade</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/cse/male.jpg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -294,12 +231,12 @@ const ComputerDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/cse/Akanksha Ramesh Patil.jpg" alt="Faculty Image"/>
+                                <img src="/assets/images/faculty-profile-photos/cse/male.jpg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Ms. Akanksha Patil</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
+                                <h4 className="tl-1-course-title-new mt-30">Mr. Shubham Bhosale</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">ATeaching Assistant</p>
                                 <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
                         </div>
