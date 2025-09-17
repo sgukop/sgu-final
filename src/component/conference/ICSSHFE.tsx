@@ -563,6 +563,13 @@ const ICSSHFE = () => {
                               { name: "Prof. M M Salunkhe", title: "Former VC, Central University of Rajasthan" },
                               { name: "Dr. D Srinivasa Reddy", title: "Director, CSIR-IICT, Hyderabad" },
                               { name: "Prof. Gajanan B Zore", title: "Dept. of Biotech, Central University of Rajasthan" },
+                              { name: "Prof. Deepak Dubal", title: "Queensland University of Technology" },
+                              { name: "Prof. B. L. V. Prasad", title: "Director, Centre for Nano & Soft Matter Sciences, Arkavathi" },
+                              { name: "Dhawal Chobisa", title: "TL, Complex Formulation R&D, Dr. Reddy’s Laboratories, Hyderabad" },
+                              { name: "Sanjay Boldhane", title: "Educational Trainer, Ex-AVP Micro Labs Limited, Bangalore" },
+                              { name: "Prof. Rupesh S. Devan", title: "IIT Indore" },
+                              { name: "Bharat Kale", title: "MIT Pune" },
+                              { name: "P. P. Wadgaonkar", title: "Former Scientist, NCL Pune" },
                             ].map((member, index) => (
                               <div key={index} className="space-y-2">
                                 <p className="font-semibold text-blue-700">{member.name}</p>
