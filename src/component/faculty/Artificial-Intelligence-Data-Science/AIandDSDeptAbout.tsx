@@ -62,7 +62,7 @@ const AIandDSDeptAbout = () => {
             <div className="col-lg-6">
                 <div className="rounded-[20px] bg-[#4f70b6] p-6 text-white flex flex-col h-full">
                     <h3 className="tl-event-details-area-title text-white">Vision</h3>
-                    <h6 className="vision-info">To be a leading department in AI and ML through  fostering academic excellence, innovative research, and entrepreneurial skills to create globally recognized  professionals.
+                    <h6 className="vision-info">To be a center of excellence in Artificial Intelligence and Data Science education and research, fostering innovation, entrepreneurship, and societal impact through the creation of industry-ready professionals and lifelong learners
                     </h6>
                 </div>
             </div>
