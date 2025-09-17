@@ -23,6 +23,62 @@ function ExamConvocation() {
               </thead>
               <tbody>
                 <tr>
+                    <td>18-07-2025</td>
+                    <td>
+                      <a href="https://manage-api.sguk.ac.in/api/assets/68ca59f258f443fed174b754" target="_blank">7th Convocation Circular</a>
+                    </td>
+                    <td>NOTICE</td>
+                  </tr>
+
+                  <tr>
+                    <td>07-02-2025</td>
+                    <td>
+                      <a href="https://manage-api.sguk.ac.in/api/assets/68ca5a1758f443fed174b759" target="_blank">6th Convocation Minute-to-Minute 2025</a>
+                    </td>
+                    <td>NOTICE</td>
+                  </tr>
+
+                  <tr>
+                    <td>03-02-2025</td>
+                    <td>
+                      <a href="https://manage-api.sguk.ac.in/api/assets/68ca5a3e58f443fed174b75e" target="_blank">Advertisement_6th Convocation 2025</a>
+                    </td>
+                    <td>NOTICE</td>
+                  </tr>
+
+                  <tr>
+                    <td>03-02-2025</td>
+                    <td>
+                      <a href="https://manage-api.sguk.ac.in/api/assets/68ca5a5858f443fed174b763" target="_blank">Convocation Notification for Staff 2025</a>
+                    </td>
+                    <td>NOTICE</td>
+                  </tr>
+
+                  <tr>
+                    <td>03-02-2025</td>
+                    <td>
+                      <a href="https://manage-api.sguk.ac.in/api/assets/68ca5a7658f443fed174b768" target="_blank">Convocation Notification for Students 2025</a>
+                    </td>
+                    <td>NOTICE</td>
+                  </tr>
+
+                  <tr>
+                    <td>03-02-2025</td>
+                    <td>
+                      <a href="https://manage-api.sguk.ac.in/api/assets/68ca5a8f58f443fed174b76d" target="_blank">Convation Notification for GB Members 2025</a>
+                    </td>
+                    <td>NOTICE</td>
+                  </tr>
+
+                  <tr>
+                    <td>03-02-2025</td>
+                    <td>
+                      <a href="https://manage-api.sguk.ac.in/api/assets/68ca5aaa58f443fed174b772" target="_blank">Convocation Notification for Graduands 2025</a>
+                    </td>
+                    <td>NOTICE</td>
+                  </tr>
+
+                <tr>
                   <td><p>15-02-2024</p></td>
                   <td><a href="https://manage-api.sguk.ac.in/api/assets/67592cdb9173bf9f471ac26d" rel="noopener noreferrer" target="_blank" className="table-link">Regarding 5th Convocation Ceremony for Students Notification <i className="fa-regular fa-arrow-right"></i></a></td>
                   <td><p>NOTICE</p></td>

@@ -33,6 +33,76 @@ function ExamNotice() {
                   <td><p>NOTICE</p></td>
                 </tr>
                 <tr>
+                  <td><p>08-07-2025</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/68ca581f58f443fed174b74f" rel="noopener noreferrer" target="_blank" className="table-link"> Exam Form Notice-S-2025 Make-Up20250619 <i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
+                <tr>
+                  <td><p>08-07-2025</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/68ca580358f443fed174b74a" rel="noopener noreferrer" target="_blank" className="table-link"> Refund Notice Law-Winter-2024  <i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
+                <tr>
+                  <td><p>08-07-2025</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/68ca57e258f443fed174b745" rel="noopener noreferrer" target="_blank" className="table-link">Extended exam form submission Core ERP SEM-IV <i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
+                <tr>
+                  <td><p>20-03-2025</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/68ca57b958f443fed174b740" rel="noopener noreferrer" target="_blank" className="table-link">Re--Valuation Notice <i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
+                <tr>
+                  <td><p>20-03-2025</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/68ca579e58f443fed174b73b" rel="noopener noreferrer" target="_blank" className="table-link"> SEM-IV Exam Form Notice _Core ERP       <i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
+                <tr>
+                  <td><p>12-03-2025</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/68ca573558f443fed174b736" rel="noopener noreferrer" target="_blank" className="table-link"> 1nd year_CORE ERP      <i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
+                <tr>
+                  <td><p>12-03-2025</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/68ca571a58f443fed174b731" rel="noopener noreferrer" target="_blank" className="table-link"> 2nd year_CORE ERP      <i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
+                <tr>
+                  <td><p>10-03-2025</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/68ca56f058f443fed174b72c" rel="noopener noreferrer" target="_blank" className="table-link"> Student refund request form revaluation     <i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
+                <tr>
+                  <td><p>10-03-2025</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/68ca56ba58f443fed174b727" rel="noopener noreferrer" target="_blank" className="table-link"> Refund Notice    <i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
+                <tr>
+                  <td><p>05-03-2025</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/68ca569058f443fed174b722" rel="noopener noreferrer" target="_blank" className="table-link"> Extended Exam Form Notice Bynaric ERP    <i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
+                <tr>
+                  <td><p>05-03-2025</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/68ca561558f443fed174b719" rel="noopener noreferrer" target="_blank" className="table-link">Extended Exam Form Notice Core ERP   <i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
+                <tr>
+                  <td><p>14-02-2025</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/68ca55ee58f443fed174b714" rel="noopener noreferrer" target="_blank" className="table-link">Notice_degree correction   <i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
+                <tr>
+                  <td><p>14-02-2025</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/68ca55c958f443fed174b70f" rel="noopener noreferrer" target="_blank" className="table-link">Notice for Summer-2025 examination  <i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
+                <tr>
+                  <td><p>23-01-2025</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/68ca558b58f443fed174b70a" rel="noopener noreferrer" target="_blank" className="table-link">Amendments in Exam Ordinances 2024 23_01_2025 <i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
+                <tr>
                   <td><p>08-11-2024</p></td>
                   <td><a href="https://manage-api.sguk.ac.in/api/assets/675a6cd69173bf9f471ac3e9" rel="noopener noreferrer" target="_blank" className="table-link">Last opportunity for Submission of Exam Form winter-2024 Bynaric <i className="fa-regular fa-arrow-right"></i></a></td>
                   <td><p>NOTICE</p></td>
