@@ -24,7 +24,7 @@ function AIandDSDeptBOS() {
           <div className="col-lg-12">
             
 
-            {/* <Table striped bordered hover responsive className="governing-table">
+             <Table striped bordered hover responsive className="governing-table">
               <thead>
                 <tr>
                   <th><p className="text-[#4f70b6]">Sr.No</p></th>
@@ -37,18 +37,18 @@ function AIandDSDeptBOS() {
               <tbody>
                 <tr>
                   <td><p>1</p></td>
-                  <td><p>Dr. Mahesh P. Gaikwad </p></td>
-                  <td><p>Assoc.Professor and HOD,AIML</p></td>
-                  <td><p>Chairman</p></td>
-                  <td><a href="mailto:hod.aiml@sanjayghodawatuniversity.ac.in" className="tl-def-btn-2">hod.aiml@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a><p>9766802914</p></td>
+                  <td><p>Mr. Gurunath Machhale  </p></td>
+                  <td><p>Assoc.Professor and HOD,AIDS</p></td>
+                  <td><p>HOD</p></td>
+                  <td><a href="mailto:hod.aiml@sanjayghodawatuniversity.ac.in" className="tl-def-btn-2">hod@ad.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a><p>9766802914</p></td>
                 </tr>
 
                 <tr>
                   <td><p>2</p></td>
-                  <td><p>Dr. Pradeep B.Mane</p></td>
-                  <td><p>Principal</p></td>
-                  <td><p>Member (Expert Researcher)</p></td>
-                  <td><a href="mailto:Pbmane6829@gmail.com" className="tl-def-btn-2">Pbmane6829@gmail.com <i className="fa-regular fa-arrow-right"></i></a>
+                  <td><p>Dr. Deepika Patil </p></td>
+                  <td><p>Associate Professor and hod cse</p></td>
+                  <td><p>Member </p></td>
+                  <td><a href="mailto:Pbmane6829@gmail.com" className="tl-def-btn-2">hod@ca.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   <p>9420918444</p></td>
                 </tr>
 
@@ -116,7 +116,7 @@ function AIandDSDeptBOS() {
                 </tr>
 
             </tbody>
-            </Table> */}
+            </Table> 
           </div>
         </div>
       </div>
