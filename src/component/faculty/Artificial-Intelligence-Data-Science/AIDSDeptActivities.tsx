@@ -20,7 +20,7 @@ const AIDSDeptActivities = () => {
                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets\images\AIDS\activities&achievements/AIDS1.jpg" alt="Activities & Achievements Image"/></figure>
+                            <figure><img src="assets\images\AIDS\activities&achievements/AIDS2.jpg" alt="Activities & Achievements Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">orientation day </h3>
                     </div>
@@ -29,7 +29,7 @@ const AIDSDeptActivities = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                        <figure><img src="assets\images\AIDS\activities&achievements/AIDS2.jpg" alt="Activities & Achievements Image"/></figure>
+                        <figure><img src="assets\images\AIDS\activities&achievements/AIDS1.jpg" alt="Activities & Achievements Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Ideathon</h3>
                     </div>
