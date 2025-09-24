@@ -13,17 +13,17 @@ const BtechAIMLSyllabus = () => {
               </tr>
           </thead>
           <tbody>
+              <tr>
+                  <td><p>Semester 1 </p></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68d376048a5edd96db00fb40">Semester 1  <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+             </tr>
+
+             <tr>
+                  <td><p>Semester 2 </p></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68d3762c8a5edd96db00fb47">Semester 2 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+             </tr>
+
              {/* <tr>
-                  <td><p>2.ANNEXURE-II_SY_NEP</p></td>
-                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/677f5e494f56d3a0bcfb4b33">2.ANNEXURE-II_SY_NEP <i className="fa-regular fa-arrow-right-long"></i></Link></td>
-             </tr>
-
-             <tr>
-                  <td><p>3.0ANNEXURE-III_TY</p></td>
-                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/677f5e604f56d3a0bcfb4b38">3.0ANNEXURE-III_TY <i className="fa-regular fa-arrow-right-long"></i></Link></td>
-             </tr>
-
-             <tr>
                   <td><p>3.1FA SA Format uni.open elective</p></td>
                   <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/677f5e704f56d3a0bcfb4b3d">3.1FA SA Format uni.open elective <i className="fa-regular fa-arrow-right-long"></i></Link></td>
              </tr>

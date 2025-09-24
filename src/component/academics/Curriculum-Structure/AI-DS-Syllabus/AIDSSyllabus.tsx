@@ -18,11 +18,11 @@ const AIDSSyllabus = () => {
                                 <Tab.Container id="myTab" defaultActiveKey="overview-tab">
                                     <Nav className="nav-tabs tl-course-details-navs">
                                         <Nav.Item>
-                                            <Nav.Link eventKey="overview-tab">B.Tech AIML</Nav.Link>
+                                            <Nav.Link eventKey="overview-tab">B.Tech AIDS</Nav.Link>
                                         </Nav.Item>
-                                        <Nav.Item>
-                                            <Nav.Link eventKey="curriculum-tab">M.Tech AIML</Nav.Link>
-                                        </Nav.Item>
+                                        {/*<Nav.Item>
+                                            <Nav.Link eventKey="curriculum-tab">M.Tech AIDS</Nav.Link>
+                                        </Nav.Item>*/}
                                     </Nav>
 
                                     <Tab.Content id="tl-course-tab-content">
