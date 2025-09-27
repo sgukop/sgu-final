@@ -23,7 +23,7 @@ const AIDSDeptActivities = () => {
     { imgSrc: "assets/images/AIDS/activities&achievements/USD00680.JPG" },
     { imgSrc: "assets/images/AIDS/activities&achievements/USD00684.JPG" },
     { imgSrc: "assets/images/AIDS/activities&achievements/USD00688.JPG" },
-    { imgSrc: "assets/images/AIDS/activities&achievements/USD00692.jpg" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/USD00692.JPG" },
     { imgSrc: "assets/images/AIDS/activities&achievements/USD00695.JPG" },
     { imgSrc: "assets/images/AIDS/activities&achievements/USD00704.JPG" },
   ]
