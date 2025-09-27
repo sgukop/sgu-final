@@ -5,27 +5,27 @@ import MenuList from '../Reusable-components/MenuList'
 const AIDSDeptActivities = () => {
   // Example arrays for activities
   const orientation = [
-    { imgSrc: "assets/images/AIDS/activities&achievements/KPT07999.jpg" },
-    { imgSrc: "assets/images/AIDS/activities&achievements/KPT08003.jpg" },
-    { imgSrc: "assets/images/AIDS/activities&achievements/KPT08164.jpg" },
-    { imgSrc: "assets/images/AIDS/activities&achievements/KPT08195.jpg" },
-    { imgSrc: "assets/images/AIDS/activities&achievements/KPT08230.jpg" },
-    { imgSrc: "assets/images/AIDS/activities&achievements/KPT08359.jpg" },
-    { imgSrc: "assets/images/AIDS/activities&achievements/KPT08362.jpg" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/KPT07999.JPG" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/KPT08003.JPG" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/KPT08164.JPG" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/KPT08195.JPG" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/KPT08230.JPG" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/KPT08359.JPG" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/KPT08362.JPG" },
   ]
 
   const ideathon = [
-    { imgSrc: "assets/images/AIDS/activities&achievements/USD00267.jpg" },
-    { imgSrc: "assets/images/AIDS/activities&achievements/USD00326.jpg" },
-    { imgSrc: "assets/images/AIDS/activities&achievements/USD00337.jpg" },
-    { imgSrc: "assets/images/AIDS/activities&achievements/USD00362.jpg" },
-    { imgSrc: "assets/images/AIDS/activities&achievements/USD00672.jpg" },
-    { imgSrc: "assets/images/AIDS/activities&achievements/USD00680.jpg" },
-    { imgSrc: "assets/images/AIDS/activities&achievements/USD00684.jpg" },
-    { imgSrc: "assets/images/AIDS/activities&achievements/USD00688.jpg" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/USD00267.JPG" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/USD00326.JPG" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/USD00337.JPG" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/USD00362.JPG" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/USD00672.JPG" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/USD00680.JPG" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/USD00684.JPG" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/USD00688.JPG" },
     { imgSrc: "assets/images/AIDS/activities&achievements/USD00692.jpg" },
-    { imgSrc: "assets/images/AIDS/activities&achievements/USD00695.jpg" },
-    { imgSrc: "assets/images/AIDS/activities&achievements/USD00704.jpg" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/USD00695.JPG" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/USD00704.JPG" },
   ]
 
   return (
