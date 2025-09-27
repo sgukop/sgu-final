@@ -29,7 +29,11 @@ const AIDSDeptActivities = () => {
   ]
 
   return (
-    <section className="tl-14-blogs tl-3-section-spacing" data-bg-color="#F3F1F1">
+   <section 
+  className="tl-14-blogs tl-3-section-spacing border-2 border-blue-500 rounded-lg shadow-md" 
+  data-bg-color="#F3F1F1"
+>
+
       <div className="container-fluid">
         <h2 className="tl-9-section-title mb-50">Activities & Achievements</h2>
         <div className="row">
@@ -48,13 +52,14 @@ const AIDSDeptActivities = () => {
             <div className="row tl-7-classes-row">
               {orientation.map((item, index) => (
                 <div className="col-lg-4 col-md-6 col-10 col-xxs-12" key={index}>
-                  <div className="tl-9-blog">
-                    <div className="tl-9-event-img">
-                      <figure>
-                        <img src={item.imgSrc} alt="Activities & Achievements" />
-                      </figure>
-                    </div>
-                  </div>
+               <div className="tl-9-blog border-2 border-blue-500 rounded-lg p-2 shadow-sm">
+                <div className="tl-9-event-img">
+                 <figure>
+                 <img src={item.imgSrc} alt="Activities & Achievements" />
+             </figure>
+             </div>
+            </div>
+
                 </div>
               ))}
             </div>
@@ -66,13 +71,14 @@ const AIDSDeptActivities = () => {
             <div className="row tl-7-classes-row">
               {ideathon.map((item, index) => (
                 <div className="col-lg-4 col-md-6 col-10 col-xxs-12" key={index}>
-                  <div className="tl-9-blog">
-                    <div className="tl-9-event-img">
-                      <figure>
-                        <img src={item.imgSrc} alt="Activities & Achievements" />
-                      </figure>
-                    </div>
-                  </div>
+               <div className="tl-9-blog border-2 border-blue-500 rounded-lg p-2 shadow-sm">
+                <div className="tl-9-event-img">
+               <figure>
+                 <img src={item.imgSrc} alt="Activities & Achievements" />
+              </figure>
+             </div>
+             </div>
+
                 </div>
               ))}
             </div>
