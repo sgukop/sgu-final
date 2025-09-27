@@ -347,10 +347,10 @@ const NewHeaderSection = () => {
 
     <Marquee speed={100} gradient={false} pauseOnHover className="flex m-2">
         <sup><img src="assets/images/new-icon-image.gif"/></sup>
-        <a href="https://manage-api.sguk.ac.in/api/assets/6867a31fb513ac737c09b117" target="_blank" className="text-[#ffd300] text-bold hover:text-[#212f64] mr-6">Achievements of SWAYAM - NPTEL SGU Local Chapter Jan-May 2025 </a>
+        <a href="https://manage-api.sguk.ac.in/api/assets/6867a31fb513ac737c09b117" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Achievements of SWAYAM - NPTEL SGU Local Chapter Jan-May 2025 </a>
 
         <sup><img src="assets/images/new-icon-image.gif" /></sup>
-        <a href="https://www.sguk.ac.in/our-recruiters" target="_blank" className="text-[#ffd300] text-bold hover:text-[#212f64]">Training and Placement Details in Academics Year  2024-25 </a>
+        <a href="https://www.sguk.ac.in/our-recruiters" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64]">Training and Placement Details in Academics Year  2024-25 </a>
     </Marquee>
            
             <div className="w-full bg-[#f26122]">
