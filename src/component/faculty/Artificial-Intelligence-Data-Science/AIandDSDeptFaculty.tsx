@@ -35,6 +35,112 @@ const AIandMLDeptFaculty = () => {
                     </div>  
                    
                 </div>
+                <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                        <div className="tl-1-course-new">
+                            <div className="tl-1-course-img-new">
+                                <img src="/assets\images\AIDS\Faculty profile/MR. Aditya kshirsagar.jpg" alt="Faculty Image"/>
+                            </div>
+
+                            <div className="tl-1-course-txt">
+                                <h4 className="tl-1-course-title-new mt-30">MR. Aditya kshirsagar</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Instructor </p>
+                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn">Profile</Link>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                        <div className="tl-1-course-new">
+                            <div className="tl-1-course-img-new">
+                                <img src="/assets\images\AIDS\Faculty profile/Mr. Akshay Baviskar.jpg" alt="Faculty Image"/>
+                            </div>
+
+                            <div className="tl-1-course-txt">
+                                <h4 className="tl-1-course-title-new mt-30">Mr. Akshay Baviskar</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Instructor </p>
+                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn">Profile</Link>
+                            </div>
+                        </div>
+                    </div>  
+                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                        <div className="tl-1-course-new">
+                            <div className="tl-1-course-img-new">
+                                <img src="/assets\images\AIDS\Faculty profile/Mr. Mobarak Hossain.jpg" alt="Faculty Image"/>
+                            </div>
+
+                            <div className="tl-1-course-txt">
+                                <h4 className="tl-1-course-title-new mt-30">Mr. Mobarak Hossain</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Instructor </p>
+                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn">Profile</Link>
+                            </div>
+                        </div>
+                    </div> 
+                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                        <div className="tl-1-course-new">
+                            <div className="tl-1-course-img-new">
+                                <img src="/assets\images\AIDS\Faculty profile/Mr. Sameer Jadhav.jpg" alt="Faculty Image"/>
+                            </div>
+
+                            <div className="tl-1-course-txt">
+                                <h4 className="tl-1-course-title-new mt-30">Mr. Sameer Jadhav</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Instructor </p>
+                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn">Profile</Link>
+                            </div>
+                        </div>
+                    </div> 
+                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                        <div className="tl-1-course-new">
+                            <div className="tl-1-course-img-new">
+                                <img src="/assets\images\AIDS\Faculty profile/Mrs. Diksha Karandikar.jpg" alt="Faculty Image"/>
+                            </div>
+
+                            <div className="tl-1-course-txt">
+                                <h4 className="tl-1-course-title-new mt-30">Mrs. Diksha Karandikar</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Instructor </p>
+                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn">Profile</Link>
+                            </div>
+                        </div>
+                    </div> 
+                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                        <div className="tl-1-course-new">
+                            <div className="tl-1-course-img-new">
+                                <img src="/assets\images\AIDS\Faculty profile/Mrs. Kavya Kurup.jpg" alt="Faculty Image"/>
+                            </div>
+
+                            <div className="tl-1-course-txt">
+                                <h4 className="tl-1-course-title-new mt-30">Mrs. Kavya Kurup</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Instructor </p>
+                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn">Profile</Link>
+                            </div>
+                        </div>
+                    </div> 
+                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                        <div className="tl-1-course-new">
+                            <div className="tl-1-course-img-new">
+                                <img src="/assets\images\AIDS\Faculty profile/Mrs. Madhushri Tangali.jpg" alt="Faculty Image"/>
+                            </div>
+
+                            <div className="tl-1-course-txt">
+                                <h4 className="tl-1-course-title-new mt-30">Mrs. Madhushri Tangali</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Instructor </p>
+                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn">Profile</Link>
+                            </div>
+                        </div>
+                    </div> 
+                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                        <div className="tl-1-course-new">
+                            <div className="tl-1-course-img-new">
+                                <img src="/assets\images\AIDS\Faculty profile/Mrs. Vaishali Fulare.jpg" alt="Faculty Image"/>
+                            </div>
+
+                            <div className="tl-1-course-txt">
+                                <h4 className="tl-1-course-title-new mt-30">Mrs. Vaishali Fulare</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Instructor </p>
+                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn">Profile</Link>
+                            </div>
+                        </div>
+                    </div> 
+                   
+                
             </div> 
         </div>
         </div>
