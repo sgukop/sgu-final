@@ -28,7 +28,7 @@ const AIandMLDeptFaculty = () => {
                 <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                   <div className="tl-1-course-new">
                     <div className="tl-1-course-img-new">
-                      <img src="/assets/images/faculty-profile-photos/male.jpg" alt="Faculty Image"/>
+                      <img src="/assets/images/AIDS/Faculty profile/aids-hod.jpg" alt="Faculty Image"/>
                     </div>
                     <div className="tl-1-course-txt">
                       <h4 className="tl-1-course-title-new mt-30">Mr. Gurunath Machhale</h4>
