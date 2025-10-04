@@ -149,6 +149,40 @@ const ComputerDeptNewEvents = () => {
        
     ]
 
+      const Smart = [
+        {
+          imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image6.jpeg",
+        },
+        {
+            imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image7.jpeg",
+        },
+        {
+            imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image8.jpeg",
+        },
+        {
+            imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image9.jpeg",
+        },
+         {
+            imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image10.jpeg",
+        },
+         {
+            imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image11.jpeg",
+        },
+         {
+            imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image12.jpeg",
+        },
+         {
+            imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image13.jpeg",
+        },
+         {
+            imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image14.jpeg",
+        },
+         {
+            imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image15.jpeg",
+        },
+       
+    ]
+
     const parentmeet = [
         {
           imgSrc: "assets/images/computer-science-engineering/activities/parent-meet/image1.jpeg",
@@ -332,6 +366,22 @@ const ComputerDeptNewEvents = () => {
         </div>
         <div className="row tl-7-classes-row">
          {hackathon.map((activityItems1, index) => (
+            <div className="col-lg-4 col-sm-6 rounded-[20px]" key={index}>
+              <div className="tl-7-class">
+                <div className="tl-7-class-img">
+                  <img src={activityItems1.imgSrc} alt="Activities Images" />
+                </div>
+                
+              </div>
+            </div>
+          ))}
+          </div>  
+
+         <div className="tl-11-section-heading mt-50">
+            <h2 className="tl-11-section-title">Smart India Hackathon (SIH)  </h2>
+        </div>
+        <div className="row tl-7-classes-row">
+         {Smart.map((activityItems1, index) => (
             <div className="col-lg-4 col-sm-6 rounded-[20px]" key={index}>
               <div className="tl-7-class">
                 <div className="tl-7-class-img">
