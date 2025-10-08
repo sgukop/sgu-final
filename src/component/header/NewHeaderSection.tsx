@@ -312,7 +312,7 @@ const NewHeaderSection = () => {
                         <ul className="dropdown-menu absolute hidden mt-6 py-2 text-left rounded-none border-t-4 border-[#f4b826]">
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/icctvb2025">International Conference ICCTVB 2025</NavLink></li>
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/icsshfe2026">International Conference ICSHFSE 2026</NavLink></li>
-                               <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/icsbp2025">International Conference ICSBP 2025</NavLink></li>
+                               <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/icsbp2026">International Conference ICSBP 2025</NavLink></li>
                                                                
                         </ul>
                       </li>
@@ -351,6 +351,9 @@ const NewHeaderSection = () => {
 
         <sup><img src="assets/images/new-icon-image.gif" /></sup>
         <a href="https://www.sguk.ac.in/our-recruiters" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64]">Training and Placement Details in Academics Year  2024-25 </a>
+
+        <sup><img src="assets/images/new-icon-image.gif"/></sup>
+        <a href="https://manage-api.sguk.ac.in/api/assets/68e617dfa28d22ca95ef782c" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Admission Cut off date for the academic year 2025-26 </a>
     </Marquee>
            
             <div className="w-full bg-[#f26122]">
