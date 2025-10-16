@@ -333,19 +333,24 @@ const ICSBP = () => {
                   </div>
 
                   <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                    <button
-                      onClick={() => scrollToSection('registration')}
-                      className="px-8 py-3 bg-gradient-to-r from-red-600 to-orange-600 rounded-lg font-semibold hover:from-red-700 hover:to-orange-700 transform hover:scale-105 transition-all duration-200 shadow-lg"
-                    >
-                      Register Now
-                    </button>
-                    <button
-                      onClick={() => scrollToSection('about')}
-                      className="px-8 py-3 bg-white/10 backdrop-blur-sm border border-white/20 rounded-lg font-semibold hover:bg-white/20 transition-all duration-200"
-                    >
-                      Learn More
-                    </button>
-                  </div>
+                  {/* Register Button - opens Google Form */}
+                  <a
+                    href="https://forms.gle/7s4jE6igj3Pxm2JH9"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="px-8 py-3 bg-gradient-to-r from-red-600 to-orange-600 text-white rounded-lg font-semibold hover:from-red-700 hover:to-orange-700 transform hover:scale-105 transition-all duration-200 shadow-lg text-center"
+                  >
+                    Register Now
+                  </a>
+
+                  {/* Learn More Button - scrolls to 'about' section */}
+                  <button
+                    onClick={() => scrollToSection('about')}
+                    className="px-8 py-3 bg-white/10 backdrop-blur-sm border border-white/20 rounded-lg font-semibold hover:bg-white/20 transition-all duration-200 text-white"
+                  >
+                    Learn More
+                  </button>
+                </div>
                 </div>
               </div>
             </section>
