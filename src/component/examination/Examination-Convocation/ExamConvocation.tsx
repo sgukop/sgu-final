@@ -23,6 +23,20 @@ function ExamConvocation() {
               </thead>
               <tbody>
                 <tr>
+                    <td>09-10-2025</td>
+                    <td>
+                      <a href="https://manage-api.sguk.ac.in/api/assets/68ff49349b0f316357c64c48" target="_blank">STAFF NOTIFICATION 2025</a>
+                    </td>
+                    <td>NOTICE</td>
+                  </tr>
+                <tr>
+                    <td>09-10-2025</td>
+                    <td>
+                      <a href="https://manage-api.sguk.ac.in/api/assets/68ff495e9b0f316357c64c4d" target="_blank">STUDENT NOTIFICATION 2025</a>
+                    </td>
+                    <td>NOTICE</td>
+                  </tr>
+                <tr>
                     <td>17-09-2025</td>
                     <td>
                       <a href="https://manage-api.sguk.ac.in/api/assets/68ca5b9858f443fed174b77b" target="_blank">Convocation Circular</a>
