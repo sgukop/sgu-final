@@ -328,7 +328,7 @@ const ICSBP = () => {
                     </div>
                     <div className="flex items-center space-x-2">
                       <MapPin className="w-6 h-6 text-orange-300" />
-                      <span className="text-lg">Sanjay Ghodawat University, Kolhapur</span>
+                      <span className="text-lg">Sanjay Ghodawat University Kolhapur</span>
                     </div>
                   </div>
 
