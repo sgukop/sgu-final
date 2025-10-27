@@ -32,7 +32,7 @@ function ExamConvocation() {
                 <tr>
                     <td>09-10-2025</td>
                     <td>
-                      <a href="https://manage-api.sguk.ac.in/api/assets/68ff495e9b0f316357c64c4d" target="_blank">STUDENT NOTIFICATION 2025</a>
+                      <a href="https://manage-api.sguk.ac.in/api/assets/68ff495e9b0f316357c64c4d" target="_blank">STUDENT NOTIFICATION 2024-2025</a>
                     </td>
                     <td>NOTICE</td>
                   </tr>
