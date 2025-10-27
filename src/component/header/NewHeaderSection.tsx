@@ -353,10 +353,10 @@ const NewHeaderSection = () => {
         <a href="https://www.sguk.ac.in/our-recruiters" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64]">Training and Placement Details in Academics Year  2024-25 </a>
 
         <sup><img src="assets/images/new-icon-image.gif"/></sup>
-        <a href="https://manage-api.sguk.ac.in/api/assets/68e617dfa28d22ca95ef782c" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Admission Cut off date for the academic year 2025-26 </a>
+        <a href="https://manage-api.sguk.ac.in/api/assets/68e617dfa28d22ca95ef782c" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Admission Cut off date for the academic year 2025-26. </a>
         
         <sup><img src="assets/images/new-icon-image.gif"/></sup>
-        <a href="https://www.sguk.ac.in/phd-program" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">PhD Admissions Advertisement Academic Year 2025-2026.</a>
+        <a href="https://www.sguk.ac.in/phd-program" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">PhD Admissions Advertisement Academic Year 2025-2026</a>
         
     </Marquee>
            
