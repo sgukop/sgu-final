@@ -23,7 +23,7 @@ const AerospaceDeptLab = () => {
                         <div className="tl-9-event-img">
                             <img src="assets/images/aerospace-engineering-dept/laboratories/new-lab-photoes/Aero Engine Maintenance Lab.jpeg" alt="Events Image"/>
                         </div>
-                        <Link href=""><h3 className="tl-6-latest-article-title mt-10">Aero Engine Maintenance Lab</h3></Link>
+                        <Link href=""><h3 className="tl-6-latest-article-title mt-10">Aero Engine Maintenance Lab.</h3></Link>
                     </div>
                   </div>
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
