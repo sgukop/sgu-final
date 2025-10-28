@@ -25,7 +25,7 @@ function ExamConvocation() {
                 <tr>
                     <td>09-10-2025</td>
                     <td>
-                      <a href="https://manage-api.sguk.ac.in/api/assets/68ff49349b0f316357c64c48" target="_blank">STAFF NOTIFICATION 2025</a>
+                      <a href="https://manage-api.sguk.ac.in/api/assets/68ff49349b0f316357c64c48" target="_blank">STAFF NOTIFICATION 2024-2025</a>
                     </td>
                     <td>NOTICE</td>
                   </tr>
