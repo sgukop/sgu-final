@@ -10756,7 +10756,7 @@ span.agree-condition {
   background-color: var(--red-2);
 }
 
-.tl-4-testimonial-users>*button.active::before {
+.tl-4-testimonial-users > button.active::before {
   width: 100%;
   transition: 0.4s ease;
 }
