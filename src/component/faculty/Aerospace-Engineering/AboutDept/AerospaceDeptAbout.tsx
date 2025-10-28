@@ -45,7 +45,7 @@ const AerospaceDeptAbout = () => {
                   <p className="dark-mode-white-color text-justify">
                     I am delighted to introduce and warmly welcome you to the
                     Department of Aerospace Engineering, Sanjay Ghodawat
-                    University, Kolhapur, Maharashtra.
+                    University, Kolhapur, Maharashtra
                     <br />
                     <br />
                     Our mission is to mould Aerospace Engineering
