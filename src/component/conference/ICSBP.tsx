@@ -221,9 +221,9 @@ const ICSBP = () => {
 ];
 
   const importantDates : DateInfo[] = [
-  { event: "Abstract Submission Deadline", date: "1st November 2025", icon: FileText },
+  { event: "Abstract Submission Deadline", date: "20th November 2025", icon: FileText },
   { event: "Abstract Acceptance", date: "5th November 2025", icon: Mail },
-  { event: "Early Bird Registration", date: "5th November 2025", icon: Users },
+  { event: "Early Bird Registration", date: "20th November 2025", icon: Users },
   { event: "Submission of full length Paper", date: "10th December 2025", icon: FileText },
    { event: "Last Date of Registration", date: "15th December 2025", icon: Users },
   { event: "Conference Dates", date: "8th & 9th January 2026", icon: Calendar },
@@ -232,22 +232,22 @@ const ICSBP = () => {
   const registrationFees : FeeInfo[] = [
     {
     category: "UG / PG Student*",
-    fee: "Early Bird (Before 1st Nov): INR 1000 / USD 30 | Late (After 1st Nov): INR 1500 / USD 35",
+    fee: "Early Bird (Before 20th Nov): INR 1000 / USD 30 | Late (After 1st Nov): INR 1500 / USD 35",
     icon: BookOpen,
   },
   {
     category: "Research Scholar*",
-    fee: "Early Bird (Before 1st Nov): INR 1500 / USD 40 | Late (After 1st Nov): INR 2000 / USD 45",
+    fee: "Early Bird (Before 20th Nov): INR 1500 / USD 40 | Late (After 1st Nov): INR 2000 / USD 45",
     icon: FileText,
   },
   {
     category: "Faculty*",
-    fee: "Early Bird (Before 1st Nov): INR 3000 / USD 50 | Late (After 1st Nov): INR 3500 / USD 55",
+    fee: "Early Bird (Before 20th Nov): INR 3000 / USD 50 | Late (After 1st Nov): INR 3500 / USD 55",
     icon: Users,
   },
   {
     category: "Corporate / Industry",
-    fee: "Early Bird (Before 1st Nov): INR 5000 / USD 60 | Late (After 1st Nov): INR 5500 / USD 65",
+    fee: "Early Bird (Before 20th Nov): INR 5000 / USD 60 | Late (After 1st Nov): INR 5500 / USD 65",
     icon: Award,
   },
   ];
