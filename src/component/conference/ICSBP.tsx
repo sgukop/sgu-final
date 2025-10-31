@@ -221,12 +221,12 @@ const ICSBP = () => {
 ];
 
   const importantDates : DateInfo[] = [
-  { event: "Abstract Submission Deadline", date: "10th December 2025", icon: FileText },
-  { event: "Abstract Acceptance", date: "15th December 2025", icon: Mail },
-  { event: "Submission of Manuscript", date: "30th December 2025", icon: FileText },
-  { event: "Acceptance of Manuscript", date: "10th January 2026", icon: Mail },
-  { event: "Payment of Registration Fees", date: "15th December 2025", icon: Users },
-  { event: "Conference Dates", date: "23rd & 24th January 2026", icon: Calendar },
+  { event: "Abstract Submission Deadline", date: "1st November 2025", icon: FileText },
+  { event: "Abstract Acceptance", date: "5th November 2025", icon: Mail },
+  { event: "Early Bird Registration", date: "5th November 2025", icon: Users },
+  { event: "Submission of full length Paper", date: "10th December 2025", icon: FileText },
+   { event: "Last Date of Registration", date: "15th December 2025", icon: Users },
+  { event: "Conference Dates", date: "8th & 9th January 2026", icon: Calendar },
   ];
 
   const registrationFees : FeeInfo[] = [
@@ -315,7 +315,7 @@ const ICSBP = () => {
                   <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight text-white">
                     International Conference on<br />
                     <span className="bg-gradient-to-r from-red-400 to-orange-400 bg-clip-text text-transparent">
-                      SUSTAINABLE BUSINESS PRACTICES IN THE AGE OF DIGITAL TRANSFORMATION: A STEP TOWARDS VIKASIT BHARAT@2047
+                      SUSTAINABLE BUSINESS PRACTICES IN THE AGE OF DIGITAL TRANSFORMATION: A STEP TOWARDS VIKSIT BHARAT@2047
                     </span><br />
                     (ICSBP-2026)
                   </h1>
@@ -324,7 +324,7 @@ const ICSBP = () => {
                   <div className="flex flex-col md:flex-row items-center justify-center space-y-4 md:space-y-0 md:space-x-8 mb-12">
                     <div className="flex items-center space-x-2">
                       <Calendar className="w-6 h-6 text-orange-300" />
-                      <span className="text-lg">December 17-18, 2025 (Wednesday & Thursday)</span>
+                      <span className="text-lg">9022698346  08-09, 2026 (Thursday & friday)</span>
                     </div>
                     <div className="flex items-center space-x-2">
                       <MapPin className="w-6 h-6 text-orange-300" />
@@ -367,7 +367,7 @@ const ICSBP = () => {
             <div>
               <p className="text-lg text-gray-600 mb-6 leading-relaxed">
                   International Conference focused on the theme “Sustainable Business Practices in the Age of Digital
-                  Transformation: A Step towards Vikasit Bharat@2047” organized by Faculty of Commerce and
+                  Transformation: A Step towards Viksit Bharat@2047” organized by Faculty of Commerce and
                   Management, Sanjay Ghodawat University, Kolhapur. This two days International Conference is a forum
                   where the top industry experts and educationists from across the country & overseas will assemble to discuss
                   and deliberate how to make higher education system compatible with sustainable business practices and also
@@ -650,7 +650,7 @@ const ICSBP = () => {
                     <div>
                       <p className="font-semibold text-gray-900">Website</p>
                       <a href="http://www.sguk.ac.in/icsshfe2026" className="text-blue-600 hover:text-blue-800">
-                       www.sguk.ac.in/icsbp2025
+                       www.sguk.ac.in/icsbp2026
                       </a>
                     </div>
                   </div>
@@ -662,7 +662,7 @@ const ICSBP = () => {
                     <div>
                       <p className="font-semibold text-gray-900">Email</p>
                       <a href="mailto:icctvb25@sgu.ac.in" className="text-blue-600 hover:text-blue-800">
-                        https://www.sguk.ac.in/icsbp2025
+                        https://www.sguk.ac.in/icsbp2026
                       </a>
                     </div>
                   </div>
@@ -708,7 +708,7 @@ const ICSBP = () => {
 
                 <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
                   <h4 className="font-semibold mb-2">Registration</h4>
-                  <p className="text-blue-600 hover:text-blue-800">Early bird discounts available</p>
+                  <p className="text-blue-200"><a href="https://forms.gle/7s4jE6igj3Pxm2JH9" rel="noopener noreferrer" target="_blank" className="table-link">Click here to register</a> </p>
                 </div>
 
                 <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
@@ -720,6 +720,7 @@ const ICSBP = () => {
                   <h4 className="font-semibold mb-2">Submission Deadline</h4>
                   <p className="text-blue-600 hover:text-blue-800">September 30, 2025</p>
                 </div>
+                c
               </div>
             </div>
           </div>
