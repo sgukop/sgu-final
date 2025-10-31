@@ -324,7 +324,7 @@ const ICSBP = () => {
                   <div className="flex flex-col md:flex-row items-center justify-center space-y-4 md:space-y-0 md:space-x-8 mb-12">
                     <div className="flex items-center space-x-2">
                       <Calendar className="w-6 h-6 text-orange-300" />
-                      <span className="text-lg">9022698346  08-09, 2026 (Thursday & friday)</span>
+                      <span className="text-lg">8th & 9th,Jan 2026 (Thursday & friday)</span>
                     </div>
                     <div className="flex items-center space-x-2">
                       <MapPin className="w-6 h-6 text-orange-300" />
@@ -709,6 +709,11 @@ const ICSBP = () => {
                 <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
                   <h4 className="font-semibold mb-2">Registration</h4>
                   <p className="text-blue-200"><a href="https://forms.gle/7s4jE6igj3Pxm2JH9" rel="noopener noreferrer" target="_blank" className="table-link">Click here to register</a> </p>
+                </div>
+                
+                <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
+                  <h4 className="font-semibold mb-2">Pay Here</h4>
+                  <p className="text-blue-200"><a href="https://edu.easebuzz.in/sign-up/SanjayGhodawatUniversity_Fees/Age_Digital_Transformation/?inst_name=SanjayGhodawatUniversity_Fees&form_name=Age_Digital_Transformation&jsonData=1" rel="noopener noreferrer" target="_blank" className="table-link">Pay Here</a> </p>
                 </div>
 
                 <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
