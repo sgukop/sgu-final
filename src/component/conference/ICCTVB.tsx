@@ -155,8 +155,8 @@ const ICCTVB2025 = () => {
   ];
 
   const importantDates : DateInfo[] = [
-    { event: "Paper Submission Deadline", date: "30th October 2025", icon: FileText },
-    { event: "Notification of Acceptance", date: "14th November 2025", icon: Mail },
+    { event: "Paper Submission Deadline", date: "15th November 2025", icon: FileText },
+    { event: "Notification of Acceptance", date: "20th November 2025", icon: Mail },
     { event: "Camera-Ready Submission", date: "25th November 2025", icon: FileText },
     { event: "Registration Deadline", date: "1st December 2025", icon: Users },
     { event: "Conference Dates", date: "19th & 20th December 2025", icon: Calendar }
@@ -440,6 +440,26 @@ const ICCTVB2025 = () => {
                   <p>Journal publication processing charges at actuals</p>
                 </div>
               </div>
+              </div>
+            </div>
+
+            <div className="bg-white/10 backdrop-blur-sm rounded-xl p-8">
+            <h3 className="text-2xl font-bold mb-6">Registration Guidelines </h3>
+            <div className="grid md:grid-cols-2 gap-6">
+              <div className="space-y-4">
+                <div className="flex items-start space-x-3">
+                  <div className="w-2 h-2 bg-blue-400 rounded-full mt-2"></div>
+                  <p>Authors whose papers have been accepted are requested to complete the final registration process by filling out the form below and uploading the payment proof.</p>
+                </div>
+                <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
+                  <h4 className="font-semibold mb-2">Final Registration form </h4>
+                  <p className="text-blue-200"><a href="#" rel="noopener noreferrer" target="_blank" className="table-link">Click Here</a> </p>
+                </div>
+                <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
+                  <h4 className="font-semibold mb-2">Click below to Pay Registration Fee </h4>
+                  <p className="text-blue-200"><a href="https://forms.easebuzz.in/register/SanjayGhodawatUniversity_Fees/Convergence_of_Technologies_for_Viksit_Bharat" rel="noopener noreferrer" target="_blank" className="table-link">Pay Here</a> </p>
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -590,7 +610,7 @@ const ICCTVB2025 = () => {
                         { name: "Dr. Sandeep U. Mane", title: "Professor, RIT Islampur" },
                         { name: "Dr. Urmila Patil", title: "Professor, D.Y. Patil Institute of Technology, Pune" },
                         { name: "Dr. Mahesh S. Kumbhar", title: "Associate Professor, Dept. of E&TC, RIT Islampur" },
-                        { name: "Dr. B. F. Momin", title: "Professor, Walchand College of Engineering, Sangli" },
+                        { name: "Dr. B. F. Momin", title: "Professor and Former Head, Dept. of Computer Science and Engineering Walchand College of Engineering, Sangli." },
                         { name: "Dr. B. G. Patil", title: "Professor, Dept. of Electronics Engg., Walchand College of Engineering, Sangli" },
                         { name: "Dr. Prakash J. Kulkarni", title: "Associate Professor, RIT Islampur" },
                       ].map((member, index) => (
@@ -714,12 +734,12 @@ const ICCTVB2025 = () => {
               <div className="space-y-4">
                 <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
                   <h4 className="font-semibold mb-2">Paper Submission</h4>
-                  <p className="text-blue-200">Opens July 2025</p>
+                  <p className="text-blue-200">Your Paper should be submitted via email to icctvb25@sguk.ac.in</p>
                 </div>
 
                 <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
                   <h4 className="font-semibold mb-2">Registration</h4>
-                  <p className="text-blue-200">Early bird discounts available</p>
+                  <p className="text-blue-200">Last Date for registration is 1st Dec 2025 </p>
                 </div>
 
                 <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
@@ -729,7 +749,7 @@ const ICCTVB2025 = () => {
 
                 <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
                   <h4 className="font-semibold mb-2">Submission Deadline</h4>
-                  <p className="text-blue-200">September 30, 2025</p>
+                  <p className="text-blue-200">November 15, 2025</p>
                 </div>
                 <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
                   <h4 className="font-semibold mb-2">Download Paper Template</h4>
