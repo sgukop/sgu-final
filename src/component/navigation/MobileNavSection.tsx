@@ -1890,10 +1890,10 @@ const MobileNavSection = () => {
                   <NavLink href="/icctvb2025">International Conference on CCTVB2025</NavLink>
             </li>
              <li>
-                  <NavLink href="#">International Conference ICSHFSE 2026</NavLink>
+                  <NavLink href="/icsshfe2026">International Conference ICSHFSE 2026</NavLink>
             </li>
             <li>
-                  <NavLink href="#">International Conference </NavLink>
+                  <NavLink href="/icsbp2026">International Conference ICSBP 2026 </NavLink>
             </li>
             
           </ul>

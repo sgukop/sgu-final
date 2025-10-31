@@ -25,7 +25,7 @@ function ExamConvocation() {
                 <tr>
                     <td>30-10-2025</td>
                     <td>
-                      <a href="https://manage-api.sguk.ac.in/api/assets/69046394a6aabba1bc84618f" target="_blank">Notification to GB,BOM,AC members</a>
+                      <a href="https://manage-api.sguk.ac.in/api/assets/69046394a6aabba1bc84618f" target="_blank">7th Convocation Notification to GB,BOM,AC members</a>
                     </td>
                     <td>NOTICE</td>
                   </tr>
@@ -33,21 +33,21 @@ function ExamConvocation() {
                 <tr>
                     <td>30-10-2025</td>
                     <td>
-                      <a href="https://manage-api.sguk.ac.in/api/assets/69046344a6aabba1bc846186" target="_blank">Notification to Graduating students</a>
+                      <a href="https://manage-api.sguk.ac.in/api/assets/69046344a6aabba1bc846186" target="_blank">7th Convocation Notification to Graduating students</a>
                     </td>
                     <td>NOTICE</td>
                   </tr>
                 <tr>
                     <td>30-10-2025</td>
                     <td>
-                      <a href="https://manage-api.sguk.ac.in/api/assets/690462caa6aabba1bc846176" target="_blank">STAFF NOTIFICATION 2024-2025</a>
+                      <a href="https://manage-api.sguk.ac.in/api/assets/690462caa6aabba1bc846176" target="_blank">7th Convocation STAFF NOTIFICATION 2024-2025</a>
                     </td>
                     <td>NOTICE</td>
                   </tr>
                 <tr>
                     <td>09-10-2025</td>
                     <td>
-                      <a href="https://manage-api.sguk.ac.in/api/assets/69046318a6aabba1bc846181" target="_blank">STUDENT NOTIFICATION 2024-2025</a>
+                      <a href="https://manage-api.sguk.ac.in/api/assets/69046318a6aabba1bc846181" target="_blank">7th Convocation STUDENT NOTIFICATION 2024-2025</a>
                     </td>
                     <td>NOTICE</td>
                   </tr>
