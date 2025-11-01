@@ -24,6 +24,16 @@ function ExamNotice() {
               <tbody>
                 <tr>
                   <td><p>30-08-2025</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/6905f14da6aabba1bc84645b" rel="noopener noreferrer" target="_blank" className="table-link">Examination Form Submission bynaric <i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
+                <tr>
+                  <td><p>30-08-2025</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/6905f159a6aabba1bc846460" rel="noopener noreferrer" target="_blank" className="table-link">NEP Curriculum  Examination Form  Notice<i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
+                <tr>
+                  <td><p>30-08-2025</p></td>
                   <td><a href="https://manage-api.sguk.ac.in/api/assets/68ca5bb458f443fed174b780" rel="noopener noreferrer" target="_blank" className="table-link">REFUND NOTICE for Re-Valuation Fess<i className="fa-regular fa-arrow-right"></i></a></td>
                   <td><p>NOTICE</p></td>
                 </tr>
