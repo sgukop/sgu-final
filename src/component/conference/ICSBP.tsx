@@ -563,6 +563,7 @@ const ICSBP = () => {
 
 </section>
 
+
       {/* Committee */}
       <section id="committee" className="py-20 bg-gray-50">
   <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -681,7 +682,7 @@ const ICSBP = () => {
                     </div>
                     <div>
                       <p className="font-semibold text-gray-900">Email</p>
-                      <a href="mailto:icctvb25@sgu.ac.in" className="text-blue-600 hover:text-blue-800">
+                      <a href="mailto:icsbp2026@sguk.ac.in" className="text-blue-600 hover:text-blue-800">
                         icsbp2026@sguk.ac.in
                       </a>
                     </div>
