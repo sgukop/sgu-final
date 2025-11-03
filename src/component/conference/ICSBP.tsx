@@ -623,11 +623,11 @@ const ICSBP = () => {
       <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
         {[
           { name: "Dr. Joe Thomas", title: "Director – Learning, AICHM, Melbourne" },
-          { name: "Mr. Murlidharan Subramanin", title: "Head Global Sales & Director – Smart City Parking, UK" },
-          { name: "Dr. Bhanu Choudhary", title: "Dean – College of Food and Agriculture, UAE University" },
+          { name: "Mr. Murlidharan Subramanian", title: "Head Global Sales & Director – Smart City Parking, UK" },
+          { name: "Dr. Bhanu Chowdhary", title: "Professor, Emeritus Texas, A&M University Texas, US" },
           { name: "Dr. Ramesh Jare", title: "Director – TISS" },
           { name: "Mr. Yogesh Kore", title: "Managing Director – Home Revise" },
-          { name: "Dr. Vivek Marathe", title: "" },
+          { name: "Dr. Kranti Raymane", title: "Director, Community, Health & Research Aga Khan Health Services, India & UNICEF" },
           { name: "Dr. Ranit Kishore", title: "Director – MGM University" },
           { name: "Prof. Pratapsingh Chauhan", title: "Vice Chancellor – Shri Govind Guru University, Godhara" },
           { name: "Dr. Sagar Jambholkar", title: "NDA – Civilian Gazetted Officer, Ministry of Defense" },
