@@ -232,22 +232,22 @@ const ICSBP = () => {
   const registrationFees : FeeInfo[] = [
     {
     category: "UG / PG Student*",
-    fee: "Early Bird (Before 20th Nov): INR 1000 / USD 30 | Late (After 1st Nov): INR 1500 / USD 35",
+    fee: "Early Bird (Before 20th Nov): INR 1000 / USD 30 | Late (After 20th Nov): INR 1500 / USD 35",
     icon: BookOpen,
   },
   {
     category: "Research Scholar*",
-    fee: "Early Bird (Before 20th Nov): INR 1500 / USD 40 | Late (After 1st Nov): INR 2000 / USD 45",
+    fee: "Early Bird (Before 20th Nov): INR 1500 / USD 40 | Late (After 20thNov): INR 2000 / USD 45",
     icon: FileText,
   },
   {
     category: "Faculty*",
-    fee: "Early Bird (Before 20th Nov): INR 3000 / USD 50 | Late (After 1st Nov): INR 3500 / USD 55",
+    fee: "Early Bird (Before 20th Nov): INR 3000 / USD 50 | Late (After 20thNov): INR 3500 / USD 55",
     icon: Users,
   },
   {
     category: "Corporate / Industry",
-    fee: "Early Bird (Before 20th Nov): INR 5000 / USD 60 | Late (After 1st Nov): INR 5500 / USD 65",
+    fee: "Early Bird (Before 20th Nov): INR 5000 / USD 60 | Late (After 20thNov): INR 5500 / USD 65",
     icon: Award,
   },
   ];
@@ -541,6 +541,26 @@ const ICSBP = () => {
     </div>
     </div>
   
+                  <div className="flex justify-center gap-6 mt-6">
+  <a
+    href="https://forms.gle/7s4jE6igj3Pxm2JH9"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="px-8 py-3 bg-gradient-to-r from-red-600 to-orange-600 text-white rounded-lg font-semibold hover:from-red-700 hover:to-orange-700 transform hover:scale-105 transition-all duration-200 shadow-lg text-center"
+  >
+    Register Now
+  </a>
+  <a
+  href="https://edu.easebuzz.in/sign-up/SanjayGhodawatUniversity_Fees/Age_Digital_Transformation/?inst_name=SanjayGhodawatUniversity_Fees&form_name=Age_Digital_Transformation&jsonData=1"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="px-8 py-3 bg-gradient-to-r from-purple-600 to-indigo-600 text-white rounded-lg font-semibold hover:from-purple-700 hover:to-indigo-700 transform hover:scale-105 transition-all duration-200 shadow-lg text-center"
+>
+  Payment Link
+</a>
+
+</div>
+
 </section>
 
       {/* Committee */}
@@ -649,7 +669,7 @@ const ICSBP = () => {
                     </div>
                     <div>
                       <p className="font-semibold text-gray-900">Website</p>
-                      <a href="http://www.sguk.ac.in/icsshfe2026" className="text-blue-600 hover:text-blue-800">
+                      <a href="https://www.sguk.ac.in/icsbp2026" className="text-blue-600 hover:text-blue-800">
                        www.sguk.ac.in/icsbp2026
                       </a>
                     </div>
@@ -662,7 +682,7 @@ const ICSBP = () => {
                     <div>
                       <p className="font-semibold text-gray-900">Email</p>
                       <a href="mailto:icctvb25@sgu.ac.in" className="text-blue-600 hover:text-blue-800">
-                        https://www.sguk.ac.in/icsbp2026
+                        icsbp2026@sguk.ac.in
                       </a>
                     </div>
                   </div>
@@ -712,7 +732,7 @@ const ICSBP = () => {
                 </div>
                 
                 <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
-                  <h4 className="font-semibold mb-2">Pay Here</h4>
+                  <h4 className="font-semibold mb-2">Payment Link</h4>
                   <p className="text-blue-200"><a href="https://edu.easebuzz.in/sign-up/SanjayGhodawatUniversity_Fees/Age_Digital_Transformation/?inst_name=SanjayGhodawatUniversity_Fees&form_name=Age_Digital_Transformation&jsonData=1" rel="noopener noreferrer" target="_blank" className="table-link">Pay Here</a> </p>
                 </div>
 
@@ -723,9 +743,9 @@ const ICSBP = () => {
 
                 <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
                   <h4 className="font-semibold mb-2">Submission Deadline</h4>
-                  <p className="text-blue-600 hover:text-blue-800">September 30, 2025</p>
+                  <p className="text-blue-600 hover:text-blue-800">15th December 2025</p>
                 </div>
-                c
+                
               </div>
             </div>
           </div>
