@@ -269,12 +269,14 @@ const ICSSHFE = () => {
             </div>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <button
-                onClick={() => scrollToSection('registration')}
-                className="px-8 py-3 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg font-semibold hover:from-blue-700 hover:to-purple-700 transform hover:scale-105 transition-all duration-200 shadow-lg"
-              >
-                Register Now
-              </button>
+             <a
+                    href="https://forms.gle/DLB73NFgn9nq6z39A"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="px-8 py-3 bg-gradient-to-r from-red-600 to-orange-600 text-white rounded-lg font-semibold hover:from-red-700 hover:to-orange-700 transform hover:scale-105 transition-all duration-200 shadow-lg text-center"
+                  >
+                    Register Now
+                  </a>
               <button
                 onClick={() => scrollToSection('about')}
                 className="px-8 py-3 bg-white/10 backdrop-blur-sm border border-white/20 rounded-lg font-semibold hover:bg-white/20 transition-all duration-200"
@@ -542,34 +544,75 @@ const ICSSHFE = () => {
 
                 
             {/* Organizing Committee */}
+            <div className="bg-white rounded-xl shadow-lg p-6 col-span-full">
+              <h3 className="text-xl font-bold text-gray-900 mb-4">Organizing Committee</h3>
+              <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
+                {[
+                  { name: "Dr. Vivek Kayande" },
+                  { name: "Dr. Vivek Kulkarni" },
+                  { name: "Dr. Raja Krishnamoorthi" },
+                  { name: "Dr. Subhash Kumbhar" },
+                  { name: "Dr. Pallavi Bhange" },
+                  { name: "Dr. Tejaswini Vhaskoti" },
+                  { name: "Dr. Prajkta Shete" },
+                  { name: "Dr. Ajay Nalawade" },
+                  { name: "Dr. Satish Mahadik" },
+                  { name: "Ms. Vishakha Deshpande" },
+                  { name: "Ms. Manasi Patil" },
+                  { name: "Dr. Sneha Payal" },
+                  { name: "Dr. Yuvraj Jagtap" },
+                  { name: "Mr. Suraj Gabale" },
+                  { name: "Ms. Ashwini Chakote" },
+                  { name: "Mr. Sourabh Bhosale" },
+                  { name: "Mr. Prafull Patil" },
+                  { name: "Mr. Suraj Patil" },
+                  { name: "Mr. Chaitali Shinde" },
+                  { name: "Dr. Sunetra Deshmukh" },
+                  { name: "Dr. Sonali Suryanshi" },
+                  { name: "Mr. Sangram Salvi" }
+                ].map((member, index) => (
+                  <div key={index} className="space-y-2">
+                    <p className="font-semibold text-blue-700">{member.name}</p>
+                  </div>
+                ))}
+              </div>
+            </div>
             
             {/* National Advisory Committee*/}
                           <div className="bg-white rounded-xl shadow-lg p-6 col-span-full mt-10">
-                          <h3 className="text-xl font-bold text-gray-900 mb-4">National Advisory Committee</h3>
+                          <h3 className="text-xl font-bold text-gray-900 mb-4">International & National Advisory Committee</h3>
                           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
                             {[
                               { name: "Dr. Rajendra Kadam", title: "US Pfizer, Denver, USA" },
-                              { name: "Dr. John Dsouza", title: "Bombay College of Pharmacy" },
-                              { name: "Dr. Manojkumar Shukla", title: "Vice President, Gold Lake Life Science Pune" },
+                              { name: "Dr. John Dsouza", title: "Bombay College of Pharmacy, Mumbai" },
+                              { name: "Dr. Manojkumar Shukla", title: "Vice President, Gold Lake Life Science, Pune" },
                               { name: "Dr. Swapnil Mohile", title: "Sr. Manager, Global Business Management, Novosis, USA" },
-                              { name: "Prof. J H Kim", title: "CHONNAM National University, South Korea" },
-                              { name: "Prof. P S Pail", title: "Pro VC, Shivaji University, Kolhapur" },
-                              { name: "Prof. C S Gopinath", title: "IIT Kerala / Ret. Deputy Director, NCL" },
-                              { name: "Dr. Satish Patil", title: "IISc Bengaluru" },
+                              { name: "Prof. J. H. Kim", title: "CHONNAM National University, South Korea" },
+                              { name: "Prof. P. S. Patil", title: "Pro VC, Shivaji University, Kolhapur" },
+                              { name: "Prof. J. P. Jadhav", title: "Dean, FST & HOD, Biotechnology, SUK" },
+                              { name: "Prof. V. B. Patil", title: "Solapur University, Solapur" },
+                              { name: "Prof. C. S. Gopinath", title: "IIT Kerala / Retd. Deputy Director, NCL Pune" },
                               { name: "Dr. Ramesh Laxminarayan Gardas", title: "IITM Chennai" },
-                              { name: "Dr. Shubhangi Nikam", title: "Assistant Director, FSSAI" },
-                              { name: "Anand Mishra", title: "Vice President – QMS & ESG, GCL" },
-                              { name: "Prof. G D Yadav", title: "Former VC, ICT Mumbai" },
-                              { name: "Prof. M M Salunkhe", title: "Former VC, Central University of Rajasthan" },
-                              { name: "Dr. D Srinivasa Reddy", title: "Director, CSIR-IICT, Hyderabad" },
-                              { name: "Prof. Gajanan B Zore", title: "Dept. of Biotech, Central University of Rajasthan" },
-                              { name: "Prof. Deepak Dubal", title: "Queensland University of Technology" },
+                              { name: "Anand Mishra", title: "Vice President, QMS & ESG, GCL" },
+                              { name: "Prof. G. D. Yadav", title: "Former VC, ICT Mumbai" },
+                              { name: "Prof. M. M. Salunkhe", title: "Former VC, Central University of Rajasthan" },
+                              { name: "Dr. D. Srinivasa Reddy", title: "Director, CSIR-IICT, Hyderabad" },
+                              { name: "Prof. Gajanan B. Zore", title: "Dept. of Biotechnology, Central University of Rajasthan" },
+                              { name: "Prof. Deepak Dubal", title: "Queensland University of Technology, Australia" },
                               { name: "Prof. B. L. V. Prasad", title: "Director, Centre for Nano & Soft Matter Sciences, Arkavathi" },
-                              { name: "Dhawal Chobisa", title: "TL, Complex Formulation R&D, Dr. Reddy’s Laboratories, Hyderabad" },
-                              { name: "Sanjay Boldhane", title: "Educational Trainer, Ex-AVP Micro Labs Limited, Bangalore" },
+                              { name: "Dhawal Chobisa", title: "Team Lead, Complex Formulation R&D, Dr. Reddy’s Laboratories, Hyderabad" },
+                              { name: "Sanjay Boldhane", title: "Educational Trainer, Ex-AVP, Micro Labs Limited, Bangalore" },
                               { name: "Prof. Rupesh S. Devan", title: "IIT Indore" },
                               { name: "Bharat Kale", title: "MIT Pune" },
                               { name: "P. P. Wadgaonkar", title: "Former Scientist, NCL Pune" },
+                              { name: "Dr. Prabodh Halde", title: "Marico India Limited" },
+                              { name: "Prof. Uday S. Annapure", title: "ICT Mumbai" },
+                              { name: "Prof. C. D. Lokhande", title: "D. Y. Patil University, Kolhapur" },
+                              { name: "Mr. Sanjeev Tungatkar", title: "Chairman & Managing Director, Ceraflux" },
+                              { name: "Dr. Sachin Mundade", title: "Vice President, R&D, Micro Labs, Bengaluru" },
+                              { name: "Dr. Giridhar Parvatam", title: "Director, CSIR-CFTRI, Mysuru" },
+                              { name: "Prof. N. R. Jadhav", title: "Dean, KVVS KIP, Karad" }
+
                             ].map((member, index) => (
                               <div key={index} className="space-y-2">
                                 <p className="font-semibold text-blue-700">{member.name}</p>
@@ -660,31 +703,7 @@ const ICSSHFE = () => {
               </div>
             </div>
 
-            <div className="bg-gradient-to-br from-blue-900 to-purple-900 rounded-xl p-8 text-white">
-              <h3 className="text-2xl font-bold mb-6">Quick Links</h3>
-              
-              <div className="space-y-4">
-                <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
-                  <h4 className="font-semibold mb-2">Paper Submission</h4>
-                  <p className="text-blue-200">Opens July 2025</p>
-                </div>
-
-                <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
-                  <h4 className="font-semibold mb-2">Registration</h4>
-                  <p className="text-blue-200">Early bird discounts available</p>
-                </div>
-
-                <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
-                  <h4 className="font-semibold mb-2">Publication</h4>
-                  <p className="text-blue-200">Scopus-indexed Taylor & Francis journals</p>
-                </div>
-
-                <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
-                  <h4 className="font-semibold mb-2">Submission Deadline</h4>
-                  <p className="text-blue-200">September 30, 2025</p>
-                </div>
-              </div>
-            </div>
+            
           </div>
         </div>
         
