@@ -127,7 +127,7 @@ const MobileNavSection = () => {
         {showPopup && (
             <div className="fixed inset-0 flex items-center justify-center bg-black/90 z-[999]">
                 
-                <div className="bg-white p-2 rounded-xl shadow-2xl border-4 border-red-600 max-w-2xl w-full mx-4 relative" style={{ height: '50vh' }}>
+                <div className="bg-white p-2 rounded-xl shadow-2xl border-4 border-red-600 max-w-1xl w-full mx-4 relative" style={{ height: '50vh' }}>
                     
                     <p className="text-xl font-bold text-red-700 text-center mb-2">
                         Sanjay Ghodawat University 7th Convocation Live 
