@@ -23,6 +23,16 @@ function ExamNotice() {
               </thead>
               <tbody>
                 <tr>
+                  <td><p>12-11-2025</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/6916da3f26921e2c8e7f9ae2" rel="noopener noreferrer" target="_blank" className="table-link">All Fourth Year students of B. Tech  <i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
+                <tr>
+                  <td><p>12-11-2025</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/6916da5326921e2c8e7f9ae7" rel="noopener noreferrer" target="_blank" className="table-link">All First, Second, and Third Year students NEP Curriculum <i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
+                <tr>
                   <td><p>01-11-2025</p></td>
                   <td><a href="https://manage-api.sguk.ac.in/api/assets/6905f14da6aabba1bc84645b" rel="noopener noreferrer" target="_blank" className="table-link">Examination Form Submission bynaric <i className="fa-regular fa-arrow-right"></i></a></td>
                   <td><p>NOTICE</p></td>

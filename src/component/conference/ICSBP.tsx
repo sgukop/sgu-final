@@ -1,5 +1,5 @@
 'use client';
-import Link from 'next/link'
+
 import React, { useState, useEffect } from 'react';
 
 interface IconProps {
@@ -325,12 +325,7 @@ const ICSBP = () => {
                   <img src="/assets/images/ICSBP-2026.jpg" alt="Conference Logo"/>
                   
                   </div>
-                                    
-                                        
-                                    
-                                   
-                               
-
+                    
                   <div className="flex flex-col md:flex-row items-center justify-center space-y-4 md:space-y-0 md:space-x-8 mb-12">
                     <div className="flex items-center space-x-2">
                       <Calendar className="w-6 h-6 text-orange-300" />
