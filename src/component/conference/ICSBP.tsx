@@ -319,7 +319,15 @@ const ICSBP = () => {
                     </span><br />
                     (ICSBP-2026)
                   </h1>
-                  <p className="text-xl md:text-2xl mb-8 text-gray-200"> ICSBP-2026</p>
+                  <main className="flex flex-col items-center justify-center py-20">
+                  <img
+                      src="/images/ICSBP-2026.png"
+                      
+                      className="rounded-xl shadow-lg"
+                      style={{ width: "500px", height: "250px", objectFit: "cover" }}
+                    />
+                
+                </main>
 
                   <div className="flex flex-col md:flex-row items-center justify-center space-y-4 md:space-y-0 md:space-x-8 mb-12">
                     <div className="flex items-center space-x-2">
