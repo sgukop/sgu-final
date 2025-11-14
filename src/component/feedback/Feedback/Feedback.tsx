@@ -13,13 +13,13 @@ const Feedback = () => {
                         <div className="tl-event-details-key-content tl-event-details-area rounded-lg mb-8 shadow-[2px_2px_0_3px_rgba(242,97,34,0.6)]">
                             <div className="col-lg-12 col-md-12 col-xxs-12">
                                 <div className="publications-content">
-                                    <Link href="#"><h5 className="tl-3-single-program-title publication-title">Student's feedback on Curriculum Academic Year 2023-24, Summer-2024 <i className="fa-regular fa-arrow-right-long"></i></h5></Link>
+                                    <Link href="https://forms.gle/HpRj94bRSCaLotf19"><h5 className="tl-3-single-program-title publication-title">Student's feedback on Curriculum Academic Year 2025-26, Winter-2025 <i className="fa-regular fa-arrow-right-long"></i></h5></Link>
                                 </div>
                             </div>
 
                             <div className="col-lg-12 col-md-12 col-xxs-12">
                                 <div className="publications-content">
-                                    <Link href="#"><h5 className="tl-3-single-program-title publication-title">Students feedback on Teaching Learning Process Academic Year 2023-24, Summer-2024 <i className="fa-regular fa-arrow-right-long"></i></h5></Link>
+                                    <Link href="https://forms.gle/J1jmTY1LqtGDy2418"><h5 className="tl-3-single-program-title publication-title">Students feedback on Teaching Learning Process Academic Year 2025-26, Winter - 2025 <i className="fa-regular fa-arrow-right-long"></i></h5></Link>
                                 </div>
                             </div>
                         </div>
@@ -32,7 +32,7 @@ const Feedback = () => {
                         <div className="tl-event-details-key-content tl-event-details-area rounded-lg mb-8 shadow-[2px_2px_0_3px_rgba(242,97,34,0.6)]">
                             <div className="col-lg-12 col-md-12 col-xxs-12">
                                 <div className="publications-content">
-                                    <Link href="#"><h5 className="tl-3-single-program-title publication-title">Faculty Feedback on Curriculum Academic Year 2023-24 Summer-2024 <i className="fa-regular fa-arrow-right-long"></i></h5></Link>
+                                    <Link href="https://forms.gle/XAe95NbHvtFdnddW8"><h5 className="tl-3-single-program-title publication-title">Faculty Feedback on Curriculum Academic Year 2025-26, Winter-2025<i className="fa-regular fa-arrow-right-long"></i></h5></Link>
                                 </div>
                             </div>
                         </div>
@@ -45,7 +45,7 @@ const Feedback = () => {
                         <div className="tl-event-details-key-content tl-event-details-area rounded-lg mb-8 shadow-[2px_2px_0_3px_rgba(242,97,34,0.6)]">
                             <div className="col-lg-12 col-md-12 col-xxs-12">
                                 <div className="publications-content">
-                                    <Link href="#"><h5 className="tl-3-single-program-title publication-title">Alumni Feedback <i className="fa-regular fa-arrow-right-long"></i></h5></Link>
+                                    <Link href="https://forms.gle/2UeygpBajFY5ARZJA"><h5 className="tl-3-single-program-title publication-title">Alumni Feedback <i className="fa-regular fa-arrow-right-long"></i></h5></Link>
                                 </div>
                             </div>
                         </div>
@@ -58,7 +58,7 @@ const Feedback = () => {
                         <div className="tl-event-details-key-content tl-event-details-area rounded-lg mb-8 shadow-[2px_2px_0_3px_rgba(242,97,34,0.6)]">
                             <div className="col-lg-12 col-md-12 col-xxs-12">
                                 <div className="publications-content">
-                                    <Link href="#"><h5 className="tl-3-single-program-title publication-title">Parents feedback <i className="fa-regular fa-arrow-right-long"></i></h5></Link>
+                                    <Link href="https://forms.gle/BRQRx97tzTkuKZBy5"><h5 className="tl-3-single-program-title publication-title">Parents feedback <i className="fa-regular fa-arrow-right-long"></i></h5></Link>
                                 </div>
                             </div>
                         </div>
@@ -71,7 +71,7 @@ const Feedback = () => {
                         <div className="tl-event-details-key-content tl-event-details-area rounded-lg mb-8 shadow-[2px_2px_0_3px_rgba(242,97,34,0.6)]">
                             <div className="col-lg-12 col-md-12 col-xxs-12">
                                 <div className="publications-content">
-                                    <Link href="#"><h5 className="tl-3-single-program-title publication-title">Final Year Student's Program Exit Survey Summer 2024 <i className="fa-regular fa-arrow-right-long"></i></h5></Link>
+                                    <Link href="https://forms.gle/3qJMYeosudfkaHQm9"><h5 className="tl-3-single-program-title publication-title">Final Year Student's Program Exit Survey Summer 2024 <i className="fa-regular fa-arrow-right-long"></i></h5></Link>
                                 </div>
                             </div>
                         </div>
