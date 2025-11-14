@@ -1,4 +1,5 @@
 'use client';
+import Link from 'next/link'
 import React, { useState, useEffect } from 'react';
 
 interface IconProps {
@@ -319,15 +320,16 @@ const ICSBP = () => {
                     </span><br />
                     (ICSBP-2026)
                   </h1>
-                  <main className="flex flex-col items-center justify-center py-20">
-                  <img
-                      src="/images/ICSBP-2026.png"
-                      
-                      className="rounded-xl shadow-lg"
-                      style={{ width: "500px", height: "250px", objectFit: "cover" }}
-                    />
-                
-                </main>
+                  
+                  <div className="tl-1-course-img-new">
+                  <img src="/assets/images/ICSBP-2026.jpg" alt="Conference Logo"/>
+                  
+                  </div>
+                                    
+                                        
+                                    
+                                   
+                               
 
                   <div className="flex flex-col md:flex-row items-center justify-center space-y-4 md:space-y-0 md:space-x-8 mb-12">
                     <div className="flex items-center space-x-2">
