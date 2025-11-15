@@ -44,58 +44,66 @@ function LawDeptBOS() {
                 <tr>
                   <td><p>2</p></td>
                   <td><p>Hon. Suhasrao .S. Jagatap</p></td>
-                  <td><p>Member (Academia)</p></td>
+                  <td><p>Member (Industry)</p></td>
                   <td><p>U/S-24 (02) (ii)</p></td>
                 </tr>
 
                 <tr>
                   <td><p>3</p></td>
-                  <td><p>Dr. Ashish G. Barve</p></td>
-                  <td><p>Member (Academia)</p></td>
+                  <td><p>Prof. Uday V. Sawant</p></td>
+                  <td><p>Member </p></td>
                   <td><p>U/S-24 (02) (iii)</p></td>
                 </tr>
-
+                
                 <tr>
                   <td><p>4</p></td>
-                  <td><p>Dr. Rajesh B. Deshmukh</p></td>
+                  <td><p>Prof. Narendra S. Shinde</p></td>
                   <td><p>Member (Academia)</p></td>
                   <td><p>U/S-24 (02) (iii)</p></td>
                 </tr>
 
                 <tr>
                   <td><p>5</p></td>
-                  <td><p>Adv. Suhas J.Patil</p></td>
-                  <td><p>Member (Industry)</p></td>
+                  <td><p>Dr. Shubhangi S. Jagtap</p></td>
+                  <td><p>Member (Academia)</p></td>
                   <td><p>U/S-24 (02) (iii)</p></td>
                 </tr>
-
-                <tr>
+                 <tr>
                   <td><p>6</p></td>
-                  <td><p>Dr. Shubhangi S. Jagtap</p></td>
+                  <td><p>Dr. Ashish G. Barve</p></td>
                   <td><p>Member (Academia)</p></td>
                   <td><p>U/S-24 (02) (iii)</p></td>
                 </tr>
 
                 <tr>
                   <td><p>7</p></td>
-                  <td><p>Mr. Niraj Apte</p></td>
-                  <td><p>Member Secretary </p></td>
-                  <td><p></p></td>
+                  <td><p>Dr. Rajesh B. Deshmukh</p></td>
+                  <td><p>Member (Academia)</p></td>
+                  <td><p>U/S-24 (02) (iii)</p></td>
                 </tr>
 
                 <tr>
                   <td><p>8</p></td>
+                  <td><p>Adv. Suhas J.Patil</p></td>
+                  <td><p>Member (Industry)</p></td>
+                  <td><p>U/S-24 (02) (iii)</p></td>
+                </tr>
+
+                <tr>
+                  <td><p>9</p></td>
                   <td><p>Adv. Vandana Bhosale</p></td>
                   <td><p>Member</p></td>
                   <td><p></p></td>
                 </tr>
 
                 <tr>
-                  <td><p>9</p></td>
-                  <td><p>Adv. Pranav Gurav</p></td>
-                  <td><p>Member</p></td>
+                  <td><p>10</p></td>
+                  <td><p>Mr. Niraj Apte</p></td>
+                  <td><p>Member Secretary </p></td>
                   <td><p></p></td>
                 </tr>
+
+                
               </tbody>
             </Table>
           </div>
