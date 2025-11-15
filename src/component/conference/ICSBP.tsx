@@ -321,11 +321,7 @@ const ICSBP = () => {
                     (ICSBP-2026)
                   </h1>
                   
-                  <div className="tl-1-course-img-new">
-                  <img src="/assets/images/ICSBP-2026.jpg" alt="Conference Logo"/>
-                  
-                  </div>
-                    
+                                      
                   <div className="flex flex-col md:flex-row items-center justify-center space-y-4 md:space-y-0 md:space-x-8 mb-12">
                     <div className="flex items-center space-x-2">
                       <Calendar className="w-6 h-6 text-orange-300" />
@@ -754,8 +750,20 @@ const ICSBP = () => {
                 
               </div>
             </div>
+            </div>
+            <div className=" from-blue-50 to-purple-50 rounded-xl p-8">
+              <h3 className="text-2xl font-bold mb-6 text-center">Media Partner</h3>
+              
+              <div className="space-y-4">
+                <div className="tl-1-course-img-new">
+                  <img src="/assets/images/ICSBP-2026.jpg" alt="Conference Logo"/>
+                  
+                  </div>
+                             
+              </div>
+            </div>
           </div>
-        </div>
+        
         
       </section>
 
