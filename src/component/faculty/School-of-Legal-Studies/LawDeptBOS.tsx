@@ -54,7 +54,7 @@ function LawDeptBOS() {
                   <td><p>Member </p></td>
                   <td><p>U/S-24 (02) (iii)</p></td>
                 </tr>
-                
+
                 <tr>
                   <td><p>4</p></td>
                   <td><p>Prof. Narendra S. Shinde</p></td>
@@ -99,7 +99,7 @@ function LawDeptBOS() {
                 <tr>
                   <td><p>10</p></td>
                   <td><p>Mr. Niraj Apte</p></td>
-                  <td><p>Member Secretary </p></td>
+                  <td><p>Member  </p></td>
                   <td><p></p></td>
                 </tr>
 
