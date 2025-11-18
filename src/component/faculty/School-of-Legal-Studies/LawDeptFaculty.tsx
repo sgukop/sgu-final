@@ -61,19 +61,7 @@ const LawDeptFaculty = () => {
                         </div>
                     </div> 
 
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/law/1.png" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Adv. Pranav Mahpati Gurav</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant professor </p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/6918276126921e2c8e7f9d32" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div> 
+                    
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
@@ -95,7 +83,7 @@ const LawDeptFaculty = () => {
 
                             <div className="tl-1-course-txt">
                                 <h4 className="tl-1-course-title-new mt-30">Adv. UDAY VISHWANATHRAO SAWANT</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant professor </p>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Adjunct Professor </p>
                                 <Link href="https://manage-api.sguk.ac.in/api/assets/6918285826921e2c8e7f9d57" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
                         </div>
@@ -168,34 +156,23 @@ const LawDeptFaculty = () => {
                             </div>
                         </div>
                     </div> 
-
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/law/4.png" alt="Faculty Image"/>
+                                <img src="/assets/images/faculty-profile-photos/female.jpg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Mrs. Priya Shah</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Faculty of Financial Management</p>
+                                <h4 className="tl-1-course-title-new mt-30">Adv. Suryakant Miraje</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Professor Of Practice.</p>
                                 <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
                         </div>
                     </div> 
 
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/law/5.png" alt="Faculty Image"/>
-                            </div>
+                    
 
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Mr. Sandip Patil</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Faculty of Political Science</p>
-                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div> 
+                    
                 </div>
             </div>
         </div>

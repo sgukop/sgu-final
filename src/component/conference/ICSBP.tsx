@@ -756,7 +756,7 @@ const ICSBP = () => {
               
               <div className="space-y-4">
                 <div className="tl-1-course-img-new">
-                  <img src="/assets/images/ICSBP-2026.jpg" alt="Conference Logo"/>
+                  <img src="/assets/images/ICSBP-2026.jpg" alt="Conference in India"/>
                   
                   </div>
                              
