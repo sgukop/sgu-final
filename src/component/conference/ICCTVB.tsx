@@ -131,6 +131,7 @@ const ICCTVB2025 = () => {
     { id: 'dates', label: 'Important Dates', icon: Calendar },
     { id: 'registration', label: 'Registration', icon: Users },
     { id: 'keynote speaker', label: 'Keynote Speaker', icon: Users },
+    { id: 'Technical Program Committee', label: 'Technical Program Committee', icon: Users },
     { id: 'committee', label: 'Committee', icon: Award },
     { id: 'contact', label: 'Contact', icon: Mail }
   ];
@@ -662,6 +663,40 @@ const ICCTVB2025 = () => {
 
           </div>
   </section>
+  {/* keynote speaker */}
+      <section id="Technical Program Committee" className="py-20 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-16">
+            <h2 className="text-4xl font-bold text-gray-900 mb-4">Technical Program Committee</h2>
+            <div className="w-24 h-1 bg-gradient-to-r from-blue-600 to-purple-600 mx-auto rounded-full"></div>
+          </div>
+
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+            
+            {/* Patrons */}
+            <div className="bg-white rounded-xl shadow-lg p-6 col-span-full lg:col-span-2">
+              <div className="grid sm:grid-cols-2 gap-4">
+                {[
+                  { name: "Mr. Rahul Patil", title: "VP, Bentley Systems" },
+                  { name: "Mr. Prakash Somaiya", title: "Senior Director, Centelin, Australia" },
+                  { name: "Mr. Kedar Potnis", title: "Founder and Partner, Mobifilla Software India LLP" },
+                  { name: "Mr. Amol Kalugade", title: "Founder and CEO, Saffron Edge" },
+                  { name: "Mr. Sundeep Saproo", title: "VP, JP Morgan" },
+                  { name: "Dr. Ruturaj Patil", title: "Director, Zensar Technologies" }
+                ].map((patron, index) => (
+                  <div key={index} className="space-y-1">
+                    <p className="font-semibold text-blue-700">{patron.name}</p>
+                    <p className="text-sm text-gray-600">{patron.title}</p>
+                  </div>
+                ))}
+              </div>
+             </div>
+
+            </div>
+
+          </div>
+  </section>
+
 
       {/* Contact */}
       <section id="contact" className="py-20 bg-white">
@@ -743,7 +778,7 @@ const ICCTVB2025 = () => {
                 </div>
 
                 <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
-                  <h4 className="font-semibold mb-2">Publication</h4>
+                  <h4 className="font-semibold mb-2">SCI/Scopus-indexed journals</h4>
                   <p className="text-blue-200">Scopus-indexed Taylor & Francis journals</p>
                 </div>
 
