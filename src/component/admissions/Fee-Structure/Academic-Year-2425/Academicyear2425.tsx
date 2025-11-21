@@ -10,7 +10,7 @@ const Academicyear2425 = () => {
         <div className="schools-section pt-100 pb-100">
         <div className="container">
         <div className="row">
-        <h2 className="universityobject-heading dark-mode-white-color mb-50">Fee Structure for F.Y. - Academic Year 2024-25</h2>
+        <h2 className="universityobject-heading dark-mode-white-color mb-50">Fee Structure for F.Y. - Academic Year 2025-26</h2>
        
         <div className=" mt-4 p-3 mb-4 col-md-12">
        

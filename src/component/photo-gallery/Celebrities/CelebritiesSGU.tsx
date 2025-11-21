@@ -1,45 +1,77 @@
 import Link from 'next/link'
 import React from 'react'
 
-const CelebritiesSGU = () => {
+const ComputerDeptNewEvents = () => {
   return (
-    <section className="tl-1-blogs pt-100 pb-100">
-        <div className="container">
-            <h2 className="tl-9-section-title py-4 rounded-tl-[40px] rounded-br-[40px] w-fit px-8 bg-[#4f70b6] font-bold text-white mx-auto mb-50">Photo Gallery - Celebrities</h2>
-                <div className="row gy-4 gy-sm-5 tl-1-blogs-row">
-                    <div className="col-lg-4">
-                        <div className="tl-1-blog">
-                            <img src="assets/images/photo-gallery/celebrities@sgu/cover-photoes/prasad-ok.jfif" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
-                                <div className="tl-1-blog-txt">
-                                    <h4 className="tl-1-blog-title"><Link href="/photo-gallery-58-birthday">Marathi Film Actors Visit</Link></h4>
-                                    <Link href="/photo-gallery-58-birthday" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
-                                </div>
-                        </div>
-                    </div> 
+    <>
+      <div className="tl-11-section-heading mt-50"></div>
 
-                    <div className="col-lg-4">
-                        <div className="tl-1-blog">
-                            <img src="assets/images/photo-gallery/celebrities@sgu/cover-photoes/sara-ali-khan.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
-                                <div className="tl-1-blog-txt">
-                                    <h4 className="tl-1-blog-title"><Link href="/photo-gallery-54-birthday">Bollywood Megastar Sara Ali Khan Visit</Link></h4>
-                                    <Link href="/photo-gallery-54-birthday" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
-                                </div>
-                        </div>
-                    </div>
+      <div className="tl-11-section-heading mt-50">
+        <h2 className="tl-11-section-title text-3xl font-bold tracking-wide text-gray-900">Special Guests & Celebrities</h2>
+      </div>
 
-                    <div className="col-lg-4">
-                        <div className="tl-1-blog">
-                            <img src="assets/images/photo-gallery/celebrities@sgu/cover-photoes/tiger-shroff.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
-                                <div className="tl-1-blog-txt">
-                                    <h4 className="tl-1-blog-title"><Link href="/photo-gallery-53-birthday">Bollywood Actor Tiger Shroff Visit</Link></h4>
-                                    <Link href="/photo-gallery-53-birthday" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
-                                </div>
-                        </div>
-                    </div> 
-                </div>
-             </div>
-    </section>
+      <div className="row g-xl-4 g-3">
+
+        {/* Helper Function Template */}
+        {[
+          { img: "1.jpg", name: "Prajakta Mali", role: "Actress" },
+          { img: "2.jpg", name: "", role: "" },
+          { img: "3.jpg", name: "Salman Khan", role: "Actor" },
+          { img: "4.jpg", name: "Sara Ali Khan", role: "Actress" },
+          { img: "5.jpg", name: "", role: "" },
+          { img: "6.jpg", name: "Sara Ali Khan", role: "Actress" },
+          { img: "7.jpg", name: "", role: "" },
+          { img: "8.jpg", name: "", role: "" },
+          { img: "9.jpg", name: "", role: "" },
+          { img: "10.jpg", name: "", role: "" },
+          { img: "11.jpg", name: "", role: "" },
+          { img: "12.jpg", name: "Arjun Kapoor", role: "Actor" },
+          { img: "13.jpg", name: "Arjun Kapoor", role: "Actor" },
+          { img: "14.jpg", name: "Arjun Kapoor", role: "Actor" },
+          { img: "15.jpg", name: "Aamir Khan", role: "Actor" },
+          { img: "16.jpg", name: "Kapil Dev", role: "Former Indian Captain" },
+          { img: "17.jpg", name: "Sonali Sinha", role: "Actress" },
+          { img: "18.jpg", name: "Navjot Singh Sidhu", role: "Indian Cricketer" },
+          { img: "19.jpg", name: "Navjot Singh Sidhu", role: "Indian Cricketer" },
+          { img: "20.jpg", name: "Navjot Singh Sidhu", role: "Indian Cricketer" },
+          { img: "21.jpg", name: "Navjot Singh Sidhu", role: "Indian Cricketer" },
+          { img: "22.jpg", name: "", role: "" },
+          { img: "23.jpg", name: "", role: "" },
+          { img: "24.jpg", name: "", role: "" },
+          { img: "25.jpg", name: "Ajay Devgan", role: "Actor" },
+          { img: "26.jpg", name: "", role: "" },
+          { img: "27.jpg", name: "", role: "" },
+          { img: "28.jpg", name: "Saif Ali Khan", role: "Actor" },
+          { img: "29.jpg", name: "Saif Ali Khan", role: "Actor" },
+          { img: "30.JFIF", name: "", role: "" },
+          { img: "31.jpg", name: "Sara Ali Khan", role: "Actress" },
+          { img: "32.jpg", name: "", role: "" }
+        ].map((item, idx) => (
+          <div className="col-xl-6 col-lg-10" key={idx}>
+            <div className="tl-8-course flex flex-col rounded-[20px] h-full shadow-sm p-2 hover:shadow-lg transition duration-300 bg-white">
+              <div className="tl-8-course-img self-center">
+                <img
+                  src={`assets/images/photo-gallery/celebrities@sgu/${item.img}`}
+                  alt="Celebrity Image"
+                  className="rounded-xl shadow-md"
+                />
+              </div>
+
+              {item.name && (
+                <h4 className="achievements-title text-xl font-semibold text-gray-900 mt-3 tracking-wide text-center">
+                  {item.name}
+                  {item.role && (
+                    <span className="block text-sm font-normal text-gray-600">{item.role}</span>
+                  )}
+                </h4>
+              )}
+            </div>
+          </div>
+        ))}
+
+      </div>
+    </>
   )
 }
 
-export default CelebritiesSGU
+export default ComputerDeptNewEvents

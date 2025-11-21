@@ -9,30 +9,39 @@ const PhotoGalleryCelebrations = () => {
                 <div className="row gy-4 gy-sm-5 tl-1-blogs-row">
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/photo-gallery/celebrations/58-birthday-celebration/33.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
+                            <img src="assets/images/photo-gallery/celebrations/61th-birthday-celebration/1.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
                                 <div className="tl-1-blog-txt">
-                                    <h4 className="tl-1-blog-title"><Link href="/photo-gallery-58-birthday">58th Birthday Celebration of Mr. Sanjayji Ghodawat</Link></h4>
-                                    <Link href="/photo-gallery-58-birthday" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
+                                    <h4 className="tl-1-blog-title"><Link href="/61th-birthday-celebration">61th Birthday Celebration of Mr. Sanjayji Ghodawat</Link></h4>
+                                    <Link href="/61th-birthday-celebration" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
                                 </div>
                         </div>
                     </div> 
 
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/photo-gallery/celebrations/54-birthday-celebration/24.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
+                            <img src="assets/images/photo-gallery/celebrations/60th-birthday-celebration/1.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
                                 <div className="tl-1-blog-txt">
-                                    <h4 className="tl-1-blog-title"><Link href="/photo-gallery-54-birthday">54th Birthday Celebration of Mr. Sanjayji Ghodawat</Link></h4>
-                                    <Link href="/photo-gallery-54-birthday" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
+                                    <h4 className="tl-1-blog-title"><Link href="/60th-birthday-celebration">60th Birthday Celebration of Mr. Sanjayji Ghodawat</Link></h4>
+                                    <Link href="/60th-birthday-celebration" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
                                 </div>
                         </div>
                     </div>
 
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/photo-gallery/celebrations/53-birthday-celebration/24.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
+                            <img src="assets/images/photo-gallery/celebrations/59th-birthday-celebration/1.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
                                 <div className="tl-1-blog-txt">
-                                    <h4 className="tl-1-blog-title"><Link href="/photo-gallery-53-birthday">53rd Birthday Celebration of Mr. Sanjayji Ghodawat</Link></h4>
-                                    <Link href="/photo-gallery-53-birthday" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
+                                    <h4 className="tl-1-blog-title"><Link href="/59th-birthday-celebration">59rd Birthday Celebration of Mr. Sanjayji Ghodawat</Link></h4>
+                                    <Link href="/59th-birthday-celebration" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
+                                </div>
+                        </div>
+                    </div> 
+                                    <div className="col-lg-4">
+                        <div className="tl-1-blog">
+                            <img src="assets/images/photo-gallery/celebrations/58th-birthday-celebration/1.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
+                                <div className="tl-1-blog-txt">
+                                    <h4 className="tl-1-blog-title"><Link href="/58th-birthday-celebration">58th Birthday Celebration of Mr. Sanjayji Ghodawat</Link></h4>
+                                    <Link href="/58th-birthday-celebration" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
                                 </div>
                         </div>
                     </div> 
