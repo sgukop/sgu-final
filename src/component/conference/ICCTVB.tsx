@@ -742,7 +742,7 @@ const ICCTVB2025 = () => {
                     </div>
                     <div>
                       <p className="font-semibold text-gray-900">Contact Person</p>
-                      <p className="text-gray-600">Dr. Mahadik Shamala R.</p>
+                      <p className="text-gray-600">Dr. Mahadik Shamala R</p>
                       <p className="text-blue-600">9422417847</p>
                      <p className="text-gray-600">Mr. Machhale Gurunath G.</p>
                       <p className="text-blue-600">9673747386</p>
