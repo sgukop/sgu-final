@@ -19,7 +19,7 @@ const Activities2223 = () => {
                     <tbody>
                         <tr>
                             <td><p>1</p></td>
-                            <td><p>Workshop-Basics of Photography</p></td>
+                            <td><p>Workshop-Basics of Photography at SGU</p></td>
                             <td><p>17-03-23</p></td>
                             <td><p>Mr.Sudhir Bornak </p></td>
                         </tr>
