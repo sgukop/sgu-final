@@ -16,7 +16,7 @@ const MathematicsPGProgram = () => {
             </div>
             <div className="col-xl-5 col-lg-6">
                 <div className="tl-8-about-txt yellow-clr-hover">
-                <h2 className="tl-8-section-title text-2xl">Master of Science in Mathematics (M.Sc - Mathematics)</h2>
+                <h2 className="tl-8-section-title text-2xl">Master of Science in Mathematics (M.Sc - Mathematics) bbb</h2>
                         <div className="tl-8-feature">
                             <h6 className="tl-13-about-sub-title mr-10">Intake : 10</h6>
                         </div>
