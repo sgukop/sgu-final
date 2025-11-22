@@ -751,15 +751,23 @@ const ICSBP = () => {
               </div>
             </div>
             </div>
-            <div className=" from-blue-50 to-purple-50 rounded-xl p-8">
+           <div className="from-blue-50 to-purple-50 rounded-xl p-8">
               <h3 className="text-2xl font-bold mb-6 text-center">Media Partner</h3>
-              
+
               <div className="space-y-4">
                 <div className="tl-1-course-img-new">
-                  <img src="/assets/images/ICSBP-2026.jpg" alt="Conference in India"/>
-                  
-                  </div>
-                             
+                  <a
+                    href="https://allconferencealert.net/india.php"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="/assets/images/ICSBP-2026.jpg"
+                      alt="Conference in India"
+                      className="rounded-xl shadow-lg"
+                    />
+                  </a>
+                </div>
               </div>
             </div>
           </div>

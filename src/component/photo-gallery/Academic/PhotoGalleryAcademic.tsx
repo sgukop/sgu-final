@@ -9,6 +9,15 @@ const PhotoGalleryAcademic = () => {
                 <div className="row gy-4 gy-sm-5 tl-1-blogs-row">
                     <div className="col-lg-4">
                         <div className="tl-1-blog flex flex-col justify-center h-full">
+                            <img src="assets/images/photo-gallery/academics/7th Convocation Ceremony/6.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
+                                <div className="tl-1-blog-txt">
+                                    <h4 className="tl-1-blog-title"><Link href="/photo-galleryConvocation">7th University Convocation 2025-26</Link></h4>
+                                    <Link href="/photo-galleryConvocation" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
+                                </div>
+                        </div>
+                    </div> 
+                    <div className="col-lg-4">
+                        <div className="tl-1-blog flex flex-col justify-center h-full">
                             <img src="assets/images/photo-gallery/academics/IEEE/11.jpeg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/photo-gallery-IEEE">IEEE International Conference on Engineering Informatics 2023 (Hybrid Mode) (ICEI 2023)</Link></h4>

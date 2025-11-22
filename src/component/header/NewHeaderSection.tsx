@@ -244,7 +244,8 @@ const NewHeaderSection = () => {
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/programs-university">Programs</NavLink></li>
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/admission-process">Admission Process</NavLink></li>
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/prospectus">Prospectus</NavLink></li>
-                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/contact-admission">Contact For Admission</NavLink></li> 
+                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/contact-admission">Contact For Admission</NavLink></li>
+                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/Fee-Structure">Fess Structure</NavLink></li> 
                                 </ul>
                       </li>
                    

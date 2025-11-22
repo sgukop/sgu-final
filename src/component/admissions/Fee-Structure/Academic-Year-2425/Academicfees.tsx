@@ -92,45 +92,45 @@ const Academicfees = () => {
           <tbody>
               <tr>
                   <td><p>B.Tech. in Aeronautical Engineering</p></td>
-                  <td><p>132500</p></td>
+                  <td><p>145000</p></td>
                   <td><p>5000</p></td>
-                  <td><p>137500</p></td>
+                  <td><p>150000</p></td>
               </tr>
               <tr>
                   <td><p>B.Tech in Electronics & Communication Engineering</p></td>
-                  <td><p>132500</p></td>
+                  <td><p>145000</p></td>
                   <td><p>5000</p></td>
-                  <td><p>137500</p></td>
+                  <td><p>150000</p></td>
               </tr>
               <tr>
                   <td><p>B.Tech in Computer Science Engineering</p></td>
-                  <td><p>132500</p></td>
+                  <td><p>155000</p></td>
                   <td><p>5000</p></td>
-                  <td><p>137500</p></td>
+                  <td><p>160000</p></td>
               </tr>
               <tr>
                   <td><p>B.Tech in Artificial Intelligence and Machine Learning</p></td>
-                  <td><p>132500</p></td>
+                  <td><p>155000</p></td>
                   <td><p>5000</p></td>
-                  <td><p>137500</p></td>
+                  <td><p>160000</p></td>
               </tr>
               <tr>
                   <td><p>M.Tech. in Civil Engineering (Construction Engineering & Management)</p></td>
-                  <td><p>97500</p></td>
+                  <td><p>120000</p></td>
                   <td><p>5000</p></td>
-                  <td><p>102500</p></td>
+                  <td><p>125000</p></td>
               </tr>
               <tr>
                   <td><p>M.Tech. in Artificial Intelligence & Data Science</p></td>
-                  <td><p>97500</p></td>
+                  <td><p>120000</p></td>
                   <td><p>5000</p></td>
-                  <td><p>102500</p></td>
+                  <td><p>125000</p></td>
               </tr>
               <tr>
                   <td><p>M.Tech. in Electronics Engineering (Embedded System)</p></td>
-                  <td><p>97500</p></td>
+                  <td><p>120000</p></td>
                   <td><p>5000</p></td>
-                  <td><p>102500</p></td>
+                  <td><p>125000</p></td>
               </tr>
           </tbody>
       </Table>
@@ -170,15 +170,15 @@ const Academicfees = () => {
           <tbody>
               <tr>
                   <td><p>B.C.A</p></td>
-                  <td><p>47500</p></td>
+                  <td><p>55000</p></td>
                   <td><p>5000</p></td>
-                  <td><p>52500</p></td>
+                  <td><p>60000</p></td>
               </tr>
               <tr>
                   <td><p>M.C.A</p></td>
-                  <td><p>92500</p></td>
+                  <td><p>105000</p></td>
                   <td><p>5000</p></td>
-                  <td><p>97500</p></td>
+                  <td><p>100000</p></td>
               </tr>
               
           </tbody>
@@ -219,27 +219,27 @@ const Academicfees = () => {
           <tbody>
               <tr>
                   <td><p>Bachelor in Design (Graphic Design)</p></td>
-                  <td><p>177500</p></td>
+                  <td><p>245000</p></td>
                   <td><p>5000</p></td>
-                  <td><p>182500</p></td>
+                  <td><p>250000</p></td>
               </tr>
               <tr>
                   <td><p>Bachelor in Design (Product Design)</p></td>
-                  <td><p>177500</p></td>
+                  <td><p>245000</p></td>
                   <td><p>5000</p></td>
-                  <td><p>182500</p></td>
+                  <td><p>250000</p></td>
               </tr>
               <tr>
                   <td><p>Bachelor in Design (Interior Design)</p></td>
-                  <td><p>177500</p></td>
+                  <td><p>245000</p></td>
                   <td><p>5000</p></td>
-                  <td><p>182500</p></td>
+                  <td><p>250000</p></td>
               </tr>
               <tr>
                   <td><p>Bachelor in Design (Fashion Design)</p></td>
-                  <td><p>177500</p></td>
+                  <td><p>245000</p></td>
                   <td><p>5000</p></td>
-                  <td><p>182500</p></td>
+                  <td><p>250000</p></td>
               </tr>
 
               <tr>
