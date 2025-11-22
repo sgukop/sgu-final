@@ -12,7 +12,7 @@ const POs = () => {
                         <li><strong>PO2 : </strong>Imbibe high levels of social awareness and value their personal integrity and well being</li>
                         <li><strong>PO3 : </strong>Have multi-dimensional, outstanding, practical, social and responsible personality.</li>
                         <li><strong>PO4 : </strong>Assimilate skills and knowledge derived from the study of English Language and Literature for advancement of individual and the society.</li>
-                        <li><strong>PO5 : </strong>Articulate creative and critical thinking skills and leadership skills</li>
+                        <li><strong>PO5 : </strong>Articulate creative and critical thinking skills and leadership skills...</li>
                         <li><strong>PO6 : </strong>Develop research and reasoning skills</li>
                         <li><strong>PO7 : </strong>Apply values and ideals derived from the study of literature that demonstrate awareness of current societal challenges.</li>
                    </ul>
