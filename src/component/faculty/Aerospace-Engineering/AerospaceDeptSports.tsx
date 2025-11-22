@@ -21,7 +21,7 @@ const AerospaceDeptSports = () => {
                         <div className="tl-9-event-img">
                           <figure><img src="assets/images/aerospace-engineering-dept/sports/sport1.jpg" alt="Events Image"/></figure>
                         </div>
-                        <h3 className="tl-6-latest-article-title mt-10">BOYS SPORTS TEAM FROM AERONAUTICAL ENGINEERING .</h3>
+                        <h3 className="tl-6-latest-article-title mt-10">BOYS SPORTS TEAM FROM AERONAUTICAL ENGINEERING</h3>
                     </div>
                   </div>
 
@@ -30,7 +30,7 @@ const AerospaceDeptSports = () => {
                         <div className="tl-9-event-img">
                           <figure><img src="assets/images/aerospace-engineering-dept/sports/sport2.jpg" alt="Events Image"/></figure>
                         </div>
-                        <h3 className="tl-6-latest-article-title mt-10">GIRLS SPORTS TEAM FROM AERONAUTICAL ENGINEERING.</h3>
+                        <h3 className="tl-6-latest-article-title mt-10">GIRLS SPORTS TEAM FROM AERONAUTICAL ENGINEERING</h3>
                     </div>
                   </div>
 
