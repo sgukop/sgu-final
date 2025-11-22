@@ -54,7 +54,7 @@ const AerospaceDeptAbout = () => {
                     research publications, promoting entrepreneurship and
                     enhance interactions with industry. The department boasts
                     enthusiastic faculty and talented staff members who are
-                    experts in their areas of interest.
+                    experts in their areas of interest
                   </p>
                   <span
                     className="dark-mode-white-color mt-4"
