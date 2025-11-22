@@ -164,10 +164,7 @@ const BirthdayCelebration58 = () => {
     {
         imgSrc: "assets/images/photo-gallery/celebrations/58-birthday-celebration/54.jpg",
     },
-    {
-        imgSrc: "assets/images/photo-gallery/celebrations/58-birthday-celebration/55.jpg",
-    },
-
+    
 ];
 
 return (
