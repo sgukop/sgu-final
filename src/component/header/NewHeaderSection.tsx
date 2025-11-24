@@ -24,7 +24,7 @@ const NewHeaderSection = () => {
                 <ul className='gap-4 2xl:gap-4 items-center flex'>
                     <li className='hover:text-[#f26122]'><NavLink href="/internationalization-SGU">Internationalization @SGU</NavLink></li>
                     <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
-                    <li className='hover:text-[#f26122]'><NavLink href="/antiragging">A</NavLink></li>
+                    <li className='hover:text-[#f26122]'><NavLink href="/antiragging">Anti-Ragging</NavLink></li>
                     <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
                     <li className='hover:text-[#f26122]'><NavLink href="/careers">Careers</NavLink></li>
                     <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
