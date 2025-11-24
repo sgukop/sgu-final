@@ -7,6 +7,7 @@ const ExamTimeTable = () => {
         <div className="container">
             <h2 className="tl-9-section-title py-4 rounded-tl-[40px] rounded-br-[40px] w-fit px-8 bg-[#4f70b6] font-bold text-white mx-auto mb-50">Examination Time Table</h2>
               <div className="row tl-event-details-row g-0 mt-50 flex justify-between">
+                
                 <div className="examination-container">
 
                     <div className="row tl-event-details-row g-2">
