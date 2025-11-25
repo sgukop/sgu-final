@@ -222,9 +222,9 @@ const ICSBP = () => {
 ];
 
   const importantDates : DateInfo[] = [
-  { event: "Abstract Submission Deadline", date: "20th November 2025", icon: FileText },
+  { event: "Abstract Submission Deadline", date: "30th November 2025", icon: FileText },
   { event: "Abstract Acceptance", date: "5th November 2025", icon: Mail },
-  { event: "Early Bird Registration", date: "20th November 2025", icon: Users },
+  { event: "Early Bird Registration", date: "30th November 2025", icon: Users },
   { event: "Submission of full length Paper", date: "10th December 2025", icon: FileText },
    { event: "Last Date of Registration", date: "15th December 2025", icon: Users },
   { event: "Conference Dates", date: "8th & 9th January 2026", icon: Calendar },
@@ -552,7 +552,7 @@ const ICSBP = () => {
     Register Now
   </a>
   <a
-  href="https://edu.easebuzz.in/sign-up/SanjayGhodawatUniversity_Fees/Age_Digital_Transformation/?inst_name=SanjayGhodawatUniversity_Fees&form_name=Age_Digital_Transformation&jsonData=1"
+  href="https://forms.easebuzz.in/register/SanjayGhodawatUniversity_Fees/Sustainable_Business_Practices_intheAgeofDigital_Transformation"
   target="_blank"
   rel="noopener noreferrer"
   className="px-8 py-3 bg-gradient-to-r from-purple-600 to-indigo-600 text-white rounded-lg font-semibold hover:from-purple-700 hover:to-indigo-700 transform hover:scale-105 transition-all duration-200 shadow-lg text-center"
