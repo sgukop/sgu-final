@@ -45,7 +45,13 @@ const ComputerDeptNewEvents = () => {
           { img: "29.jpg", name: "Saif Ali Khan", role: "Actor" },
           { img: "30.jpg", name: " Prasad Oak", role: "Marathi film actors" },
           { img: "31.jpg", name: "Sara Ali Khan", role: "Actress" },
-          { img: "32.jpg", name: "", role: "" }
+          { img: "32.jpg", name: "", role: "" },
+          { img: "33.jpg", name: "", role: "" },
+          { img: "34.jpg", name: "", role: "" },
+          { img: "35.jpg", name: "", role: "" },
+          { img: "36.jpg", name: "", role: "" },
+          { img: "37.jpg", name: "", role: "" },
+          { img: "38.jpg", name: "", role: "" }        
         ].map((item, idx) => (
           <div className="col-xl-6 col-lg-10" key={idx}>
             <div className="tl-8-course flex flex-col rounded-[20px] h-full shadow-sm p-2 hover:shadow-lg transition duration-300 bg-white">
