@@ -44,7 +44,7 @@ const schools = [
         bgColor: "#ed1e81",
     },
     {
-        programs: "Diploma, UG",
+        programs: "UG",
         department: "Pharmaceutical Sciences",
         slug: "/pharmacy-dept-about",
         bgColor: "#47bfaf",
@@ -97,36 +97,20 @@ const schools = [
         slug: "/geography-dept-about",
         bgColor: "#47bfaf",
     },
-    {
-        programs: "UG",
-        department: "Department of Media",
-        slug: "/masscommunication-dept-about",
-        bgColor: "#4f70b6",
-    },
-    {
+        {
         programs: "UG, PG, Ph.D",
         department: "Aerospace Engineering",
         slug: "/aerospace-engineering-about",
         bgColor: "#f26122",
     },
-    {
-        programs: "UG, PG, Ph.D",
-        department: "Mechanical Engineering",
-        slug: "/mechanical-dept-about",
-        bgColor: "#ed1e81",
-    },
+    
     {
         programs: "UG, PG, Ph.D",
         department: "Civil Engineering",
         slug: "/civil-dept-about",
         bgColor: "#47bfaf",
     },
-    {
-        programs: "UG, PG, Ph.D",
-        department: "Electrical and Electronics Engineering",
-        slug: "/electrical-dept-about",
-        bgColor: "#4f70b6",
-    },
+    
     {
         programs: "UG, PG, Ph.D",
         department: "Electronics and Communication Engineering",
@@ -143,6 +127,12 @@ const schools = [
         programs: "UG, PG, Ph.D",
         department: "Artificial Intelligence and Machine Learning(AI&ML)",
         slug: "/AI-ML-dept-about",
+        bgColor: "#47bfaf",
+    },
+    {
+        programs: "UG, PG",
+        department: "Artificial Intelligence & Data Science Department(AI&DS)",
+        slug: "/AI-DS-dept-about",
         bgColor: "#47bfaf",
     },
 

@@ -8,51 +8,30 @@ const events = [
     {
         image: "/assets/images/home/event-1.jpg",
         title: "Birthday Celebration of Hon. President",
-        description: "54th Birthday Celebration of Hon. President Mr. Sanjayji Ghodawat in the presenc...",
+        description: "61th Birthday Celebration of Hon. President Mr. Sanjayji Ghodawat in the presenc...",
         slug : "/photo-gallery-54-birthday"
     },
     {
-        image: "assets/images/latest-news/event1-blog.jpg",
-        title: "1st Convocation Ceremony - 2020",
+        image: "assets/images/latest-news/3.jpg",
+        title: "7th Convocation Ceremony - 2025",
         description: "Congratulations..!! Sanjay Ghodawat University became first University in India...",
         slug : "#"
     },
-    {
-        image: "assets/images/latest-news/ebent2-blog.jpg",
-        title: "2nd Convocation Ceremony - 2021",
-        description: "Chairman Sanjay ji Ghodawat is voted as the Influential Educator of the Year 2023...",
-        slug : "#"
-    },
-    {
-        image: "assets/images/latest-news/event3-blog.jpg",
-        title: "3rd Convocation Ceremony - 2022",
-        description: "Sancheti, Chairman Sanjay ji Ghodawat were felicitated at the 35th Pune Festival",
-        slug : "#"
-    },
+        
     {
         image: "assets/images/latest-news/tata2-blog.jpg",
         title: "Inauguration of Technology Competency Center",
         description: "Inauguration of Technology Competency Center with TATA Technology...",
         slug : "/photo-gallery-tata-technology"
     },
-    {
-        image: "assets/images/latest-news/scistar2-blog.jpg",
-        title: "Sci-STAR 2018 (A State Level Science Competition)",
-        description: "Congratulations Chairman Sanjay ji Ghodawat receives Singhania Lifetime...",
-        slug : "/photo-gallery-sci-star-2018"
-    },
+    
     {
         image: "assets/images/latest-news/event7.jfif",
         title: "Reinventing India Event",
         description: "Padma Vibhushan Hon. Raghunath Mashelkar former Director General of CSIR...",
         slug : "/photo-gallery-reinventing-india"
     },
-    {
-        image: "assets/images/latest-news/event9-blog.jpg",
-        title: "Asian Tennis Volleyball Championship",
-        description: "SGU Global Articulation and partnership programs",
-        slug : "https://manage-api.sguk.ac.in/api/assets/6756afeb9173bf9f471abdcb"
-    },
+    
     {
         image: "assets/images/latest-news/event5-blog.jpg",
         title: "A Story of Grit and Determination",

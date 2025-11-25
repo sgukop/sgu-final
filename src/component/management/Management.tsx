@@ -46,18 +46,7 @@ const Management = () => {
                     </div>
                 </div>
             </div>
-            <div className="col-md-3 col-6 col-xxs-12">
-                <div className="tl-3-single-staff tl-8-single-expert tl-6-editorial">
-                    <div className="tl-3-single-staff-img tl-8-single-expert-img">
-                    <img src="assets/images/management/team4.jpg" alt="Management Image" />
-                    </div>
-
-                    <div className="tl-3-single-staff-txt tl-8-single-expert-txt">
-                        <h5 className="tl-8-single-expert-name"><Link href="/vice-chancellor" target="_blank">Dr. Udhav Bhosle</Link></h5>
-                        <span className="tl-8-single-expert-role">Vice Chancellor</span>
-                    </div>
-                </div>
-            </div>
+            
             
         </div>
     </div>
