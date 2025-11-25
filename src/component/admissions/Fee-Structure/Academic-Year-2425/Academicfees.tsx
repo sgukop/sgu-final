@@ -408,7 +408,7 @@ const Academicfees = () => {
           aria-expanded="false"
           aria-controls="collapseNine"
         >
-        School of Allied Health Sciences
+        School of Life Sciences
         </button>
       </h2>
       <div
@@ -469,7 +469,7 @@ const Academicfees = () => {
           aria-expanded="false"
           aria-controls="collapseTen"
         >
-       School of Legal Studies (Law) :-Proposed
+       School of Legal Studies (Law) 
         </button>
       </h2>
       <div

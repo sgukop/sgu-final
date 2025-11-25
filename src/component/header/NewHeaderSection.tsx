@@ -243,9 +243,13 @@ const NewHeaderSection = () => {
                         <ul className="dropdown-menu absolute hidden mt-6 py-2 text-left rounded-none border-t-4 border-[#f4b826]">
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/programs-university">Programs</NavLink></li>
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/admission-process">Admission Process</NavLink></li>
-                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/Admission-brochure">Admission Brochures</NavLink></li>
+                                
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/contact-admission">Contact For Admission</NavLink></li>
-                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/Fee-Structure">Fess Structure</NavLink></li> 
+                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/Fee-Structure">Fess Structure</NavLink></li>
+                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/eligibility-criteria">Eligibility-criteria</NavLink></li>
+                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/scholarships">Scholarships</NavLink></li>
+                                
+
                                 </ul>
                       </li>
                    
