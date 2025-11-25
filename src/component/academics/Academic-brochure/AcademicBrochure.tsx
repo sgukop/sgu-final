@@ -14,7 +14,7 @@ const AcademicBhrochure = () => {
                 <div className="tl-13-banner-txt">
                     <h1 className="tl-13-banner-title text-[#4f70b6]">Learn Tech Embracing Technology Education Excellence</h1>
                     <p className="tl-13-banner-descr">Through a combination of lectures, readings, and discussions, students will gain a solid foundation in educational psychology.</p>
-                    <div className="tl-header-actions"><a className="tl-def-btn bg-[#f26122] text-white text-semibold" href="#" target="_blank">Click here for University Brochure</a></div>
+                    <div className="tl-header-actions"><a className="tl-def-btn bg-[#f26122] text-white text-semibold" href="https://manage-api.sguk.ac.in/api/assets/692546d8eb601ff3d6698a3e" target="_blank">Click here for University Brochure</a></div>
                 </div>
             </div>
         </div>
