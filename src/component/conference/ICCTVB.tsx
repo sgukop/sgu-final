@@ -454,7 +454,7 @@ const ICCTVB2025 = () => {
                 </div>
                 <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
                   <h4 className="font-semibold mb-2">Final Registration form </h4>
-                  <p className="text-blue-200"><a href="#" rel="noopener noreferrer" target="_blank" className="table-link">Click Here</a> </p>
+                  <p className="text-blue-200"><a href="https://forms.gle/WRN3bwZgnsvYP2Q66" rel="noopener noreferrer" target="_blank" className="table-link">Click Here</a> </p>
                 </div>
                 <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
                   <h4 className="font-semibold mb-2">Click below to Pay Registration Fee </h4>
