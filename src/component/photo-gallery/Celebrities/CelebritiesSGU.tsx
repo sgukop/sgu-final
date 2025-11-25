@@ -43,7 +43,7 @@ const ComputerDeptNewEvents = () => {
           { img: "27.jpg", name: "", role: "" },
           { img: "28.jpg", name: "Saif Ali Khan", role: "Actor" },
           { img: "29.jpg", name: "Saif Ali Khan", role: "Actor" },
-          { img: "30.JFIF", name: "", role: "" },
+          { img: "30.jpg", name: " Prasad Oak", role: "Marathi film actors" },
           { img: "31.jpg", name: "Sara Ali Khan", role: "Actress" },
           { img: "32.jpg", name: "", role: "" }
         ].map((item, idx) => (
