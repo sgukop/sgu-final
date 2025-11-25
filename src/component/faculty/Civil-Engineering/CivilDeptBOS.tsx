@@ -36,7 +36,7 @@ function CivilDeptBOS() {
               <tbody>
                 <tr>
                   <td><p>1</p></td>
-                  <td><p>Dr. A.D.Katdare</p></td>
+                  <td><p>Dr. Sachin P. Patil</p></td>
                   <td><p>Associate prof and Head, <br/> Department of Civil Engineering, SGU. </p></td>
                   <td><p>Chairman</p></td>
                 </tr>
@@ -66,7 +66,7 @@ function CivilDeptBOS() {
                   <td><p>5</p></td>
                   <td><p>Dr. N. K. Patil</p></td>
                   <td><p>Professor, <br/> Department of Civil Engineering, SGU.</p></td>
-                  <td><p>Member (Construction Management)</p></td>
+                  <td><p>Member (Structural Engineering)</p></td>
                 </tr>
 
                 <tr>
@@ -75,31 +75,23 @@ function CivilDeptBOS() {
                   <td><p>Assistant Professor, <br/> Department of Civil Engineering, SGU.</p></td>
                   <td><p>Construction Management</p></td>
                 </tr>
-
+                
                 <tr>
-                  <td><p>7</p></td>
-                  <td><p>Dr. S. P. Patil</p></td>
+                   <td><p>7</p></td>
+                  <td><p>Prof. N.M. Patil</p></td>
                   <td><p>Assistant Professor, <br/> Department of Civil Engineering, SGU.</p></td>
-                  <td><p>Member (Structural Engineering)</p></td>
+                  <td><p>Member (Construction Managent)</p></td>
                 </tr>
 
                 <tr>
                   <td><p>8</p></td>
-                  <td><p>Dr. R. M. Desai</p></td>
+                  <td><p>Mr. S. B. Kore</p></td>
                   <td><p>Assistant Professor, <br/> Department of Civil Engineering, SGU.</p></td>
-                  <td><p>Member (Structural Engineering)</p></td>
+                  <td><p>Member (Construction Managent)</p></td>
                 </tr>
-
                 <tr>
                   <td><p>9</p></td>
-                  <td><p>Prof. N.M. Patil</p></td>
-                  <td><p>Assistant Professor, <br/> Department of Civil Engineering, SGU.</p></td>
-                  <td><p>Member (Structural Engineering)</p></td>
-                </tr>
-
-                <tr>
-                  <td><p>10</p></td>
-                  <td><p>Mr. S. B. Kore</p></td>
+                  <td><p>MS. P.P.Mahajan</p></td>
                   <td><p>Assistant Professor, <br/> Department of Civil Engineering, SGU.</p></td>
                   <td><p>Member (Structural Engineering)</p></td>
                 </tr>
