@@ -16,36 +16,28 @@ const ProgramUniversity = () => {
           <div>
               <Tab.Container id="myTab" defaultActiveKey="diploma-tab">
                   <Nav className="nav-tabs tl-course-details-navs">
-                    <Nav.Item>
-                          <Nav.Link eventKey="diploma-tab">Diploma</Nav.Link>
-                    </Nav.Item>
+                    
                     <Nav.Item>
                           <Nav.Link eventKey="ug-tab">UG</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
                           <Nav.Link eventKey="pg-tab">PG</Nav.Link>
                     </Nav.Item>
-                    <Nav.Item>
-                          <Nav.Link eventKey="pgd-tab">PGD</Nav.Link>
-                    </Nav.Item>
+                    
                     <Nav.Item>
                           <Nav.Link eventKey="phd-tab">PhD</Nav.Link>
                     </Nav.Item>
                   </Nav>
 
                   <Tab.Content id="tl-course-tab-content">
-                        <Tab.Pane eventKey="diploma-tab">
-                            <DiplomaPrograms/>
-                        </Tab.Pane>
+                        
                         <Tab.Pane eventKey="ug-tab">
                             <UGProgramsOffered/>
                         </Tab.Pane>
                         <Tab.Pane eventKey="pg-tab">
                             <PGProgramsOffered/>
                         </Tab.Pane>
-                        <Tab.Pane eventKey="pgd-tab">
-                            
-                        </Tab.Pane>
+                        
                         <Tab.Pane eventKey="phd-tab">
                             <PhDProgramsOffered/>
                         </Tab.Pane>
