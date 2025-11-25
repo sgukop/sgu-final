@@ -1,4 +1,4 @@
-import AcademicBrochure from '@/component/academics/Academic-brochure/AcademicBrochure';
+import Admissionbrochures from '@/component/academics/Admissionbrochures/Admissionbrochures';
 import BreadcrumbSection from '@/component/breadcrumb/BreadcrumbSection'
 import CtaSection4 from '@/component/cta/CtaSection4'
 import Layout5 from '@/component/layout/Layout5'
@@ -9,11 +9,11 @@ export const metadata: Metadata = {
     title: 'SGU University',
     description: 'Developed by Enark',
   }
-const AcademicBrochurePage = () => {
+const AdmissionbrochuresPage = () => {
   return (
     <Layout5>
         <BreadcrumbSection title='Academic Brochure' style=''/>
-        <AcademicBrochure/>
+        <Admissionbrochures/>
         
        {/* <PricingSection/>
         <CtaSection4 style='tl-8-cta-inner'/> */}
@@ -21,4 +21,4 @@ const AcademicBrochurePage = () => {
   )
 }
 
-export default AcademicBrochurePage
+export default AdmissionbrochuresPage

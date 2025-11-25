@@ -35,12 +35,7 @@ const Academicfees = () => {
               </tr>
           </thead>
           <tbody>
-              <tr>
-                  <td><p>D. Pharmacy</p></td>
-                  <td><p>97500</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>102500</p></td>
-              </tr>
+              
               <tr>
                   <td><p>B. Pharmacy</p></td>
                   <td><p>122500</p></td>
@@ -127,7 +122,7 @@ const Academicfees = () => {
                   <td><p>125000</p></td>
               </tr>
               <tr>
-                  <td><p>M.Tech. in Electronics Engineering (Embedded System)</p></td>
+                  <td><p>M.Tech. in  Aerospace Engineering</p></td>
                   <td><p>120000</p></td>
                   <td><p>5000</p></td>
                   <td><p>125000</p></td>
@@ -178,7 +173,7 @@ const Academicfees = () => {
                   <td><p>M.C.A</p></td>
                   <td><p>105000</p></td>
                   <td><p>5000</p></td>
-                  <td><p>100000</p></td>
+                  <td><p>110000</p></td>
               </tr>
               
           </tbody>
@@ -218,7 +213,7 @@ const Academicfees = () => {
           </thead>
           <tbody>
               <tr>
-                  <td><p>Bachelor in Design (Graphic Design)</p></td>
+                  <td><p>Bachelor in Design (Fashinon Design Styling & Business)</p></td>
                   <td><p>245000</p></td>
                   <td><p>5000</p></td>
                   <td><p>250000</p></td>
@@ -229,81 +224,17 @@ const Academicfees = () => {
                   <td><p>5000</p></td>
                   <td><p>250000</p></td>
               </tr>
+              
               <tr>
-                  <td><p>Bachelor in Design (Interior Design)</p></td>
-                  <td><p>245000</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>250000</p></td>
-              </tr>
-              <tr>
-                  <td><p>Bachelor in Design (Fashion Design)</p></td>
+                  <td><p>Bachelor in Design (Communication Design)</p></td>
                   <td><p>245000</p></td>
                   <td><p>5000</p></td>
                   <td><p>250000</p></td>
               </tr>
 
-              <tr>
-                  <td><p>B Sc with Honours (Fashion Design)</p></td>
-                  <td><p>1,00,000</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>1,05,000</p></td>
-              </tr>
-
-              <tr>
-                  <td><p>B Sc with Honours (Interior Design)</p></td>
-                  <td><p>1,00,000</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>1,05,000</p></td>
-              </tr>
-
-              <tr>
-                  <td><p>B Sc with Honours (Game Design)</p></td>
-                  <td><p>1,00,000</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>1,05,000</p></td>
-              </tr>
-
-              <tr>
-                  <td><p>B Sc with Honours (Graphics, Animation & VFX)</p></td>
-                  <td><p>1,00,000</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>1,05,000</p></td>
-              </tr>
-
-              <tr>
-                  <td><p>B Sc with Honours (UI UX)</p></td>
-                  <td><p>1,00,000</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>1,05,000</p></td>
-              </tr>
-
-              <tr>
-                  <td><p>Certification Program in Graphic Design Animation & VFX</p></td>
-                  <td><p>1,00,000</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>1,05,000</p></td>
-              </tr>
-
-              <tr>
-                  <td><p>Certification Program in UI UX</p></td>
-                  <td><p>1,00,000</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>1,05,000</p></td>
-              </tr>
-
-              <tr>
-                  <td><p>Certification Program in Game Design</p></td>
-                  <td><p>1,00,000</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>1,05,000</p></td>
-              </tr>
-
-              <tr>
-                  <td><p>Certification Program in Hospitality, Tourism & Events</p></td>
-                  <td><p>1,00,000</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>1,05,000</p></td>
-              </tr>
+              
+            
+              
               
               
           </tbody>
@@ -344,21 +275,21 @@ const Academicfees = () => {
           <tbody>
               <tr>
                   <td><p>Bachelor of Commerce (B.Com)</p></td>
-                  <td><p>32500</p></td>
+                  <td><p>40000</p></td>
                   <td><p>5000</p></td>
-                  <td><p>37500</p></td>
+                  <td><p>45500</p></td>
               </tr>
               <tr>
                   <td><p>Bachelor in Businees Administration (B.B.A.)</p></td>
-                  <td><p>97500</p></td>
+                  <td><p>120000</p></td>
                   <td><p>5000</p></td>
-                  <td><p>102500</p></td>
+                  <td><p>125000</p></td>
               </tr>
               <tr>
                   <td><p>Master in Businees Administration (M.B.A.)</p></td>
-                  <td><p>197500</p></td>
+                  <td><p>245000</p></td>
                   <td><p>5000</p></td>
-                  <td><p>202500</p></td>
+                  <td><p>250000</p></td>
               </tr>
          </tbody>
       </Table>
@@ -403,12 +334,7 @@ const Academicfees = () => {
                   <td><p>5000</p></td>
                   <td><p>32500</p></td>
               </tr>
-              <tr>
-                  <td><p>Bachelor of Bio-technology - Bio-technology</p></td>
-                  <td><p>25000</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>30000</p></td>
-              </tr>
+              
               <tr>
                   <td><p>Master of Science (M.Sc.) - Chemistry (Organic /Analytical)</p></td>
                   <td><p>62500</p></td>
@@ -421,54 +347,6 @@ const Academicfees = () => {
                   <td><p>5000</p></td>
                   <td><p>47500</p></td>
               </tr>
-              <tr>
-                  <td><p>Master of Bio-technology -Bio-technology</p></td>
-                  <td><p>60000</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>65000</p></td>
-              </tr>
-         </tbody>
-      </Table>
-        </div>
-      </div>
-    </div>
-
-    <div className="tl-event-details-area tl-course-details-curriculum">
-      <h2 className="accordion-header" id="headingTwo">
-        <button
-          className="accordion-button collapsed"
-          type="button"
-          data-bs-toggle="collapse"
-          data-bs-target="#collapseSeven"
-          aria-expanded="false"
-          aria-controls="collapseSeven"
-        >
-         School of Media
-        </button>
-      </h2>
-      <div
-        id="collapseSeven"
-        className="accordion-collapse collapse"
-        aria-labelledby="headingTwo"
-        data-bs-parent="#accordionExample"
-      >
-        <div className="accordion-body">
-        <Table striped bordered responsive className="governing-table">
-          <thead>
-              <tr>
-                  <th><p>Programme Name</p></th>
-                  <th><p>Course Fee</p></th>
-                  <th><p>Exam Fee</p></th>
-                  <th><p>Total Fee</p></th>
-              </tr>
-          </thead>
-          <tbody>
-              <tr>
-                  <td><p>Bachelor of Arts (B.A.) - Journalism & Mass Communication</p></td>
-                  <td><p>52500</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>57500</p></td>
-              </tr>
               
          </tbody>
       </Table>
@@ -476,6 +354,7 @@ const Academicfees = () => {
       </div>
     </div>
 
+    
     <div className="tl-event-details-area tl-course-details-curriculum">
       <h2 className="accordion-header" id="headingTwo">
         <button
@@ -507,7 +386,7 @@ const Academicfees = () => {
           </thead>
           <tbody>
               <tr>
-                  <td><p>Bachelor of Arts (B.A.) - Geography</p></td>
+                  <td><p>Bachelor of Arts (B.A.) - History, Geography, Political Science</p></td>
                   <td><p>27500</p></td>
                   <td><p>5000</p></td>
                   <td><p>32500</p></td>
@@ -560,6 +439,18 @@ const Academicfees = () => {
                   <td><p>42500</p></td>
                   <td><p>5000</p></td>
                   <td><p>47500</p></td>
+              </tr>
+              <tr>
+                  <td><p>B.Sc. Bio-Technology </p></td>
+                  <td><p>42500</p></td>
+                  <td><p>5000</p></td>
+                  <td><p>47500</p></td>
+              </tr>
+              <tr>
+                  <td><p>B.Sc Clinical Research and Technology</p></td>
+                  <td><p>72500</p></td>
+                  <td><p>5000</p></td>
+                  <td><p>77500</p></td>
               </tr>
               
          </tbody>

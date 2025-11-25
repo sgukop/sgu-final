@@ -28,7 +28,7 @@ const Hostelfees = () => {
       <Table striped bordered responsive className="governing-table">
           <thead>
               <tr>
-                  <th><p>Hostel Fee in Rs.</p></th>
+                  <th><p>Hostel Fee in Rs.Per Year</p></th>
                  
               </tr>
           </thead>

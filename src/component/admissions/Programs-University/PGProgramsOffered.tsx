@@ -32,11 +32,10 @@ const PGProgramsOffered = () => {
                             <h3 className="tl-event-details-area-title-new">Master of Technology (M.Tech)</h3>
                             <ul className="tl-event-details-key-content-list">
                                 <li>Aerospace Engineering</li>
-                                <li>Construction Engineering & Management </li>
-                                <li>Structural Engineering</li>
+                                <li>M.Tech Civil Construction Engineering & Management </li>
+                                <li>M.Tech Civil Structural Engineering</li>
                                 <li>Artificial Intelligence & Data Science</li>
-                                <li>Electronics Engineering -  Embedded Systems </li>
-                                <li>Electrical Engineering - Power Electronics & Drives</li>
+                               
                             </ul>
                         </div>
                     </div>
@@ -72,7 +71,7 @@ const PGProgramsOffered = () => {
                         <div className="tl-event-details-key-content">
                         <h3 className="tl-event-details-area-title-new">Master of Computer Applications</h3>
                             <ul className="tl-event-details-key-content-list">
-                                <li>Master of Computer Applications</li>
+                                <li>MCA. Master of Computer Applications</li>
                             </ul>
                         </div>
                     </div>
@@ -120,42 +119,7 @@ const PGProgramsOffered = () => {
       </div>
     </div>
 
-    <div className="tl-course-details-curriculum rounded-lg mb-8 shadow-[2px_2px_0_3px_rgba(242,97,34,0.6)]">
-      <h2 className="accordion-header" id="headingTwo">
-        <button
-          className="accordion-button collapsed"
-          type="button"
-          data-bs-toggle="collapse"
-          data-bs-target="#collapseFive"
-          aria-expanded="false"
-          aria-controls="collapseFive"
-        >
-          School of Life Sciences
-        </button>
-      </h2>
-      <div
-        id="collapseFive"
-        className="accordion-collapse collapse"
-        aria-labelledby="headingTwo"
-        data-bs-parent="#pgprograms"
-      >
-        <div className="accordion-body">
-            <div className="row">
-                <div className="col-lg-12">
-                    <div className="tl-event-details-left">
-                        <div className="tl-event-details-key-content">
-                        <h3 className="tl-event-details-area-title-new">Allied Health Sciences</h3>
-                            <ul className="tl-event-details-key-content-list">
-                                <li>M Sc Food Technology</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-             </div>  
-        </div>
-      </div>
-    </div>
-
+    
     <div className="tl-course-details-curriculum rounded-lg mb-8 shadow-[2px_2px_0_3px_rgba(242,97,34,0.6)]">
       <h2 className="accordion-header" id="headingTwo">
         <button
@@ -220,9 +184,8 @@ const PGProgramsOffered = () => {
                     <div className="tl-event-details-key-content">
                     <h3 className="tl-event-details-area-title-new">Master of Business Administration (MBA)</h3>
                         <ul className="tl-event-details-key-content-list">
-                            <li>Master of Commerce</li>
-                            <li>Master of Business Administrations</li>
-                            <li>Disaster Management</li>
+                      <li>Master of Business Administrations</li>
+                           
                         </ul>
                     </div>
                     </div>
