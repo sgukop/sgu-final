@@ -21,6 +21,45 @@ const CommerceDeptAbout = () => {
             data-target="#menu-navbar"
             data-offset="0"
           >
+            <div className="row g-4">
+              <div className="col-lg-5">
+                <div className="tl-14-about-img">
+                  <img
+                    src="/assets/images/faculty-profile-photos/management/Dr. S. Gomathi1.jpeg"
+                    alt="Dean Image"
+                    className="rounded-full"
+                    style={{border:"10px solid #4f70b6", padding:"20px"}}
+                  />
+                </div>
+              </div>
+
+              <div className="col-lg-7">
+                <div>
+                  <h2 className="tl-14-section-title text-[#4f70b6] lg:mt-10 sm:mt-0">Dean Desk</h2>
+                  <p className="dark-mode-white-color" style={{textAlign:"justify"}}>
+                   Dr. S. Gomathi, Dean of the Faculty of Commerce and Management, is a visionary academic leader with more than three decades of experience in higher education, research, and academic administration. She is recognized for her dynamic leadership, scholarly contributions, and commitment to shaping the next generation of management professionals.<br/><br/>
+
+                  Dr. Gomathi holds a Ph.D. in Human Resource Management from Alagappa University, which she completed at the age of 26. Her distinguished academic career includes serving as Director and Professor at the School of Management, CMR University, Bengaluru, and as Senior Professor and Head of the Department at VIT Business School, VIT University, for 29 years. <br/><br/>  
+                  A prolific scholar, Dr. Gomathi has authored eight books and published over 56 research papers in reputed national and international journals and conferences. Her areas of expertise include Organizational Behavior, Human Resource Management, Emotional Intelligence, Stress Management, Balanced Scorecard, and Talent Management. She has guided 13 doctoral scholars and mentored over 500 postgraduate projects, contributing significantly to research and professional development in management education.<br/><br/>
+                  In addition to her academic achievements, Dr. Gomathi has served as a consultant, trainer, and resource person for leading institutions and corporations such as ITCOT, TIIC, LIC, and the Institution of Engineers. Her training and consultancy engagements have strengthened organizational capabilities and leadership effectiveness.<br/><br/> 
+                  At Sanjay Ghodawat University, Dr. Gomathi’s vision is to cultivate a culture of innovation, entrepreneurship, and holistic learning, integrating values with technology-driven education. She strives to empower students to become competent, ethical, and globally responsible leaders who can adapt to the evolving business landscape.<br/><br/> 
+                  Her unwavering dedication to academic excellence, research, and student success continues to inspire and elevate the Faculty of Commerce and Management.<br/><br/>
+
+                  </p>
+                  <span
+                    className="dark-mode-white-color mt-4"
+                    style={{ fontWeight: "bold" }}
+                  >
+                    {" "}
+                    Dr. S. Gomathi <br/>
+                    Dean, <br/>
+                    Faculty of Commerce and Management
+
+                  </span>
+                </div>
+              </div>
+            </div>
+
 
             <div className="row g-4">
               <div className="col-lg-5">
