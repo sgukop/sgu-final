@@ -156,9 +156,9 @@ const ICCTVB2025 = () => {
   ];
 
   const importantDates : DateInfo[] = [
-    { event: "Paper Submission Deadline", date: "15th November 2025", icon: FileText },
-    { event: "Notification of Acceptance", date: "20th November 2025", icon: Mail },
-    { event: "Camera-Ready Submission", date: "25th November 2025", icon: FileText },
+    { event: "Paper Submission Deadline", date: "25th November 2025", icon: FileText },
+    { event: "Notification of Acceptance", date: "30th November 2025", icon: Mail },
+    { event: "Camera-Ready Submission", date: "5th December 2025", icon: FileText },
     { event: "Registration Deadline", date: "1st December 2025", icon: Users },
     { event: "Conference Dates", date: "19th & 20th December 2025", icon: Calendar }
   ];
@@ -458,7 +458,7 @@ const ICCTVB2025 = () => {
                 </div>
                 <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
                   <h4 className="font-semibold mb-2">Click below to Pay Registration Fee </h4>
-                  <p className="text-blue-200"><a href="https://forms.easebuzz.in/register/SanjayGhodawatUniversity_Fees/Convergence_of_Technologies_for_Viksit_Bharat" rel="noopener noreferrer" target="_blank" className="table-link">Pay Here</a> </p>
+                  <p className="text-blue-200"><a href="https://forms.easebuzz.in/register/SanjayGhodawatUniversity_Fees/Convergence_Technologies_Viksit_Bharat" rel="noopener noreferrer" target="_blank" className="table-link">Pay Here</a> </p>
                 </div>
               </div>
             </div>
@@ -778,13 +778,13 @@ const ICCTVB2025 = () => {
                 </div>
 
                 <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
-                  <h4 className="font-semibold mb-2">SCI/Scopus-indexed journals</h4>
-                  <p className="text-blue-200">Scopus-indexed Taylor & Francis journals</p>
+                  <h4 className="font-semibold mb-2">Publication</h4>
+                  <p className="text-blue-200">Scopus/SCI indexed journals</p>
                 </div>
 
                 <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
                   <h4 className="font-semibold mb-2">Submission Deadline</h4>
-                  <p className="text-blue-200">November 15, 2025</p>
+                  <p className="text-blue-200">November 25, 2025</p>
                 </div>
                 <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
                   <h4 className="font-semibold mb-2">Download Paper Template</h4>
