@@ -2083,22 +2083,41 @@ const blogList = [
     title: "Birthday Celebration of Hon. President",
     author: "David Brown",
     category: "Latest News",
-    desc: "61th Birthday Celebration of Hon. President Mr. Sanjayji Ghodawat in the presence of Ms. Sara Ali Khan (Bollywood Megastar) and Ms. Manasi Joshi (Indian Para - Badminton Athlete) on 28th February 2019 at Sanjay Ghodawat University Campus",
+    desc: "54th Birthday Celebration of Hon. President Mr. Sanjayji Ghodawat in the presence of Ms. Sara Ali Khan (Bollywood Megastar) and Ms. Manasi Joshi (Indian Para - Badminton Athlete) on 28th February 2019 at Sanjay Ghodawat University Campus",
     slug : "photo-gallery-54-birthday",
   },
-    
   {
     id: 1,
-    imgSrc: "assets/images/latest-news/3.jpg",
-    date: "November 12, 2025",
-    title: "7th Convocation Ceremony - 2022",
+    imgSrc: "assets/images/latest-news/event1-blog.jpg",
+    date: "April 1, 2020",
+    title: "1st Convocation Ceremony - 2020",
+    author: "Jane Doe",
+    category: "Technology",
+    desc: "Congratulations..!! Sanjay Ghodawat University became first University in India to receive ISO 9001:2015 & ISO 21001:2018 Dual Certification",
+    slug : "#",
+  },
+  {
+    id: 2,
+    imgSrc: "assets/images/latest-news/ebent2-blog.jpg",
+    date: "April 2, 2021",
+    title: "2nd Convocation Ceremony - 2021",
+    author: "John Smith",
+    category: "Latest News",
+    desc: "Chairman Sanjay ji Ghodawat is voted as the Influential Educator of the Year 2023 by 'Education Today' and has been awarded the Certificate of Excellence",
+    slug : "#",
+  },
+  {
+    id: 3,
+    imgSrc: "assets/images/latest-news/event3-blog.jpg",
+    date: "April 3, 2023",
+    title: "3rd Convocation Ceremony - 2022",
     author: "Alice Johnson",
     category: "Latest News",
     desc: "Sancheti, Chairman Sanjay ji Ghodawat were felicitated at the 35th Pune Festival",
     slug : "#",
   },
   {
-    id: 2,
+    id: 4,
     imgSrc: "assets/images/latest-news/tata2-blog.jpg",
     date: "December 19, 2017",
     title:
@@ -2108,9 +2127,18 @@ const blogList = [
     desc: "Inauguration of Technology Competency Center with TATA Technology on 19th December 2017 at the hands of Chief Guest Hon. Shreekanthji Moorthy, Global Vice President & LOB Head - PLM, TATA Technologies Ltd., Pune. In the presence of the President of the Function Hon. Sanjayji Ghodawat, President, SGU",
     slug : "photo-gallery-tata-technology",
   },
-  
   {
-    id: 3,
+    id: 5,
+    imgSrc: "assets/images/latest-news/scistar2-blog.jpg",
+    date: "April 5, 2023",
+    title: "Sci-STAR 2018 (A State Level Science Competition)",
+    author: "Emily Wilson",
+    category: "Latest News",
+    desc: "Congratulations Chairman Sanjay ji Ghodawat receives Singhania Lifetime Achievement Award by the hands of Hon'ble Minister of Marathi Language and School Education Deepak ji  Kesarkar",
+    slug : "photo-gallery-sci-star-2018",
+  },
+  {
+    id: 6,
     imgSrc: "assets/images/latest-news/event7-blog.jpg",
     date: "November 14, 2018",
     title: "Reinventing India Event",
@@ -2120,7 +2148,7 @@ const blogList = [
     slug : "photo-gallery-reinventing-india",
   },
   {
-    id: 4,
+    id: 7,
     imgSrc: "assets/images/latest-news/event8-blog.jpg",
     date: "April 6, 2023",
     title: "NCSAS 2019",
@@ -2130,7 +2158,7 @@ const blogList = [
     slug : "#",
   },
   {
-    id: 5,
+    id: 8,
     imgSrc: "assets/images/latest-news/event9-blog.jpg",
     date: "April 8, 2023",
     title: "Asian Tennis Volleyball Championship",
@@ -2140,7 +2168,7 @@ const blogList = [
     slug : "https://manage-api.sguk.ac.in/api/assets/6756afeb9173bf9f471abdcb",
   },
   {
-    id: 6,
+    id: 9,
     imgSrc: "assets/images/latest-news/event5-blog.jpg",
     date: "April 9, 2023",
     title: "A Story of Grit and Determination",
@@ -4395,7 +4423,22 @@ const programsList = {
               }
             ]
         },
-        
+        {
+          id : 4,
+          levelName : "DIPLOMA",
+            school : [
+              {
+                  id : 1,
+                  schoolName : "Pharmaceutical Science",
+                    program : [
+                        {
+                            id : 1,
+                            programName : "D.Pharm"
+                        }
+                    ]
+              }
+            ]
+        }
   ]
 }
 
