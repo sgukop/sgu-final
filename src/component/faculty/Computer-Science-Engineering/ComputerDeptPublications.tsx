@@ -53,6 +53,9 @@ const computerDeptPublications = ({sectionStyle,pageStyle,categoryStyle} : Props
                         <h3 className="tl-event-details-area-title text-[#4f70b6]">Research & Publications</h3>
                         <div className="tl-event-details-key-content tl-event-details-area">
                                 <ul className="tl-event-details-key-content-list phd-container">
+                                    <li>A Review Paper on "Phishing Website Detection using Machine Learning" in Industrial Engineering Journal.</li>
+                                    <li>A Review Paper On Federated Learning For Image Classification Of Brain Tumor Detection in Industrial Engineering Journal.</li>
+                                    <li>A Review Paper on "Stress Detection in IT Industries using Machine Learning" in Industrial Engineering Journal.</li>
                                     <li>S. Pardeshi, "Artificial Intelligence managing human life," International Journal of Advanced Research in Computer and Communication Engineering (IJARCCE), 2024.</li>
 
                                     <li>Machhale, G., Kadam, S., & Patki, V. (2024). Integration of AI-based chatbot in tech interview prep app. In Proceedings of the 2024 2nd World Conference on Communication & Computing (WCONF).</li>
