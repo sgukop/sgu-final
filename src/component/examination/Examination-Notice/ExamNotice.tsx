@@ -23,6 +23,16 @@ function ExamNotice() {
               </thead>
               <tbody>
                 <tr>
+                  <td><p>26-11-2025</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/6926e1c1160c943cf4224c2f" rel="noopener noreferrer" target="_blank" className="table-link">MOOC Exam Time Table<i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
+                <tr>
+                  <td><p>26-11-2025</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/6926e1af160c943cf4224c2a" rel="noopener noreferrer" target="_blank" className="table-link">Mooc Exam Form Notice<i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
+                <tr>
                   <td><p>24-11-2025</p></td>
                   <td><a href="https://manage-api.sguk.ac.in/api/assets/692447a6eb601ff3d66987c9" rel="noopener noreferrer" target="_blank" className="table-link">Winter-2025_Exam-Schedule.<i className="fa-regular fa-arrow-right"></i></a></td>
                   <td><p>NOTICE</p></td>
