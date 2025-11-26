@@ -91,6 +91,8 @@ const ComputerActivitiesAchievements = () => {
                                 <div className="tl-event-details-key-content col-lg-12 d-md-flex gap-5" style={{ marginTop: '8px',padding:"15px" }}>
                                     <div className="col-md-12 col-12"> 
                                         <ul className="tl-event-details-key-content-list phd-container">
+                                            <li>Workshop on GDG Arcade and Google Cloud Study Jam on 13th october 2025</li>
+                                            <li>Workshop on Google tools , Product and Gemini API Integration  on 3rd october 2025</li>
                                             <li>Sustainable Development was organized on 1st & 2nd February 2024.</li>
                                             <li>Full Stack Development was organized on 16th & 17th February 2024.</li>
                                             <li>Cloud and Edge Computing was organized on 28th & 29th November 2022.</li>
