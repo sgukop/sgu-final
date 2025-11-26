@@ -233,22 +233,22 @@ const ICSBP = () => {
   const registrationFees : FeeInfo[] = [
     {
     category: "UG / PG Student*",
-    fee: "Early Bird (Before 20th Nov): INR 1000 / USD 30 | Late (After 20th Nov): INR 1500 / USD 35",
+    fee: "Early Bird (Before 30th Nov): INR 1000 / USD 30 | Late (After 30th Nov): INR 1500 / USD 35",
     icon: BookOpen,
   },
   {
     category: "Research Scholar*",
-    fee: "Early Bird (Before 20th Nov): INR 1500 / USD 40 | Late (After 20thNov): INR 2000 / USD 45",
+    fee: "Early Bird (Before 30th Nov): INR 1500 / USD 40 | Late (After 30thNov): INR 2000 / USD 45",
     icon: FileText,
   },
   {
     category: "Faculty*",
-    fee: "Early Bird (Before 20th Nov): INR 3000 / USD 50 | Late (After 20thNov): INR 3500 / USD 55",
+    fee: "Early Bird (Before 30th Nov): INR 3000 / USD 50 | Late (After 30thNov): INR 3500 / USD 55",
     icon: Users,
   },
   {
     category: "Corporate / Industry",
-    fee: "Early Bird (Before 20th Nov): INR 5000 / USD 60 | Late (After 20thNov): INR 5500 / USD 65",
+    fee: "Early Bird (Before 30th Nov): INR 5000 / USD 60 | Late (After 30thNov): INR 5500 / USD 65",
     icon: Award,
   },
   ];
@@ -735,7 +735,7 @@ const ICSBP = () => {
                 
                 <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">
                   <h4 className="font-semibold mb-2">Payment Link</h4>
-                  <p className="text-blue-200"><a href="https://edu.easebuzz.in/sign-up/SanjayGhodawatUniversity_Fees/Age_Digital_Transformation/?inst_name=SanjayGhodawatUniversity_Fees&form_name=Age_Digital_Transformation&jsonData=1" rel="noopener noreferrer" target="_blank" className="table-link">Pay Here</a> </p>
+                  <p className="text-blue-200"><a href="https://forms.easebuzz.in/register/SanjayGhodawatUniversity_Fees/Sustainable_Business_Practices_intheAgeofDigital_Transformation" rel="noopener noreferrer" target="_blank" className="table-link">Pay Here</a> </p>
                 </div>
 
                 <div className="p-4 bg-white/10 backdrop-blur-sm rounded-lg">

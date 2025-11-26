@@ -75,21 +75,13 @@ const PhotoGalleryAcademic = () => {
                         </div>
                     </div> 
 
-                    <div className="col-lg-4">
-                        <div className="tl-1-blog flex flex-col justify-center h-full">
-                            <img src="assets/images/photo-gallery/academics/science-academies/8.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
-                                <div className="tl-1-blog-txt">
-                                    <h4 className="tl-1-blog-title"><Link href="/photo-gallery-science-academies">Science Academie's Lecture Workshop 2018</Link></h4>
-                                    <Link href="/photo-gallery-science-academies" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
-                                </div>
-                        </div>
-                    </div>
+                    
 
                     <div className="col-lg-4">
                         <div className="tl-1-blog flex flex-col justify-center h-full">
                             <img src="assets/images/photo-gallery/academics/sci-star-2018/10.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
                                 <div className="tl-1-blog-txt">
-                                    <h4 className="tl-1-blog-title"><Link href="/photo-gallery-sci-star-2018">Sci-STAR 2018</Link></h4>
+                                    <h4 className="tl-1-blog-title"><Link href="/photo-gallery-sci-star-2018">Sci-STAR 2025</Link></h4>
                                     <Link href="/photo-gallery-sci-star-2018" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
                                 </div>
                         </div>
@@ -97,7 +89,7 @@ const PhotoGalleryAcademic = () => {
 
                     <div className="col-lg-4">
                         <div className="tl-1-blog flex flex-col justify-center h-full">
-                            <img src="assets/images/photo-gallery/academics/sci-star-2023/6.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
+                            <img src="assets/images/photo-gallery/academics/sci-star-2023/13.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/photo-gallery-sci-star-2023">Sci-STAR 2023</Link></h4>
                                     <Link href="/photo-gallery-sci-star-2023" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
@@ -111,6 +103,15 @@ const PhotoGalleryAcademic = () => {
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/photo-gallery-tata-technology">Inauguration of TATA Technology Competency Center</Link></h4>
                                     <Link href="/photo-gallery-tata-technology" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
+                                </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4">
+                        <div className="tl-1-blog flex flex-col justify-center h-full">
+                            <img src="assets/images/photo-gallery/academics/science-academies/8.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
+                                <div className="tl-1-blog-txt">
+                                    <h4 className="tl-1-blog-title"><Link href="/photo-gallery-science-academies">Science Academie's Lecture Workshop 2018</Link></h4>
+                                    <Link href="/photo-gallery-science-academies" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
                                 </div>
                         </div>
                     </div>
