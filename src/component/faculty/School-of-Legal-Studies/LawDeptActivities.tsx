@@ -79,7 +79,51 @@ const LawDeptActivities = () => {
               </div>
             </div>
           </div>
-          
+          <div className="col-xl-6 col-lg-10">
+            <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+              <div className="tl-8-course-img">
+                <img
+                  src="assets/images/law-dept/activities&achievements/latest-events/5.jpg"
+                  alt="Achievement Image"
+                />
+              </div>
+              <div className="tl-8-course-txt">
+                <p className="dark-mode-white-color">
+                    SGU’s Aditi Patil & Husain Shaikh win 1st place in the “Legal Escape Room” at Amity University, Mumbai (April 7–9, 2025).
+                </p>
+              </div>
+            </div>
+            </div>
+            <div className="col-xl-6 col-lg-10">
+            <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+              <div className="tl-8-course-img">
+                <img
+                  src="assets/images/law-dept/activities&achievements/latest-events/6.jpg"
+                  alt="Achievement Image"
+                />
+              </div>
+              <div className="tl-8-course-txt">
+                <p className="dark-mode-white-color">
+                    Democracy Day was celebrated with enthusiasm in School of Legal Studies on 15th September, 2025. Students participated in Poster Making and Extempore Competition
+                </p>
+              </div>
+            </div>
+            </div>
+            <div className="col-xl-6 col-lg-10">
+            <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+              <div className="tl-8-course-img">
+                <img
+                  src="assets/images/law-dept/activities&achievements/latest-events/7.jpg"
+                  alt="Achievement Image"
+                />
+              </div>
+              <div className="tl-8-course-txt">
+                <p className="dark-mode-white-color">
+                    10th All India Shivaji University Moot Court and ADR Competition & Vidhi Mela 2025.The competition is scheduled to be held on 8th and 9th March 2025 at Shivaji University,Kolhapur. 
+                </p>
+              </div>
+            </div>
+            </div>
             <div className="col-xl-6 col-lg-10">
             <div className="tl-8-course flex flex-col rounded-[20px] h-full">
               <div className="tl-8-course-img">
@@ -91,6 +135,22 @@ const LawDeptActivities = () => {
               <div className="tl-8-course-txt">
                 <p className="dark-mode-white-color">
                     Participation in Moot Court And ADR competition held at Shivaji University, Kolhapur and N.B.T Law College, Nashik
+                </p>
+              </div>
+            </div>
+            </div>
+
+            <div className="col-xl-6 col-lg-10">
+            <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+              <div className="tl-8-course-img">
+                <img
+                  src="assets/images/law-dept/activities&achievements/latest-events/8.jpg"
+                  alt="Achievement Image"
+                />
+              </div>
+              <div className="tl-8-course-txt">
+                <p className="dark-mode-white-color">
+                    Students of School of Legal Studies, on 15th August,2025 Independence Day, performed a Street Play in Kameri Village, Dist- Sangli, in order to create awareness among the villagers regarding Cyber Crimes and Child Marriages. The Sarpanch of Kameri Grampanchayat encouraged the same and also provided the opportunity to visit the Grampanchayat.
                 </p>
               </div>
             </div>
