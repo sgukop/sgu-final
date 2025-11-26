@@ -9,23 +9,24 @@ const SocialGathering = () => {
                 <div className="row gy-4 gy-sm-5 tl-1-blogs-row">
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
+                            <img src="assets/images/photo-gallery/social-gathering/social-gathering-2025/6.jpeg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
+                                <div className="tl-1-blog-txt">
+                                    <h4 className="tl-1-blog-title"><Link href="/social-gathering-2025">Social Gathering 2025</Link></h4>
+                                    <Link href="/social-gathering-2025" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
+                                </div>
+                        </div>
+                    </div> 
+                    <div className="col-lg-4">
+                        <div className="tl-1-blog">
                             <img src="assets/images/photo-gallery/social-gathering/social-gathering-2023/8.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/social-gathering-2023">Social Gathering 2023</Link></h4>
                                     <Link href="/social-gathering-2023" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
                                 </div>
                         </div>
-                    </div> 
-
-                    <div className="col-lg-4">
-                        <div className="tl-1-blog">
-                            <img src="assets/images/photo-gallery/social-gathering/social-gathering-2018/34.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
-                                <div className="tl-1-blog-txt">
-                                    <h4 className="tl-1-blog-title"><Link href="/social-gathering-2018">Social Gathering 2018</Link></h4>
-                                    <Link href="/social-gathering-2018" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
-                                </div>
-                        </div>
                     </div>
+
+                    
 
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
@@ -36,6 +37,7 @@ const SocialGathering = () => {
                                 </div>
                         </div>
                     </div> 
+                    
                 </div>
              </div>
     </section>
