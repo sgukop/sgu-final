@@ -48,6 +48,14 @@ const LawDeptInfrastrcuture = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
+                            <figure><img src="assets/images/law-dept/academic-infrastructure/infra-9.jpeg" alt="Academic Infrastructure Image"/></figure>
+                        </div>
+                        <h3 className="tl-6-latest-article-title mt-10">Smart Classroom</h3>
+                    </div>
+                  </div>
+                  <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                    <div className="tl-9-blog"> 
+                        <div className="tl-9-event-img">
                             <figure><img src="assets/images/law-dept/academic-infrastructure/infra-5.jpeg" alt="Academic Infrastructure Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Library/E-Library</h3>
