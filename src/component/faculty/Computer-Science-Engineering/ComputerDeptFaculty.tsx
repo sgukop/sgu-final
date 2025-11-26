@@ -57,7 +57,7 @@ const ComputerDeptFaculty = () => {
                             <div className="tl-1-course-txt">
                                 <h4 className="tl-1-course-title-new mt-30">Dr. Deepali Kale-Nikam</h4>
                                 <p className="tl-1-course-author-new dark-mode-white-color">Associate Professor</p>
-                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                                <Link href="https://manage-api.sguk.ac.in/api/assets/692695c6160c943cf4224b2a" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
                         </div>
                     </div> 
@@ -211,7 +211,7 @@ const ComputerDeptFaculty = () => {
                             <div className="tl-1-course-txt">
                                 <h4 className="tl-1-course-title-new mt-30">Ms. Pallavi Patil</h4>
                                 <p className="tl-1-course-author-new dark-mode-white-color">Teaching Assistant</p>
-                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                                <Link href="https://manage-api.sguk.ac.in/api/assets/692695af160c943cf4224b25" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
                         </div>
                     </div>
@@ -224,7 +224,7 @@ const ComputerDeptFaculty = () => {
                             <div className="tl-1-course-txt">
                                 <h4 className="tl-1-course-title-new mt-30">Mr. Siddappa Balikar</h4>
                                 <p className="tl-1-course-author-new dark-mode-white-color">Teaching Assistant</p>
-                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                                <Link href="https://manage-api.sguk.ac.in/api/assets/692695ee160c943cf4224b2f" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
                         </div>
                     </div>
@@ -237,7 +237,7 @@ const ComputerDeptFaculty = () => {
                             <div className="tl-1-course-txt">
                                 <h4 className="tl-1-course-title-new mt-30">Mr. Shubham Bhosale</h4>
                                 <p className="tl-1-course-author-new dark-mode-white-color">ATeaching Assistant</p>
-                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                                <Link href="https://manage-api.sguk.ac.in/api/assets/69269580160c943cf4224b1e" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
                         </div>
                     </div>
@@ -250,7 +250,7 @@ const ComputerDeptFaculty = () => {
                             <div className="tl-1-course-txt">
                                 <h4 className="tl-1-course-title-new mt-30">Dr. Manjusha Nandkumar Chavan</h4>
                                 <p className="tl-1-course-author-new dark-mode-white-color">Associate Professor</p>
-                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                                <Link href="https://manage-api.sguk.ac.in/api/assets/6926960c160c943cf4224b34" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
                         </div>
                     </div>
