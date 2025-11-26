@@ -14,6 +14,7 @@ const ComputerDeptNewEvents = () => {
 
         {/* Helper Function Template */}
         {[
+          { img: "40.jpg", name: "", role: "Actress" },
           { img: "1.jpg", name: "Prajakta Mali", role: "Actress" },
           { img: "2.jpg", name: "", role: "" },
           { img: "3.jpg", name: "Salman Khan", role: "Actor" },
