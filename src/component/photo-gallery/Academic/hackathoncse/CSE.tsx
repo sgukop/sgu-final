@@ -3,48 +3,36 @@ import React from "react";
 const hackathoncse = () => {
   const hackathoncse = [
     {
-        imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image1.png",
+        imgSrc: "assets/images/photo-gallery/academics/hackathon-Cse-2025/1.jpeg",
     },
     {
-        imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image2.png",
+        imgSrc: "assets/images/photo-gallery/academics/hackathon-Cse-2025/2.jpeg",
     },
     {
-        imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image3.png",
+        imgSrc: "assets/images/photo-gallery/academics/hackathon-Cse-2025/3.jpeg",
     },
     {
-        imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image4.png",
+        imgSrc: "assets/images/photo-gallery/academics/hackathon-Cse-2025/4.jpeg",
     },
     {
-        imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image5.png",
+        imgSrc: "assets/images/photo-gallery/academics/hackathon-Cse-2025/5.jpeg",
     },
     {
-        imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image6.jpeg",
+        imgSrc: "assets/images/photo-gallery/academics/hackathon-Cse-2025/6.jpeg",
     },
     {
-        imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image7.jpeg",
+        imgSrc: "assets/images/photo-gallery/academics/hackathon-Cse-2025/7.jpeg",
     },
     {
-        imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image8.jpeg",
+        imgSrc: "assets/images/photo-gallery/academics/hackathon-Cse-2025/8.jpeg",
     },
     {
-        imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image9.jpeg",
+        imgSrc: "assets/images/photo-gallery/academics/hackathon-Cse-2025/9.jpeg",
+    },
+    {
+        imgSrc: "assets/images/photo-gallery/academics/hackathon-Cse-2025/10.jpeg",
     },
     
-    {
-        imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image11.jpeg",
-    },
-    {
-        imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image12.jpeg",
-    },
-    {
-        imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image13.jpeg",
-    },
-    {
-        imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image14.jpeg",
-    },
-    {
-        imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image15.jpeg",
-    },
     
  ];
 
