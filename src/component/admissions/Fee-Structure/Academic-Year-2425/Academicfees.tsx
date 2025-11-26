@@ -110,7 +110,7 @@ const Academicfees = () => {
                   <td><p>160000</p></td>
               </tr>
               <tr>
-                  <td><p>M.Tech. in Civil Engineering (Construction Engineering & Management)</p></td>
+                  <td><p>M.Tech. in Civil Engineering (Structural)</p></td>
                   <td><p>120000</p></td>
                   <td><p>5000</p></td>
                   <td><p>125000</p></td>
@@ -277,7 +277,7 @@ const Academicfees = () => {
                   <td><p>Bachelor of Commerce (B.Com)</p></td>
                   <td><p>40000</p></td>
                   <td><p>5000</p></td>
-                  <td><p>45500</p></td>
+                  <td><p>45000</p></td>
               </tr>
               <tr>
                   <td><p>Bachelor in Businees Administration (B.B.A.)</p></td>
