@@ -19,23 +19,21 @@ const ComputerDeptNewEvents = () => {
 
   const newparentmeet = [
     {
-      imgSrc: "assets/images/computer-science-engineering/activities/new-parent-meet/image1.jpeg",
+      imgSrc: "assets/images/computer-science-engineering/activities/new-parent-meet/1.jpg",
     },
     {
-      imgSrc: "assets/images/computer-science-engineering/activities/new-parent-meet/image2.jpeg",
+      imgSrc: "assets/images/computer-science-engineering/activities/new-parent-meet/2.jpg",
     },
     {
-      imgSrc: "assets/images/computer-science-engineering/activities/new-parent-meet/image3.jpeg",
+      imgSrc: "assets/images/computer-science-engineering/activities/new-parent-meet/3.jpg",
     },
     {
-      imgSrc: "assets/images/computer-science-engineering/activities/new-parent-meet/image4.jpeg",
+      imgSrc: "assets/images/computer-science-engineering/activities/new-parent-meet/4.jpg",
     },
     {
-      imgSrc: "assets/images/computer-science-engineering/activities/new-parent-meet/image5.jpeg",
+      imgSrc: "assets/images/computer-science-engineering/activities/new-parent-meet/5.jpg",
     },
-    {
-      imgSrc: "assets/images/computer-science-engineering/activities/new-parent-meet/image6.jpeg",
-    },
+    
 ]
   const technophilia = [
       {
@@ -296,7 +294,7 @@ const ComputerDeptNewEvents = () => {
         </div>
 
         <div className="tl-11-section-heading mt-50">
-            <h2 className="tl-11-section-title">Parent Meet</h2>
+            <h2 className="tl-11-section-title">Parent Meet 2025-2026</h2>
         </div>
         <div className="row tl-7-classes-row">
          {newparentmeet.map((activityItems1, index) => (
@@ -394,7 +392,7 @@ const ComputerDeptNewEvents = () => {
         </div> 
 
         <div className="tl-11-section-heading mt-50">
-            <h2 className="tl-11-section-title">Parent Meet</h2>
+            <h2 className="tl-11-section-title">Parent Meet 2024-2025</h2>
         </div>
         <div className="row tl-7-classes-row">
          {parentmeet.map((activityItems1, index) => (
