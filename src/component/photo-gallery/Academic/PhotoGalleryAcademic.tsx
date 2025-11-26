@@ -24,7 +24,16 @@ const PhotoGalleryAcademic = () => {
                                     <Link href="/photo-galleryConvocation" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
                                 </div>
                         </div>
-                    </div> 
+                    </div>
+                    <div className="col-lg-4">
+                        <div className="tl-1-blog flex flex-col justify-center h-full">
+                            <img src="assets/images/photo-gallery/academics/6th Convocation Ceremony/2.jpeg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
+                                <div className="tl-1-blog-txt">
+                                    <h4 className="tl-1-blog-title"><Link href="/photo-gallery-six">6th University Convocation 2024-25</Link></h4>
+                                    <Link href="/photo-gallery-six" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
+                                </div>
+                        </div>
+                    </div>  
                     <div className="col-lg-4">
                         <div className="tl-1-blog flex flex-col justify-center h-full">
                             <img src="assets/images/photo-gallery/academics/IEEE/11.jpeg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
