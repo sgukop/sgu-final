@@ -23,6 +23,8 @@ const LawDeptPublications = () => {
                             <h6 className="text-[#4f70b6]"><strong>Name: - Adv.Dr. Anjali Suhas Patil</strong></h6>
                             <h6 className="text-[#4f70b6]"><strong>Designation: - Director, School of Legal Studies, SGU.</strong></h6>
                             <ul className="tl-event-details-key-content-list phd-container mt-30">
+                                    <li>Community Service as A Punishment in India: Comparative Analysis with The Legal Framework Existing in Other Nations, Navjyot Publication, Vol. XIV, ISBN/ISSN 2277-8063 (2025).</li>
+                                    <li>The Evolution Of Transgender’s Rights in India: A Historical and Legislative Prospective, Scopus and Cosmos Indexed Journal, Vol. 15, ISBN/ISSN 1177-5653 (2025).</li>
                                     <li>Investigate the challenges and implications of protecting freedom of expression in the context of the internet and social media.<br/>Vol-13 - Issue 08-August 2023-Shodhak a journal of historical research - Ugc care Journal - List 1, ISSN: 0302-9832</li>
                                     <li>Issues related to Intellectual Property law in the light of Rights of Indigenous people over traditional knowledge.<br/>Vol-36, NO 1(I) 2023 - Utkal Historical Research Journal- ISSN-0976-2132-ugc care listed.</li>
                                     <li>Impact of work stress on employee work-life balance and domestic violence - A covid-19 pandemic scenario.<br/> Vol -9. Issue -6. 2021 - Spark - ISSN -2277-4866</li>
@@ -37,6 +39,21 @@ const LawDeptPublications = () => {
                   </div>
                 </div>
             </div>
+            <div className="row tl-event-details-row g-0">
+                <div className="col-lg-12">
+                   <div className="tl-event-details-left">
+                       <div className="tl-event-details-key-content tl-event-details-area">
+                            <h6 className="text-[#4f70b6]"><strong>Name: - Adv. Dr. Vandana Bhosale </strong></h6>
+                            <h6 className="text-[#4f70b6]"><strong>Designation: - Assistant Professor, SGU.</strong></h6>
+                            <ul className="tl-event-details-key-content-list phd-container mt-30">
+                                    <li>Securing Cyberspace: Navigating the Challenges of Revenge Porn, Blackmail, and Internet Privacy in India with Reference to Young Generation", Technology, Media and the Youth: Exploring the Contest of Sustainable Development and Growth </li>
+                                    
+                            </ul>
+                        </div>
+                  </div>
+                </div>
+            </div>
+
 
             <div className="row tl-event-details-row g-0">
                 <div className="col-lg-12">
@@ -44,6 +61,7 @@ const LawDeptPublications = () => {
                        <div className="tl-event-details-key-content tl-event-details-area">
                         <h3 className="tl-event-details-area-title text-[#4f70b6]">CONFERENCES/ SEMINARS/ WORKSHOPS ATTENTED</h3>
                             <ul className="tl-event-details-key-content-list phd-container mt-30">
+                                    <li>Impact of Occupational Stress on Employee Health and Identification of Human Rights Elements for Human Wellbeing, International conference Proceedings on Evolving Landscape of Corporate Law</li>
                                     <li>Multidisciplinary International Conference on Contemporary Trends in Humanities, Commerce and Basic and Applied Sciences & Charting Sustainable Development at M.L. Dahanukar College, Mumbai.</li>
 
                                     <li>National Conference (Multidisciplinary)Women Empowerment through Skills Development& Vocational Education, JJTU, Rajasthan.</li>
