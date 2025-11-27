@@ -1,4 +1,4 @@
-import BirthdayCelebration58 from '@/component/photo-gallery/Celebrations/58-Birthday-Celebration/BirthdayCelebration58'
+import BirthdayCelebration59 from '@/component/photo-gallery/Celebrations/59-Birthday-Celebration/BirthdayCelebration59'
 import BreadcrumbSection from '@/component/breadcrumb/BreadcrumbSection'
 import CtaSection4 from '@/component/cta/CtaSection4'
 import Layout5 from '@/component/layout/Layout5'
@@ -9,15 +9,15 @@ export const metadata: Metadata = {
     title: 'SGU University',
     description: 'Developed by Enark',
   }
-const BirthdayCelebration58Page = () => {
+const BirthdayCelebration59Page = () => {
   return (
     <Layout5>
         <BreadcrumbSection title='Birthday Celebration of Hon. President' style=''/>
-        <BirthdayCelebration58 />
+        <BirthdayCelebration59 />
        {/* <PricingSection/>
         <CtaSection4 style='tl-8-cta-inner'/> */}
     </Layout5>
   )
 }
 
-export default BirthdayCelebration58Page
+export default BirthdayCelebration59Page
