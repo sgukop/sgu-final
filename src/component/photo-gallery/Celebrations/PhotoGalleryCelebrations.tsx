@@ -9,15 +9,29 @@ const PhotoGalleryCelebrations = () => {
                 <div className="row gy-4 gy-sm-5 tl-1-blogs-row">
                         <div className="col-lg-4">
                         <div className="tl-1-blog">
+                            <img src="assets/images/photo-gallery/celebrations/59th-birthday-celebration/1.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
+                                <div className="tl-1-blog-txt">
+                                    <h4 className="tl-1-blog-title"><Link href="/59th-birthday-celebration">59th Birthday Celebration of Mr. Sanjayji Ghodawat</Link></h4>
+                                    <Link href="/59th-birthday-celebration" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
+                                </div>
+                        </div>
+                    </div>
+
+                        <div className="col-lg-4">
+                        <div className="tl-1-blog">
                             <img src="assets/images/photo-gallery/celebrations/58th-birthday-celebration/1.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/58th-birthday-celebration">58th Birthday Celebration of Mr. Sanjayji Ghodawat</Link></h4>
                                     <Link href="/58th-birthday-celebration" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
                                 </div>
                         </div>
+                        </div>
+
+                        
                     </div> 
+                    
                 </div>
-             </div>
+             
     </section>
   )
 }
