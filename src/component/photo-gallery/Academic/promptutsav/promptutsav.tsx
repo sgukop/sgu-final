@@ -3,26 +3,19 @@ import React from "react";
 const Promptutsav = () => {
   const Promptutsav = [
     {
-        imgSrc: "assets/images/photo-gallery/academics/promptutsav-aiml-2025/11.JFIF",
-    },
-     {
-        imgSrc: "assets/images/photo-gallery/academics/promptutsav-aiml-2025/2.JFIF",
-    },
-     {
         imgSrc: "assets/images/photo-gallery/academics/promptutsav-aiml-2025/22.JFIF",
     },
-     
-     {
-        imgSrc: "assets/images/photo-gallery/academics/promptutsav-aiml-2025/33.JFIF",
+    {
+        imgSrc: "assets/images/photo-gallery/academics/promptutsav-aiml-2025/11.JFIF",
     },
+     
+         
+     
      {
         imgSrc: "assets/images/photo-gallery/academics/promptutsav-aiml-2025/5.JFIF",
     },
      
-     {
-        imgSrc: "assets/images/photo-gallery/academics/promptutsav-aiml-2025/11.JFIF",
-    },
-     
+          
     {
         imgSrc: "assets/images/photo-gallery/academics/promptutsav-aiml-2025/4.JFIF",
     },

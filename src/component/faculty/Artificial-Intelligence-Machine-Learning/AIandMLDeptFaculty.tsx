@@ -105,7 +105,7 @@ const AIandMLDeptFaculty = () => {
                         </div>
                     </div>  
                     
-                        <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
                                 <img src="/assets/images/faculty-profile-photos/AIML/10. Ms. YOGITA PATIL.jpg" alt="Faculty Image"/>
@@ -131,7 +131,111 @@ const AIandMLDeptFaculty = () => {
                                 <Link href="https://manage-api.sguk.ac.in/api/assets/674ede6a4b17e19d8f3617cb" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
                         </div>
-                    </div>   
+                    </div> 
+                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                        <div className="tl-1-course-new">
+                            <div className="tl-1-course-img-new">
+                                <img src="/assets/images/faculty-profile-photos/male.jpg" alt="Faculty Image"/>
+                            </div>
+
+                            <div className="tl-1-course-txt">
+                                <h4 className="tl-1-course-title-new mt-30">Mr.Najim Abdul Naik </h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
+                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                            </div>
+                        </div>
+                    </div> 
+                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                        <div className="tl-1-course-new">
+                            <div className="tl-1-course-img-new">
+                                <img src="/assets/images/faculty-profile-photos/AIML/9. Ms. SAVITA CHARANE.jpg" alt="Faculty Image"/>
+                            </div>
+
+                            <div className="tl-1-course-txt">
+                                <h4 className="tl-1-course-title-new mt-30">Mrs.Savita charane </h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
+                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                            </div>
+                        </div>
+                    </div>  
+                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                        <div className="tl-1-course-new">
+                            <div className="tl-1-course-img-new">
+                                <img src="/assets/images/faculty-profile-photos/male.jpg" alt="Faculty Image"/>
+                            </div>
+
+                            <div className="tl-1-course-txt">
+                                <h4 className="tl-1-course-title-new mt-30">Mr.Jahir Shaikh</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
+                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                        <div className="tl-1-course-new">
+                            <div className="tl-1-course-img-new">
+                                <img src="/assets/images/faculty-profile-photos/male.jpg" alt="Faculty Image"/>
+                            </div>
+
+                            <div className="tl-1-course-txt">
+                                <h4 className="tl-1-course-title-new mt-30">Mr.Vinayak Kishor Kumbhar</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
+                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                        <div className="tl-1-course-new">
+                            <div className="tl-1-course-img-new">
+                                <img src="/assets/images/faculty-profile-photos/male.jpg" alt="Faculty Image"/>
+                            </div>
+
+                            <div className="tl-1-course-txt">
+                                <h4 className="tl-1-course-title-new mt-30">Mr.Kamble Siyang Prafulla</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
+                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                        <div className="tl-1-course-new">
+                            <div className="tl-1-course-img-new">
+                                <img src="/assets/images/faculty-profile-photos/female.jpg" alt="Faculty Image"/>
+                            </div>
+
+                            <div className="tl-1-course-txt">
+                                <h4 className="tl-1-course-title-new mt-30">Mrs.Reshma Vishal Pasale</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
+                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                        <div className="tl-1-course-new">
+                            <div className="tl-1-course-img-new">
+                                <img src="/assets/images/faculty-profile-photos/female.jpg" alt="Faculty Image"/>
+                            </div>
+
+                            <div className="tl-1-course-txt">
+                                <h4 className="tl-1-course-title-new mt-30">Ms.Snehlata Chaudhary</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
+                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                        <div className="tl-1-course-new">
+                            <div className="tl-1-course-img-new">
+                                <img src="/assets/images/faculty-profile-photos/female.jpg" alt="Faculty Image"/>
+                            </div>
+
+                            <div className="tl-1-course-txt">
+                                <h4 className="tl-1-course-title-new mt-30">Dr.Priyanka Shivaprasad More</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
+                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div> 
         </div>
