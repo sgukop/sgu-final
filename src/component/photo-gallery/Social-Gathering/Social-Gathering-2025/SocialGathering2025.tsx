@@ -20,7 +20,19 @@ const SocialGathering2025 = () => {
     {
         imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2025/6.jpeg",
     },
-
+    
+    {
+        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2025/8.jpg",
+    },
+    {
+        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2025/9.jpg",
+    },
+    {
+        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2025/10.jpg",
+    },
+    {
+        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2025/11.jpg",
+    },
     {
         imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2025/7.jpeg",
     },
