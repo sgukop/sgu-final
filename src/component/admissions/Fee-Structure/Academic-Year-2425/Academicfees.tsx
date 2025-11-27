@@ -116,6 +116,12 @@ const Academicfees = () => {
                   <td><p>125000</p></td>
               </tr>
               <tr>
+                  <td><p>M.Tech. in Civil Engineering (Construction Management)</p></td>
+                  <td><p>120000</p></td>
+                  <td><p>5000</p></td>
+                  <td><p>125000</p></td>
+              </tr>
+              <tr>
                   <td><p>M.Tech. in Artificial Intelligence & Data Science</p></td>
                   <td><p>120000</p></td>
                   <td><p>5000</p></td>
