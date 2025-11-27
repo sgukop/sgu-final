@@ -42,7 +42,7 @@ const PhdAdmissionProcess = () => {
                             For any queries contact -
                         </h4>
                         <ul className="tl-event-details-key-content-list phd-container gap-1 mb-3">
-                            <li className="dark-mode-white-color" >Mr. Sanjay Kurane</li>
+                            <li className="dark-mode-white-color" >#</li>
                         </ul>
                         <ul className="tl-event-details-key-content-list phd-container gap-1 mb-3">
                             <li className="dark-mode-white-color"><i className="fa-solid fa-mobile-button mr-3"></i> 9226763395</li>
