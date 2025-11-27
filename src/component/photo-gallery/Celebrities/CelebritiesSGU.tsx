@@ -24,16 +24,13 @@ const ComputerDeptNewEvents = () => {
           { img: "6.jpg", name: "Sara Ali Khan", role: "Actress" },
           { img: "7.jpg", name: "", role: "" },
           { img: "5.jpg", name: "", role: "" },
-         
-          
+       
           { img: "8.jpg", name: "", role: "" },
            { img: "10.jpg", name: "", role: "" },
           { img: "9.jpg", name: "", role: "" },
           
            { img: "11.jpg", name: "", role: "" },
           
-         
-         
           { img: "12.jpg", name: "Arjun Kapoor", role: "Actor" },
           { img: "13.jpg", name: "Arjun Kapoor", role: "Actor" },
           { img: "14.jpg", name: "Arjun Kapoor", role: "Actor" },
@@ -44,9 +41,7 @@ const ComputerDeptNewEvents = () => {
           { img: "19.jpg", name: "Navjot Singh Sidhu", role: "Indian Cricketer" },
           { img: "22.jpg", name: "", role: "" },
           { img: "23.jpg", name: "", role: "" },
-          
-          
-          { img: "26.jpg", name: "", role: "" },
+           { img: "26.jpg", name: "", role: "" },
           { img: "27.jpg", name: "", role: "" },
           { img: "28.jpg", name: "Saif Ali Khan", role: "Actor" },
           { img: "29.jpg", name: "Saif Ali Khan", role: "Actor" },
@@ -59,7 +54,15 @@ const ComputerDeptNewEvents = () => {
           { img: "36.jpg", name: "", role: "" },
           { img: "37.jpg", name: "", role: "" },
           { img: "38.jpg", name: "", role: "" },
-           { img: "1.jpg", name: "Prajakta Mali", role: "Actress" }       
+           { img: "1.jpg", name: "Prajakta Mali", role: "Actress" },
+           { img: "41.jpg", name: "", role: "" },       
+           { img: "42.jpg", name: "", role: "" },
+           { img: "43.jpg", name: "", role: "" },
+           { img: "44.jpg", name: "", role: "" },
+           { img: "45.jpg", name: "", role: "" },
+           { img: "46.jpg", name: "", role: "" },
+           { img: "47.jpg", name: "", role: "" },
+           { img: "48.jpg", name: "", role: "" }
         ].map((item, idx) => (
           <div className="col-xl-6 col-lg-10" key={idx}>
             <div className="tl-8-course flex flex-col rounded-[20px] h-full shadow-sm p-2 hover:shadow-lg transition duration-300 bg-white">
