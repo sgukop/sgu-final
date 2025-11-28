@@ -27,8 +27,9 @@ const AboutLibrary = () => {
                 <div className="col-lg-7">
                     <div>
                        {/*  <h2 className="tl-14-section-title">About Library</h2>  */}
-                        <p className="dark-mode-white-color text-black">	
-                        SGU Central Knowledge Research Center provides a safe, comfortable and friendly environment enabling learning and advancement of knowledge. The vision of the Central Library is to be a leader and partner in providing worldwide information in creating and implementing ideas and services that advance research, teaching and learning. <br/><br/> The library has 37009 Books, 107 Journals and magazines, 3 e-journal packages which contain 4000 e-journals, approx 1600+ CD ROM, 12,000+ IIT Video lectures, 13 Newspapers and 50,000+ IIT Web Courses.</p>
+                        <p className="dark-mode-white-color text-black">
+                        SGUK Knowledge Resource Center provides a safe, comfortable and friendly environment enabling learning and advancement of knowledge. The vision of the Central Library (KRC) is to be a leader and partner in providing worldwide information in creating and implementing ideas and services that advance research, teaching and learning. The Knowledge Resource Center has 38841 Books, 111 Journals and magazines, 4 e-journal packages which contain 4000 e-journals, approx. 1600+ CD ROM, 12,000+ IIT Video lectures, 10 Newspapers and 50,000+ IIT Web Courses.
+                        </p>
                     </div>
                 </div>
             </div>
