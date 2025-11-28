@@ -4,6 +4,97 @@ import Table from "react-bootstrap/Table";
 const BooksStatistics = () => {
   return (
     <div className="accordion" id="accordionExample">
+        <div className="tl-event-details-area tl-course-details-curriculum">
+      <h2 className="accordion-header text-[#4f70b6]" id="headingOne">
+        <button
+          className="accordion-button"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#collapseOne"
+          aria-controls="collapseOne"
+        >
+          Books Statistics 2025-2026
+        </button>
+      </h2>
+      <div
+        id="collapseOne"
+        className="accordion-collapse collapse show"
+        aria-labelledby="headingOne"
+        data-bs-parent="#accordionExample"
+      >
+        <div className="accordion-body">
+      
+      <Table striped bordered responsive className="governing-table">
+          <thead>
+              <tr>
+                  <th><p className="text-[#4f70b6]">Department</p></th>
+                  <th><p className="text-[#4f70b6]">Titles</p></th>
+                  <th><p className="text-[#4f70b6]">Volume</p></th>
+                 
+              </tr>
+          </thead>
+          <tbody>
+              <tr>
+                  <td><p>School of Allied Health Science</p></td>
+                  <td><p>28</p></td>
+                  <td><p>71</p></td>
+              </tr>
+              <tr>
+                  <td><p>School of Commerce and Management</p></td>
+                  <td><p>1579</p></td>
+                  <td><p>5384</p></td>
+              </tr>
+              <tr>
+                  <td><p>School of Computer Science</p></td>
+                  <td><p>1206</p></td>
+                  <td><p>5089</p></td>
+              </tr>
+              <tr>
+                  <td><p>School of Design</p></td>
+                  <td><p>458</p></td>
+                  <td><p>790</p></td>
+              </tr>
+              <tr>
+                  <td><p>School of Legal Studies</p></td>
+                  <td><p>257</p></td>
+                  <td><p>970</p></td>
+              </tr>
+              <tr>
+                  <td><p>School of Liberal Arts</p></td>
+                  <td><p>935</p></td>
+                  <td><p>1822</p></td>
+              </tr>
+              <tr>
+                  <td><p>School of Science</p></td>
+                  <td><p>853</p></td>
+                  <td><p>4276</p></td>
+              </tr>
+
+              <tr>
+                  <td><p>School of Technology</p></td>
+                  <td><p>5598</p></td>
+                  <td><p>19648</p></td>
+              </tr>
+
+              <tr>
+                  <td><p>School of Pharmacy</p></td>
+                  <td><p>853</p></td>
+                  <td><p>4276</p></td>
+              </tr>
+            
+              <tr>
+                  <td><p><strong>Total</strong></p></td>
+                  <td><p><strong>11198</strong></p></td>
+                  <td><p><strong>38841</strong></p></td>
+                 
+              </tr>
+          </tbody>
+      </Table>
+
+     
+        </div>
+      </div>
+    </div>
     <div className="tl-event-details-area tl-course-details-curriculum">
       <h2 className="accordion-header text-[#4f70b6]" id="headingOne">
         <button
@@ -36,56 +127,56 @@ const BooksStatistics = () => {
           <tbody>
               <tr>
                   <td><p>School of Allied Health Science</p></td>
-                  <td><p>23</p></td>
-                  <td><p>57</p></td>
+                  <td><p>28</p></td>
+                  <td><p>71</p></td>
               </tr>
               <tr>
                   <td><p>School of Commerce and Management</p></td>
-                  <td><p>1576</p></td>
-                  <td><p>5369</p></td>
+                  <td><p>1579</p></td>
+                  <td><p>5384</p></td>
               </tr>
               <tr>
                   <td><p>School of Computer Science</p></td>
-                  <td><p>1259</p></td>
-                  <td><p>5257</p></td>
+                  <td><p>1206</p></td>
+                  <td><p>5089</p></td>
               </tr>
               <tr>
                   <td><p>School of Design</p></td>
-                  <td><p>452</p></td>
-                  <td><p>782</p></td>
+                  <td><p>458</p></td>
+                  <td><p>790</p></td>
               </tr>
               <tr>
                   <td><p>School of Legal Studies</p></td>
-                  <td><p>199</p></td>
-                  <td><p>685</p></td>
+                  <td><p>257</p></td>
+                  <td><p>970</p></td>
               </tr>
               <tr>
                   <td><p>School of Liberal Arts</p></td>
-                  <td><p>1955</p></td>
-                  <td><p>4855</p></td>
+                  <td><p>935</p></td>
+                  <td><p>1822</p></td>
               </tr>
               <tr>
                   <td><p>School of Science</p></td>
-                  <td><p>282</p></td>
-                  <td><p>787</p></td>
+                  <td><p>853</p></td>
+                  <td><p>4276</p></td>
               </tr>
 
               <tr>
                   <td><p>School of Technology</p></td>
-                  <td><p>4473</p></td>
-                  <td><p>16313</p></td>
+                  <td><p>5598</p></td>
+                  <td><p>19648</p></td>
               </tr>
 
               <tr>
                   <td><p>School of Pharmacy</p></td>
-                  <td><p>848</p></td>
-                  <td><p>4249</p></td>
+                  <td><p>853</p></td>
+                  <td><p>4276</p></td>
               </tr>
             
               <tr>
                   <td><p><strong>Total</strong></p></td>
-                  <td><p><strong>11067</strong></p></td>
-                  <td><p><strong>38354</strong></p></td>
+                  <td><p><strong>11198</strong></p></td>
+                  <td><p><strong>38841</strong></p></td>
                  
               </tr>
           </tbody>
