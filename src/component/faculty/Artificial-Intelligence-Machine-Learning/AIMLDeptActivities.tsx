@@ -16,6 +16,63 @@ const AIMLDeptActivities = () => {
             data-offset="0"
           >
            <div className="row g-3 g-lg-4 justify-content-center">
+            <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                    <div className="tl-9-blog"> 
+                        <div className="tl-9-event-img">
+                            <figure><img src="assets/images/photo-gallery/academics/promptutsav-aiml-2025/9.jpg" alt="Activities & Achievements Image"/></figure>
+                        </div>
+                        <h3 className="tl-6-latest-article-title mt-10">Promptutsav 2025-26</h3>
+                    </div>
+                  </div>
+            <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                    <div className="tl-9-blog"> 
+                        <div className="tl-9-event-img">
+                            <figure><img src="assets/images/photo-gallery/academics/promptutsav-aiml-2025/1.jpg" alt="Activities & Achievements Image"/></figure>
+                        </div>
+                        <h3 className="tl-6-latest-article-title mt-10">Promptutsav 2025-26</h3>
+                    </div>
+                  </div>
+                  <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                    <div className="tl-9-blog"> 
+                        <div className="tl-9-event-img">
+                            <figure><img src="assets/images/photo-gallery/academics/promptutsav-aiml-2025/2.jpg" alt="Activities & Achievements Image"/></figure>
+                        </div>
+                        <h3 className="tl-6-latest-article-title mt-10">Promptutsav 2025-26</h3>
+                    </div>
+                  </div>
+                  <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                    <div className="tl-9-blog"> 
+                        <div className="tl-9-event-img">
+                            <figure><img src="assets/images/photo-gallery/academics/promptutsav-aiml-2025/5.jpg" alt="Activities & Achievements Image"/></figure>
+                        </div>
+                        <h3 className="tl-6-latest-article-title mt-10">Promptutsav 2025-26</h3>
+                    </div>
+                  </div>
+                  <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                    <div className="tl-9-blog"> 
+                        <div className="tl-9-event-img">
+                            <figure><img src="assets/images/photo-gallery/academics/promptutsav-aiml-2025/11.jpg" alt="Activities & Achievements Image"/></figure>
+                        </div>
+                        <h3 className="tl-6-latest-article-title mt-10">Promptutsav 2025-26</h3>
+                    </div>
+                  </div>
+                  <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                    <div className="tl-9-blog"> 
+                        <div className="tl-9-event-img">
+                            <figure><img src="assets/images/photo-gallery/academics/promptutsav-aiml-2025/22.jpg" alt="Activities & Achievements Image"/></figure>
+                        </div>
+                        <h3 className="tl-6-latest-article-title mt-10">Promptutsav 2025-26</h3>
+                    </div>
+                  </div>
+                  <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                    <div className="tl-9-blog"> 
+                        <div className="tl-9-event-img">
+                            <figure><img src="assets/images/photo-gallery/academics/promptutsav-aiml-2025/33.jpg" alt="Activities & Achievements Image"/></figure>
+                        </div>
+                        <h3 className="tl-6-latest-article-title mt-10">Promptutsav 2025-26</h3>
+                    </div>
+                  </div>
+                  
                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
