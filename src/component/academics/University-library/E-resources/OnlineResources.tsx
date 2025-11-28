@@ -34,15 +34,7 @@ const OnlineResources = () => {
                         </div>
                     </div>
                 </div> 
-                <div className="col-md-2">
-                    <div className="online-resources">
-                        <div className="online-resources-img">
-                            <Link href="https://secure.urkund.com/account/auth/login" target="_blank">
-                                <img src="/assets/images/sgu-library/online-resources/urkund.jpg" alt="Online Resources Image"/>
-                            </Link>
-                        </div>
-                    </div>
-                </div> 
+                 
             </div>  
         </div>
       </div>
@@ -78,15 +70,7 @@ const OnlineResources = () => {
                         </div>
                     </div>
                 </div> 
-                <div className="col-md-2">
-                    <div className="online-resources">
-                        <div className="online-resources-img">
-                            <Link href="https://www.sciencedirect.com/browse/journals-and-books" target="_blank">
-                                <img src="/assets/images/sgu-library/online-resources/scidirect.jpg" alt="Online Resources Image"/>
-                            </Link>
-                        </div>
-                    </div>
-                </div>
+                
                 <div className="col-md-2">
                     <div className="online-resources">
                         <div className="online-resources-img">
@@ -96,20 +80,21 @@ const OnlineResources = () => {
                         </div>
                     </div>
                 </div> 
-                <div className="col-md-2">
-                    <div className="online-resources">
-                        <div className="online-resources-img">
-                            <Link href="https://www.tandfonline.com/" target="_blank">
-                                <img src="/assets/images/sgu-library/online-resources/tandfonline.png" alt="Online Resources Image"/>
-                            </Link>
-                        </div>
-                    </div>
-                </div> 
+                
                 <div className="col-md-2">
                     <div className="online-resources">
                         <div className="online-resources-img">
                             <Link href="https://jgatenext.com/" target="_blank">
                                 <img src="/assets/images/sgu-library/online-resources/jgate.jpg" alt="Online Resources Image"/>
+                            </Link>
+                        </div>
+                    </div>
+                </div>
+                <div className="col-md-2">
+                    <div className="online-resources">
+                        <div className="online-resources-img">
+                            <Link href="www.scconline.com " target="_blank">
+                                <img src="/assets/images/sgu-library/online-resources/ssc online.jpg" alt="Online Resources Image"/>
                             </Link>
                         </div>
                     </div>
