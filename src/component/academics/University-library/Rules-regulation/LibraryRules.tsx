@@ -33,7 +33,8 @@ const LibraryRules = () => {
                                     <li>Refreshment of any kind shall not be taken anywhere in the library premises</li>
                                     <li>Enter your name and Sign in the register kept at the entrance counter before entering any section of the library.</li>
                                 </ul>
-                           
+                                
+                                                           
                         </div>
                       </div>
                 </div>
@@ -51,7 +52,7 @@ const LibraryRules = () => {
           aria-expanded="false"
           aria-controls="collapseTwo"
         >
-         Admission to Library
+         Plagiarism Checking Software Rules
         </button>
       </h2>
       <div
@@ -66,10 +67,25 @@ const LibraryRules = () => {
                         <div className="tl-event-details-left">
                            
                                <ul className="tl-event-details-key-content-list phd-container">
-                                    <li>Only registered members are allowed to use the Library</li>
-                                    <li>Registered members are issued a bar-coded Library Membership Identity card</li>
-                                    <li>Every student must possess his / her Library Card while making use of the Library facility and produce the same to the Library Staff on entering the Library</li>
-                                    <li>Student membership of the Library is renewed at the beginning of each year</li>
+
+                                    <li><strong>Plagiarism Checking Software</strong></li>
+
+                                    <li><strong>Access Policy</strong></li>
+                                    <li>Turnitin plagiarism checking facility is free for all SGU staff and students.</li>
+                                    <li>Users from other institutions and universities can access the service on a paid basis as per the rates below.</li>
+
+                                    <li><strong>Service Charges for External Users</strong></li>
+                                    <li>Research Paper: Rs. 200 per document.</li>
+                                    <li>Book Chapter: Rs. 500 per document.</li>
+                                    <li>Thesis / Dissertation: Rs. 1000 per document.</li>
+
+                                    <li><strong>Similarity Index Guidelines</strong></li>
+                                    <li>Less than 10%: Excellent No revision required.</li>
+                                    <li>10% to 25%: Acceptable  Minor corrections suggested.</li>
+                                    <li>25% to 40%: Needs improvement  Resubmission required after revision.</li>
+                                    <li>Above 40%: Not acceptable  Major rewriting necessary.</li>
+                                    <li>Plagiarism Verification Form Submission: Researcher should collect the prescribed plagiarism verification form from the library and submit the duly filled form to the supervisor/PG section and library.</li>
+
                                 </ul>
                            
                         </div>
@@ -78,6 +94,43 @@ const LibraryRules = () => {
         </div>
       </div>
     </div>
+              <div className="tl-event-details-area tl-course-details-curriculum">
+                <h2 className="accordion-header" id="headingTwo">
+                  <button
+                    className="accordion-button collapsed"
+                    type="button"
+                    data-bs-toggle="collapse"
+                    data-bs-target="#collapseTwo"
+                    aria-expanded="false"
+                    aria-controls="collapseTwo"
+                  >
+                  Admission to Library
+                  </button>
+                </h2>
+                <div
+                  id="collapseTwo"
+                  className="accordion-collapse collapse"
+                  aria-labelledby="headingTwo"
+                  data-bs-parent="#accordionExample"
+                >
+                  <div className="accordion-body">
+                  <div className="row tl-event-details-row g-0">
+                              <div className="col-lg-12">
+                                  <div className="tl-event-details-left">
+                                    
+                                        <ul className="tl-event-details-key-content-list phd-container">
+                                              <li>Only registered members are allowed to use the Library</li>
+                                              <li>Registered members are issued a bar-coded Library Membership Identity card</li>
+                                              <li>Every student must possess his / her Library Card while making use of the Library facility and produce the same to the Library Staff on entering the Library</li>
+                                              <li>Student membership of the Library is renewed at the beginning of each year</li>
+                                          </ul>
+                                    
+                                  </div>
+                                </div>
+                          </div>
+                  </div>
+                </div>
+              </div>
 
     <div className="tl-event-details-area tl-course-details-curriculum">
       <h2 className="accordion-header" id="headingTwo">

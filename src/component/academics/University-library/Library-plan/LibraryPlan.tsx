@@ -18,26 +18,43 @@ const LibraryPlan = () => {
             <div className="row">
                 <div>
                     <ul className="tl-event-details-infos text-black">
-                        <li className="tl-event-details-info">
-                            <span className="key">Reading hall area</span> <span className="ml-20">400.00 sq.mtr.</span> 
-                        </li>
 
-                        <li className="tl-event-details-info">
-                            <span className="key">Stack section</span> <span className="ml-20">400.00 sq.mtr.</span> 
-                        </li>
+                    <li className="tl-event-details-info">
+                        <span className="key">Library Stack Area</span> 
+                        <span className="ml-20">400 sq.mtr.</span>
+                    </li>
 
-                        <li className="tl-event-details-info">
-                            <span className="key">Reference section, Periodical Section and Staff Reading Section</span> <span className="ml-20">100.00 sq.mtr.</span> 
-                        </li>
+                    <li className="tl-event-details-info">
+                        <span className="key">Circulation Section</span> 
+                        <span className="ml-20">100 sq.mtr.</span>
+                    </li>
 
-                        <li className="tl-event-details-info">
-                            <span className="key">Issue counters office and stores</span> <span className="ml-20">90.00 sq.mtr.</span> 
-                        </li>
+                    <li className="tl-event-details-info">
+                        <span className="key">Librarian Cabin</span> 
+                        <span className="ml-20">75 sq.mtr.</span>
+                    </li>
 
-                        <li className="tl-event-details-info">
-                            <span className="key">Digital Library</span> <span className="ml-20">50.00 sq.mtr.</span> 
-                        </li>
-                    </ul>
+                    <li className="tl-event-details-info">
+                        <span className="key">Reference Section</span> 
+                        <span className="ml-20">125 sq.mtr.</span>
+                    </li>
+
+                    <li className="tl-event-details-info">
+                        <span className="key">Digital Library</span> 
+                        <span className="ml-20">100 sq.mtr.</span>
+                    </li>
+
+                    <li className="tl-event-details-info">
+                        <span className="key">Reading Hall Area</span> 
+                        <span className="ml-20">150 sq.mtr.</span>
+                    </li>
+                    <li className="tl-event-details-info font-bold">
+                        <span className="key">Total Area</span> 
+                        <span className="ml-20">950 sq.mtr.</span>
+                    </li>
+
+                </ul>
+
                     </div> 
                 </div>
             </div>
