@@ -7,6 +7,7 @@ const NavLinks = [
     { title: "Research & Publications", path: "/chemical-dept-research" },
     { title: "Professional Bodies", path: "/chemical-professional-bodies" },
     { title: "Activities", path: "/chemical-dept-newactivities" },
+    { title: "Curriculum Structure and Syllabus", path: "/che-dept-syllabus" },
    /*{ title: "Placement", path: "/chemical-dept-placements" }, */
     { title: "MOU", path: "/chemical-dept-MOU" },
     { title: "Conference / Guest lecture / Invited talk / Workshop / FDP attended", path: "/chemical-dept-conference" },

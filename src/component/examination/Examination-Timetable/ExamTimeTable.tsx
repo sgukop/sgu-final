@@ -9,6 +9,15 @@ const ExamTimeTable = () => {
               <div className="row tl-event-details-row g-0 mt-50 flex justify-between">
                 
                 <div className="examination-container">
+                    <div className="row tl-event-details-row g-2">
+                        <div className="col-lg-10 mb-0">
+                        <h6 className="exam-title">Ph.D Time table 2025-26 </h6> 
+                        </div>
+
+                        <div className="col-lg-2">
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6929501921f871c0dce9ad12"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                        </div>
+                    </div>
 
                     <div className="row tl-event-details-row g-2">
                         <div className="col-lg-10 mb-0">

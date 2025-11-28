@@ -33,37 +33,43 @@ const ChemicalDeptInternship = () => {
                         </tr>
                     </thead>
                     <tbody>
-                        <tr>
-                            <td><p>2018-19</p></td>
-                            <td><p>PG</p></td>
-                            <td><p>14</p></td>
-                        </tr>
-                        <tr>
-                            <td><p>2019-20</p></td>
-                            <td><p>PG</p></td>
-                            <td><p>22</p></td>
-                        </tr>
-                        <tr>
-                            <td><p>2020-21</p></td>
-                            <td><p>PG</p></td>
-                            <td><p>52</p></td>
-                        </tr>
-                        <tr>
-                            <td><p>2021-22</p></td>
-                            <td><p>PG</p></td>
-                            <td><p>26</p></td>
-                        </tr>
-                        <tr>
-                            <td><p>2022-23</p></td>
-                            <td><p>PG</p></td>
-                            <td><p>58</p></td>
-                        </tr>
-                        <tr>
-                            <td><p>2023-24</p></td>
-                            <td><p>PG</p></td>
-                            <td><p>15</p></td>
-                        </tr>
-                    </tbody>
+                            <tr>
+                                <td><p>2024-25</p></td>
+                                <td><p>PG</p></td>
+                                <td><p>4</p></td>
+                            </tr>
+                            <tr>
+                                <td><p>2023-24</p></td>
+                                <td><p>PG</p></td>
+                                <td><p>15</p></td>
+                            </tr>
+                            <tr>
+                                <td><p>2022-23</p></td>
+                                <td><p>PG</p></td>
+                                <td><p>58</p></td>
+                            </tr>
+                            <tr>
+                                <td><p>2021-22</p></td>
+                                <td><p>PG</p></td>
+                                <td><p>26</p></td>
+                            </tr>
+                            <tr>
+                                <td><p>2020-21</p></td>
+                                <td><p>PG</p></td>
+                                <td><p>52</p></td>
+                            </tr>
+                            <tr>
+                                <td><p>2019-20</p></td>
+                                <td><p>PG</p></td>
+                                <td><p>22</p></td>
+                            </tr>
+                            <tr>
+                                <td><p>2018-19</p></td>
+                                <td><p>PG</p></td>
+                                <td><p>14</p></td>
+                            </tr>
+                        </tbody>
+
                 </Table>
             </div>
         </div>
@@ -81,36 +87,44 @@ const ChemicalDeptInternship = () => {
                     </thead>
                     <tbody>
                         
-                        <tr>
-                            <td><p>2018-19</p></td>
-                            <td><p>PG</p></td>
-                            <td><p>14</p></td>
-                        </tr>
-                        <tr>
-                            <td><p>2019-20</p></td>
-                            <td><p>PG</p></td>
-                            <td><p>43</p></td>
-                        </tr>
-                        <tr>
-                            <td><p>2020-21</p></td>
-                            <td><p>PG</p></td>
-                            <td><p>37</p></td>
-                        </tr>
-                        <tr>
-                            <td><p>2021-22</p></td>
-                            <td><p>PG</p></td>
-                            <td><p>35</p></td>
-                        </tr>
-                        <tr>
-                            <td><p>2022-23</p></td>
-                            <td><p>PG</p></td>
-                            <td><p>63</p></td>
-                        </tr>
-                        <tr>
-                            <td><p>2023-24</p></td>
-                            <td><p>PG</p></td>
-                            <td><p>39</p></td>
-                        </tr>
+                        
+                                <tr>
+                                    <td><p>2024-25</p></td>
+                                    <td><p>PG</p></td>
+                                    <td><p>04</p></td>
+                                </tr>
+                                <tr>
+                                    <td><p>2023-24</p></td>
+                                    <td><p>PG</p></td>
+                                    <td><p>39</p></td>
+                                </tr>
+                                <tr>
+                                    <td><p>2022-23</p></td>
+                                    <td><p>PG</p></td>
+                                    <td><p>63</p></td>
+                                </tr>
+                                <tr>
+                                    <td><p>2021-22</p></td>
+                                    <td><p>PG</p></td>
+                                    <td><p>35</p></td>
+                                </tr>
+                                <tr>
+                                    <td><p>2020-21</p></td>
+                                    <td><p>PG</p></td>
+                                    <td><p>37</p></td>
+                                </tr>
+                                <tr>
+                                    <td><p>2019-20</p></td>
+                                    <td><p>PG</p></td>
+                                    <td><p>43</p></td>
+                                </tr>
+                                <tr>
+                                    <td><p>2018-19</p></td>
+                                    <td><p>PG</p></td>
+                                    <td><p>14</p></td>
+                                </tr>
+
+
                     </tbody>
                 </Table>
             </div>

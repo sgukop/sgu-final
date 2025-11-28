@@ -23,11 +23,14 @@ const ChemicalDeptAchievements = () => {
             <div className="tl-event-details-key-content">
                 <h3 className="tl-event-details-area-title">Faculty Achievements</h3>
                 <ul className="tl-event-details-key-content-list">
-                  <li>Dr. Shivaji Jadhav received Summer research fellowship in 2019 from  Indian Academy of Science, Bangalore</li>
-                  <li>Dr. Santosh Chavan received DST-SERB, NPDF at IICT Hydrabad 2019-20</li>
-                  <li>Dr. Sonali suryawanshi rechieved InSc Young Researcher, Institute of Scholar, Bengaluru</li>
-                  <li>Mr. Audumber A Patil Best Oral Presentation award in National conference held by Shivaji University, Kolhapur in 2019.</li>
                   <li>Dr. Pallavi Bhange received the Prestigious Young Associate Award in Chemical Sciences from the Maharashtra Academy of Science in 2023 from Prof. G.D. Yadav.</li>
+                  <li>Dr. Sonali suryawanshi rechieved InSc Young Researcher, Institute of Scholar, Bengaluru 2021-2022</li>
+                  <li>Dr. Santosh Chavan received DST-SERB, NPDF at IICT Hydrabad 2019-20</li>
+                  <li>Mr. Audumber A Patil Best Oral Presentation award in National conference held by Shivaji University, Kolhapur in 2019.</li>
+                  <li>Dr. Shivaji Jadhav received Summer research fellowship in 2019 from  Indian Academy of Science, Bangalore</li>
+                
+                  
+                  
                 </ul>
 
             </div>
