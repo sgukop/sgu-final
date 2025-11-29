@@ -76,7 +76,26 @@ const Virtual  = [
       imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/18.jpg",
     },
 ]
-
+const Mysore = [
+    {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/19.jpg",
+    },
+    {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/20.jpg",
+    },
+    {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/21.jpg",
+    },
+    {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/22.jpg",
+    },
+     {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/23.jpg",
+    },
+     {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/24.jpg",
+    },
+]
 const guestlecturesandipsutar = [
   {
     imgSrc: "assets/images/BCA-dept/activities/guest-lecture-sandip-sutar/image1.jpeg",
@@ -364,6 +383,142 @@ const parentmeet = [
               
                    ))}
              </div>
+            {/* Cultural & Heritage Visits */}
+<div className="tl-11-section-heading ">
+  <h2 className="tl-11-section-title">Cultural & Heritage Visits (Bangalore & Mysore)</h2>
+</div>
+
+<div className="col-xl-12 col-lg-12 ">
+  <h2 className="tl-11-section-title">1. ISKCON Temple (Bangalore)</h2>
+
+  <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+    <div className="tl-8-course-txt">
+      <h4 className="achievements-title leading-relaxed text-[16px]">
+                   •  Students experienced the grandeur of one of the world’s largest ISKCON temples,
+                       gaining insights into spirituality, architecture, and rich cultural values.
+      </h4>
+    </div>
+  </div>
+</div>
+<div className="col-xl-12 col-lg-12 ">
+  <h2 className="tl-11-section-title">2. MG Road  (Bangalore)</h2>
+
+  <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+    <div className="tl-8-course-txt">
+      <h4 className="achievements-title leading-relaxed text-[16px]">
+                  •  Students experienced the grandeur of one of the world’s largest ISKCON temples,
+                     gaining insights into spirituality, architecture, and rich cultural values.
+      </h4>
+    </div>
+  </div>
+</div>
+<div className="col-xl-12 col-lg-12 ">
+  <h2 className="tl-11-section-title">3. Lalbagh Botanical Garden (Bangalore)</h2>
+
+  <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+    <div className="tl-8-course-txt">
+      <h4 className="achievements-title leading-relaxed text-[16px]">
+                  • Exposure to a wide variety of flora, glasshouse exhibitions, and landscape architecture enhanced awareness of biodiversity and environmental conservation..
+      </h4>
+    </div>
+  </div>
+</div>
+<div className="col-xl-12 col-lg-12 ">
+  <h2 className="tl-11-section-title">4. Snow World (Bangalore)</h2>
+
+  <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+    <div className="tl-8-course-txt">
+      <h4 className="achievements-title leading-relaxed text-[16px]">
+                 •  Students enjoyed a unique snow-themed experience with fun activities like snow slides, ice games, and simulated snowfall, which added an element of excitement and refreshment to the trip.
+      </h4>
+    </div>
+  </div>
+</div>
+<div className="col-xl-12 col-lg-12 ">
+  <h2 className="tl-11-section-title">5. Mysore Palace (Mysore)</h2>
+
+  <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+    <div className="tl-8-course-txt">
+      <h4 className="achievements-title leading-relaxed text-[16px]">
+                   • Students admired the Indo-Saracenic architecture, historical importance, and royal heritage of Karnataka
+      </h4>
+    </div>
+  </div>
+</div>
+<div className="col-xl-12 col-lg-12 ">
+  <h2 className="tl-11-section-title">6. Mysore Zoo</h2>
+
+  <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+    <div className="tl-8-course-txt">
+      <h4 className="achievements-title leading-relaxed text-[16px]">
+                   •  A visit to one of India’s oldest zoos offered insights into wildlife conservation and biodiversity
+      </h4>
+    </div>
+  </div>
+</div>
+<div className="col-xl-12 col-lg-12 ">
+  <h2 className="tl-11-section-title">7. Brindavan Gardens (Mysore)</h2>
+
+  <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+    <div className="tl-8-course-txt">
+      <h4 className="achievements-title leading-relaxed text-[16px]">
+                   • The famous musical fountain and garden architecture provided a blend of engineering and natural beauty.
+      </h4>
+    </div>
+  </div>
+</div>
+<div className="col-xl-12 col-lg-12 ">
+  <h2 className="tl-11-section-title">8. Chamundeshwari Temple (Mysore)</h2>
+
+  <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+    <div className="tl-8-course-txt">
+      <h4 className="achievements-title leading-relaxed text-[16px]">
+                   • A spiritually enriching visit atop Chamundi Hills where students explored religious traditions and panoramic views of Mysore city.
+      </h4>
+    </div>
+  </div>
+</div>
+<div className="col-xl-12 col-lg-12 ">
+  <h2 className="tl-11-section-title">9. VenuGopal Swami Temple & Backwaters</h2>
+
+  <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+    <div className="tl-8-course-txt">
+      <h4 className="achievements-title leading-relaxed text-[16px]">
+                  • Students witnessed the serene beauty of the temple surroundings and scenic backwaters, offering peace and cultural connection.
+      </h4>
+    </div>
+  </div>
+</div>
+
+
+{/* IMAGE GRID */}
+<div className="row tl-7-classes-row mt-10">
+  {Mysore.map((item, index) => (
+    <div className="col-lg-4 col-sm-6 rounded-[20px] mb-20" key={index}>
+      <div className="tl-7-class">
+        <div className="tl-7-class-img">
+          <img src={item.imgSrc} alt="Activities Images" />
+        </div>
+      </div>
+    </div>
+  ))}
+</div>
+<div className="col-xl-12 col-lg-12 ">
+  <h2 className="tl-11-section-title">Overall Benefits of the Visit</h2>
+
+  <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+    <div className="tl-8-course-txt">
+      <h4 className="achievements-title leading-relaxed text-[16px]">
+          • Academic Exposure: Students gained practical knowledge of software testing, IT consulting, training, and IoT solutions from leading Bangalore industries.<br/>
+          •	Skill Development: Interaction with professionals highlighted industry expectations, employability skills, and career opportunities..<br/>
+          •	Cultural Learning: Visits to temples, gardens, and heritage sites enriched students’ cultural awareness, teamwork, and appreciation of history and environment<br/>
+          •	Recreational Enjoyment: Fun-filled activities at Snow World and sightseeing tours gave students relaxation and bonding moments..<br/>
+          •	Personal Growth: The blend of technical, cultural, and recreational experiences fostered holistic development, confidence, and memorable learning beyond classrooms.<br/>
+      </h4>
+    </div>
+  </div>
+</div>
+
 
             <div className="tl-11-section-heading mt-50">
               
