@@ -84,7 +84,7 @@ const MLTDeptInfrastructure = () => {
                         <div className="tl-9-event-img">
                           <a>
                             <figure>
-                              <img src="assets/images/allied-health-sciences/MLTInfrastructure/4.jpg" alt="Events Image" />
+                              <img src="assets/images/allied-health-sciences/MLT/Infrastructure/4.jpg" alt="Events Image" />
                             </figure>
                           </a>
                         </div>
