@@ -24,6 +24,57 @@ const FireFlinkPvt = [
     {
       imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/4.jpg",
     },
+    
+]
+const Yantra = [
+    {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/5.jpg",
+    },
+    {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/6.jpg",
+    },
+    {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/7.jpg",
+    },
+    {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/8.jpg",
+    },
+    
+]
+const QSpiders = [
+    {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/9.jpg",
+    },
+    {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/10.jpg",
+    },
+    {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/11.jpg",
+    },
+    {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/12.jpg",
+    },
+    
+]
+const Virtual  = [
+    {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/13.jpg",
+    },
+    {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/14.jpg",
+    },
+    {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/15.jpg",
+    },
+    {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/16.jpg",
+    },
+     {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/17.jpg",
+    },
+     {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/18.jpg",
+    },
 ]
 
 const guestlecturesandipsutar = [
@@ -208,10 +259,11 @@ const parentmeet = [
                 </div>
               ))}
             </div>  
-           <div className="tl-11-section-heading mb-20">
+           <div className="tl-11-section-heading ">
            <h2 className="tl-11-section-title">Industrial Visits</h2>
           </div>
-             <div className="col-xl-12 col-lg-12 mb-30">
+             <div className="col-xl-12 col-lg-12 ">
+              <h2 className="tl-11-section-title">Fire FlinkPvt. Ltd.</h2>
   <div className="tl-8-course flex flex-col rounded-[20px] h-full">
     <div className="tl-8-course-txt">
       <h4 className="achievements-title leading-relaxed text-[16px]">
@@ -232,11 +284,89 @@ const parentmeet = [
                 </div>
                 </div>
               </div>
+              
+                   ))}
+             </div>
+             
+             <div className="col-xl-12 col-lg-12 ">
+              <h2 className="tl-11-section-title">Test Yantra Software Solutions Pvt. Ltd.</h2>
+  <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+    <div className="tl-8-course-txt">
+      <h4 className="achievements-title leading-relaxed text-[16px]">
+        •	Industry Type: IT Services & Consulting<br/>
+        •	Focus Area: Workforce solutions, development, and testing services.<br/>
+        •Guidance to Students: Introduced corporate culture and client-based project management.<br/>
+        •	Benefit to Students: Understood the transition from academic learning to industry deployment.
+      </h4>
+    </div>
+  </div>
+            </div>
+             <div className="row tl-7-classes-row mt-10">
+               {Yantra.map((activityItems1, index) => (
+               <div className="col-lg-4 col-sm-6 rounded-[20px] mb-20" key={index}>
+                 <div className="tl-7-class">
+                   <div className="tl-7-class-img">
+                  <img src={activityItems1.imgSrc} alt="Activities Images" />
+                </div>
+                </div>
+              </div>
+              
+                   ))}
+             </div>
+             
+             <div className="col-xl-12 col-lg-12 ">
+              <h2 className="tl-11-section-title"> QSpiders.</h2>
+  <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+    <div className="tl-8-course-txt">
+      <h4 className="achievements-title leading-relaxed text-[16px]">
+        • Industry Type: Training & Placement Organization<br/>
+        •	Focus Area: Technical training in development and testing (Java, Python, Web, Manual& Automation Testing).<br/>
+        •	Guidance to Students: Shared current industry skill requirements and career roadmaps..<br/>
+        •	Benefit to Students: Motivated to upskill and enhance employability.
+      </h4>
+    </div>
+  </div>
+            </div>
+             <div className="row tl-7-classes-row mt-10">
+               {QSpiders.map((activityItems1, index) => (
+               <div className="col-lg-4 col-sm-6 rounded-[20px] mb-20" key={index}>
+                 <div className="tl-7-class">
+                   <div className="tl-7-class-img">
+                  <img src={activityItems1.imgSrc} alt="Activities Images" />
+                </div>
+                </div>
+              </div>
+              
+                   ))}
+             </div>
+<div className="col-xl-12 col-lg-12 ">
+              <h2 className="tl-11-section-title"> Virtual Forest Pvt Ltd.</h2>
+  <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+    <div className="tl-8-course-txt">
+      <h4 className="achievements-title leading-relaxed text-[16px]">
+        •	Industry Type: Clean Tech / IoT Solutions<br/>
+        •	Focus Area: Motor control systems, IoT-enabled devices, energy-efficient technology.<br/>
+        •	Guidance to Students: Showcased hardware-software integrated solutions and sustainable technologies.<br/>
+        •	Benefit to Students: Gained exposure to interdisciplinary fields like AI, IoT, and green technology.
+      </h4>
+    </div>
+  </div>
+            </div>
+             <div className="row tl-7-classes-row mt-10">
+               {Virtual .map((activityItems1, index) => (
+               <div className="col-lg-4 col-sm-6 rounded-[20px] mb-20" key={index}>
+                 <div className="tl-7-class">
+                   <div className="tl-7-class-img">
+                  <img src={activityItems1.imgSrc} alt="Activities Images" />
+                </div>
+                </div>
+              </div>
+              
                    ))}
              </div>
 
-
             <div className="tl-11-section-heading mt-50">
+              
                 <h2 className="tl-11-section-title">Guest lecture by OrangeIT  Pune on "Career opportunities in IT"</h2>
             </div>
             <div className="row tl-7-classes-row">
@@ -249,8 +379,10 @@ const parentmeet = [
                       
                     </div>
                   </div>
+                  
                 ))}
               </div> 
+              
 
               <div className="tl-11-section-heading mt-50">
                   <h2 className="tl-11-section-title">Guest lecture by Dr.Sandip Sutar ,Director IQAC ,Associate professor (DY Patil Prathisthan's college of Engineering) on Internet of Things (IoT) on 12th March 2025</h2>
@@ -262,8 +394,7 @@ const parentmeet = [
                         <div className="tl-7-class-img">
                           <img src={activityItems1.imgSrc} alt="Activities Images" />
                         </div>
-                        
-                      </div>
+                   </div>
                     </div>
                   ))}
                 </div>  
