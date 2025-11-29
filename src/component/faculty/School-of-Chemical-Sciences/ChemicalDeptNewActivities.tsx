@@ -9,6 +9,7 @@ const ChemicalDeptNewActivities = () => {
             <div className="tl-14-section-heading">
                 <h2 className="tl-9-section-title mb-50">Events & Activities</h2>
             </div>
+            
             <div className="row">
               <MenuList dept="Chemistry" subMenu={NavLinks} />
               <div
@@ -19,6 +20,60 @@ const ChemicalDeptNewActivities = () => {
               >
 
                 <div className="tl-11-section-heading"><h2 className="tl-11-section-title">Events</h2></div>
+                
+                <div className="tl-11-section-heading"><h2 className="tl-11-section-title">Industrial Visit</h2></div>
+                <div className="row g-xl-4 g-3 justify-content-center">
+                <div className="col-xl-12 col-lg-12">
+                    <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+                        <div className="tl-8-course-txt">
+                            <h4 className="achievements-title">The Department of Chemistry, School of Physical and Chemical Sciences, Sanjay Ghodawat University organized a two-day industrial visit for B.Sc. and M.Sc. students to Sanofi, Monginis Bakery, Paul John Distillery, and Archie Brewery in Goa on 3rd-4th October 2025.
+                        </h4>
+                        </div>
+                    </div>
+                </div>
+                <div className="col-xl-6 col-lg-10">
+                    <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+                        <div className="tl-8-course-img self-center">
+                            <img src="assets/images/chemical-sciences-dept/activities/new-activities/1.jpg" alt="Activity Image"/>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="col-xl-6 col-lg-10">
+                    <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+                        <div className="tl-8-course-img self-center">
+                            <img src="assets/images/chemical-sciences-dept/activities/new-activities/1.jpg" alt="Activity Image"/>
+                        </div>
+                    </div>
+                </div>
+                </div>
+<div className="tl-11-section-heading"><h2 className="tl-11-section-title">Workshop</h2></div>
+                <div className="row g-xl-4 g-3 justify-content-center">
+                <div className="col-xl-12 col-lg-12">
+                    <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+                        <div className="tl-8-course-txt">
+                            <h4 className="achievements-title">One day Workshop on “Making of Household Chemicals” organized for UG and PG Students on 28th Oct. 2025.
+                        </h4>
+                        </div>
+                    </div>
+                </div>
+                <div className="col-xl-6 col-lg-10">
+                    <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+                        <div className="tl-8-course-img self-center">
+                            <img src="assets/images/chemical-sciences-dept/activities/new-activities/3.jpg" alt="Activity Image"/>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="col-xl-6 col-lg-10">
+                    <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+                        <div className="tl-8-course-img self-center">
+                            <img src="assets/images/chemical-sciences-dept/activities/new-activities/4.jpg" alt="Activity Image"/>
+                        </div>
+                    </div>
+                </div>
+                </div>
+                
 
                 <div className="tl-11-section-heading"><h2 className="tl-11-section-title">Science Club</h2></div>
                 <div className="row g-xl-4 g-3 justify-content-center">
@@ -658,9 +713,15 @@ const ChemicalDeptNewActivities = () => {
                         <p className="dark-mode-white-color" style={{textAlign:"justify"}}>A two day Science Academies Lecture Workshop on <strong>“Recent advance in Catalysis Sciences”</strong> was held in The Sanjay Ghodawat University, Atigre, Kolhapur (MS) on 23rd and 24th February, 2018. <br/> The Lecture workshop was sponsored by the Science Academies, Indian Academy of Science (IASc) Bengaluru, <strong>(Sanctioned grant of Rs. 1,65,000/-).</strong> The Lecture workshop was organized by the Department of Chemistry, Sanjay Ghodawat University, Kolhapur. Dr. C. S. Gopinath, Senior Principal Scientist, FASc, National Chemical Laboratory, Pune was the Convener and Dr. P. D. Bhange, Assistant Professor of Sanjay Ghodawat University was the Coordinator of this programme.</p>
                     </div>
                 </div>
-            </div>
-           </div>
-           </div>
+               </div>
+                </div>
+               </div>
+               
+               
+               
+           
+           
+           
         </section>
       )
 }

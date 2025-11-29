@@ -48,6 +48,8 @@ const ChemicalDeptAchievements = () => {
             <div className="tl-event-details-key-content">
                 <h3 className="tl-event-details-area-title">Students Achievements</h3>
                 <ul className="tl-event-details-key-content-list">
+                    <li>Ms Ruth Madhale, Research Scholar from the Department of Chemistry has successfully Ph.D degree in Chemistry.
+                         Thesis entitled: “development of novel photocatalytic materials for water splitting, environmental remediation and antimicrobial activity”.</li>
                     <li>Sunny Dubal (M.Sc- II project student) received a Best poster presentation prize at National conference on “Emerging Trends in Chemical and Material Sciences” (ETCMS- 2020) on 6-7th March., 2020 at Shivaji University, Kolhapur.</li>
                     <li>Mr. Tejas Patil who has been selected for the Summer internship program at IIT, Bhubaneshwar.</li>
                     <li>Miss Nikita Dadhich, T. Y. B. Sc student selected for award of Wenyan scholarship for her UG research project from BASF-PKC Pune Maharashtra. </li>

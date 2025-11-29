@@ -29,6 +29,11 @@ const ChemicalDeptMOU = () => {
                 </tr>
               </thead>
               <tbody>
+                 <tr>
+                  <td><p>2025</p></td>
+                  <td><p>Infinia Sciences Pvt Ltd,Pune,</p></td>
+                </tr>
+
                 <tr>
                   <td><p>2023</p></td>
                   <td><p>Fluorochem Pvt Ltd, Pune</p></td>
