@@ -68,6 +68,7 @@ const LibraryStaffMembers = () => {
                    <div className="tl-2-course-info">
                        <h6 className="tl-2-course-info-key">Email: </h6>
                        <h6 className="tl-2-course-info-value">gorakh.suryavanshi@sguk.ac.in</h6>
+                       
                    </div>
                    </div>
               </div>
