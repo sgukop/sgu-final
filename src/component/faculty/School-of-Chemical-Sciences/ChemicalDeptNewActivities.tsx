@@ -42,7 +42,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/new-activities/1.jpg" alt="Activity Image"/>
+                            <img src="assets/images/chemical-sciences-dept/activities/new-activities/2.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>

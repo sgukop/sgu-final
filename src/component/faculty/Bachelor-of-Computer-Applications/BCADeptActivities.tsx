@@ -11,6 +11,20 @@ const BCADeptActivities = () => {
       imgSrc: "assets/images/BCA-dept/activities/guest-lecture-orangeIT/image2.jpeg",
     },
 ]
+const FireFlinkPvt = [
+    {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/1.jpg",
+    },
+    {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/3.jpg",
+    },
+    {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/2.jpg",
+    },
+    {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/4.jpg",
+    },
+]
 
 const guestlecturesandipsutar = [
   {
@@ -194,6 +208,33 @@ const parentmeet = [
                 </div>
               ))}
             </div>  
+           <div className="tl-11-section-heading mb-20">
+           <h2 className="tl-11-section-title">Industrial Visits</h2>
+          </div>
+             <div className="col-xl-12 col-lg-12 mb-30">
+  <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+    <div className="tl-8-course-txt">
+      <h4 className="achievements-title leading-relaxed text-[16px]">
+        • Industry Type: Software Testing and QA Services<br/>
+        • Focus Area: End-to-end testing solutions, automation frameworks, quality assurance strategies, functional, performance, and security testing.<br/>
+        • Guidance to Students: Demonstrated real-time testing processes and automation tools; explained challenges in enterprise-level testing and AI-based approaches.<br/>
+        • Benefit to Students: Understood the importance of QA in software development and explored career opportunities, advanced testing domains, and professional practices.
+      </h4>
+    </div>
+  </div>
+            </div>
+             <div className="row tl-7-classes-row mt-10">
+               {FireFlinkPvt.map((activityItems1, index) => (
+               <div className="col-lg-4 col-sm-6 rounded-[20px] mb-20" key={index}>
+                 <div className="tl-7-class">
+                   <div className="tl-7-class-img">
+                  <img src={activityItems1.imgSrc} alt="Activities Images" />
+                </div>
+                </div>
+              </div>
+                   ))}
+             </div>
+
 
             <div className="tl-11-section-heading mt-50">
                 <h2 className="tl-11-section-title">Guest lecture by OrangeIT  Pune on "Career opportunities in IT"</h2>
@@ -372,6 +413,7 @@ const parentmeet = [
             </div>
           </div>
         </div>
+        
       </section>
     </>
   );
