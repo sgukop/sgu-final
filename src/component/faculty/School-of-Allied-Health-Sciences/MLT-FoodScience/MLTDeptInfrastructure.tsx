@@ -33,10 +33,77 @@ const MLTDeptInfrastructure = () => {
                         </div>
                   </div>
                 </div>
+                  {/* ---------- IMAGES GRID ---------- */}
+                  <div className="row g-3 g-lg-4">
+
+                    {/* CARD 1 */}
+                    <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                      <div className="tl-9-blog flex flex-col h-full">
+                        <div className="tl-9-event-img">
+                          <a>
+                            <figure>
+                              <img src="assets/images/allied-health-sciences/MLT/Infrastructure/1.jpg" alt="Events Image" />
+                            </figure>
+                          </a>
+                        </div>
+                        <h3 className="tl-6-latest-article-title mt-10">Instruments in the Laboratory</h3>
+                      </div>
+                    </div>
+
+                    {/* CARD 2 */}
+                    <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                      <div className="tl-9-blog flex flex-col h-full">
+                        <div className="tl-9-event-img">
+                          <a>
+                            <figure>
+                              <img src="assets/images/allied-health-sciences/MLT/Infrastructure/2.jpg" alt="Events Image" />
+                            </figure>
+                          </a>
+                        </div>
+                        <h3 className="tl-6-latest-article-title mt-10">MLT Laboratory</h3>
+                      </div>
+                    </div>
+
+                    {/* CARD 3 */}
+                    <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                      <div className="tl-9-blog flex flex-col h-full">
+                        <div className="tl-9-event-img">
+                          <a>
+                            <figure>
+                              <img src="assets/images/allied-health-sciences/MLT/Infrastructure/3.jpg" alt="Events Image" />
+                            </figure>
+                          </a>
+                        </div>
+                        <h3 className="tl-6-latest-article-title mt-10">Microbiology Laboratory</h3>
+                      </div>
+                    </div>
+
+                    {/* CARD 4 */}
+                    <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                      <div className="tl-9-blog flex flex-col h-full">
+                        <div className="tl-9-event-img">
+                          <a>
+                            <figure>
+                              <img src="assets/images/allied-health-sciences/MLTInfrastructure/4.jpg" alt="Events Image" />
+                            </figure>
+                          </a>
+                        </div>
+                        <h3 className="tl-6-latest-article-title mt-10">Instrumentation room</h3>
+                      </div>
+                    </div>
+
+                   
+                    </div>
+
+                  </div>
+                  {/* ---------- END IMAGES GRID ---------- */}
+
+                </div>
+              </div>
             </div>
-        </div>
-    </div>
-</div>
+        
+    
+
 </section>
     )
 }
