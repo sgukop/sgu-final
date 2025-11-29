@@ -76,7 +76,7 @@ const MLTDeptFaculty = () => {
                             <div className="tl-1-course-txt">
                                 <h4 className="tl-1-course-title-new mt-30">Mr. Suraj Dipak Gabale</h4>
                                 <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/692a7f6821f871c0dce9afb0" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                                <Link href="https://manage-api.sguk.ac.in/api/assets/692a8d0121f871c0dce9aff9" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
                         </div>
                     </div>     
