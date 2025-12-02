@@ -30,89 +30,71 @@ const BCADeptUpcomingEvents = () =>  {
                                                     <th><p className="text-[#4f70b6]">Day & Date</p></th>
                                                 </tr>
                                             </thead>
-                                            <tbody>
-                                                <tr>
-                                                    <td><p>1</p></td>
-                                                    <td><p>CASA Event</p></td>
-                                                    <td><p>MBA Auditorium</p></td>
-                                                    <td><p>29th January 2025</p></td>
-                                                </tr>
-                                                <tr>
-                                                    <td><p>2</p></td>
-                                                    <td><p>Expert Session Regarding Project</p></td>
-                                                    <td><p>Flexible Learning Space, A Block, 1st Floor</p></td>
-                                                    <td><p>31st January 2025</p></td>
-                                                </tr>
+                                        <tbody>
+                                                    <tr>
+                                                        <td>1</td>
+                                                        <td>Guest Lecture</td>
+                                                        <td>Department of Computer Applications</td>
+                                                        <td>1/08/2025</td>
+                                                    </tr>
 
-                                                <tr>
-                                                    <td><p>3</p></td>
-                                                    <td><p>Expert Session</p></td>
-                                                    <td><p>2nd Floor Seminar Hall,'C' Block</p></td>
-                                                    <td><p>7th February 2025</p></td>
-                                                </tr>
+                                                    <tr>
+                                                        <td>2</td>
+                                                        <td>Expert Session</td>
+                                                        <td>Ms. ASavari Patil (Program Coordinator)</td>
+                                                        <td>14/08/2025</td>
+                                                    </tr>
 
-                                                <tr>
-                                                    <td><p>4</p></td>
-                                                    <td><p>Industrial Visit</p></td>
-                                                    <td><p>Pune/Hyderabad/Kolhapur</p></td>
-                                                    <td><p>7th & 8th March 2025</p></td>
-                                                </tr>
+                                                    <tr>
+                                                        <td>3</td>
+                                                        <td>Workshop</td>
+                                                        <td>Ms. Pratiksha Talewadikar</td>
+                                                        <td>13/09/2025</td>
+                                                    </tr>
 
-                                                <tr>
-                                                    <td><p>5</p></td>
-                                                    <td><p>Parent Teacher Meet</p></td>
-                                                    <td><p>Flexible Learning Space, A Block, 1st Floor</p></td>
-                                                    <td><p>22nd March 2025</p></td>
-                                                </tr>
+                                                    <tr>
+                                                        <td>4</td>
+                                                        <td>Technical Event</td>
+                                                        <td>Ms. Supriya Sawant</td>
+                                                        <td>27/09/2025</td>
+                                                    </tr>
 
-                                                <tr>
-                                                    <td><p>6</p></td>
-                                                    <td><p>Guest Lecture</p></td>
-                                                    <td><p>Flexible Learning Space, A Block, 1st Floor</p></td>
-                                                    <td><p>28th March 2025</p></td>
-                                                </tr>
+                                                    <tr>
+                                                        <td>5</td>
+                                                        <td>Non-Technical Event</td>
+                                                        <td>Mr. Shridhar Vanjire</td>
+                                                        <td>11/10/2025</td>
+                                                    </tr>
 
-                                                <tr>
-                                                    <td><p>7</p></td>
-                                                    <td><p>Seminar</p></td>
-                                                    <td><p>Flexible Learning Space, A Block, 1st Floor</p></td>
-                                                    <td><p>1st April 2025</p></td>
-                                                </tr>
+                                                    <tr>
+                                                        <td>6</td>
+                                                        <td>Parent Meeting</td>
+                                                        <td>Mr. Omkar Salunkhe</td>
+                                                        <td>13/10/2025</td>
+                                                    </tr>
 
-                                                <tr>
-                                                    <td><p>8</p></td>
-                                                    <td><p>Training and Placement Activity</p></td>
-                                                    <td><p>Flexible Learning Space, A Block, 1st Floor</p></td>
-                                                    <td><p>7th to 11th April 2025</p></td>
-                                                </tr>
+                                                    <tr>
+                                                        <td>7</td>
+                                                        <td>Training & Placement Session</td>
+                                                        <td>Mrs. Swati A. Patil</td>
+                                                        <td>27/10/2025</td>
+                                                    </tr>
 
-                                                <tr>
-                                                    <td><p>9</p></td>
-                                                    <td><p>Technical Event</p></td>
-                                                    <td><p>Flexible Learning Space, A Block, 1st Floor</p></td>
-                                                    <td><p>16th & 17th April 2025</p></td>
-                                                </tr>
+                                                    <tr>
+                                                        <td>8</td>
+                                                        <td>Expert Session by Industry Expert</td>
+                                                        <td>Ms. Ishwari Bhosale</td>
+                                                        <td>31/10/2025</td>
+                                                    </tr>
 
-                                                <tr>
-                                                    <td><p>10</p></td>
-                                                    <td><p>Social Activity</p></td>
-                                                    <td><p>Outside SGU Campus</p></td>
-                                                    <td><p>15th April 2025</p></td>
-                                                </tr>
+                                                    <tr>
+                                                        <td>9</td>
+                                                        <td>Social Activity</td>
+                                                        <td>Ms. Jyoti Chavan</td>
+                                                        <td>3/11/2025</td>
+                                                    </tr>
+                                                </tbody>
 
-                                                <tr>
-                                                    <td><p>11</p></td>
-                                                    <td><p>Faculty Development Program</p></td>
-                                                    <td><p>Flexible Learning Space, A Block, 1st Floor</p></td>
-                                                    <td><p>13th and 14th May 2025</p></td>
-                                                </tr>
-                                                <tr>
-                                                    <td><p>12</p></td>
-                                                    <td><p>Club Activities</p></td>
-                                                    <td><p>Auditorium & Flexible Learning Space, A Block, 1st Floor</p></td>
-                                                    <td><p>2nd or 4th Saturday of Week</p></td>
-                                                </tr>
-                                            </tbody>
                                         </Table>
                                     </div>
                                 </div>
