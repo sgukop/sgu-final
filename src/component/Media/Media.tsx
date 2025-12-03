@@ -38,7 +38,7 @@ const Media = () => {
                                 <p className="text-sm text-gray-600 mb-2">12 December 2024</p>
 
                                 <h4 className="tl-1-course-title-new">
-                                    Success of Ghodawat International School Boarding Students
+                                    Success of Ghodawat International School Boarding Students.
                                 </h4>
                                 </div>
 
