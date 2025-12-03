@@ -31,72 +31,101 @@ function BCADeptBOS() {
                     <th><p className="text-[#4f70b6]">Name of Member</p></th>
                     <th><p className="text-[#4f70b6]">Designation</p></th>
                     <th><p className="text-[#4f70b6]">Position</p></th>
+                    <th><p className="text-[#4f70b6]">Mail ID</p></th>
                 </tr>
               </thead>
-              <tbody>
-                <tr>
-                  <td><p>1</p></td>
-                  <td><p>Dr. Chetan S.Arage</p></td>
-                  <td><p>Associate Professor and HOD,Dept of CA</p></td>
-                  <td><p>Chairman</p></td>
-                </tr>
+                      <tbody>
+                      <tr>
+                        <td>1</td>
+                        <td>Dr. Chetan S. Arage</td>
+                        <td>Associate Professor and HOD, Dept of CA</td>
+                        <td>Chairman</td>
+                        <td>chetan.arage@ca.sguk.ac.in </td>
+                      </tr>
 
-                <tr>
-                  <td><p>2</p></td>
-                  <td><p>Dr. Shivanand S .Gornale</p></td>
-                  <td><p>Professor</p></td>
-                  <td><p>Member(Expert Academician)</p></td>
-                </tr>
+                      <tr>
+                        <td>2</td>
+                        <td>Dr. Shivanand S. Gornale</td>
+                        <td>Professor</td>
+                        <td>Member (Expert Academician)</td>
+                        <td>shivanand_gornale@yahoo.com </td>
+                      </tr>
 
-                <tr>
-                  <td><p>3</p></td>
-                  <td><p>Mr. Amol Jadhav</p></td>
-                  <td><p>Project Manager</p></td>
-                  <td><p>Member(Expert Industry)</p></td>
-                </tr>
+                      <tr>
+                        <td>3</td>
+                        <td>Mr. Amol Jadhav</td>
+                        <td>Project Manager</td>
+                        <td>Member (Expert Industry)</td>
+                        <td>jadhavdeveloper@gmail.com </td>
+                      </tr>
 
-                <tr>
-                  <td><p>4</p></td>
-                  <td><p>Dr. Hiren Jaytilal Dand</p></td>
-                  <td><p>Professor</p></td>
-                  <td><p>Member(Expert Academician)</p></td>
-                </tr>
+                      <tr>
+                        <td>4</td>
+                        <td>Dr. Hiren Jaytilal Dand</td>
+                        <td>Professor</td>
+                        <td>Member (Expert Academician)</td>
+                        <td>hirendand@gmail.com </td>
+                      </tr>
 
-                <tr>
-                  <td><p>5</p></td>
-                  <td><p>Mrs. Swati A. Patil</p></td>
-                  <td><p>Assistant Professor</p></td>
-                  <td><p>Member</p></td>
-                </tr>
+                      <tr>
+                        <td>5</td>
+                        <td>Mr. Jyoti A. Chavan</td>
+                        <td>Assistant Professor</td>
+                        <td>Coordinator</td>
+                        <td>jyoti.chavan@ca.sguk.ac.in </td>
+                      </tr>
 
-                <tr>
-                  <td><p>6</p></td>
-                  <td><p>Ms. Jyoti A. Chavan</p></td>
-                  <td><p>Assistant Professor</p></td>
-                  <td><p>Member</p></td>
-                </tr>
+                      <tr>
+                        <td>6</td>
+                        <td>Mrs. Swati A. Patil</td>
+                        <td>Assistant Professor</td>
+                        <td>Member</td>
+                        <td>swati.patil@ca.sguk.ac.in </td>
+                      </tr>
 
-                <tr>
-                  <td><p>7</p></td>
-                  <td><p>Ms. Usha B. Bubane</p></td>
-                  <td><p>Assistant Professor</p></td>
-                  <td><p>Member</p></td>
-                </tr>
+                      <tr>
+                        <td>7</td>
+                        <td>Ms. Asavari Patil</td>
+                        <td>Assistant Professor</td>
+                        <td>Member</td>
+                        <td>asavari.patil@ca.sguk.ac.in</td>
+                      </tr>
 
-                <tr>
-                  <td><p>8</p></td>
-                  <td><p>Mr. Prashant Mithari</p></td>
-                  <td><p>Assistant Professor</p></td>
-                  <td><p>Member</p></td>
-                </tr>
+                      <tr>
+                        <td>8</td>
+                        <td>Mrs. Usha Bubane</td>
+                        <td>Assistant Professor</td>
+                        <td>Member</td>
+                        <td>usha.bubane@ca.sguk.ac.in </td>
+                      </tr>
 
-                <tr>
-                  <td><p>9</p></td>
-                  <td><p>Mrs. Vidya S. Bhosale</p></td>
-                  <td><p>Assistant Professor</p></td>
-                  <td><p>Member</p></td>
-                </tr>
-                </tbody>
+                      <tr>
+                        <td>9</td>
+                        <td>Mr. Shridhar Vanjire</td>
+                        <td>Assistant Professor</td>
+                        <td>Member</td>
+                        <td>shridhar.vanjire@ca.sguk.ac.in</td>
+                      </tr>
+
+                      <tr>
+                        <td>10</td>
+                        <td>Mrs. Supriya Sawant</td>
+                        <td>Assistant Professor</td>
+                        <td>Member</td>
+                        <td>supriya.sawant@ca.sguk.ac.in </td>
+                      </tr>
+
+                      <tr>
+                        <td>11</td>
+                        <td>Ms. Muskan Shaikh</td>
+                        <td>Alumni</td>
+                        <td>Member</td>
+                        <td></td>
+                      </tr>
+                    </tbody>
+
+
+
             </Table>
           </div>
         </div>

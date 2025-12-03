@@ -28,15 +28,15 @@ function WomensCommittee() {
               <tr>
                  <td>
                     <p>Mrs. Deepika V. Patil</p> 
-                    <a href="mailto:deepika.patil@sanjayghodawatuniversity.ac.in" className="table-link">deepika.patil@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:deepika.patil@sanjayghodawatuniversity.ac.in" className="table-link">deepika.patil@cs.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
                   <td><p>Asst. Prof. & Department Coordinator <br/> (School of Computer Science & Engineering.)</p></td>
                   <td><p>Chairperson</p></td>
               </tr>
               <tr>
                  <td>
-                    <p>Prof. Dr. Yogeshwari L. Giri.</p> 
-                    <a href="mailto:yogeshwari.giri@sanjayghodawatuniversity.ac.in" className="table-link">yogeshwari.giri@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <p>Dr.S. Gomathi.</p> 
+                    <a href="mailto:s.gomathi@mg.sguk.ac.in" className="table-link">s.gomathi@mg.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
                   <td><p>Professor & Dean , <br/> Commerce & Management</p></td>
                   <td><p>Member</p></td>

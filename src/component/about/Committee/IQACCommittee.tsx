@@ -55,7 +55,7 @@ function IQACCommittee() {
 
                 <tr>
                     <td><p>6</p> </td>
-                    <td><p>Dr. Giri Y. L, <br/> Dean Faculty of Commerce & Management.</p></td>
+                    <td><p>Dr.S. Gomathi, <br/> Dean Faculty of Commerce & Management.</p></td>
                     <td><p>Member</p></td>
                 </tr>
 

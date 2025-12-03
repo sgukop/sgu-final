@@ -32,7 +32,7 @@ function StudentGrievanceCommittee() {
 
                 <tr>
                     <td>
-                        <p>Prof. Dr. Yogeshwari L. Giri.,</p> 
+                        <p>Dr.S. Gomathi,</p> 
                         <a href="mailto:yogeshwari.giri@sanjayghodawatuniversity.ac.in" className="table-link">yogeshwari.giri@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                     </td>
                     <td><p>Dean, Faculty of Commerce & Management</p></td>

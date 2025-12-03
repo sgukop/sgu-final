@@ -109,10 +109,13 @@ const expertsessioncybersicurity = [
 ]
   const convocation = [
     {
-      imgSrc: "assets/images/BCA-dept/activities/convocation-ceremony/c1.jpg",
+      imgSrc: "assets/images/BCA-dept/activities/convocation-ceremony/1.jpg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/convocation-ceremony/c2.png",
+      imgSrc: "assets/images/BCA-dept/activities/convocation-ceremony/2.jpg",
+    },
+    {
+      imgSrc: "assets/images/BCA-dept/activities/convocation-ceremony/3.jpg",
     },
 ]
   const codeCrackers = [

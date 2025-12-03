@@ -42,12 +42,7 @@ function BoardOfStudent() {
                 <td><p>Fine Arts Mr. Dalvi Ajay</p></td>
                 <td><p>Member</p></td>
             </tr>
-
-            <tr>
-                <td><p>Dr. A. D. Katdare</p></td>
-                <td><p>Member</p></td>
-            </tr>
-
+            
             <tr>
                 <td><p>Student Representative Shivtej Khot</p></td>
                 <td><p>Member</p></td>

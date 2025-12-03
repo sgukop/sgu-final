@@ -28,7 +28,7 @@ function BoardOfManagement() {
                  <td>
                     <p>Prof. Dr. Udhav Bhosle</p> 
                     <p>SGU Campus, Atigre</p>
-                    <a href="mailto:vc@sanjayghodawatuniversity.ac.in" className="table-link">vc@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:vc@sguk.ac.in" className="table-link">vc@sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Vice-Chancellor,</p>
@@ -77,7 +77,7 @@ function BoardOfManagement() {
                  <td>
                       <p>Prof. Dr. V .V. Kulkarni</p>
                       <p>SGU Campus, Atigre.</p>
-                      <a href="mailto:vivek.kulkarni@sanjayghodawatuniversity.ac.in" className="table-link">vivek.kulkarni@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a> <br/>
+                      <a href="mailto:dean@fst.sguk.ac.in" className="table-link">dean@fst.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a> <br/>
                   </td>
 
                   <td><p>Dean,</p>
@@ -91,9 +91,9 @@ function BoardOfManagement() {
 
               <tr>
                  <td>
-                    <p>Dr. Y. L. Giri </p>
+                    <p>Dr.S. Gomathi </p>
                     <p>SGU Campus, Atigre.</p>
-                      <a href="mailto:dean.scm@sanjayghodawatuniversity.ac.in" className="table-link">dean.scm@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a> <br/>
+                      <a href="mailto:dean@fcm.sguk.ac.in" className="table-link">dean@fcm.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a> <br/>
                   </td>
 
                   <td><p>Dean,</p>
@@ -135,7 +135,7 @@ function BoardOfManagement() {
                  <td>
                  <p>Dr. Revati Deshpande <br/>
                  C/o Sanjay Ghodawat University, B-Block A/P- Atigre, Tal-Hatkanangale, Dist - Kolhapur.</p>
-                 <a href="mailto:revati.deshpande@@sanjayghodawatuniversity.ac.in" className="table-link">revati.deshpande@@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a> <br/>
+                 <a href="mailto:revati.deshpande@mg.sguk.ac.in" className="table-link">revati.deshpande@mg.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a> <br/>
                   </td>
 
                   <td><p>Director,</p>
@@ -146,26 +146,12 @@ function BoardOfManagement() {
                   <td><p>22(1) d</p></td>
               </tr>
 
-              <tr>
-                 <td>
-                 <p>Mr. S. M. Ingale</p>
-                
-                 <a href="mailto:sanjaykumar.ingale@sanjayghodawatuniversity.ac.in" className="table-link">sanjaykumar.ingale@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a> <br/>
-                  </td>
-
-                  <td><p>I/C Dean,</p>
-                  <p>Faculty of Interdisciplinary,<br/>
-                  Sanjay Ghodawat University</p>
-                  </td>
-                  <td><p>Teacher, Nominated by Sponsoring Body</p></td>
-                  <td><p>22(1) e</p></td>
-              </tr>
-
+              
               <tr>
                  <td>
                  <p>Dr. A. D. Sawant </p>
                 
-                 <a href="mailto:anand.sawant@sanjayghodawatuniversity.ac.in" className="table-link">anand.sawant@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a> <br/>
+                 <a href="mailto:anand.sawant@ch.sguk.ac.in" className="table-link">anand.sawant@ch.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a> <br/>
                   </td>
 
                   <td><p>Associate Dean,</p>
@@ -180,7 +166,7 @@ function BoardOfManagement() {
                  <td>
                  <p>Mr. Prakash A. Desai </p>
                 
-                 <a href="mailto:cfo@sanjayghodawatuniversity.ac.in" className="table-link">cfo@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a> <br/>
+                 <a href="mailto:cfo@sguk.ac.in" className="table-link">cfo@sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a> <br/>
                   </td>
 
                   <td><p>Chief Finance And Accounts Officer,<br/>
@@ -195,7 +181,7 @@ function BoardOfManagement() {
                  <td>
                  <p>Dr. Vivek M. Kayande </p>
                 
-                 <a href="mailto:registrar@sanjayghodawatuniversity.ac.in" className="table-link">registrar@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a> <br/>
+                 <a href="mailto:registrar@sguk.ac.in" className="table-link">registrar@sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a> <br/>
                   </td>
 
                   <td><p>Registrar,<br/>

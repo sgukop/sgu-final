@@ -28,7 +28,7 @@ function AcademicCouncil() {
                  <td>
                     <p>Prof. Dr. Udhav Bhosle</p> 
                     <p>SGU Campus, Atigre</p>
-                    <a href="mailto:vc@sanjayghodawatuniversity.ac.in" className="table-link">vc@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:vc@ssguk.ac.in" className="table-link">vc@sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Vice-Chancellor,</p>
@@ -42,7 +42,7 @@ function AcademicCouncil() {
                  <td>
                     <p>Prof. Dr. V .V. Kulkarni</p> 
                     <p>SGU Campus, Atigre</p>
-                    <a href="mailto:vivek.kulkarni@sanjayghodawatuniversity.ac.in" className="table-link">vivek.kulkarni@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:dean@fst.sguk.ac.in" className="table-link">dean@fst.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Dean,</p>
@@ -55,9 +55,9 @@ function AcademicCouncil() {
 
               <tr>
                  <td>
-                    <p>Dr. Y. L. Giri</p> 
+                    <p>Dr.S. Gomathi</p> 
                     <p>SGU Campus, Atigre</p>
-                    <a href="mailto:dean.scm@sanjayghodawatuniversity.ac.in" className="table-link">dean.scm@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:dean@fcm.sguk.ac.in" className="table-link">dean@fcm.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Dean,</p>
@@ -72,7 +72,7 @@ function AcademicCouncil() {
                  <td>
                     <p>Dr. U. P. Jadhav</p> 
                     <p>C-Block, SGU Campus, Atigre.</p>
-                    <a href="mailto:uttam.jadhav@sanjayghodawatuniversity.ac.in" className="table-link">uttam.jadhav@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:dean@fhs.sguk.ac.in" className="table-link">dean@fhs.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>I/C Dean,</p>
@@ -82,25 +82,12 @@ function AcademicCouncil() {
                   <td><p>20.2(ii) <br/> 20.2(iii) <br/> 20.2(iv)</p></td>
               </tr>
 
-              <tr>
-                 <td>
-                    <p>Mr. S. M. Ingale</p> 
-                    <p>Sanjay Ghodawat University, Kolhapur - 416118</p>
-                    <a href="mailto:sanjaykumar.ingale@sanjayghodawatuniversity.ac.in" className="table-link">sanjaykumar.ingale@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>I/C Dean,</p>
-                      <p>Faculty of Interdisciplinary</p>
-                  </td>
-                  <td><p>Member</p></td>
-                  <td><p>20.2(ii)</p></td>
-              </tr>
-
+ 
               <tr>
                  <td>
                     <p>Dr. A. D. Sawant</p> 
                     <p>Department of Chemistry. Sanjay Ghodawat University, Kolhapur - 416118</p>
-                    <a href="mailto:anand.sawant@sanjayghodawatuniversity.ac.in" className="table-link">anand.sawant@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:anand.sawant@ch.sguk.ac.in" className="table-link">anand.sawant@ch.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Associate Dean,</p>
@@ -115,7 +102,7 @@ function AcademicCouncil() {
                     <p>Mr. S. Sulthan</p> 
                     <p>School of Technology, C/o Aeronautical Engineering,</p>
                     <p>Sanjay Ghodawat University, A/P- Atigre, Tal-Hatkanangale, Dist - Kolhapur.</p>
-                    <a href="mailto:khandal.sv@sanjayghodawatuniversity.ac.in" className="table-link">khandal.sv@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:s.sulthan@as.sguk.ac.in" className="table-link">s.sulthan@as.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Chairman,</p>
@@ -128,9 +115,9 @@ function AcademicCouncil() {
 
               <tr>
                  <td>
-                    <p>Dr. A. D. Katdare</p> 
+                    <p>Dr. Sachin Popat Patil .</p> 
                     <p>C/o Civil Engineering, A-Block, Sanjay Ghodawat University A/P- Atigre, Tal-Hatkanangale, Dist - Kolhapur.</p>
-                    <a href="mailto:amay.khatdare@sanjayghodawatuniversity.ac.in" className="table-link">amay.khatdare@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:sachin.patil@ce.sguk.ac.in" className="table-link">sachin.patil@ce.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Chairman,</p>
@@ -146,7 +133,7 @@ function AcademicCouncil() {
                     <p>Mr. Dhawan Ajay Prabhakar</p> 
                     <p>C/o Mechanical Engineering, A-Block, Sanjay Ghodawat University A/P- Atigre, Tal-Hatkanangale, Dist - Kolhapur.</p>
                     
-                    <a href="mailto:ajay.dhawan@sanjayghodawatuniversity.ac.in" className="table-link">ajay.dhawan@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:ajay.dhawan@me.sguk.ac.in" className="table-link">ajay.dhawan@me.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Chairman,</p>
@@ -162,7 +149,7 @@ function AcademicCouncil() {
                     <p>Dr. Chetan Arage</p> 
                     <p>Computer Application,<br/>B-Block, Sanjay Ghodawat University A/P- Atigre,<br/>Tal - Hatkanangale, Dist - Kolhapur.</p>
                     
-                    <a href="mailto:chetan.arage@sanjayghodawatuniversity.ac.in" className="table-link">chetan.arage@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:chetan.arage@ca.sguk.ac.in" className="table-link">chetan.arage@ca.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Chairman,</p>
@@ -178,7 +165,7 @@ function AcademicCouncil() {
                     <p>Dr. Deepika Patil</p> 
                     <p>Computer Science Engineering,<br/>B-Block, Sanjay Ghodawat University A/P- Atigre,<br/>Tal - Hatkanangale, Dist - Kolhapur.</p>
                     
-                    <a href="mailto:deepika.patil@sanjayghodawatuniversity.ac.in" className="table-link">deepika.patil@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:deepika.patil@cs.sguk.ac.in" className="table-link">deepika.patil@cs.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Chairman,</p>
@@ -194,7 +181,7 @@ function AcademicCouncil() {
                     <p>Dr. M. P. Gaikwad</p> 
                     <p>Artificial Intelligence and Machine Learning,<br/>B-Block, Sanjay Ghodawat University A/P- Atigre,<br/>Tal - Hatkanangale, Dist - Kolhapur.</p>
                     
-                    <a href="mailto:mahesh.gaikwad@sanjayghodawatuniversity.ac.in" className="table-link">mahesh.gaikwad@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:mahesh.gaikwad@am.sguk.ac.in" className="table-link">mahesh.gaikwad@am.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Chairman,</p>
@@ -207,10 +194,10 @@ function AcademicCouncil() {
 
               <tr>
                  <td>
-                    <p>Dr. R. M. Linus</p> 
+                    <p>Dr. Swapnil Manohar Hirikude </p> 
                     <p>C/o Electronics and Communication Engineering, B-Block, Sanjay Ghodawat University A/P- Atigre, Tal-Hatkanangale, Dist - Kolhapur.</p>
                     
-                    <a href="mailto:rajin.linus@sanjayghodawatuniversity.ac.in" className="table-link">rajin.linus@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:swapnil.hirikude@ec.sguk.ac.in" className="table-link">swapnil.hirikude@ec.sguk.ac.in<i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Chairman,</p>
@@ -226,7 +213,7 @@ function AcademicCouncil() {
                     <p>Dr. P. D. Bhange</p> 
                     <p>School of Physical & Chemical Science,<br/>Sanjay Ghodawat University A/P- Atigre, Tal - Hatkanangale,<br/>Dist - Kolhapur.</p>
                     
-                    <a href="mailto:pallavi.bhange@sanjayghodawatuniversity.ac.in" className="table-link">pallavi.bhange@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:pallavi.bhange@ch.sguk.ac.in" className="table-link">pallavi.bhange@ch.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>HOD, Chairman,</p>
@@ -242,7 +229,7 @@ function AcademicCouncil() {
                     <p>Dr. S. M. Pawar</p> 
                     <p>Department of Physics,Sanjay Ghodawat University,<br/>Kolhapur - 416118</p>
                     
-                    <a href="mailto:@sanjayghodawatuniversity.ac.in" className="table-link">@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:sambhaji.pawar@ph.sguk.ac.in" className="table-link">sambhaji.pawar@ph.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Chairman,</p>
@@ -258,7 +245,7 @@ function AcademicCouncil() {
                     <p>Adv. Dr. Anjali Patil</p> 
                     <p>Department of LAW, Block-C, SGU Campus, Atigre.</p>
                     
-                    <a href="mailto:anjali.patil@sanjayghodawatuniversity.ac.in" className="table-link">anjali.patil@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:anjali.patil@lw.sguk.ac.in" className="table-link">anjali.patil@lw.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Chairman,</p>
@@ -292,7 +279,7 @@ function AcademicCouncil() {
                     <p>School of Architecture, Block –B, SGU Campus, Atigre.</p>
                  
                     
-                    <a href="mailto:sachin.patil@sanjayghodawatuniversity.ac.in" className="table-link">sachin.patil@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:sachin.patil@ce.sguk.ac.in" className="table-link">sachin.patil@ce.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>I/C Director</p>
@@ -306,7 +293,7 @@ function AcademicCouncil() {
               <tr>
                  <td>
                     <p>Dr. R. L .Deshpande</p> 
-                     <a href="mailto:iqac@sanjayghodawatuniversity.ac.in" className="table-link">iqac@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                     <a href="mailto:iqac@sguk.ac.in" className="table-link">iqac@sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Director</p>
@@ -319,9 +306,9 @@ function AcademicCouncil() {
 
               <tr>
                  <td>
-                    <p>Mr. Jayprakash Patil</p> 
+                    <p> Ms.Priyanka Patil </p> 
                     <p>School of Media , Block –B, SGU Campus, Atigre.</p>
-                     <a href="mailto:jayprakash.patil @sanjayghodawatuniversity.ac.in" className="table-link">jayprakash.patil @sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                     <a href="mailto:priyanka.patil@jm.sguk.ac.in" className="table-link">priyanka.patil@jm.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Director</p>
@@ -426,7 +413,7 @@ function AcademicCouncil() {
                  <td>
                     <p>Dr. N. K. Patil</p> 
                    
-                     <a href="mailto:coe@sanjayghodawatuniversity.ac.in" className="table-link">coe@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                     <a href="mailto:coe@sguk.ac.in" className="table-link">coe@sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Contoller of Examinations</p>

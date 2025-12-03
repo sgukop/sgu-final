@@ -27,7 +27,7 @@ function BoardOfResearch() {
                  <td>
                     <p>Prof. Dr. Udhav Bhosle</p> 
                     <p>SGU Campus, Atigre</p>
-                    <a href="mailto:vc@sanjayghodawatuniversity.ac.in" className="table-link">vc@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:vc@sguk.ac.in" className="table-link">vc@sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Vice-Chancellor,</p>
@@ -41,7 +41,7 @@ function BoardOfResearch() {
                  <td>
                     <p>Prof. Dr. V .V. Kulkarni</p> 
                     <p>SGU Campus, Atigre</p>
-                    <a href="mailto:vivek.kulkarni@sanjayghodawatuniversity.ac.in" className="table-link">vivek.kulkarni@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:dean@fst.sguk.ac.in" className="table-link">dean@fst.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Dean,</p>
@@ -56,7 +56,7 @@ function BoardOfResearch() {
                  <td>
                     <p>Dr. A. D. Sawant</p> 
                     <p>SGU Campus, Atigre</p>
-                    <a href="mailto:anand.sawant@sanjayghodawatuniversity.ac.in" className="table-link">anand.sawant@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:anand.sawant@ch.sguk.ac.in" className="table-link">anand.sawant@ch.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Associate Dean,</p>
@@ -69,9 +69,9 @@ function BoardOfResearch() {
 
               <tr>
                  <td>
-                    <p>Dr. Y. L. Giri</p> 
+                    <p>Dr.S. Gomathi</p> 
                     <p>SGU Campus, Atigre</p>
-                    <a href="mailto:dean.scm@sanjayghodawatuniversity.ac.in" className="table-link">dean.scm@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:dean@fcm.sguk.ac.in" className="table-link">dean@fcm.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Dean,</p>
@@ -82,26 +82,13 @@ function BoardOfResearch() {
                   <td><p></p></td>
               </tr>
 
-              <tr>
-                 <td>
-                    <p>Mr. S. M. Ingale</p> 
-                   
-                    <a href="mailto:sanjaykumar.ingale@sanjayghodawatuniversity.ac.in" className="table-link">sanjaykumar.ingale@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>I/C Dean,</p>
-                      <p>Faculty of Interdisciplinary,</p>
-                      <p>Sanjay Ghodawat University</p>
-                  </td>
-                  <td><p>Member</p></td>
-                  <td><p></p></td>
-              </tr>
+            
 
               <tr>
                  <td>
                     <p>Dr. A. D. Sawant</p> 
                    
-                    <a href="mailto:anand.sawant@sanjayghodawatuniversity.ac.in" className="table-link">anand.sawant@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:anand.sawant@ch.sguk.ac.in" className="table-link">anand.sawant@ch.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Associate Dean,</p>
@@ -116,7 +103,7 @@ function BoardOfResearch() {
                  <td>
                     <p>Dr. U. P. Jadhav</p> 
                     <p>C-Block, SGU Campus, Atigre.</p>
-                    <a href="mailto:uttam.jadhav@sanjayghodawatuniversity.ac.in" className="table-link">uttam.jadhav@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:dean@fhs.sguk.ac.in" className="table-link">dean@fhs.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>I/C Dean,</p>

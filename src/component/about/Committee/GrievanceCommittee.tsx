@@ -39,8 +39,8 @@ function GrievanceCommittee() {
 
               <tr>
                  <td>
-                    <p>Prof. Dr. Yogeshwari L. Giri.</p> 
-                     <a href="mailto:yogeshwari.giri@sanjayghodawatuniversity.ac.in" className="table-link">yogeshwari.giri@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <p>Dr. S. Gomathi</p> 
+                     <a href="mailto:s.gomathi@mg.sguk.ac.in@sanjayghodawatuniversity.ac.in" className="table-link">s.gomathi@mg.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Dean,</p>

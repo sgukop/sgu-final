@@ -42,7 +42,7 @@ function BoardOfNational() {
                  <td>
                     <p>Prof. Dr. V .V. Kulkarni</p> 
                     <p>SGU Campus, Atigre</p>
-                    <a href="mailto:vivek.kulkarni@sanjayghodawatuniversity.ac.in" className="table-link">vivek.kulkarni@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:dean@fst.sguk.ac.in" className="table-link">dean@fst.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Dean,</p>
@@ -58,7 +58,7 @@ function BoardOfNational() {
                     <p>Dr. A. D. Sawant</p> 
                     <p>Department of Chemistry. Sanjay Ghodawat University,<br/> Kolhapur - 416118</p>
                     <p>SGU Campus, Atigre</p>
-                    <a href="mailto:anand.sawant@sanjayghodawatuniversity.ac.in" className="table-link">anand.sawant@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:anand.sawant@ch.sguk.ac.in" className="table-link">anand.sawant@ch.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Associate Dean,</p>
@@ -71,10 +71,10 @@ function BoardOfNational() {
 
               <tr>
                  <td>
-                    <p>Dr. Y. L. Giri</p> 
+                    <p>Dr.S. Gomathi</p> 
                  
                     <p>SGU Campus, Atigre</p>
-                    <a href="mailto:dean.scm@sanjayghodawatuniversity.ac.in" className="table-link">dean.scm@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:dean@fcm.sguk.ac.in" className="table-link">dean@fcm.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Dean,</p>
@@ -90,7 +90,7 @@ function BoardOfNational() {
                     <p>Dr. U. P. Jadhav</p> 
                  
                     <p>C-Block, SGU Campus, Atigre.</p>
-                    <a href="mailto:uttam.jadhav@sanjayghodawatuniversity.ac.in" className="table-link">uttam.jadhav@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:dean@fhs.sguk.ac.in" className="table-link">dean@fhs.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>I/C Dean,</p>
@@ -101,16 +101,18 @@ function BoardOfNational() {
                   <td><p></p></td>
               </tr>
 
+              
+
               <tr>
                  <td>
-                    <p>Mr. S. M. Ingale</p> 
-                 
-                    <p>Sanjay Ghodawat University, Kolhapur - 416118</p>
-                    <a href="mailto:sanjaykumar.ingale@sanjayghodawatuniversity.ac.in" className="table-link">sanjaykumar.ingale@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <p>Dr. N. K. Patil</p> 
+                     <p>Controller of Examination</p>
+                   
+                    <a href="mailto:ceo@sguk.ac.in" className="table-link">ceo@sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
-                  <td><p>I/C Dean,</p>
-                      <p>Faculty of Interdisciplinary</p>
+                  <td><p>Professors Nominated by the Hon. Vice-Chancellor</p>
+                      
                     
                   </td>
                   <td><p>Member</p></td>
@@ -118,54 +120,13 @@ function BoardOfNational() {
               </tr>
 
               
-              <tr>
-                 <td>
-                    <p>One Member from BOM</p> 
-                 </td>
-
-                 <td><p>Member</p></td>
-                  <td></td>
-                  <td></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p>Dr. N. K. Patil</p> 
-                     <p>Controller of Examination</p>
-                   
-                    <a href="mailto:ceo@sanjayghodawatuniversity.ac.in" className="table-link">ceo@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>Professors Nominated by the Hon. Vice-Chancellor</p>
-                      
-                    
-                  </td>
-                  <td><p>Member</p></td>
-                  <td><p></p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p>Dr. S. R. Patil</p> 
-                    
-                   
-                    <a href="mailto:shivajirao.patil@sanjayghodawatuniversity.ac.in" className="table-link">shivajirao.patil@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>Professors Nominated by the Hon. Vice-Chancellor</p>
-                      
-                    
-                  </td>
-                  <td><p>Member</p></td>
-                  <td><p></p></td>
-              </tr>
 
               <tr>
                  <td>
                     <p>Dr. N. V. Pujari</p> 
                     
                    
-                    <a href="mailto:basavraj.pujari@sanjayghodawatuniversity.ac.in" className="table-link">basavraj.pujari@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:basavraj.pujari@sguk.ac.in" className="table-link">basavraj.pujari@sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Professors Nominated by the Hon. Vice-Chancellor</p>
@@ -209,7 +170,7 @@ function BoardOfNational() {
                  <td>
                     <p>Dr. S. M. Pawar</p> 
                      <p>Sanjay Ghodawat University,<br/>Kolhapur - 416118</p>
-                     <a href="mailto:sambaji.pawar@sanjayghodawatuniversity.ac.in" className="table-link">sambaji.pawar@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                     <a href="mailto:sambaji.pawar@ch.sguk.ac.in" className="table-link">sambaji.pawar@ch.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Director (Innovation, Incubation and Research)</p>
