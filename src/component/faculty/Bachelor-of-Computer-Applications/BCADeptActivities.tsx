@@ -114,9 +114,7 @@ const expertsessioncybersicurity = [
     {
       imgSrc: "assets/images/BCA-dept/activities/convocation-ceremony/2.jpg",
     },
-    {
-      imgSrc: "assets/images/BCA-dept/activities/convocation-ceremony/3.jpg",
-    },
+    
 ]
   const codeCrackers = [
     {

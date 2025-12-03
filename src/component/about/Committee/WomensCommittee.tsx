@@ -28,7 +28,7 @@ function WomensCommittee() {
               <tr>
                  <td>
                     <p>Mrs. Deepika V. Patil</p> 
-                    <a href="mailto:deepika.patil@sanjayghodawatuniversity.ac.in" className="table-link">deepika.patil@cs.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:deepika.patil@cs.sguk.ac.in" className="table-link">deepika.patil@cs.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
                   <td><p>Asst. Prof. & Department Coordinator <br/> (School of Computer Science & Engineering.)</p></td>
                   <td><p>Chairperson</p></td>
@@ -42,19 +42,11 @@ function WomensCommittee() {
                   <td><p>Member</p></td>
               </tr>
 
-              <tr>
-                 <td>
-                    <p>Ms. Prajakta P. Desai</p> 
-                    <a href="mailto:prajakta.desai@sanjayghodawatuniversity.ac.in" className="table-link">prajakta.desai@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-                  <td><p>Asst. Professor, <br/> (Mechanical Engineering, School of Technology)</p></td>
-                  <td><p>Member</p></td>
-              </tr>
-
+              
               <tr>
                  <td>
                     <p>Mrs. Jyoti M. Waykule</p> 
-                    <a href="mailto:jyoti.waykule@sanjayghodawatuniversity.ac.in" className="table-link">jyoti.waykule@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:jjyoti.waykule@ec.sguk.ac.in" className="table-link">jyoti.waykule@ec.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
                   <td><p>Asst. Professor, <br/> (Electrical and Electronics Engg.School of Technology)</p></td>
                   <td><p>Member</p></td>
@@ -63,7 +55,7 @@ function WomensCommittee() {
               <tr>
                  <td>
                     <p>Mrs. Adnya Manjrekar</p> 
-                    <a href="mailto:adnya.manjarekar@sanjayghodawatuniversity.ac.in" className="table-link">adnya.manjarekar@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:adnya.manjarekar@ce.sguk.ac.in" className="table-link">adnya.manjarekar@ce.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
                   <td><p>Asst. Professor, <br/> (Civil Engineering Department, School of Technology)</p></td>
                   <td><p>Member</p></td>
@@ -72,7 +64,7 @@ function WomensCommittee() {
               <tr>
                  <td>
                     <p>Mrs. Surbhi I. Gaikwad</p> 
-                    <a href="mailto:surabhi.gaikwad@sanjayghodawatuniversity.ac.in" className="table-link">surabhi.gaikwad@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:surabhi.gaikwad@cs.sguk.ac.in" className="table-link">surabhi.gaikwad@cs.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
                   <td><p>Asst. Professor, <br/> (School of Computer Science & Engineering)</p></td>
                   <td><p>Member</p></td>
@@ -81,7 +73,7 @@ function WomensCommittee() {
               <tr>
                  <td>
                     <p>Mrs. Sangita A. Kumbhar</p> 
-                    <a href="mailto:sangita.kumbhar@sanjayghodawatuniversity.ac.in" className="table-link">sangita.kumbhar@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:sangita.kumbhar@py.sguk.ac.in" className="table-link">sangita.kumbhar@py.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
                   <td><p>Asst. Professor, <br/> (School of Pharmacy)</p></td>
                   <td><p>Member</p></td>
@@ -90,25 +82,18 @@ function WomensCommittee() {
               <tr>
                  <td>
                     <p>Ms. Priya A. Patil</p> 
-                    <a href="mailto:priya.patil@sanjayghodawatuniversity.ac.in" className="table-link">priya.patil@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:priya.patil@jm.sguk.ac.in" className="table-link">priya.patil@jm.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
                   <td><p>Asst. Professor, <br/> (Faculty of Liberal Arts.)</p></td>
                   <td><p>Member</p></td>
               </tr>
 
-              <tr>
-                 <td>
-                    <p>Mrs. Amruta A. Handur</p> 
-                    <a href="mailto:amruta.handur@sanjayghodawatuniversity.ac.in" className="table-link">amruta.handur@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-                  <td><p>Officer, <br/> Global Engagement Center</p></td>
-                  <td><p>Member</p></td>
-              </tr>
+              
 
               <tr>
                  <td>
                     <p>Dr. Sonali B. Suryawanshi</p> 
-                    <a href="mailto:sonali.suryawanshi@sanjayghodawatuniversity.ac.in" className="table-link">sonali.suryawanshi@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                    <a href="mailto:sonali.suryawanshi@ch.sguk.ac.in" className="table-link">sonali.suryawanshi@ch.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
                   <td><p>Asst. Prof, <br/> (Dept. of Physics, Faculty of Science)</p></td>
                   <td><p>Member Secretary</p></td>

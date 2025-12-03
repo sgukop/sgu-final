@@ -26,7 +26,7 @@ const BCADeptUpcomingEvents = () =>  {
                                                 <tr>
                                                     <th><p className="text-[#4f70b6]">Sr.No</p></th>
                                                     <th><p className="text-[#4f70b6]">Name of the Event</p></th>
-                                                    <th><p className="text-[#4f70b6]">Venue</p></th>
+                                                    <th><p className="text-[#4f70b6]">Faculty Coordinator</p></th>
                                                     <th><p className="text-[#4f70b6]">Day & Date</p></th>
                                                 </tr>
                                             </thead>

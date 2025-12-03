@@ -24,7 +24,7 @@ function StudentGrievanceCommittee() {
                 <tr>
                     <td>
                         <p>Prof. Dr. Udhav Bhosle,</p> 
-                        <a href="mailto:vc@sanjayghodawatuniversity.ac.in" className="table-link">vc@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                        <a href="mailto:vc@sguk.ac.in" className="table-link">vc@sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                     </td>
                     <td><p>Vice-Chancellor</p></td>
                     <td><p>Chairman</p></td>
@@ -33,7 +33,7 @@ function StudentGrievanceCommittee() {
                 <tr>
                     <td>
                         <p>Dr.S. Gomathi,</p> 
-                        <a href="mailto:yogeshwari.giri@sanjayghodawatuniversity.ac.in" className="table-link">yogeshwari.giri@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                        <a href="mailto:dean@fcm.sguk.ac.in" className="table-link">dean@fcm.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                     </td>
                     <td><p>Dean, Faculty of Commerce & Management</p></td>
                     <td><p>Member</p></td>
@@ -42,7 +42,7 @@ function StudentGrievanceCommittee() {
                 <tr>
                     <td>
                         <p>Prof. Dr. Vivek V. Kulkarni,</p> 
-                        <a href="mailto:vivek.kulkarni@sanjayghodawatuniversity.ac.in" className="table-link">vivek.kulkarni@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                        <a href="mailto:Dean@fst.sguk.ac.in" className="table-link">Dean@fst.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                     </td>
                     <td><p>Dean, Faculty of Science & Technology</p></td>
                     <td><p>Member</p></td>
@@ -50,8 +50,8 @@ function StudentGrievanceCommittee() {
 
                 <tr>
                     <td>
-                        <p>Mr. Sanjaykumar M. Ingale,</p> 
-                        <a href="mailto:sanjaykumar.ingale@sanjayghodawatuniversity.ac.in" className="table-link">sanjaykumar.ingale@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                        <p>Dr. Somesh Sanjay Gurao,</p> 
+                        <a href="mailto:Dean@fis.sguk.ac.in" className="table-link">dean@fis.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                     </td>
                     <td><p>Dean, Faculty of Interdisciplinary Studies</p></td>
                     <td><p>Member</p></td>
@@ -60,7 +60,7 @@ function StudentGrievanceCommittee() {
                 <tr>
                     <td>
                         <p>Dr. Uttam. P. Jadhav</p> 
-                        <a href="mailto:uttam.jadhav@sanjayghodawatuniversity.ac.in" className="table-link">uttam.jadhav@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                        <a href="mailto:dean@fhs.sguk.ac.in" className="table-link">dean@fhs.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                     </td>
                     <td><p>Associate Professor, Dean Humanities and Social Sciences</p></td>
                     <td><p>Member</p></td>
@@ -105,7 +105,7 @@ function StudentGrievanceCommittee() {
                 <tr>
                     <td>
                         <p>Dr. Vivek M. Kayande,</p> 
-                        <a href="mailto:registrar@sanjayghodawatuniversity.ac.in" className="table-link">registrar@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                        <a href="mailto:registrar@sguk.ac.in" className="table-link">registrar@sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                     </td>
                     <td><p>Registrar</p></td>
                     <td><p>Member</p></td>

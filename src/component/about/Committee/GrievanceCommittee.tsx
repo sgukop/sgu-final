@@ -27,7 +27,7 @@ function GrievanceCommittee() {
               <tr>
                  <td>
                     <p>Prof. Dr. Udhav Bhosle</p> 
-                     <a href="mailto:vc@sanjayghodawatuniversity.ac.in" className="table-link">vc@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                     <a href="mailto:vc@sguk.ac.in" className="table-link">vc@sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Vice-Chancellor,</p>
@@ -53,7 +53,7 @@ function GrievanceCommittee() {
               <tr>
                  <td>
                     <p>Prof. Dr. Vivek V. Kulkarni</p> 
-                     <a href="mailto:vivek.kulkarni@sanjayghodawatuniversity.ac.in" className="table-link">vivek.kulkarni@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                     <a href="mailto:dean@fst.sguk.ac.in" className="table-link">dean@fst.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Director Innovation & Incubation Center</p></td>
@@ -61,38 +61,14 @@ function GrievanceCommittee() {
                   <td><p>30(2)(iii)</p></td>
               </tr>
 
-              <tr>
-                 <td>
-                    <p>Mr. Sanjaykumar M. Ingale</p> 
-                     <a href="mailto:sanjaykumar.ingale@sanjayghodawatuniversity.ac.in" className="table-link">sanjaykumar.ingale@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
 
-                  <td>
-                      <p>Associate Professor,</p>
-                      <p>Sanjay Ghodawat University, Kolhapur</p>
-                  </td>
-                  <td><p>Member <br/> (From Board of management)</p></td>
-                  <td><p>30(2)(iii)</p></td>
-              </tr>
 
-              <tr>
-                 <td>
-                    <p>Dr. Chetan S. Patil.</p> 
-                     <a href="mailto:chetan.patil@sanjayghodawatuniversity.ac.in" className="table-link">chetan.patil@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td>
-                      <p>Associate Professor & Dean Student Welfare</p>
-                      <p>Sanjay Ghodawat University, Kolhapur</p>
-                  </td>
-                  <td><p>Member <br/> (University Teacher Nominated by Vice Chancellor)</p></td>
-                  <td><p>4.7-2(iv)</p></td>
-              </tr>
+           
 
               <tr>
                  <td>
                     <p>Mrs. Vidhyarani S. Khot</p> 
-                     <a href="mailto:vidyarani@sanjayghodawatuniveristy.ac.in" className="table-link">vidyarani@sanjayghodawatuniveristy.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                     <a href="mailto:vidyarani@ph.sguk.ac.in" className="table-link">vidyarani@ph.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Assistant Prof School of <br/> Pharmaceutical Science</p></td>
@@ -103,7 +79,7 @@ function GrievanceCommittee() {
               <tr>
                  <td>
                     <p>Mr. Mahesh K. Patwardhan</p> 
-                     <a href="mailto:mahesh.patwardhan@sanjayghodawatuniveristy.ac.in" className="table-link">mahesh.patwardhan@sanjayghodawatuniveristy.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                     <a href="mailto:mahesh.patwardhan@sguk.ac.in" className="table-link">mahesh.patwardhan@sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Asst. Registrar</p><p>Sanjay Ghodawat University, Kolhapur</p></td>
@@ -114,7 +90,7 @@ function GrievanceCommittee() {
               <tr>
                  <td>
                     <p>Dr. Pallavi Bhange</p> 
-                     <a href="mailto:pallavi.bhange@sanjayghodawatuniversity.ac.in" className="table-link">pallavi.bhange@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                     <a href="mailto:pallavi.bhange@ch.sguk.ac.in" className="table-link">pallavi.bhange@ch.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Director</p><p>School of Physical and Chemical sciences</p></td>
@@ -125,7 +101,7 @@ function GrievanceCommittee() {
               <tr>
                  <td>
                     <p>Dr. Vivek M. Kayande</p> 
-                     <a href="mailto:registrar@sanjayghodawatuniversity.ac.in" className="table-link">registrar@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                     <a href="mailto:registrar@sguk.ac.in" className="table-link">registrar@sguk.ac.in<i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
                   <td><p>Registrar,</p><p>Sanjay Ghodawat University, Kolhapur</p></td>
