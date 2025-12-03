@@ -36,44 +36,71 @@ const LibraryStaffMembers = () => {
                        <h6 className="tl-2-course-info-value">direactor.krc@sguk.ac.in</h6>
                    </div>
                </div>
+               <div className="tl-2-course-infos">
+                <div className="tl-2-course-info w-100 text-center">
+                    <a href="#" target="_blank">
+                        <div className="text-center mt-2">
+                        <span className="badge bg-primary">Faculty Profile</span>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
             </div>
        </div>
    </div>  
-      <div className="col-lg-4 col-sm-6">
-       <div className="tl-2-blog tl-2-course">
-           <div className="tl-2-course-img">
-               <img src="assets/images/faculty-profile-photos/library/profile1.jpg" alt="Faculty Profile Image"/>
-           </div>
+    <div className="col-lg-4 col-sm-6">
+    <div className="tl-2-blog tl-2-course">
+        <div className="tl-2-course-img">
+            <img src="assets/images/faculty-profile-photos/library/profile1.jpg" alt="Faculty Profile Image"/>
+        </div>
 
-           <div className="tl-2-course-txt">
-               <h4 className="tl-1-course-title tl-2-course-title"><strong>Mr.Gorakh Pandit Suryavanshi</strong></h4>
-               <p className="tl-2-course-descr">I/C Librarian, Assistant Librarian</p>
-               <p className="tl-2-course-descr">M. A, M. Lib & I. Sc.</p>
+        <div className="tl-2-course-txt">
 
-               <div className="tl-2-course-infos">
-                   <div className="tl-2-course-info">
-                       <h6 className="tl-2-course-info-key">Area of Specialization: </h6>
-                       <h6 className="tl-2-course-info-value">Reference Library</h6>
-                   </div>
-                 </div>  
+            <h4 className="tl-1-course-title tl-2-course-title">
+                <strong>Mr.Gorakh Pandit Suryavanshi</strong>
+            </h4>
 
-                   <div className="tl-2-course-infos">
-                   <div className="tl-2-course-info">
-                       <h6 className="tl-2-course-info-key">Experience: </h6>
-                       <h6 className="tl-2-course-info-value">Academic 15 years,other 2 years</h6>
-                   </div>
-                   </div>
+            <p className="tl-2-course-descr">I/C Librarian, Assistant Librarian</p>
+            <p className="tl-2-course-descr">M. A, M. Lib & I. Sc.</p>
 
-                   <div className="tl-2-course-infos">
-                   <div className="tl-2-course-info">
-                       <h6 className="tl-2-course-info-key">Email: </h6>
-                       <h6 className="tl-2-course-info-value">gorakh.suryavanshi@sguk.ac.in</h6>
-                       
-                   </div>
-                   </div>
-              </div>
-       </div>
-   </div>   
+            <div className="tl-2-course-infos">
+                <div className="tl-2-course-info">
+                    <h6 className="tl-2-course-info-key">Area of Specialization: </h6>
+                    <h6 className="tl-2-course-info-value">Reference Library</h6>
+                </div>
+            </div>
+
+            <div className="tl-2-course-infos">
+                <div className="tl-2-course-info">
+                    <h6 className="tl-2-course-info-key">Experience: </h6>
+                    <h6 className="tl-2-course-info-value">Academic 15 years, other 2 years</h6>
+                </div>
+            </div>
+
+            <div className="tl-2-course-infos">
+                <div className="tl-2-course-info">
+                    <h6 className="tl-2-course-info-key">Email: </h6>
+                    <h6 className="tl-2-course-info-value">gorakh.suryavanshi@sguk.ac.in</h6>
+                </div>
+            </div>
+
+          
+            <div className="tl-2-course-infos">
+                <div className="tl-2-course-info w-100 text-center">
+                    <a href="https://manage-api.sguk.ac.in/api/assets/692fdd0454b98c6c2efbf108" target="_blank">
+                        <div className="text-center mt-2">
+                        <span className="badge bg-primary">Faculty Profile</span>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+          </div>
+    </div>
+
+     
 
   {/*  <div className="col-lg-4 col-sm-6">
        <div className="tl-2-blog tl-2-course">
@@ -141,6 +168,16 @@ const LibraryStaffMembers = () => {
                        <h6 className="tl-2-course-info-value">rahul.gautam@sguk.ac.in</h6>
                    </div>
                </div>
+               <div className="tl-2-course-infos">
+                <div className="tl-2-course-info w-100 text-center">
+                    <a href="https://manage-api.sguk.ac.in/api/assets/692fdcd654b98c6c2efbf103" target="_blank">
+                        <div className="text-center mt-2">
+                        <span className="badge bg-primary">Faculty Profile</span>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
             </div>
        </div>
    </div>   
@@ -176,6 +213,16 @@ const LibraryStaffMembers = () => {
                        <h6 className="tl-2-course-info-value">Sudhir.mane@sguk.ac.in</h6>
                    </div>
                </div>
+               <div className="tl-2-course-infos">
+                <div className="tl-2-course-info w-100 text-center">
+                    <a href="#" target="_blank">
+                        <div className="text-center mt-2">
+                        <span className="badge bg-primary">Faculty Profile</span>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
             </div>
        </div>
    </div> 
@@ -211,6 +258,16 @@ const LibraryStaffMembers = () => {
                        <h6 className="tl-2-course-info-value">darikhan.kolake@sguk.ac.in</h6>
                    </div>
                </div>
+               <div className="tl-2-course-infos">
+                <div className="tl-2-course-info w-100 text-center">
+                    <a href="#" target="_blank">
+                        <div className="text-center mt-2">
+                        <span className="badge bg-primary">Faculty Profile</span>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
             </div>
        </div>
    </div>    
