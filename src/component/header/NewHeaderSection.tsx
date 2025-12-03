@@ -43,6 +43,9 @@ const NewHeaderSection = () => {
                     <li className='whitespace-nowrap hover:text-[#f26122]'><NavLink href="/photo-gallery">Photo Gallery</NavLink></li>
                     <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
                     <li className='whitespace-nowrap hover:text-[#f26122]'><a href="https://sgu.edulip.in/UI/indexSGU.php" target="_blank">Staff Login</a></li>
+                     <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
+                    <li className='hover:text-[#f26122]'><NavLink href="/Media">Media</NavLink></li>
+                    
 
                 </ul>
               </div>
@@ -254,7 +257,7 @@ const NewHeaderSection = () => {
                       </li>
                    
 
-                    <li className='whitespace-nowrap 2xl:text-xl hover:text-[#212f64] dropdown relative cursor-pointer py-4 z-0 px-4'>
+                    <li className='whitespace-nowrap 2xl:text-xl hover:text-[#212f64] dropdown relative cursor-pointer py-4'>
                         Life &#64;SGU
                         <ul className="dropdown-menu absolute hidden mt-6 py-2 text-left rounded-none border-t-4 border-[#f4b826]">
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/about-campus">Campus Pulse @SGU</NavLink></li>
@@ -275,7 +278,7 @@ const NewHeaderSection = () => {
                         className="h-full object-contain ml-2"
                     /></a>
                 </div>   */}
-                <ul className='gap-3 2xl:gap-4 items-center lg:grid-cols-5 flex'>
+                <ul className='gap-3 2xl:gap-6 items-center lg:grid-cols-5 flex'>
                    <li className='whitespace-nowrap 2xl:text-xl hover:text-[#212f64] dropdown relative cursor-pointer py-4'>
                       R&amp;D
                         <ul className="dropdown-menu absolute hidden mt-6 py-2 text-left rounded-none border-t-4 border-[#f4b826]">
