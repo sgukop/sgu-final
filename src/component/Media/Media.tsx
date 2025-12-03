@@ -68,6 +68,129 @@ const Media = () => {
                             </div>
                             </div>
                         {/* CARD 1 end */}
+                        <div className="row g-3 g-lg-4 justify-content-center">
+
+                         {/* CARD 1 */}
+                         <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                         <div className="tl-1-course-new bg-white rounded-lg shadow-md overflow-hidden">
+                        <div className="tl-1-course-img-new">
+                        <img
+                        src="assets/images/training-and-placement/media-coverage/161A.jpeg"
+                        alt="Media Coverage Image"
+                        className="w-full h-auto"
+                         />
+                         </div>
+                         <div className="tl-1-course-txt text-center p-4">
+                         <p className="text-sm text-gray-600 mb-2">31-03-22</p>
+                         <h4 className="tl-1-course-title-new">
+                         "25 students of 'Sanjay Ghodawat' in 'Tata Consultancy'"
+                         </h4>
+                         </div>
+                         </div>
+                         </div>
+                         {/* CARD 1 end */}
+
+                         {/* CARD 2 */}
+                         <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                         <div className="tl-1-course-new bg-white rounded-lg shadow-md overflow-hidden">
+                         <div className="tl-1-course-img-new">
+                     <img
+                      src="assets/images/training-and-placement/media-coverage/160A.jpeg"
+                       alt="Events Image"
+                       className="w-full h-auto"
+                       />
+                       </div>
+                       <div className="tl-1-course-txt text-center p-4">
+                       <p className="text-sm text-gray-600 mb-2">Events Coverage</p>
+                       <h4 className="tl-1-course-title-new">
+                       ""
+                       </h4>
+                       </div>
+                       </div>
+                       </div>
+                       {/* CARD 2 end */}
+
+                         {/* CARD 3 */}
+                         <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                         <div className="tl-1-course-new bg-white rounded-lg shadow-md overflow-hidden">
+                         <div className="tl-1-course-img-new">
+                         <img
+                        src="assets/images/training-and-placement/media-coverage/60A.jpeg"
+                         alt="Events Image"
+                        className="w-full h-auto"
+                        />
+                         </div>
+                         <div className="tl-1-course-txt text-center p-4">
+                         <p className="text-sm text-gray-600 mb-2">Events Coverage</p>
+                         <h4 className="tl-1-course-title-new">
+                         ""
+                         </h4>
+                         </div>
+                         </div>
+                         </div>
+                         {/* CARD 3 end */}
+
+                         {/* CARD 4 */}
+                         <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                         <div className="tl-1-course-new bg-white rounded-lg shadow-md overflow-hidden">
+                         <div className="tl-1-course-img-new">
+                         <img
+                         src="assets/images/training-and-placement/media-coverage/07-05-2022.jpg"
+                         alt="Events Image"
+                         className="w-full h-auto"
+                        />
+                         </div>
+                         <div className="tl-1-course-txt text-center p-4">
+                         <p className="text-sm text-gray-600 mb-2">07 May 2022</p>
+                         <h4 className="tl-1-course-title-new">
+                         ""
+                         </h4>
+                         </div>
+                         </div>
+                         </div>
+                         {/* CARD 4 end */}
+
+                        {/* CARD 5 */}
+                         <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                         <div className="tl-1-course-new bg-white rounded-lg shadow-md overflow-hidden">
+                         <div className="tl-1-course-img-new">
+                         <img
+                         src="assets/images/training-and-placement/media-coverage/31-03-22_A.jpg"
+                         alt="Events Image"
+                         className="w-full h-auto"
+                         />
+                         </div>
+                         <div className="tl-1-course-txt text-center p-4">
+                         <p className="text-sm text-gray-600 mb-2">31 March 2022</p>
+                         <h4 className="tl-1-course-title-new">
+                         ""
+                         </h4>
+                         </div>
+                         </div>
+                         </div>
+                         {/* CARD 5 end */}
+
+                         {/* CARD 6 */}
+                         <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                         <div className="tl-1-course-new bg-white rounded-lg shadow-md overflow-hidden">
+                         <div className="tl-1-course-img-new">
+                         <img
+                         src="assets/images/training-and-placement/media-coverage/31-03-22_2.jpg"
+                         alt="Events Image"
+                         className="w-full h-auto"
+                         />
+                         </div>
+                         <div className="tl-1-course-txt text-center p-4">
+                         <p className="text-sm text-gray-600 mb-2">31 March 2022</p>
+                         <h4 className="tl-1-course-title-new">
+                         ""
+                         </h4>
+                         </div>
+                         </div>
+                         </div>
+                         {/* CARD 6 end */}
+
+                        </div>
 
 
 
