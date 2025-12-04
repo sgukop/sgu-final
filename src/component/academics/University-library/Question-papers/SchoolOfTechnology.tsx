@@ -67,7 +67,7 @@ const SchoolOfTechnology = () => {
 
                             <a rel="noopener noreferrer" className="dark-mode-white-color tl-blog-details-tag" href="#">SY B.TECH MECH QP MAY 2023</a>
 
-                            <a rel="noopener noreferrer" className="dark-mode-white-color tl-blog-details-tag" href="#">SY B.TECH MECH QP MAY 2024</a>
+                            <a rel="noopener noreferrer" className="dark-mode-white-color tl-blog-details-tag" href="https://manage-api.sguk.ac.in/api/assets/693152a3914ce31b3c5b98ce">SY B.TECH MECH QP MAY 2024</a>
                         </div>
                     </div>
                 </div>
@@ -88,7 +88,7 @@ const SchoolOfTechnology = () => {
 
                             <a rel="noopener noreferrer" className="dark-mode-white-color tl-blog-details-tag" href="#">SY B.TECH CIVIL QP MAY 2024</a>
                             
-                            <a rel="noopener noreferrer" className="dark-mode-white-color tl-blog-details-tag" href="#">SY B.TECH CIVILQP MAY 2019</a>
+                            <a rel="noopener noreferrer" className="dark-mode-white-color tl-blog-details-tag" href="https://manage-api.sguk.ac.in/api/assets/69315313914ce31b3c5b98e6">SY B.TECH CIVILQP MAY 2019</a>
                         </div>
                     </div>
                 </div>
@@ -101,7 +101,8 @@ const SchoolOfTechnology = () => {
 
                             <a rel="noopener noreferrer" className="dark-mode-white-color tl-blog-details-tag" href="#">SY B.TECH QP MAY 2021</a>
 
-                            <a rel="noopener noreferrer" className="dark-mode-white-color tl-blog-details-tag" href="#">SY B.TECH QP MAY 2023</a>
+                            <a rel="noopener noreferrer" className="dark-mode-white-color tl-blog-details-tag" href="https://manage-api.sguk.ac.in/api/assets/693152e9914ce31b3c5b98d8">SY B.TECH QP MAY 2023</a>
+                            <a rel="noopener noreferrer" className="dark-mode-white-color tl-blog-details-tag" href="https://manage-api.sguk.ac.in/api/assets/693152e9914ce31b3c5b98d8">SY B.TECH QP MAY 2024</a>
                         </div>
                     </div>
                 </div>
@@ -122,7 +123,7 @@ const SchoolOfTechnology = () => {
 
                             <a rel="noopener noreferrer" className="dark-mode-white-color tl-blog-details-tag" href="https://manage-api.sguk.ac.in/api/assets/680723db4f56d3a0bcfbcf54">SY B.TECH ETC QP MAY 2023</a>
 
-                            <a rel="noopener noreferrer" className="dark-mode-white-color tl-blog-details-tag" href="#">SY B.TECH ETC QP MAY 2024</a>
+                            <a rel="noopener noreferrer" className="dark-mode-white-color tl-blog-details-tag" href="https://manage-api.sguk.ac.in/api/assets/693152ce914ce31b3c5b98d3">SY B.TECH ETC QP MAY 2024</a>
                         </div>
                     </div>
                 </div>
@@ -178,6 +179,7 @@ const SchoolOfTechnology = () => {
                             <a rel="noopener noreferrer" className="dark-mode-white-color tl-blog-details-tag" href="https://manage-api.sguk.ac.in/api/assets/680724c84f56d3a0bcfbcf95">TY B.TECH AERO QP MAY 2021</a>
 
                             <a rel="noopener noreferrer" className="dark-mode-white-color tl-blog-details-tag" href="#">TY B.TECH AERO QP MAY 2023</a>
+                            <a rel="noopener noreferrer" className="dark-mode-white-color tl-blog-details-tag" href="https://manage-api.sguk.ac.in/api/assets/69315386914ce31b3c5b98f4">TY B.TECH AERO QP MAY 2024</a>
                         </div>
                     </div>
                 </div>
@@ -336,7 +338,7 @@ const SchoolOfTechnology = () => {
 
                             <a rel="noopener noreferrer" className="dark-mode-white-color tl-blog-details-tag" href="https://manage-api.sguk.ac.in/api/assets/680727ea4f56d3a0bcfbd062">FINAL Y B.TECH CIVIL QP MAY 2023</a>
 
-                            <a rel="noopener noreferrer" className="dark-mode-white-color tl-blog-details-tag" href="#">FINAL Y B.TECH CIVIL QP MAY 2024</a>
+                            <a rel="noopener noreferrer" className="dark-mode-white-color tl-blog-details-tag" href="https://manage-api.sguk.ac.in/api/assets/693153df914ce31b3c5b98f9">FINAL Y B.TECH CIVIL QP MAY 2024</a>
                         </div>
                     </div>
                 </div>
@@ -425,7 +427,9 @@ const SchoolOfTechnology = () => {
 
                             <a rel="noopener noreferrer" className="dark-mode-white-color tl-blog-details-tag" href="#">FY M.TECH QP MAY 2024</a>
 
-                            <a rel="noopener noreferrer" className="dark-mode-white-color tl-blog-details-tag" href="#">FY M.TECH QP DEC 2024</a>
+                            <a rel="noopener noreferrer" className="dark-mode-white-color tl-blog-details-tag" href="https://manage-api.sguk.ac.in/api/assets/69315256914ce31b3c5b98c9">FY M.TECH QP DEC 2024</a>
+
+                            
                         </div>
                     </div>
                 </div>

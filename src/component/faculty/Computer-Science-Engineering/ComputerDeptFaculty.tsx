@@ -20,19 +20,7 @@ const ComputerDeptFaculty = () => {
             <div className="tl-course-details-top-courses">
                 <div className="row g-4">
                     
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/cse/Dr. Raja krishnamoorthi.jpg" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Dr. Raja krishnamoorthi</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Professor and Associate Dean</p>
-                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div>   
+ 
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
