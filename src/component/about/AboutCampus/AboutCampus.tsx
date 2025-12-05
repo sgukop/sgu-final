@@ -151,10 +151,7 @@ const AboutCampus:React.FC<AboutProps> = ({padding,margin}) => {
                             <div className="p-10 box-shadow-none">
                             <div className="tl-event-details-key-content tl-event-details-area rounded-lg mb-8 shadow-[2px_2px_0_3px_rgba(242,97,34,0.6)]">
                                 <ul className="tl-event-details-key-content-list phd-container">
-                                    <li>Classification of Land - Category -RURAL</li>
-                                    <li>Letter Issued by - Gram Vikas Adhikari - A/P. Atigre Taluka - Hatkanangale Sarpanch A/P. Atigre Taluka - Hatkanangale</li>
-                                    <li>Land Use Certificate Issued by - Tahsildar - Taluka : Hatkanangale</li>
-                                    <li>Details of Building Plan Approved by- Gram Vikas Adhikari - A/P. Atigre, Taluka - Hatkanangale, Sarpanch A/P. Atigre Taluka - Hatkanangale</li>
+                                    
                                 </ul>
                             </div>
                         </div>
