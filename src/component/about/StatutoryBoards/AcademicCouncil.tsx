@@ -1,447 +1,423 @@
 "use client";
-import Link from "next/link";
+
 import React from "react";
 import Table from "react-bootstrap/Table";
 
 function AcademicCouncil() {
+  const councilMembers = [
+    {
+      name: "Dr. Udhav Bhosle",
+      address: "SGU Campus, Atigre",
+      email: "vc@sguk.ac.in",
+      post: "Vice-Chancellor, Sanjay Ghodawat University, Kolhapur.",
+      designation: "Chairperson",
+      statute: "20.2(i)",
+    },
+    {
+      name: "Dr. Vivek V. Kulkarni",
+      address: "SGU Campus, Atigre",
+      email: "dean@fst.sguk.ac.in",
+      post: "Dean, Faculty of Science & Technology\nDirector (Add. Charge)-School of Design",
+      designation: "Member",
+      statute: "20.2(ii)\n20.2(iv)",
+    },
+    {
+      name: "Dr. S. Gomathi",
+      address: "SGU Campus, Atigre",
+      email: "dean@fcm.sguk.ac.in",
+      post: "Dean, Faculty of Commerce and Management\nDirector - School of Commerce & Management",
+      designation: "Member",
+      statute: "20.2(ii)\n20.2(iii)\n20.2(iv)",
+    },
+    {
+      name: "Dr. U. P. Jadhav",
+      address: "C-Block, SGU Campus, Atigre.",
+      email: "dean@fhs.sguk.ac.in",
+      post: "I/C Dean, Faculty of Humanities & Social Science\nBOS Chairman of Humanities and Social Science\nDirector-School of Social Sciences",
+      designation: "Member",
+      statute: "20.2(ii)\n20.2(iii)\n20.2(iv)",
+    },
+    {
+      name: "Dr. Somesh Gurao",
+      address: "SGU Campus, Atigre",
+      email: "somesh.gurao@sguk.ac.in",
+      post: "I/C Dean, Faculty of Interdisciplinary Study\nHead - Department of Design",
+      designation: "Member",
+      statute: "20.2(ii)\n20.2(iii)\n20.2(iv)",
+    },
+    {
+      name: "Dr. A. D. Sawant",
+      address:
+        "Department of Chemistry, Sanjay Ghodawat University, Kolhapur - 416118",
+      email: "anand.sawant@ch.sguk.ac.in",
+      post: "Associate Dean Sciences\nDirector Life Sciences",
+      designation: "Member",
+      statute: "20.2(iv)",
+    },
+    {
+      name: "Dr. Raja Krushnamurthi",
+      address: "SGU Campus, Atigre",
+      email: "rajak@sguk.ac.in",
+      post: "Associate Dean Engineering & Technology\nDirector - National International Linkages",
+      designation: "Member",
+      statute: "20.2(iv)",
+    },
+
+    // --------------- BOS / HOD Members ------------------
+
+    {
+      name: "Mr. S. Sulthan",
+      address:
+        "School of Technology, C/o Aeronautical Engineering, Sanjay Ghodawat University, Atigre.",
+      email: "s.sulthan@as.sguk.ac.in",
+      post: "BOS Chairman, Aeronautical Engineering",
+      designation: "Member",
+      statute: "20.2(iii)",
+    },
+    {
+      name: "Dr. D. V. Patil",
+      address: "Computer Science Engineering, B-Block, SGU Campus, Atigre",
+      email: "deepika.patil@cs.sguk.ac.in",
+      post: "BOS Chairman, Computer Science Engineering",
+      designation: "Member",
+      statute: "20.2(iii)",
+    },
+    {
+      name: "Dr. M. P. Gaikwad",
+      address:
+        "Artificial Intelligence and Machine Learning, SGU Campus, Atigre",
+      email: "mahesh.gaikwad@am.sguk.ac.in",
+      post: "BOS Chairman, AIML",
+      designation: "Member",
+      statute: "20.2(iii)",
+    },
+    {
+      name: "Dr. Swapnil Hirikude",
+      address:
+        "Electronics and Communication Engineering, SGU Campus, Atigre",
+      email: "swapnil.hirikude@ec.sguk.ac.in",
+      post: "Chairman BOS - Electronics & Communication Engineering",
+      designation: "Member",
+      statute: "20.2(iii)\n20.2(iv)",
+    },
+    {
+      name: "Mr. A. P. Dhawan",
+      address: "Mechanical Engineering, SGU Campus, Atigre",
+      email: "ajay.dhawan@me.sguk.ac.in",
+      post: "BOS Chairman, Mechanical Engineering",
+      designation: "Member",
+      statute: "20.2(iii)",
+    },
+    {
+      name: "Dr. Shubhash Kumbhar",
+      address: "School of Pharmacy, SGU Campus, Atigre",
+      email: "shubhash.kumbhar@ph.sguk.ac.in",
+      post: "Chairman BOS - Pharmacy\nDirector - School of Pharmacy",
+      designation: "Member",
+      statute: "20.2(iii)\n20.2(iv)",
+    },
+    {
+      name: "Dr. Chetan Arage",
+      address: "Computer Application, SGU Campus, Atigre",
+      email: "chetan.arage@ca.sguk.ac.in",
+      post: "BOS Chairman, Computer Applications",
+      designation: "Member",
+      statute: "20.2(iii)",
+    },
+    {
+      name: "Dr. P. D. Bhange",
+      address:
+        "School of Physical & Chemical Science, SGU Campus, Atigre",
+      email: "pallavi.bhange@ch.sguk.ac.in",
+      post: "Chairman BOS- Chemistry\nDirector- School of Physical & Chemical Science",
+      designation: "Member",
+      statute: "20.2(iii)\n20.2(iv)",
+    },
+    {
+      name: "Dr. S. M Pawar",
+      address:
+        "Department of Physics, Sanjay Ghodawat University",
+      email: "sambhaji.pawar@ph.sguk.ac.in",
+      post: "BOS Chairman, Physics\nDirector -Innovation & Research",
+      designation: "Member",
+      statute: "20.2(iii)\n20.2(iv)",
+    },
+    {
+      name: "Dr. Tejaswini A. Vhaskoti",
+      address:
+        "Department of Food Science And Technology, SGU Campus, Atigre",
+      email: "tejaswini.vhaskoti@sguk.ac.in",
+      post: "Head - Department of Food Science And Technology",
+      designation: "Member",
+      statute: "20.2(iii)",
+    },
+    {
+      name: "Dr. Prajakata B. Shete",
+      address:
+        "Department of Medical Laboratory Technology, SGU Campus, Atigre",
+      email: "prajakata.shete@sguk.ac.in",
+      post: "Head - Department of Medical Laboratory Technology",
+      designation: "Member",
+      statute: "20.2(iii)",
+    },
+    {
+      name: "Dr. Ajay S. Nalawade",
+      address: "Department of Biotechnology, SGU Campus, Atigre",
+      email: "ajay.nalawade@sguk.ac.in",
+      post: "Head - Department of Biotechnology",
+      designation: "Member",
+      statute: "20.2(iii)",
+    },
+    {
+      name: "Dr. V.S. Khot",
+      address: "SGU Campus, Atigre",
+      email: "vs.khot@sguk.ac.in",
+      post: "Head - Clinical Research & Technology",
+      designation: "Member",
+      statute: "20.2(iii)",
+    },
+    {
+      name: "Dr. Vilas Balgaonkar",
+      address: "Department of Management, SGU Campus, Atigre",
+      email: "vilas.balgaonkar@sguk.ac.in",
+      post: "Head - Department of Management",
+      designation: "Member",
+      statute: "20.2(iii)",
+    },
+    {
+      name: "Dr. R. L .Deshpande",
+      address: "SGU Campus, Atigre",
+      email: "iqac@sguk.ac.in",
+      post: "Director, IQAC\nHead- Department of Commerce",
+      designation: "Member",
+      statute: "20.2(iii)\n20.2(iv)",
+    },
+    {
+      name: "Mrs. Priyanka Patil",
+      address:
+        "School of Media, Block –B, SGU Campus, Atigre.",
+      email: "priyanka.patil@jm.sguk.ac.in",
+      post: "I/C Head - Social Media",
+      designation: "Member",
+      statute: "20.2(iii)",
+    },
+    {
+      name: "Dr. Kapil Patil",
+      address:
+        "School of Social Science, SGU Campus, Atigre",
+      email: "kapil.patil@sguk.ac.in",
+      post: "Head - Social Science",
+      designation: "Member",
+      statute: "20.2(iii)",
+    },
+    {
+      name: "Adv. Dr. Anjali Patil",
+      address:
+        "Department of LAW, Block-C, SGU Campus, Atigre.",
+      email: "anjali.patil@lw.sguk.ac.in",
+      post: "Chairman, BOS & Director-Legal Studies",
+      designation: "Member",
+      statute: "20.2(iii)\n20.2(iv)",
+    },
+    {
+      name: "Dr. Jiwan Lavande",
+      address:
+        "Department of B. Pharmacy, SGU Campus, Atigre",
+      email: "jiwan.lavande@sguk.ac.in",
+      post: "Head - Department of B. Pharmacy",
+      designation: "Member",
+      statute: "20.2(iii)",
+    },
+    {
+      name: "Mr . Gurunath G. Machhale",
+      address:
+        "Department of Artificial Intelligence & Data Science (AIDS), SGU Campus, Atigre",
+      email: "gurunath.machhale@sguk.ac.in",
+      post: "Head - Department of Artificial Intelligence & Data Science (AIDS)",
+      designation: "Member",
+      statute: "20.2(iii)",
+    },
+    {
+      name: "Dr. Sachin Popat Patil",
+      address:
+        "C/o Civil Engineering, A-Block, Sanjay Ghodawat University, Atigre",
+      email: "sachin.patil@ce.sguk.ac.in",
+      post: "Chairman, Civil Engineering\nDirector School of Engineering & Technology",
+      designation: "Member",
+      statute: "20.2(iii)\n20.2(iv)",
+    },
+    {
+      name: "Mr. S. N. Patil (Incharge)",
+      address:
+        "Department of Allied Health & Science, SGU Campus, Atigre.",
+      email: "samsher.patil@sanjayghodawatuniveristy.ac.in",
+      post: "Chairman, BOS Allied Health & Science",
+      designation: "Member",
+      statute: "20.2(iii)",
+    },
+    {
+      name: "Dr. S. P. Patil",
+      address:
+        "School of Architecture, Block –B, SGU Campus, Atigre.",
+      email: "sachin.patil@ce.sguk.ac.in",
+      post: "I/C Director / School of Architecture",
+      designation: "Member",
+      statute: "20.2(iv)",
+    },
+
+    // ------------------ Nominated ------------------
+
+    {
+      name: "Dr. Subhabrata (Subho) Ghosal",
+      address: "RGIT, Mumbai University",
+      email: "subhoghosal@gmail.com",
+      post: "Industry Expert (Nominated by Vice Chancellor)",
+      designation: "Nominated",
+      statute: "20.2(v)",
+    },
+    {
+      name: "Dr. Aneish Kumar",
+      address: "RGIT, Mumbai University",
+      email: "aneishk@yahoo.com",
+      post: "Industry Expert (Nominated by Vice Chancellor)",
+      designation: "Nominated",
+      statute: "20.2(v)",
+    },
+    {
+      name: "Dr. Deepak Panaskar",
+      address: "SRTMU, Nanded",
+      email: "dbpanaskar@gmail.com",
+      post: "Academician / Scientist (Nominated by President)",
+      designation: "Nominated",
+      statute: "20.2(vi)",
+    },
+    {
+      name: "Dr. K. V. Srinivasan",
+      address: "TIFR, Mumbai",
+      email: "kvsrini@tifr.res.in",
+      post: "Academician / Scientist (Nominated by President)",
+      designation: "Nominated",
+      statute: "20.2(vi)",
+    },
+    {
+      name: "Dr. H. Barkate",
+      address: "TIFR, Mumbai",
+      email: "hbarkate@gmail.com",
+      post: "Academician / Scientist (Nominated by President)",
+      designation: "Nominated",
+      statute: "20.2(vi)",
+    },
+    {
+      name: "Mrs. V. Ambili",
+      address:
+        "Deputy Director General, Geological Survey of India, Thiruvananthapuram",
+      email: "v.ambli@gsi.gov.in",
+      post: "Academician / Scientist (Nominated by President)",
+      designation: "Nominated",
+      statute: "20.2(vi)",
+    },
+    {
+      name: "Dr. Manjunath K.N",
+      address: "SGU Campus, Atigre",
+      email: "manjunath.kn@sguk.ac.in",
+      post: "Academician (Nominated by President)",
+      designation: "Nominated",
+      statute: "20.2(vi)",
+    },
+    {
+      name: "Dr. Akash Saxena",
+      address: "SGU Campus, Atigre",
+      email: "akash.saxena@sguk.ac.in",
+      post: "Academician (Nominated by President)",
+      designation: "Nominated",
+      statute: "20.2(vi)",
+    },
+
+    // ------------------ Permanent Invitee ------------------
+
+    {
+      name: "Dr. N. K. Patil",
+      address: "",
+      email: "coe@sguk.ac.in",
+      post: "Controller of Examinations",
+      designation: "Permanent Invitee",
+      statute: "20.2(viii)",
+    },
+
+    // ------------------ Member Secretary ------------------
+
+    {
+      name: "Dr. Vivek M. Kayande",
+      address: "Sanjay Ghodawat University, Kolhapur",
+      email: "registrar@sanjayghodawatuniversity.ac.in",
+      post: "Registrar, Sanjay Ghodawat University",
+      designation: "Member Secretary",
+      statute: "20.2(vii)",
+    },
+  ];
+
+  // ----------- FIX: typed parameter (text: string) ------------
+  const renderMultiLine = (text: string) => {
+    if (!text) return <p>-</p>;
+
+    return text.split("\n").map((line: string, index: number) =>
+      line.trim() ? <p key={index}>{line}</p> : null
+    );
+  };
+
   return (
     <div className="pt-100 pb-100">
       <div className="container">
         <div className="row gx-0 tl-blog-details-row">
           <div className="col-lg-12">
+
             <div className="governing-body">
-              <div className="d-flex justify-content-center"><h2 className="tl-2-section-title py-4 rounded-tl-[40px] rounded-br-[40px] w-fit px-8 bg-[#4f70b6] font-bold text-white mx-auto mb-50">Academic Council</h2></div>
-              <span className="dark-mode-white-color  mt-2 mb-12">(As per Statute 20.2)</span>
+              <div className="d-flex justify-content-center">
+                <h2 className="tl-2-section-title py-4 rounded-tl-[40px] rounded-br-[40px] px-8 bg-[#4f70b6] font-bold text-white mb-50">
+                  Academic Council
+                </h2>
+              </div>
+              <span className="dark-mode-white-color mt-2 mb-12">
+                (As per Statute 20.2)
+              </span>
             </div>
 
             <Table striped bordered hover responsive className="governing-table">
               <thead>
                 <tr>
+                  <th><p>Sr.No</p></th>
                   <th><p>NAME OF THE MEMBER</p></th>
                   <th><p>POST/CATEGORY</p></th>
                   <th><p>DESIGNATION</p></th>
                   <th><p>STATUTE NO.</p></th>
                 </tr>
               </thead>
+
               <tbody>
-              <tr>
-                 <td>
-                    <p>Prof. Dr. Udhav Bhosle</p> 
-                    <p>SGU Campus, Atigre</p>
-                    <a href="mailto:vc@ssguk.ac.in" className="table-link">vc@sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
+                {councilMembers.map((member, index) => (
+                  <tr key={index}>
+                    <td><p>{index + 1}</p></td>
 
-                  <td><p>Vice-Chancellor,</p>
-                      <p>Sanjay Ghodawat University, Kolhapur.</p>
-                  </td>
-                  <td><p>Chairperson</p></td>
-                  <td><p>20.2(i)</p></td>
-              </tr>
+                    <td>
+                      <p>{member.name}</p>
+                      {member.address && <p>{member.address}</p>}
+                      {member.email && (
+                        <a href={`mailto:${member.email}`} className="table-link">
+                          {member.email} <i className="fa-regular fa-arrow-right"></i>
+                        </a>
+                      )}
+                    </td>
 
-              <tr>
-                 <td>
-                    <p>Prof. Dr. V .V. Kulkarni</p> 
-                    <p>SGU Campus, Atigre</p>
-                    <a href="mailto:dean@fst.sguk.ac.in" className="table-link">dean@fst.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
+                    <td>{renderMultiLine(member.post)}</td>
 
-                  <td><p>Dean,</p>
-                      <p>Faculty of Science & Technology Director (Add. Charge)-School of Design,</p>
-                      <p>Sanjay Ghodawat University</p>
-                  </td>
-                  <td><p>Member</p></td>
-                  <td><p>20.2(ii)<br/>20.2(iv)</p></td>
-              </tr>
+                    <td><p>{member.designation}</p></td>
 
-              <tr>
-                 <td>
-                    <p>Dr.S. Gomathi</p> 
-                    <p>SGU Campus, Atigre</p>
-                    <a href="mailto:dean@fcm.sguk.ac.in" className="table-link">dean@fcm.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>Dean,</p>
-                      <p>Faculty of Management & Chairman, BOS & Director -Commerce & Management,</p>
-                      <p>Sanjay Ghodawat University</p>
-                  </td>
-                  <td><p>Member</p></td>
-                  <td><p>20.2(ii) <br/> 20.2(iii) <br/> 20.2(iv)</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p>Dr. U. P. Jadhav</p> 
-                    <p>C-Block, SGU Campus, Atigre.</p>
-                    <a href="mailto:dean@fhs.sguk.ac.in" className="table-link">dean@fhs.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>I/C Dean,</p>
-                      <p>Faculty of Humanities & Social Science & BOS Chairma of Faculty of Liberal Arts. Director-Knowledge Resource Center Director-School of Social Sciences</p>
-                  </td>
-                  <td><p>Member</p></td>
-                  <td><p>20.2(ii) <br/> 20.2(iii) <br/> 20.2(iv)</p></td>
-              </tr>
-
- 
-              <tr>
-                 <td>
-                    <p>Dr. A. D. Sawant</p> 
-                    <p>Department of Chemistry. Sanjay Ghodawat University, Kolhapur - 416118</p>
-                    <a href="mailto:anand.sawant@ch.sguk.ac.in" className="table-link">anand.sawant@ch.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>Associate Dean,</p>
-                      <p>Physical & Chemical Science</p>
-                  </td>
-                  <td><p>Member</p></td>
-                  <td><p>20.2(ii)</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p>Mr. S. Sulthan</p> 
-                    <p>School of Technology, C/o Aeronautical Engineering,</p>
-                    <p>Sanjay Ghodawat University, A/P- Atigre, Tal-Hatkanangale, Dist - Kolhapur.</p>
-                    <a href="mailto:s.sulthan@as.sguk.ac.in" className="table-link">s.sulthan@as.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>Chairman,</p>
-                      <p>BOS Aeronautical Engineering</p>
-                      
-                  </td>
-                  <td><p>Member</p></td>
-                  <td><p>20.2(iii)</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p>Dr. Sachin Popat Patil .</p> 
-                    <p>C/o Civil Engineering, A-Block, Sanjay Ghodawat University A/P- Atigre, Tal-Hatkanangale, Dist - Kolhapur.</p>
-                    <a href="mailto:sachin.patil@ce.sguk.ac.in" className="table-link">sachin.patil@ce.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>Chairman,</p>
-                      <p>Civil Engineering Director School of Engineering & Technology</p>
-                      
-                  </td>
-                  <td><p>Member</p></td>
-                  <td><p>20.2(iii) <br/> 20.2(iv)</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p>Mr. Dhawan Ajay Prabhakar</p> 
-                    <p>C/o Mechanical Engineering, A-Block, Sanjay Ghodawat University A/P- Atigre, Tal-Hatkanangale, Dist - Kolhapur.</p>
-                    
-                    <a href="mailto:ajay.dhawan@me.sguk.ac.in" className="table-link">ajay.dhawan@me.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>Chairman,</p>
-                      <p>BOS Mechanical Engineering</p>
-                      
-                  </td>
-                  <td><p>Member</p></td>
-                  <td><p>20.2(iii)</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p>Dr. Chetan Arage</p> 
-                    <p>Computer Application,<br/>B-Block, Sanjay Ghodawat University A/P- Atigre,<br/>Tal - Hatkanangale, Dist - Kolhapur.</p>
-                    
-                    <a href="mailto:chetan.arage@ca.sguk.ac.in" className="table-link">chetan.arage@ca.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>Chairman,</p>
-                      <p>BOS Computer Application</p>
-                      
-                  </td>
-                  <td><p>Member</p></td>
-                  <td><p>20.2(iii)</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p>Dr. Deepika Patil</p> 
-                    <p>Computer Science Engineering,<br/>B-Block, Sanjay Ghodawat University A/P- Atigre,<br/>Tal - Hatkanangale, Dist - Kolhapur.</p>
-                    
-                    <a href="mailto:deepika.patil@cs.sguk.ac.in" className="table-link">deepika.patil@cs.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>Chairman,</p>
-                      <p>BOS Computer Application</p>
-                      
-                  </td>
-                  <td><p>Member</p></td>
-                  <td><p>20.2(iii)</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p>Dr. M. P. Gaikwad</p> 
-                    <p>Artificial Intelligence and Machine Learning,<br/>B-Block, Sanjay Ghodawat University A/P- Atigre,<br/>Tal - Hatkanangale, Dist - Kolhapur.</p>
-                    
-                    <a href="mailto:mahesh.gaikwad@am.sguk.ac.in" className="table-link">mahesh.gaikwad@am.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>Chairman,</p>
-                      <p>BOS Artificial Intelligence and Machine Learning</p>
-                      
-                  </td>
-                  <td><p>Member</p></td>
-                  <td><p>20.2(iii)</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p>Dr. Swapnil Manohar Hirikude </p> 
-                    <p>C/o Electronics and Communication Engineering, B-Block, Sanjay Ghodawat University A/P- Atigre, Tal-Hatkanangale, Dist - Kolhapur.</p>
-                    
-                    <a href="mailto:swapnil.hirikude@ec.sguk.ac.in" className="table-link">swapnil.hirikude@ec.sguk.ac.in<i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>Chairman,</p>
-                      <p>BOS Electrical & Electronics Engineering Electric Engineering BOS- Electronics & Communicatin Engineering</p>
-                      
-                  </td>
-                  <td><p>Member</p></td>
-                  <td><p>20.2(iii)</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p>Dr. P. D. Bhange</p> 
-                    <p>School of Physical & Chemical Science,<br/>Sanjay Ghodawat University A/P- Atigre, Tal - Hatkanangale,<br/>Dist - Kolhapur.</p>
-                    
-                    <a href="mailto:pallavi.bhange@ch.sguk.ac.in" className="table-link">pallavi.bhange@ch.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>HOD, Chairman,</p>
-                      <p>Director- School of Physical & Chemical Science</p>
-                      
-                  </td>
-                  <td><p>Member</p></td>
-                  <td><p>20.2(iii)<br/>20.2(iv)</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p>Dr. S. M. Pawar</p> 
-                    <p>Department of Physics,Sanjay Ghodawat University,<br/>Kolhapur - 416118</p>
-                    
-                    <a href="mailto:sambhaji.pawar@ph.sguk.ac.in" className="table-link">sambhaji.pawar@ph.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>Chairman,</p>
-                      <p>BOS Physics</p>
-                      
-                  </td>
-                  <td><p>Member</p></td>
-                  <td><p>20.2(iii)<br/>20.2(iv)</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p>Adv. Dr. Anjali Patil</p> 
-                    <p>Department of LAW, Block-C, SGU Campus, Atigre.</p>
-                    
-                    <a href="mailto:anjali.patil@lw.sguk.ac.in" className="table-link">anjali.patil@lw.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>Chairman,</p>
-                      <p>BOS & Director-Legal Studies</p>
-                      
-                  </td>
-                  <td><p>Member</p></td>
-                  <td><p>20.2(iii)<br/>20.2.9(iv)</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p>Mr. S. N. Patil (Incharge)</p> 
-                    <p>Department of Allied Health & Science, SGU Campus, Atigre.</p>
-                 
-                    
-                    <a href="mailto:samsher.patil@sanjayghodawatuniveristy.ac.in" className="table-link">samsher.patil@sanjayghodawatuniveristy.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>Chairman,</p>
-                      <p>BOS Allied Health & Science</p>
-                      
-                  </td>
-                  <td><p>Member</p></td>
-                  <td><p>20.2(iii)</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p>Dr. S. P. Patil</p> 
-                    <p>School of Architecture, Block –B, SGU Campus, Atigre.</p>
-                 
-                    
-                    <a href="mailto:sachin.patil@ce.sguk.ac.in" className="table-link">sachin.patil@ce.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>I/C Director</p>
-                      <p>School of Architecture</p>
-                      
-                  </td>
-                  <td><p>Member</p></td>
-                  <td><p>20.2(iv)</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p>Dr. R. L .Deshpande</p> 
-                     <a href="mailto:iqac@sguk.ac.in" className="table-link">iqac@sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>Director</p>
-                      <p>Internal Quality Assurance Cell</p>
-                      
-                  </td>
-                  <td><p>Member</p></td>
-                  <td><p>20.2(iv)</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p> Ms.Priyanka Patil </p> 
-                    <p>School of Media , Block –B, SGU Campus, Atigre.</p>
-                     <a href="mailto:priyanka.patil@jm.sguk.ac.in" className="table-link">priyanka.patil@jm.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>Director</p>
-                      <p>School of Media</p>
-                      
-                  </td>
-                  <td><p>Member</p></td>
-                  <td><p>20.2(iv)</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p>Dr. Subhabrata (Subho) Ghosal</p> 
-                    <p>RGIT, Mumbai University</p>
-                     <a href="mailto:subhoghosal@gmail.com" className="table-link">subhoghosal@gmail.com <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>Nominated by V. C. Industry Expert</p>
-                     
-                      
-                  </td>
-                  <td> <p>Nominated by Vice Chancellor</p></td>
-                  <td><p>20.2(v)</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p>Dr. Aneish Kumar</p> 
-                    <p>RGIT, Mumbai University</p>
-                     <a href="mailto:aneishk@yahoo.com" className="table-link">aneishk@yahoo.com <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>Nominated by V. C. Industry Expert</p>
-                     
-                      
-                  </td>
-                  <td> <p>Nominated by Vice Chancellor</p></td>
-                  <td><p>20.2(v)</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p>Dr. Deepak Panaskar</p> 
-                    <p>SRTMU, Nanded</p>
-                     <a href="mailto:dbpanaskar@gmail.com" className="table-link">dbpanaskar@gmail.com <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>Nominated by the President Academicians/Scientists</p>
-                     
-                      
-                  </td>
-                  <td> <p>Nominated by the President</p></td>
-                  <td><p>20.2(iv)</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p>Dr. K. V. Srinivasan</p> 
-                    <p>TIFR, Mumbai</p>
-                     <a href="mailto:kvsrini@tifr.res.in" className="table-link">kvsrini@tifr.res.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>Nominated by the President Academicians/Scientists</p>
-                      
-                      
-                  </td>
-                  <td><p>Nominated by the President</p></td>
-                  <td><p>20.2(iv)</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p>Dr. H. Barkate</p> 
-                    <p>TIFR, Mumbai</p>
-                     <a href="mailto:hbarkate@gmail.com" className="table-link">hbarkate@gmail.com <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>Nominated by the President Academicians/Scientists</p>
-                     
-                      
-                  </td>
-                  <td> <p>Nominated by the President</p></td>
-                  <td><p>20.2(iv)</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p>Mrs. V. Ambili</p> 
-                    <p>Deputy Director General, Geological Survey of India, Thiruvananthapuram</p>
-                     <a href="mailto:v.ambli@gsi.gov.in" className="table-link">v.ambli@gsi.gov.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>Nominated by the President Academicians/Scientists</p>
-                      
-                      
-                  </td>
-                  <td><p>Nominated by the President</p></td>
-                  <td><p>20.2(iv)</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p>Dr. N. K. Patil</p> 
-                   
-                     <a href="mailto:coe@sguk.ac.in" className="table-link">coe@sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>Contoller of Examinations</p>
-                      
-                      
-                  </td>
-                  <td><p>Permanent Invitee</p></td>
-                  <td><p>20.2(viii)</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p>Dr. Vivek M. Kayande</p> 
-                    <p>Sanjay Ghodawat University Kolhapur.</p>
-                  
-                    
-                    <a href="mailto:registrar@sanjayghodawatuniversity.ac.in" className="table-link">registrar@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>Registrar,</p>
-                      <p>Sanjay Ghodawat University</p>
-                      
-                  </td>
-                  <td><p>Member Secretary</p></td>
-                  <td><p>20.2(vii)</p></td>
-              </tr>
+                    <td>{renderMultiLine(member.statute)}</td>
+                  </tr>
+                ))}
               </tbody>
             </Table>
+
           </div>
         </div>
       </div>

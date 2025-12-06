@@ -18,182 +18,185 @@ function BoardOfManagement() {
               <thead>
                 <tr>
                   <th><p>NAME OF THE MEMBER</p></th>
-                  <th><p>POST/CATEGORY</p></th>
+                  <th><p>POST</p></th>
                   <th><p>DESIGNATION</p></th>
                   <th><p>SECTION</p></th>
                 </tr>
               </thead>
-              <tbody>
-              <tr>
-                 <td>
-                    <p>Prof. Dr. Udhav Bhosle</p> 
-                    <p>SGU Campus, Atigre</p>
-                    <a href="mailto:vc@sguk.ac.in" className="table-link">vc@sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
 
-                  <td><p>Vice-Chancellor,</p>
-                      <p>Sanjay Ghodawat University, Kolhapur.</p>
+              <tbody>
+
+                {/* 1 */}
+                <tr>
+                  <td><p>Dr. Udhav Bhosle</p></td>
+                  <td>
+                    <p>Vice-Chancellor,</p>
+                    <p>Sanjay Ghodawat University, Kolhapur</p>
                   </td>
                   <td><p>Chairperson</p></td>
-                  <td><p>22(1) a</p></td>
-              </tr>
+                  <td><p>22 (1) a</p></td>
+                </tr>
 
-              <tr>
-                 <td>
-                    <p>Mr. Shrenik S. Ghodawat</p>
-                    <p>28, Sushreya, Yashwant Co-Op Housing Society,</p>
-                    <p>A/o: Jaysingpur - 416 101 Tal: Shirol, Dist: Kolhapur.</p>
-                    <a href="mailto:shrenik@ghodawat.com" className="table-link">shrenik@ghodawat.com <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
+                {/* 2 */}
+                <tr>
+                  <td><p>Mr. Shrenik S. Ghodawat</p></td>
                   <td>
                     <p>Secretary,</p>
-                    <p>Sou. Sushila Danchand Ghodawat Charitable Trust.</p>
-                    <p>Jaysingpur.</p>
+                    <p>Sou. Sushila Danchand Ghodawat Charitable Trust, Jaysingpur</p>
                   </td>
-                  <td><p>Member of GB Nominated by Sponsoring Body</p></td>
-                  <td><p>22(1) b</p></td>
-              </tr>
+                  <td><p>Member (Nominated by sponsoring body)</p></td>
+                  <td><p>22 (1) b</p></td>
+                </tr>
 
-              <tr>
-                 <td>
-                      <p>Mr. Vinayak V. Bhosale</p>
-                      <p>Plot No 630, Shahu Nagar, Sudarshan Chowk, Jaysingpur.</p>
-                      <p>Tal: Shirol, Dist: Kolhapur - 416 101</p>
-                      <a href="mailto:vinayak@sanjayghodawatuniversity.ac.in" className="table-link">vinayak@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a> <br/>
-                      <a href="mailto:vinayak@sginstitute.in" className="table-link2">vinayak@sginstitute.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
+                {/* 3 */}
+                <tr>
+                  <td><p>Mr. Vinayak V. Bhosale</p></td>
                   <td>
                     <p>Trustee,</p>
-                    <p>Sou. Sushila Danchand Ghodawat Charitable Trust,Jaysingpur.</p>
+                    <p>Sou. Sushila Danchand Ghodawat Charitable Trust, Jaysingpur</p>
                   </td>
+                  <td><p>Member (Nominated by sponsoring body)</p></td>
+                  <td><p>22 (1) b</p></td>
+                </tr>
 
-                  <td><p>Member of GB Nominated by Sponsoring Body</p></td>
-                  <td><p>22(1) b</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                      <p>Prof. Dr. V .V. Kulkarni</p>
-                      <p>SGU Campus, Atigre.</p>
-                      <a href="mailto:dean@fst.sguk.ac.in" className="table-link">dean@fst.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a> <br/>
-                  </td>
-
-                  <td><p>Dean,</p>
-                      <p>Faculty of Science & Technology Director (Add. Charge)-School of Design,Jaysingpur.</p>
-                      <p>Sanjay Ghodawat University</p>
-                  </td>
-
-                  <td><p>Dean Nominated by Vice-Chancellor</p></td>
-                  <td><p>22(1) c</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p>Dr.S. Gomathi </p>
-                    <p>SGU Campus, Atigre.</p>
-                      <a href="mailto:dean@fcm.sguk.ac.in" className="table-link">dean@fcm.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a> <br/>
-                  </td>
-
-                  <td><p>Dean,</p>
-                      <p>Faculty of Management & Chairman, BOS & Director -Commerce & Management,<br/>Sanjay Ghodawat University</p>
-                  </td>
-
-                  <td><p>Dean Nominated by Hon. Vice-Chancellor</p></td>
-                  <td><p>22(1) c</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p>Dr. Ganpati D. Yadav Nathalal <br/>Parekh Marg, Matunga, Mumbai - 400019</p>
-                    <a href="mailto:gd.yadav@ictmumbai.edu.in" className="table-link">gd.yadav@ictmumbai.edu.in <i className="fa-regular fa-arrow-right"></i></a> <br/>
-                  </td>
-
-                  <td><p>Vice-Chancellor,</p>
-                      <p>Institute of Chemical Technology, Mumbai</p>
-                  </td>
-
-                  <td><p>Member who are not from GB, Nominated by Sponsoring Body</p></td>
-                  <td><p>22(1) d</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                    <p>Dr. B.M. Hirdekar</p>
-                </td>
-
-                  <td><p>Ex- Registrar,<br/>
-                  Former Director BOE, SUK Kolhapur Ex- Registrar,<br/>
-                  SGU Educationist</p>
-                  </td>
-                  <td><p>Member who are not from GB, Nominated by Sponsoring Body</p></td>
-                  <td><p>22(1) d</p></td>
-              </tr>
-
-              <tr>
-                 <td>
-                 <p>Dr. Revati Deshpande <br/>
-                 C/o Sanjay Ghodawat University, B-Block A/P- Atigre, Tal-Hatkanangale, Dist - Kolhapur.</p>
-                 <a href="mailto:revati.deshpande@mg.sguk.ac.in" className="table-link">revati.deshpande@mg.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a> <br/>
-                  </td>
-
-                  <td><p>Director,</p>
-                  <p>Internal Quality Assurance Cell,<br/>
-                  Sanjay Ghodawat University</p>
-                  </td>
-                  <td><p>Member who are not from GB, Nominated by Sponsoring Body</p></td>
-                  <td><p>22(1) d</p></td>
-              </tr>
-
-              
-              <tr>
-                 <td>
-                 <p>Dr. A. D. Sawant </p>
                 
-                 <a href="mailto:anand.sawant@ch.sguk.ac.in" className="table-link">anand.sawant@ch.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a> <br/>
+                {/* 5 */}
+                <tr>
+                  <td><p>Dr. Vivek V. Kulkarni</p></td>
+                  <td>
+                    <p>Dean, Faculty of Science & Technology</p>
                   </td>
-
-                  <td><p>Associate Dean,</p>
-                  <p>Physical & Chemical Science,<br/>
-                  Sanjay Ghodawat University</p>
+                  <td><p>Member (Dean of Faculty – Nominated by Hon. V.C)</p></td>
+                  <td><p>22 (1) c</p></td>
+                </tr>
+                {/* 4 */}
+                <tr>
+                  <td><p>Dr. S. Gomathi</p></td>
+                  <td>
+                    <p>Dean, Faculty of Commerce & Management</p>
                   </td>
-                  <td><p>Teacher, Nominated by Sponsoring Body</p></td>
-                  <td><p>22(1) e</p></td>
-              </tr>
+                  <td><p>Member (Dean of Faculty – Nominated by Hon. V.C)</p></td>
+                  <td><p>22 (1) c</p></td>
+                </tr>
+                {/* 7 */}
+                <tr>
+                  <td><p>Dr. Ganpati D. Yadav</p></td>
+                  <td>
+                    <p>Vice-Chancellor (Former), ICT Mumbai</p>
+                  </td>
+                  <td><p>Member (Nominated by sponsoring body)</p></td>
+                  <td><p>22 (1) d</p></td>
+                </tr>
 
-              <tr>
-                 <td>
-                 <p>Mr. Prakash A. Desai </p>
+                {/* 6 */}
+                <tr>
+                  <td><p>Dr. Bhagwan M. Hirdekar</p></td>
+                  <td>
+                    <p>Ex-Registrar, SGU</p>
+                    <p>Educationist</p>
+                  </td>
+                  <td><p>Member (Nominated by sponsoring body)</p></td>
+                  <td><p>22 (1) d</p></td>
+                </tr>
+
+                {/* 9 */}
+                <tr>
+                  <td><p>Mr. Sangram V. Patil</p></td>
+                  <td>
+                    <p>M/s Marvelous Engineers Pvt. Ltd., Kolhapur</p>
+                    <p>Industrialist</p>
+                  </td>
+                  <td><p>Member</p></td>
+                  <td><p>22 (1) d</p></td>
+                </tr>
+
+                {/* 8 */}
+                <tr>
+                  <td><p>Dr. N. J. Pawar</p></td>
+                  <td>
+                    <p>Former Vice-Chancellor, Shivaji University, Kolhapur</p>
+                  </td>
+                  <td><p>Member</p></td>
+                  <td><p>22 (1) d</p></td>
+                </tr>
+
                 
-                 <a href="mailto:cfo@sguk.ac.in" className="table-link">cfo@sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a> <br/>
-                  </td>
 
-                  <td><p>Chief Finance And Accounts Officer,<br/>
+                {/* 10 */}
+                <tr>
+                  <td><p>Dr. Revati L. Deshpande</p></td>
+                  <td>
+                    <p>Director, Quality and Compliance</p>
                   
-                  Sanjay Ghodawat University</p>
                   </td>
-                  <td><p>invitee</p></td>
+                  <td><p>Member (Nominated by sponsoring body)</p></td>
+                  <td><p>22 (1) d</p></td>
+                </tr>
+
+                {/* 11 */}
+                <tr>
+                  <td><p>Dr. Uttam Jadhav</p></td>
+                  <td>
+                    <p>I/C Dean, Faculty of Humanities And Social Science</p>
+                  </td>
+                  <td><p>Member (Teacher nominated by sponsoring body)</p></td> 
+                  <td><p>22 (1) e</p></td>
+                </tr>
+
+                {/* 12 */}
+                <tr>
+                  <td><p>Dr. Vilas Balgoankar</p></td>
+                  <td>
+                    <p>HoD  Department of Commerce & Management</p>
+                  </td>
+                  <td><p>Member (Teacher nominated by sponsoring body)</p></td>
+                  <td><p>22 (1) e</p></td>
+                </tr>
+                 {/* 14 */}
+                <tr>
+                  <td><p>Dr. Shamala Mahadik</p></td>
+                  <td>
+                    <p>Professor in Electronics & Communication Engineering</p>
+                  </td>
+                 <td><p>Member (Teacher nominated by sponsoring body)</p></td>
                   <td></td>
-              </tr>
+                </tr>
 
-              <tr>
-                 <td>
-                 <p>Dr. Vivek M. Kayande </p>
-                
-                 <a href="mailto:registrar@sguk.ac.in" className="table-link">registrar@sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a> <br/>
+                {/* 13 */}
+                <tr>
+                  <td><p>Dr. N. K. Patil</p></td>
+                  <td>
+                    <p>Controller of Examinations</p>
                   </td>
+                <td><p>Invitee</p></td>
+                  <td><p>22 (1) e</p></td>
+                </tr>
 
-                  <td><p>Registrar,<br/>
-                  
-                  Sanjay Ghodawat University</p>
+               
+
+                {/* 15 */}
+                <tr>
+                  <td><p>Mr. Prakash A. Desai</p></td>
+                  <td>
+                    <p>Chief Finance and Accounts Officer</p>
+                  </td>
+                  <td><p>Invitee</p></td>
+                  <td></td>
+                </tr>
+
+                {/* 16 */}
+                <tr>
+                  <td><p>Dr. Vivek M. Kayande</p></td>
+                  <td>
+                    <p>Registrar, Sanjay Ghodawat University</p>
                   </td>
                   <td><p>Member Secretary</p></td>
-                  <td><p>16(3)</p></td>
-              </tr>
+                  <td><p>16 (3)</p></td>
+                </tr>
 
-	          </tbody>
+              </tbody>
             </Table>
+
           </div>
         </div>
       </div>
