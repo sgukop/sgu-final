@@ -33,6 +33,10 @@ const BBA = () => {
              </tr>  */}
 
               <tr>
+                  <td><p>FYBBA - R25</p></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/693685b072c1168fd4688d5f">FYBBA - R25 <i className="fa-regular fa-arrow-right-long"></i></a></td>
+             </tr>
+              <tr>
                   <td><p>FYBBA - R24</p></td>
                   <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/67e63eeb4f56d3a0bcfbae87">FYBBA - R24 <i className="fa-regular fa-arrow-right-long"></i></a></td>
              </tr>
