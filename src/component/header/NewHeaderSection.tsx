@@ -354,6 +354,9 @@ const NewHeaderSection = () => {
 </div>*/}
 
     <Marquee speed={100} gradient={false} pauseOnHover className="flex m-2">
+      <sup><img src="assets/images/new-icon-image.gif"/></sup>
+      <a href="https://manage-api.sguk.ac.in/api/assets/693a85c55fea6e5500e4d8cb" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6"> West-Zone Tennis Championship 2026 • Sanjay Ghodawat University • Men's & Women's Tennis Tournament • 7th- 11th January 2026</a>
+        
         <sup><img src="assets/images/new-icon-image.gif"/></sup>
         <a href="https://manage-api.sguk.ac.in/api/assets/6867a31fb513ac737c09b117" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Achievements of SWAYAM - NPTEL SGU Local Chapter Jan-May 2025 </a>
 
