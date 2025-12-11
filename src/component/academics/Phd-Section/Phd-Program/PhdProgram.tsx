@@ -18,6 +18,8 @@ const PhdProgram = () => {
                                     <li className="mt-2"><a rel="noopener noreferrer" className="dark-mode-white-color font-semibold" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68ff480d9b0f316357c64c3e">Instructions for SGUPET 2025 <i className="fa-regular fa-arrow-right-long"></i></a></li>
                                     <li className="mt-2"><a rel="noopener noreferrer" className="dark-mode-white-color font-semibold" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68ff481a9b0f316357c64c43">Ph.D. Ordinance 2024 <i className="fa-regular fa-arrow-right-long"></i></a></li>
                                     <li className="mt-2"><a rel="noopener noreferrer" className="dark-mode-white-color font-semibold" target="_blank" href="https://forms.gle/bxybYx5MxLSxGHGS9">Link for Application Form <i className="fa-regular fa-arrow-right-long"></i></a></li>
+                                    <li className="mt-2"><a rel="noopener noreferrer" className="dark-mode-white-color font-semibold" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/693a61745fea6e5500e4d837">List of Eligible Candidates  SGUPET 2025 <i className="fa-regular fa-arrow-right-long"></i></a></li>
+                                    <li className="mt-2"><a rel="noopener noreferrer" className="dark-mode-white-color font-semibold" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/693a61845fea6e5500e4d83c">List of Exempted Candidates  SGUPET 2025 <i className="fa-regular fa-arrow-right-long"></i></a></li>
                                 </ul>
                             </div>
                         </div>

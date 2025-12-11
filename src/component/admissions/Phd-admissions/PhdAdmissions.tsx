@@ -46,6 +46,18 @@ const PhdAdmissions = ({sectionStyle,pageStyle,categoryStyle} : Props) => {
                 <i className="fa-regular fa-arrow-right-long"></i>
               </Link>
             </div>
+                        <div className="col-lg-6 col-md-6 col-12 col-xxs-12">
+              <Link href="#" className={`tl-3-single-program ${categoryStyle}`}>
+                <h5 className="tl-3-single-program-title">Admission Calendar for Ph.D. Programs</h5>
+                <i className="fa-regular fa-arrow-right-long"></i>
+              </Link>
+            </div>
+                        <div className="col-lg-6 col-md-6 col-12 col-xxs-12">
+              <Link href="#" className={`tl-3-single-program ${categoryStyle}`}>
+                <h5 className="tl-3-single-program-title">Admission Calendar for Ph.D. Programs</h5>
+                <i className="fa-regular fa-arrow-right-long"></i>
+              </Link>
+            </div>
         </div>
       </div>
     </section>
