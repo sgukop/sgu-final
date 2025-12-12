@@ -36,6 +36,7 @@ const AdmissionSection:React.FC<Props> = ({style}) => {
                 Online Registration → Login with username & password → Fill up personal details →
                 Fill up academic details → Payment Process → Submit
               </p>
+              Registration Open 2025-26
 
           </div>
 
