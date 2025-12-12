@@ -170,11 +170,11 @@ const ICSSHFE = () => {
 ];
 
   const importantDates : DateInfo[] = [
-  { event: "Abstract Submission Deadline", date: "10th December 2025", icon: FileText },
-  { event: "Abstract Acceptance", date: "15th December 2025", icon: Mail },
-  { event: "Submission of Manuscript", date: "30th December 2025", icon: FileText },
-  { event: "Acceptance of Manuscript", date: "10th January 2026", icon: Mail },
-  { event: "Payment of Registration Fees", date: "15th December 2025", icon: Users },
+  { event: "Abstract Submission Deadline", date: "30th December 2025", icon: FileText },
+  { event: "Abstract Acceptance", date: "5th Jan 2026", icon: Mail },
+  { event: "Submission of Manuscript", date: "23rd Jan 2026", icon: FileText },
+  { event: "Acceptance of Manuscript *", date: "15th Feb 2026", icon: Mail },
+  { event: "Payment of Registration Fees", date: "30th December 2025", icon: Users },
   { event: "Conference Dates", date: "23rd & 24th January 2026", icon: Calendar },
   ];
 
@@ -697,6 +697,17 @@ const ICSSHFE = () => {
                       <p className="font-semibold text-gray-900">Venue</p>
                       <p className="text-gray-600">Sanjay Ghodawat University</p>
                       <p className="text-gray-600">Atigre, Kolhapur, Maharashtra, India</p>
+                    </div>
+                  </div>
+                  <div className="flex items-center space-x-4">
+                    <div className="w-12 h-12 bg-gradient-to-br from-blue-600 to-purple-600 rounded-lg flex items-center justify-center">
+                      <Mail className="w-6 h-6 text-white" />
+                    </div>
+                    <div>
+                      <p className="font-semibold text-gray-900">ICSHFE 2026 Brochure</p>
+                      <a href="https://manage-api.sguk.ac.in/api/assets/693ba9ad5fea6e5500e4db3f" className="text-blue-600 hover:text-blue-800">
+                        Brochure
+                      </a>
                     </div>
                   </div>
                 </div>
