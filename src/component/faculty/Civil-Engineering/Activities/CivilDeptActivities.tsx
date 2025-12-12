@@ -40,32 +40,7 @@ const CivilDeptActivities = () => {
                             <h2 className="tl-11-section-title">Activities</h2>
                         </div>
 
-                        {/* ===================== NEW TABS ADDED HERE ===================== */}
-                        <ul className="nav nav-tabs mb-4 justify-content-center">
-                            <li className="nav-item">
-                                <a className="nav-link" href="#collapseConvocation">Convocation</a>
-                            </li>
-                            <li className="nav-item">
-                                <a className="nav-link active" href="#collapseOne">Value Added Training</a>
-                            </li>
-                            <li className="nav-item">
-                                <a className="nav-link" href="#collapseTwo">Expert Lectures</a>
-                            </li>
-                            <li className="nav-item">
-                                <a className="nav-link" href="#collapseThree">Seminars</a>
-                            </li>
-                            <li className="nav-item">
-                                <a className="nav-link" href="#collapseFourFac">Faculty Conferences</a>
-                            </li>
-                            <li className="nav-item">
-                                <a className="nav-link" href="#collapseFiveStd">Student Conferences</a>
-                            </li>
-                            <li className="nav-item">
-                                <a className="nav-link" href="#collapseSix">Educational Visits</a>
-                            </li>
-                        </ul>
-                        {/* ===================== END OF TABS ===================== */}
-
+                         
                         <div className="row gy-4 align-items-center">
                             <div className="col-lg-12">
                                 <div className="accordion mt-10" id="civilactivity">
