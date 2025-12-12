@@ -5,6 +5,7 @@ import Link from 'next/link';
 import Convocation from './convocation';
 import Khndenavami from './khndenavami';
 import NSS from './NSS';
+import SiteVisit from './sitevisit';
 import ValueAddedTraining from './ValueAddedTraining';
 import ExperLectures from './ExperLectures';
 import SeminarsFaculties from './SeminarsFaculties';
@@ -72,32 +73,33 @@ const CivilDeptActivities = () => {
                                             </div>
                                         </div>
                                     </div>
+
                                     {/* ITEM 2 - Khndenavami */}
-                                         <div className="tl-event-details-area tl-course-details-curriculum">
-                                          <h2 className="accordion-header" id="headingKhnde">
-                                             <button
+                                    <div className="tl-event-details-area tl-course-details-curriculum">
+                                        <h2 className="accordion-header" id="headingKhnde">
+                                            <button
                                                 className="accordion-button collapsed"
-                                             type="button"
-                                               data-bs-toggle="collapse"
-                                               data-bs-target="#collapseKhnde"
-                                              aria-expanded="false"
-                                              aria-controls="collapseKhnde"
-                                                  >
+                                                type="button"
+                                                data-bs-toggle="collapse"
+                                                data-bs-target="#collapseKhnde"
+                                                aria-expanded="false"
+                                                aria-controls="collapseKhnde"
+                                            >
                                                Khndenavami
-                                                 </button>
-                                                     </h2>
-                                                <div
-                                                 id="collapseKhnde"
-                                                  className="accordion-collapse collapse"
-                                                  aria-labelledby="headingKhnde"
-                                                  data-bs-parent="#civilactivity"
-                                                 >
-                                                <div className="accordion-body">
-                                                  <Khndenavami />
-                                                  </div>
-                                                     </div>
-                                                     </div>
- 
+                                            </button>
+                                        </h2>
+                                        <div
+                                            id="collapseKhnde"
+                                            className="accordion-collapse collapse"
+                                            aria-labelledby="headingKhnde"
+                                            data-bs-parent="#civilactivity"
+                                        >
+                                            <div className="accordion-body">
+                                                <Khndenavami />
+                                            </div>
+                                        </div>
+                                    </div>
+
                                     {/* ITEM 3 - NSS */}
                                     <div className="tl-event-details-area tl-course-details-curriculum">
                                         <h2 className="accordion-header" id="headingNSS">
@@ -124,7 +126,33 @@ const CivilDeptActivities = () => {
                                         </div>
                                     </div>
 
-                                    {/* ITEM 4 - Value Added Training */}
+                                    {/* ITEM 4 - Site Visit */}
+                                    <div className="tl-event-details-area tl-course-details-curriculum">
+                                        <h2 className="accordion-header" id="headingSiteVisit">
+                                            <button
+                                                className="accordion-button collapsed"
+                                                type="button"
+                                                data-bs-toggle="collapse"
+                                                data-bs-target="#collapseSiteVisit"
+                                                aria-expanded="false"
+                                                aria-controls="collapseSiteVisit"
+                                            >
+                                                Site Visit
+                                            </button>
+                                        </h2>
+                                        <div
+                                            id="collapseSiteVisit"
+                                            className="accordion-collapse collapse"
+                                            aria-labelledby="headingSiteVisit"
+                                            data-bs-parent="#civilactivity"
+                                        >
+                                            <div className="accordion-body">
+                                                <SiteVisit />
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    {/* ITEM 5 - Value Added Training */}
                                     <div className="tl-event-details-area tl-course-details-curriculum">
                                         <h2 className="accordion-header" id="headingVAT">
                                             <button
@@ -149,7 +177,7 @@ const CivilDeptActivities = () => {
                                         </div>
                                     </div>
 
-                                    {/* ITEM 5 - Expert Lectures */}
+                                    {/* ITEM 6 - Expert Lectures */}
                                     <div className="tl-event-details-area tl-course-details-curriculum">
                                         <h2 className="accordion-header" id="headingExpert">
                                             <button
@@ -175,7 +203,7 @@ const CivilDeptActivities = () => {
                                         </div>
                                     </div>
 
-                                    {/* ITEM 6 - Seminars */}
+                                    {/* ITEM 7 - Seminars */}
                                     <div className="tl-event-details-area tl-course-details-curriculum">
                                         <h2 className="accordion-header" id="headingSem">
                                             <button
@@ -201,7 +229,7 @@ const CivilDeptActivities = () => {
                                         </div>
                                     </div>
 
-                                    {/* ITEM 7 - Faculty Conferences */}
+                                    {/* ITEM 8 - Faculty Conferences */}
                                     <div className="tl-event-details-area tl-course-details-curriculum">
                                         <h2 className="accordion-header" id="headingFac">
                                             <button
@@ -227,7 +255,7 @@ const CivilDeptActivities = () => {
                                         </div>
                                     </div>
 
-                                    {/* ITEM 8 - Student Conferences */}
+                                    {/* ITEM 9 - Student Conferences */}
                                     <div className="tl-event-details-area tl-course-details-curriculum">
                                         <h2 className="accordion-header" id="headingStd">
                                             <button
@@ -253,7 +281,7 @@ const CivilDeptActivities = () => {
                                         </div>
                                     </div>
 
-                                    {/* ITEM 9 - Educational Visits */}
+                                    {/* ITEM 10 - Educational Visits */}
                                     <div className="tl-event-details-area tl-course-details-curriculum">
                                         <h2 className="accordion-header" id="headingVisit">
                                             <button
