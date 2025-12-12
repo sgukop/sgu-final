@@ -3,6 +3,8 @@ import React from 'react';
 import Link from 'next/link';
 
 import Convocation from './convocation';
+import Khndenavami from './khndenavami';
+import NSS from './NSS';
 import ValueAddedTraining from './ValueAddedTraining';
 import ExperLectures from './ExperLectures';
 import SeminarsFaculties from './SeminarsFaculties';
@@ -36,33 +38,33 @@ const CivilDeptActivities = () => {
                         data-target="#menu-navbar"
                         data-offset="0"
                     >
+
                         <div className="tl-11-section-heading">
                             <h2 className="tl-11-section-title">Activities</h2>
                         </div>
 
-                         
                         <div className="row gy-4 align-items-center">
                             <div className="col-lg-12">
                                 <div className="accordion mt-10" id="civilactivity">
 
                                     {/* ITEM 1 - Convocation */}
                                     <div className="tl-event-details-area tl-course-details-curriculum">
-                                        <h2 className="accordion-header" id="headingConvocation">
+                                        <h2 className="accordion-header" id="headingConvocation1">
                                             <button
                                                 className="accordion-button collapsed"
                                                 type="button"
                                                 data-bs-toggle="collapse"
-                                                data-bs-target="#collapseConvocation"
+                                                data-bs-target="#collapseConvocation1"
                                                 aria-expanded="false"
-                                                aria-controls="collapseConvocation"
+                                                aria-controls="collapseConvocation1"
                                             >
                                                7th Convocation
                                             </button>
                                         </h2>
                                         <div
-                                            id="collapseConvocation"
+                                            id="collapseConvocation1"
                                             className="accordion-collapse collapse"
-                                            aria-labelledby="headingConvocation"
+                                            aria-labelledby="headingConvocation1"
                                             data-bs-parent="#civilactivity"
                                         >
                                             <div className="accordion-body">
@@ -70,24 +72,75 @@ const CivilDeptActivities = () => {
                                             </div>
                                         </div>
                                     </div>
-
-                                    {/* ITEM 2 - Value Added Training */}
+                                    {/* ITEM 2 - Khndenavami */}
+                                         <div className="tl-event-details-area tl-course-details-curriculum">
+                                          <h2 className="accordion-header" id="headingKhnde">
+                                             <button
+                                                className="accordion-button collapsed"
+                                             type="button"
+                                               data-bs-toggle="collapse"
+                                               data-bs-target="#collapseKhnde"
+                                              aria-expanded="false"
+                                              aria-controls="collapseKhnde"
+                                                  >
+                                               Khndenavami
+                                                 </button>
+                                                     </h2>
+                                                <div
+                                                 id="collapseKhnde"
+                                                  className="accordion-collapse collapse"
+                                                  aria-labelledby="headingKhnde"
+                                                  data-bs-parent="#civilactivity"
+                                                 >
+                                                <div className="accordion-body">
+                                                  <Khndenavami />
+                                                  </div>
+                                                     </div>
+                                                     </div>
+ 
+                                    {/* ITEM 3 - NSS */}
                                     <div className="tl-event-details-area tl-course-details-curriculum">
-                                        <h2 className="accordion-header" id="headingOne">
+                                        <h2 className="accordion-header" id="headingNSS">
+                                            <button
+                                                className="accordion-button collapsed"
+                                                type="button"
+                                                data-bs-toggle="collapse"
+                                                data-bs-target="#collapseNSS"
+                                                aria-expanded="false"
+                                                aria-controls="collapseNSS"
+                                            >
+                                               NSS
+                                            </button>
+                                        </h2>
+                                        <div
+                                            id="collapseNSS"
+                                            className="accordion-collapse collapse"
+                                            aria-labelledby="headingNSS"
+                                            data-bs-parent="#civilactivity"
+                                        >
+                                            <div className="accordion-body">
+                                                <NSS />
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    {/* ITEM 4 - Value Added Training */}
+                                    <div className="tl-event-details-area tl-course-details-curriculum">
+                                        <h2 className="accordion-header" id="headingVAT">
                                             <button
                                                 className="accordion-button"
                                                 type="button"
                                                 data-bs-toggle="collapse"
-                                                data-bs-target="#collapseOne"
-                                                aria-controls="collapseOne"
+                                                data-bs-target="#collapseVAT"
+                                                aria-controls="collapseVAT"
                                             >
                                                 Value Added Training Programme and Workshop Conducted
                                             </button>
                                         </h2>
                                         <div
-                                            id="collapseOne"
+                                            id="collapseVAT"
                                             className="accordion-collapse collapse show"
-                                            aria-labelledby="headingOne"
+                                            aria-labelledby="headingVAT"
                                             data-bs-parent="#civilactivity"
                                         >
                                             <div className="accordion-body">
@@ -96,24 +149,24 @@ const CivilDeptActivities = () => {
                                         </div>
                                     </div>
 
-                                    {/* ITEM 3 - Expert Lectures */}
+                                    {/* ITEM 5 - Expert Lectures */}
                                     <div className="tl-event-details-area tl-course-details-curriculum">
-                                        <h2 className="accordion-header" id="headingTwo">
+                                        <h2 className="accordion-header" id="headingExpert">
                                             <button
                                                 className="accordion-button collapsed"
                                                 type="button"
                                                 data-bs-toggle="collapse"
-                                                data-bs-target="#collapseTwo"
+                                                data-bs-target="#collapseExpert"
                                                 aria-expanded="false"
-                                                aria-controls="collapseTwo"
+                                                aria-controls="collapseExpert"
                                             >
                                                 Guest / Expert Lectures
                                             </button>
                                         </h2>
                                         <div
-                                            id="collapseTwo"
+                                            id="collapseExpert"
                                             className="accordion-collapse collapse"
-                                            aria-labelledby="headingTwo"
+                                            aria-labelledby="headingExpert"
                                             data-bs-parent="#civilactivity"
                                         >
                                             <div className="accordion-body">
@@ -122,24 +175,24 @@ const CivilDeptActivities = () => {
                                         </div>
                                     </div>
 
-                                    {/* ITEM 4 - Seminars */}
+                                    {/* ITEM 6 - Seminars */}
                                     <div className="tl-event-details-area tl-course-details-curriculum">
-                                        <h2 className="accordion-header" id="headingThree">
+                                        <h2 className="accordion-header" id="headingSem">
                                             <button
                                                 className="accordion-button collapsed"
                                                 type="button"
                                                 data-bs-toggle="collapse"
-                                                data-bs-target="#collapseThree"
+                                                data-bs-target="#collapseSem"
                                                 aria-expanded="false"
-                                                aria-controls="collapseThree"
+                                                aria-controls="collapseSem"
                                             >
                                                 Seminars / Workshops attended by the Faculties
                                             </button>
                                         </h2>
                                         <div
-                                            id="collapseThree"
+                                            id="collapseSem"
                                             className="accordion-collapse collapse"
-                                            aria-labelledby="headingThree"
+                                            aria-labelledby="headingSem"
                                             data-bs-parent="#civilactivity"
                                         >
                                             <div className="accordion-body">
@@ -148,24 +201,24 @@ const CivilDeptActivities = () => {
                                         </div>
                                     </div>
 
-                                    {/* ITEM 5 - Faculty conferences */}
+                                    {/* ITEM 7 - Faculty Conferences */}
                                     <div className="tl-event-details-area tl-course-details-curriculum">
-                                        <h2 className="accordion-header" id="headingFourFac">
+                                        <h2 className="accordion-header" id="headingFac">
                                             <button
                                                 className="accordion-button collapsed"
                                                 type="button"
                                                 data-bs-toggle="collapse"
-                                                data-bs-target="#collapseFourFac"
+                                                data-bs-target="#collapseFac"
                                                 aria-expanded="false"
-                                                aria-controls="collapseFourFac"
+                                                aria-controls="collapseFac"
                                             >
                                                 Conferences attended by the Faculties
                                             </button>
                                         </h2>
                                         <div
-                                            id="collapseFourFac"
+                                            id="collapseFac"
                                             className="accordion-collapse collapse"
-                                            aria-labelledby="headingFourFac"
+                                            aria-labelledby="headingFac"
                                             data-bs-parent="#civilactivity"
                                         >
                                             <div className="accordion-body">
@@ -174,24 +227,24 @@ const CivilDeptActivities = () => {
                                         </div>
                                     </div>
 
-                                    {/* ITEM 6 - Student conferences */}
+                                    {/* ITEM 8 - Student Conferences */}
                                     <div className="tl-event-details-area tl-course-details-curriculum">
-                                        <h2 className="accordion-header" id="headingFiveStd">
+                                        <h2 className="accordion-header" id="headingStd">
                                             <button
                                                 className="accordion-button collapsed"
                                                 type="button"
                                                 data-bs-toggle="collapse"
-                                                data-bs-target="#collapseFiveStd"
+                                                data-bs-target="#collapseStd"
                                                 aria-expanded="false"
-                                                aria-controls="collapseFiveStd"
+                                                aria-controls="collapseStd"
                                             >
                                                 Conferences attended by the Students
                                             </button>
                                         </h2>
                                         <div
-                                            id="collapseFiveStd"
+                                            id="collapseStd"
                                             className="accordion-collapse collapse"
-                                            aria-labelledby="headingFiveStd"
+                                            aria-labelledby="headingStd"
                                             data-bs-parent="#civilactivity"
                                         >
                                             <div className="accordion-body">
@@ -200,24 +253,24 @@ const CivilDeptActivities = () => {
                                         </div>
                                     </div>
 
-                                    {/* ITEM 7 - Educational Visits */}
+                                    {/* ITEM 9 - Educational Visits */}
                                     <div className="tl-event-details-area tl-course-details-curriculum">
-                                        <h2 className="accordion-header" id="headingSix">
+                                        <h2 className="accordion-header" id="headingVisit">
                                             <button
                                                 className="accordion-button collapsed"
                                                 type="button"
                                                 data-bs-toggle="collapse"
-                                                data-bs-target="#collapseSix"
+                                                data-bs-target="#collapseVisit"
                                                 aria-expanded="false"
-                                                aria-controls="collapseSix"
+                                                aria-controls="collapseVisit"
                                             >
                                                 Industrial and Educational Visits
                                             </button>
                                         </h2>
                                         <div
-                                            id="collapseSix"
+                                            id="collapseVisit"
                                             className="accordion-collapse collapse"
-                                            aria-labelledby="headingSix"
+                                            aria-labelledby="headingVisit"
                                             data-bs-parent="#civilactivity"
                                         >
                                             <div className="accordion-body">
