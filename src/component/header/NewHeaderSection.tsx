@@ -252,7 +252,8 @@ const NewHeaderSection = () => {
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/eligibility-criteria">Eligibility-criteria</NavLink></li>
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/scholarships">Scholarships</NavLink></li>
                                 <li className="py-[3px] px-4"><a href="https://manage-api.sguk.ac.in/api/assets/693bbdbd475c25da4f1219ce" className="font-normal text-[15px] hover:text-[#f4b826]" target="_blank">SGU Brochure</a></li>
-                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="document-required">Document Required</NavLink></li>
+                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/document-required">Document Required</NavLink></li>
+                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/eligibility-criteria">Eligibility-criteria</NavLink></li>
 
                                 </ul>
                       </li>
