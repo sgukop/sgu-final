@@ -20,6 +20,9 @@ const PhdProgram = () => {
                                     <li className="mt-2"><a rel="noopener noreferrer" className="dark-mode-white-color font-semibold" target="_blank" href="https://forms.gle/bxybYx5MxLSxGHGS9">Link for Application Form <i className="fa-regular fa-arrow-right-long"></i></a></li>
                                     <li className="mt-2"><a rel="noopener noreferrer" className="dark-mode-white-color font-semibold" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/693a61745fea6e5500e4d837">List of Eligible Candidates  SGUPET 2025 <i className="fa-regular fa-arrow-right-long"></i></a></li>
                                     <li className="mt-2"><a rel="noopener noreferrer" className="dark-mode-white-color font-semibold" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/693a61845fea6e5500e4d83c">List of Exempted Candidates  SGUPET 2025 <i className="fa-regular fa-arrow-right-long"></i></a></li>
+                                    <li className="mt-2"><a rel="noopener noreferrer" className="dark-mode-white-color font-semibold" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/693cf28f475c25da4f121c31">APS Guidelines <i className="fa-regular fa-arrow-right-long"></i></a></li>
+                                    <li className="mt-2"><a rel="noopener noreferrer" className="dark-mode-white-color font-semibold" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/693cf2b1475c25da4f121c36">SGUK_Circular APS 2026 <i className="fa-regular fa-arrow-right-long"></i></a></li>
+                                    <li className="mt-2"><a rel="noopener noreferrer" className="dark-mode-white-color font-semibold" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/693cf2db475c25da4f121c3b">SGU-PET Syllabus-2 <i className="fa-regular fa-arrow-right-long"></i></a></li>
                                 </ul>
                             </div>
                         </div>
