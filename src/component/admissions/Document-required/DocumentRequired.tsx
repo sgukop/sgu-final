@@ -6,7 +6,7 @@ const DocumentRequired = () => {
         <div className="container">
             <div className="row tl-event-details-row g-0">
                 <div className="col-lg-12">
-                    <h2 className="universityobject-heading dark-mode-white-color mb-50">Documents Required for Admissions 2023-24</h2>
+                    <h2 className="universityobject-heading dark-mode-white-color mb-50">Documents Required for Admissions 2025-26</h2>
                     <div className="tl-event-details-left">
                         <div className="tl-event-details-key-content tl-event-details-area">
                             <h4 className="dark-mode-white-color mb-30">For First Year B. Tech / Direct Second Year B. Tech /First Year & Direct Second Year B. Pharmacy Admissions</h4>

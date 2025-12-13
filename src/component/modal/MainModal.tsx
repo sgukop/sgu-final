@@ -54,16 +54,7 @@ export const MainModal = ({
                 </td>
               </tr>
 
-              <tr>
-                <td style={{ textAlign: "center" }}>
-                  <span className="mb-10">
-                    <a target="_blank" className="tl-def-btn-2" href="#">
-                      Admission For SGUEED 2025-26(Entrance Examination for Design){" "}
-                      <i className="fa-regular fa-arrow-right"></i>
-                    </a>
-                  </span>
-                </td>
-              </tr>
+              
 
               <tr>
                 <td style={{ textAlign: "center" }}>

@@ -59,10 +59,7 @@ const SidebarSection = () => {
                     </ul>
                   </div>
                   <div className="kidba-sidebar-info-social-331">
-                    <a href="https://www.facebook.com/SGUniversityKolhapur?mibextid=LQQJ4d" className="header-right-txt"><i className="icofont-facebook"></i></a>
-                    <a href="https://www.linkedin.com/school/sanjayghodawatuniversity/" className="header-right-txt"><i className="icofont-linkedin"></i></a>
-                    <a href="https://www.instagram.com/sanjayghodawatuniversity/profilecard/?igsh=MWp3b3Q3OTF2bHBwcQ==" className="header-right-txt"><i className="icofont-instagram"></i></a>
-                    <a href="https://www.youtube.com/@sguniversity7645" className="header-right-txt"><i className="icofont-youtube"></i></a>
+                   
                   </div>
                 </Tab.Pane>
               </Tab.Content>
