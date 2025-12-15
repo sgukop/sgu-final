@@ -68,9 +68,9 @@ const ThemeBtnSection = () => {
     <div className="social-media-right">
         <ul>
             <li>
-                <a target="_blank" href="https://api.whatsapp.com/send?phone=+919011039800&amp;text=Hi%2C%20I%20need%20assistance%20for%20Admissions%202025.">
+                <a target="_blank" href="https://api.whatsapp.com/send?phone=+917028811192&amp;text=Hi%2C%20I%20need%20assistance%20for%20Admissions%202025.">
                     <i className="fa-brands fa-whatsapp icon"></i>
-                    <span className="st-label">Whatsapp only <br/> +91 9011039800</span>
+                    <span className="st-label">Whatsapp only <br/> +91 7028811192</span>
                 </a>
             </li>
             
@@ -80,12 +80,12 @@ const ThemeBtnSection = () => {
                     <span className="st-label">Enquiry Form</span>
                 </a>
             </li>
-            <li>
+           {/* <li>
                 <a className="feedback-btn" href="https://forms.gle/YYbkzzEuNAu7Q2r87" target="_blank">
                     <i className="fa  fa-list-alt icon"></i>
                     <span className="st-label">SGUEED 2025 Form</span>
                 </a>
-            </li>
+            </li>*/}
         </ul>
     </div>
 </div>
