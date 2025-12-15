@@ -29,7 +29,15 @@ const ContactAdmission = () => {
                     <span className="key">
                         <i className="fa-solid fa-envelope mr-3"></i> 
                         <a target="_blank" href="mailto:admissions@sanjayghodawatuniversity.ac.in">
-                        admissions@sanjayghodawatuniversity.ac.in
+                        admissions@sguk.ac.in 
+                        </a>
+                    </span>
+                </li>
+                <li className="tl-event-details-info">
+                    <span className="key">
+                        <i className="fa-solid fa-envelope mr-3"></i> 
+                        <a target="_blank" href="mailto:admissions@sanjayghodawatuniversity.ac.in">
+                        rajesh.vashikar@sguk.ac.in
                         </a>
                     </span>
                 </li>
@@ -58,7 +66,15 @@ const ContactAdmission = () => {
                     <span className="key">
                         <i className="fa-solid fa-envelope mr-3"></i> 
                         <a target="_blank" href="mailto:admissions@sanjayghodawatuniversity.ac.in">
-                        admissions@sanjayghodawatuniversity.ac.in
+                        admissions@sguk.ac.in 
+                        </a>
+                    </span>
+                </li>
+                 <li className="tl-event-details-info">
+                    <span className="key">
+                        <i className="fa-solid fa-envelope mr-3"></i> 
+                        <a target="_blank" href="mailto:admissions@sanjayghodawatuniversity.ac.in">
+                        abhijit.latkar@sguk.ac.in
                         </a>
                     </span>
                 </li>
