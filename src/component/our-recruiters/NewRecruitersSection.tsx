@@ -6,34 +6,6 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from "react-responsive-carousel";
 
 const logos: string[] = [
-   "/assets/images/recruiters/company6.png",
-  "/assets/images/recruiters/company2.png",
-  "/assets/images/recruiters/company4.png",
-  "/assets/images/recruiters/company5.png",
-  "/assets/images/recruiters/company3.png",
-  "/assets/images/recruiters/company1.png",
-  "/assets/images/recruiters/engg02.jpg",
-  "/assets/images/recruiters/engg03.jpg",
-  "/assets/images/recruiters/engg04.jpg",
-  "/assets/images/recruiters/engg06.jpg",
-  "/assets/images/recruiters/engg07.jpg",
-  "/assets/images/recruiters/engg09.jpg",
-  "/assets/images/recruiters/engg10.jpg",
-  "/assets/images/recruiters/engg11.jpg",
-  "/assets/images/recruiters/engg12.jpg",
-  "/assets/images/recruiters/engg16.jpg",
-  "/assets/images/recruiters/engg17.jpg",
-  "/assets/images/recruiters/engg18.jpg",
-  "/assets/images/recruiters/engg21.jpg",
-  "/assets/images/recruiters/engg36.jpg",
-  "/assets/images/recruiters/engg37.jpg",
-  "/assets/images/recruiters/engg38.jpg",
-  "/assets/images/recruiters/mba04.jpg",
-  "/assets/images/recruiters/mba05.jpg",
-  "/assets/images/recruiters/mba07.jpg",
-  "/assets/images/recruiters/mba10.jpg",
-  "/assets/images/recruiters/mba11.jpg",
-  "/assets/images/recruiters/mba15.jpg",
   "/assets/images/recruiters/mba16.jpg",
   "/assets/images/recruiters/mba18.jpg",
 ];
@@ -89,7 +61,7 @@ const NewRecruitersSection: React.FC = () => {
               title={label}
               style={{
                 position: "absolute",
-                zIndex: 2,
+                zIndex: 4,
                 left: 15,
                 top: "50%",
                 transform: "translateY(-50%)",

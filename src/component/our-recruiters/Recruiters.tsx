@@ -36,20 +36,7 @@ const Recruiters:React.FC<MemberProps> = ({style,slideStyle,swiperStyle}) => {
             }}
             >
               
-                {membershipList.map((item) => (
-                  <SwiperSlide className={`tl-6-member ${slideStyle}`} key={item.id}>
-                    
-                    <img src={item.imgSrc} alt="Member logo"/>
-                  </SwiperSlide>  
-                ))}
-                <div className="tl-6-members-nav">
-                    <button className="tl-6-members-prev">
-                      <i className="fa-regular fa-arrow-left"></i>
-                    </button>
-                    <button className="tl-6-members-next">
-                      <i className="fa-regular fa-arrow-right"></i>
-                    </button>
-                  </div>
+               
             </Swiper>
         </div>
     </section>
