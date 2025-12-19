@@ -14,6 +14,8 @@ const ComputerDeptNewEvents = () => {
 
         {/* Helper Function Template */}
         {[
+          { img: "41.jpeg", name: "Marathi and Hindi filem Actress Nana Patekar", role: "" },
+          { img: "42.jpeg", name: "Marathi and Hindi filem Actress nana Patekar", role: "" },
           { img: "40.jpeg", name: "", role: "Actress" },
          
           { img: "2.jpg", name: "", role: "" },
