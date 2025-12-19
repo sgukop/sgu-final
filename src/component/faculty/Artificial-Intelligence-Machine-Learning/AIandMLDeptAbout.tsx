@@ -29,7 +29,7 @@ const AIandMLDeptAbout = () => {
               <div className="col-lg-5">
                 <div className="tl-14-about-img">
                   <img
-                    src="assets/images/AIML/hod-photo/aiml-hod.png"
+                    src="/assets/images/faculty-profile-photos/AIML/Priyanka More.jpeg"
                     alt="HOD Image"
                     className="rounded-full"
                     style={{border:"10px solid #4f70b6", padding:"20px"}}
@@ -49,7 +49,7 @@ const AIandMLDeptAbout = () => {
                     style={{ fontWeight: "bold" }}
                   >
                     {" "}
-                    Dr. Mahesh Gaikwad <br /> Head of Department{" "}
+                    Dr.Priyanka Shivaprasad More <br /> I/C Head of Department{" "}
                   </span>
                 </div>
               </div>
