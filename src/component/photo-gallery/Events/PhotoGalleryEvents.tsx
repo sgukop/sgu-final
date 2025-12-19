@@ -17,16 +17,7 @@ const PhotoGalleryEvents = () => {
                         </div>
                     </div> 
 
-                    <div className="col-lg-4">
-                        <div className="tl-1-blog flex flex-col justify-center h-full">
-                            <img src="assets/images/photo-gallery/events/cover-photoes/img-2.jfif" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
-                                <div className="tl-1-blog-txt">
-                                    <h4 className="tl-1-blog-title"><Link href="/photo-gallery-reinventing-india">Reinventing India 2018</Link></h4>
-                                    <Link href="/photo-gallery-reinventing-india" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
-                                </div>
-                        </div>
-                    </div>
-
+                    
                     <div className="col-lg-4">
                         <div className="tl-1-blog flex flex-col justify-center h-full">
                             <img src="assets/images/photo-gallery/events/school-of-architecture-inauguration/25.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
@@ -47,25 +38,9 @@ const PhotoGalleryEvents = () => {
                         </div>
                     </div>
 
-                    <div className="col-lg-4">
-                        <div className="tl-1-blog flex flex-col justify-center h-full">
-                            <img src="assets/images/photo-gallery/events/cover-photoes/3.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
-                                <div className="tl-1-blog-txt">
-                                    <h4 className="tl-1-blog-title"><Link href="/photo-gallery-vibrant-2018">Vibrant 2018</Link></h4>
-                                    <Link href="/photo-gallery-vibrant-2018" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
-                                </div>
-                        </div>
-                    </div> 
+                    
 
-                    <div className="col-lg-4">
-                        <div className="tl-1-blog flex flex-col justify-center h-full">
-                            <img src="assets/images/photo-gallery/events/cover-photoes/5.jfif" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
-                                <div className="tl-1-blog-txt">
-                                    <h4 className="tl-1-blog-title"><Link href="/photoes-orientation-program">Orientation Programme</Link></h4>
-                                    <Link href="/photoes-orientation-program" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
-                                </div>
-                        </div>
-                    </div>
+                    
                 </div>
              </div>
     </section>
