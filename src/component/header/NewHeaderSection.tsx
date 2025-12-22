@@ -371,10 +371,7 @@ const NewHeaderSection = () => {
         <sup><img src="assets/images/new-icon-image.gif"/></sup>
         <a href="https://www.sguk.ac.in/phd-program" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">PhD Admissions Advertisement Academic Year 2025-2026</a>
         
-        <sup>
-        <img src="assets/images/new-icon-image.gif" />
-      </sup>
-        <a href="https://www.sguk.ac.in/icctvb2025" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">International Conference on Convergence of Technologies for Viksit Bharat 19 & 20 December 2025 </a>
+        
         
     </Marquee>
            
