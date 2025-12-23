@@ -4,7 +4,7 @@ import React from 'react'
 import NavLinks from './Navlinks'
 import MenuList from '../Reusable-components/MenuList'
 
-const AIMLDeptInfrastructure = () => {
+const AIDSDeptInfrastructure= () => {
   return (
     <section className="tl-9-blogs pt-100 pb-100">
         <div className="container-fluid">
@@ -21,43 +21,43 @@ const AIMLDeptInfrastructure = () => {
                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/AIDS/academic-infrastructure/#.png" alt="Infrastructure Image"/></figure>
+                            <figure><img src="assets\images\AIDS\academic-infrastructure/1.jpg" alt="Infrastructure Image"/></figure>
                         </div>
-                        <h3 className="tl-6-latest-article-title mt-10">HOD Cabin</h3>
+                        <h3 className="tl-6-latest-article-title mt-10">5.0 Lab</h3>
                     </div>
                   </div>
                  
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/AIML/academic-infrastructure/image5.png" alt="Events Image"/></figure>
+                            <figure><img src="assets\images\AIDS\academic-infrastructure/2.jpg" alt="Events Image"/></figure>
                         </div>
-                        <h3 className="tl-6-latest-article-title mt-10">Multimedia & Computer Vision Lab</h3>
+                        <h3 className="tl-6-latest-article-title mt-10">Staffroom</h3>
                     </div>
                   </div>
 
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/AIML/academic-infrastructure/image6.png" alt="Events Image"/></figure>
+                            <figure><img src="assets\images\AIDS\academic-infrastructure/3.jpg" alt="Events Image"/></figure>
                         </div>
-                        <h3 className="tl-6-latest-article-title mt-10">Programming Lab</h3>
+                        <h3 className="tl-6-latest-article-title mt-10">Classroom 1</h3>
                     </div>
                   </div>
 
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/AIML/academic-infrastructure/image7.png" alt="Events Image"/></figure>
+                            <figure><img src="assets\images\AIDS\academic-infrastructure/4.jpg" alt="Events Image"/></figure>
                         </div>
-                        <h3 className="tl-6-latest-article-title mt-10">AIML Lab</h3>
+                        <h3 className="tl-6-latest-article-title mt-10">Classroom 2</h3>
                     </div>
                   </div>
 
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/AIML/academic-infrastructure/image8.png" alt="Events Image"/></figure>
+                            <figure><img src="assets\images\AIDS\academic-infrastructure/5.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Classroom 3</h3>
                     </div>
@@ -66,8 +66,8 @@ const AIMLDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/AIML/academic-infrastructure/image9.png" alt="Events Image"/></figure>
-                        </div>
+                            <figure><img src="assets\images\AIDS\academic-infrastructure/8.jpg" alt="Events Image"/></figure>
+                        </div>S
                         <h3 className="tl-6-latest-article-title mt-10">Classroom 4</h3>
                     </div>
                   </div>
@@ -75,18 +75,18 @@ const AIMLDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <figure> <img src="assets/images/AIML/academic-infrastructure/image2.png" alt="Events Image"/></figure>
+                            <figure> <img src="assets\images\AIDS\academic-infrastructure/7.jpeg" alt="Events Image"/></figure>
                         </div>
-                        <h3 className="tl-6-latest-article-title mt-10">Meeting Room</h3>
+                        <h3 className="tl-6-latest-article-title mt-10">Anenka Lab 1</h3>
                       </div>
                   </div>
                   
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/AIML/academic-infrastructure/image4.png" alt="Events Image"/></figure>
+                            <figure><img src="assets\images\AIDS\academic-infrastructure/6.jpeg" alt="Events Image"/></figure>
                         </div>
-                        <h3 className="tl-6-latest-article-title mt-10">Staff Room</h3>
+                        <h3 className="tl-6-latest-article-title mt-10">Anenka Lab 2</h3>
                       </div>
                   </div>
             </div>   
@@ -97,4 +97,4 @@ const AIMLDeptInfrastructure = () => {
   )
 }
 
-export default AIMLDeptInfrastructure
+export default AIDSDeptInfrastructure

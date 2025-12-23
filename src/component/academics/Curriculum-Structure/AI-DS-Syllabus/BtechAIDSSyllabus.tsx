@@ -20,31 +20,31 @@ const BtechAIMLSyllabus = () => {
 
              <tr>
                   <td><p>Semester 2 </p></td>
-                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6916dbcc26921e2c8e7f9af1">Semester 2 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/694a5ed369c6a2c81e4614ee">Semester 2 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
              </tr>
              <tr>
                   <td><p>Semester 3 </p></td>
-                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6916dbe426921e2c8e7f9af6">Semester 3 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/694a5f0969c6a2c81e4614ff">Semester 3 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
              </tr>
              <tr>
                   <td><p>Semester 4 </p></td>
-                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6916dbf626921e2c8e7f9afb">Semester 4 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/694a5ec169c6a2c81e4614e9">Semester 4 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
              </tr>
              <tr>
                   <td><p>Semester 5 </p></td>
-                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6916dc1226921e2c8e7f9b00">Semester 5 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/694a5ea769c6a2c81e4614e4">Semester 5 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
              </tr>
              <tr>
                   <td><p>Semester 6 </p></td>
-                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6916dc3426921e2c8e7f9b05">Semester 6 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/694a5ef969c6a2c81e4614f8">Semester 6 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
              </tr>
              <tr>
                   <td><p>Semester 7 </p></td>
-                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6916dc4c26921e2c8e7f9b0a">Semester 7 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/694a5ee769c6a2c81e4614f3">Semester 7 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
              </tr>
              <tr>
                   <td><p>Semester 8 </p></td>
-                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6916dc6126921e2c8e7f9b0f">Semester 8 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/694a5f1869c6a2c81e461504">Semester 8 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
              </tr>
 
              {/* <tr>

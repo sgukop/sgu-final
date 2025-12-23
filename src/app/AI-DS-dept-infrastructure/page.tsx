@@ -1,4 +1,4 @@
-import AIMLDeptInfrastructure from '@/component/faculty/Artificial-Intelligence-Machine-Learning/AIMLDeptInfrastructure';
+import AIDSDeptInfrastructure from '@/component/faculty/Artificial-Intelligence-Data-Science/AIDSDeptInfrastructure';
 import BreadcrumbSection from '@/component/breadcrumb/BreadcrumbSection'
 import CtaSection4 from '@/component/cta/CtaSection4'
 import Layout5 from '@/component/layout/Layout5'
@@ -9,11 +9,11 @@ export const metadata: Metadata = {
     title: 'SGU University',
     description: 'Developed by Enark',
   }
-const AIMLDeptInfrastructurePage = () => {
+const AIDSDeptInfrastructurePage = () => {
   return (
     <Layout5>
         <BreadcrumbSection title='Academic Infrastructure' style=''/>
-        <AIMLDeptInfrastructure />
+        <AIDSDeptInfrastructure />
         
        {/* <PricingSection/>
         <CtaSection4 style='tl-8-cta-inner'/> */}
@@ -21,4 +21,4 @@ const AIMLDeptInfrastructurePage = () => {
   )
 }
 
-export default AIMLDeptInfrastructurePage
+export default AIDSDeptInfrastructurePage
