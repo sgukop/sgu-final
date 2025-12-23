@@ -27,23 +27,23 @@ const AIDSDeptActivities = () => {
     { imgSrc: "assets/images/AIDS/activities&achievements/USD00704.JPG" },
   ]
 const eSports  = [
-    { imgSrc: "assets/images/AIDS/activities&achievements/1.JPG" },
-    { imgSrc: "assets/images/AIDS/activities&achievements/2.JPG" },
-    { imgSrc: "assets/images/AIDS/activities&achievements/4.JPG" },
-    { imgSrc: "assets/images/AIDS/activities&achievements/6.JPG" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/1.jpg" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/2.jpg" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/4.jpg" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/6.jpg" },
     
   ]
   const Inauguration   = [
-    { imgSrc: "assets/images/AIDS/activities&achievements/7.JPG" },
-    { imgSrc: "assets/images/AIDS/activities&achievements/9.JPG" },
-    { imgSrc: "assets/images/AIDS/activities&achievements/8.JPG" },
-    { imgSrc: "assets/images/AIDS/activities&achievements/10.JPG" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/7.jpg" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/9.jpg" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/8.jpg" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/10.jpg" },
     
   ]
    const podcast   = [
-    { imgSrc: "assets/images/AIDS/activities&achievements/11.JPG" },
-    { imgSrc: "assets/images/AIDS/activities&achievements/12.JPG" },
-    { imgSrc: "assets/images/AIDS/activities&achievements/13.JPG" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/11.jpg" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/12.jpg" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/13.jpg" },
     
     
   ]

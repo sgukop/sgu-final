@@ -1895,7 +1895,9 @@ const MobileNavSection = () => {
             <li>
                   <NavLink href="/icsbp2026">International Conference ICSBP 2026 </NavLink>
             </li>
-            
+            <li>
+                  <NavLink href="/scistar2026">Sci-STAR 2026 </NavLink>
+            </li>
           </ul>
         </li>
 
