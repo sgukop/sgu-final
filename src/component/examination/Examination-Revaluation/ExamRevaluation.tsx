@@ -22,6 +22,16 @@ const ExamRevaluation = () =>  {
                                     </thead>
                                     <tbody>
                                         <tr>
+                                            <td><p>27-12-2025</p></td>
+                                            <td><a href="https://manage-api.sguk.ac.in/api/assets/694fbc0969c6a2c81e4623d0" rel="noopener noreferrer" target="_blank" className="table-link">Revaluation Notice-Winter 2025 <i className="fa-regular fa-arrow-right"></i></a></td>
+                                            <td><p>NOTICE</p></td>
+                                        </tr>
+                                        <tr>
+                                            <td><p>27-12-2025</p></td>
+                                            <td><a href="https://manage-api.sguk.ac.in/api/assets/694fbbb169c6a2c81e4623cb" rel="noopener noreferrer" target="_blank" className="table-link">Revaluation Notice-Winter 2025 <i className="fa-regular fa-arrow-right"></i></a></td>
+                                            <td><p>NOTICE</p></td>
+                                        </tr>
+                                        <tr>
                                             <td><p>06-06-2024</p></td>
                                             <td><a href="https://manage-api.sguk.ac.in/api/assets/67592bbc9173bf9f471ac25f" rel="noopener noreferrer" target="_blank" className="table-link">Re-valuation / Photocopy/ Re-Verification Summer-2024 <i className="fa-regular fa-arrow-right"></i></a></td>
                                             <td><p>NOTICE</p></td>
