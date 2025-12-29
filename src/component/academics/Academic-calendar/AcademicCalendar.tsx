@@ -24,17 +24,7 @@ const AcademicCalendar = () => {
                                     </ul>
                         </div>
                     </div>
-                    <div className="tl-event-details-left mt-30">
-                      <h3 className="tl-event-details-area-title text-[#4f70b6]">Academic Calendar Odd Semester 2023-24</h3>
-                        <div className="tl-event-details-key-content tl-event-details-area">
-                               <ul className="tl-event-details-key-content-list phd-container">
-                                    <li><a rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/675829db9173bf9f471ac132">Academic Calendar A.Y 2023-24 <i className="fa-regular fa-arrow-right-long"></i></a></li>
-
-                                    <li><a rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/67582b269173bf9f471ac154">Academic Calendar A.Y 2023-24<i className="fa-regular fa-arrow-right-long"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-
+                    
                         <div className="tl-event-details-left mt-30">
                         <h3 className="tl-event-details-area-title text-[#4f70b6]">Academic Calendar A.Y 2023-24</h3>
                         <div className="tl-event-details-key-content tl-event-details-area">
