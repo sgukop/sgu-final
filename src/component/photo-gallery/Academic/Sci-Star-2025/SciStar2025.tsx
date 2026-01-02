@@ -113,9 +113,7 @@ const SciStar2025 = () => {
     {
         imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/37.jpg",
     },
-    {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/38.jpg",
-    },
+    
     {
         imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/39.jpg",
     },
