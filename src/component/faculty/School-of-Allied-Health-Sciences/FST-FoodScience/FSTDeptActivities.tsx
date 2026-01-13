@@ -52,68 +52,7 @@ const FSTDeptActivities = () => {
                     </div>
                 </div>
                 </div>
-                            <div className="tl-11-section-heading mt-50"><h2 className="tl-11-section-title">World Food Day 2025 </h2></div>
-                <div className="row g-xl-4 g-3 justify-content-center">
-                <div className="col-xl-12 col-lg-12">
-                    <div className="tl-8-course flex flex-col rounded-[20px] h-full">
-                        <div className="tl-8-course-txt">
-                            <h4 className="achievements-title">World Food Day was celebrated on 16th October 2025 at DEPARTMENT OF FOOD SCIENCE AND TECHNOLOGY, SCHOOL OF LIFE SCIENCES, SANJAY GHODAWAT UNIVERSITY, KOLHAPUR with active participation from students and faculty members. The program was organized to create awareness about food, nutrition, and responsible consumption. The theme for World Food Day 2025 was “Hand in Hand for Better Foods and a Better Future”</h4>
-                            <h4 className="achievements-title">As part of the celebration, several engaging activities were conducted, including a Blind Fold & Product Identification Activity, Food Taboo Competition, Logo Designing Competition, and Logo Identification Competition. These activities encouraged students to think creatively while enhancing their knowledge about food products, nutrition, and branding related to food industries. The program successfully enhanced student awareness about responsible food consumption, sustainability, and the importance of combating hunger. It encouraged students to adopt healthy eating habits and reduce food waste. and the food drive also the event successfully conveyed the importance of food awareness and sustainability in an interactive and enjoyable manner, making the celebration informative and impactful.</h4>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-xl-6 col-lg-10">
-                    <div className="tl-8-course flex flex-col rounded-[20px] h-full">
-                        <div className="tl-8-course-img">
-                            <img src="assets/images/allied-health-sciences/FST/events/3.jpg" alt="Activity Image"/>
-                        </div>
-                    </div>
-                </div>
-                
-                <div className="col-xl-6 col-lg-10">
-                    <div className="tl-8-course flex flex-col rounded-[20px] h-full">
-                        <div className="tl-8-course-img">
-                        <img src="assets/images/allied-health-sciences/FST/events/4.jpg" alt="Activity Image"/>
-                        </div>
-                    </div>
-                </div>
-                </div>
-                
-                            <div className="tl-11-section-heading mt-50"><h2 className="tl-11-section-title">INDUSTRIAL VISIT</h2></div>
-                <div className="row g-xl-4 g-3 justify-content-center">
-                <div className="col-xl-12 col-lg-12">
-                    <div className="tl-8-course flex flex-col rounded-[20px] h-full">
-                        <div className="tl-8-course-txt">
-                            <h4 className="achievements-title">World Food Day was celebrated on 16th October 2025 at DEPARTMENT OF FOOD SCIENCE AND TECHNOLOGY, SCHOOL OF LIFE SCIENCES, SANJAY GHODAWAT UNIVERSITY, KOLHAPUR with active participation from students and faculty members. The program was organized to create awareness about food, nutrition, and responsible consumption. The theme for World Food Day 2025 was “Hand in Hand for Better Foods and a Better Future”</h4>
-                            <h4 className="achievements-title">As part of the celebration, several engaging activities were conducted, including a Blind Fold & Product Identification Activity, Food Taboo Competition, Logo Designing Competition, and Logo Identification Competition. These activities encouraged students to think creatively while enhancing their knowledge about food products, nutrition, and branding related to food industries. The program successfully enhanced student awareness about responsible food consumption, sustainability, and the importance of combating hunger. It encouraged students to adopt healthy eating habits and reduce food waste. and the food drive also the event successfully conveyed the importance of food awareness and sustainability in an interactive and enjoyable manner, making the celebration informative and impactful</h4>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-xl-6 col-lg-10">
-                    <div className="tl-8-course flex flex-col rounded-[20px] h-full">
-                        <div className="tl-8-course-img">
-                            <img src="assets/images/allied-health-sciences/FST/events/6.jpg" alt="Activity Image"/>
-                        </div>
-                    </div>
-                </div>
-                
 
-               <div className="col-xl-6 col-lg-10">
-                    <div className="tl-8-course flex flex-col rounded-[20px] h-full">
-                        <div className="tl-8-course-img">
-                        <img src="assets/images/allied-health-sciences/FST/events/7.jpg" alt="Activity Image"/>
-                        </div>
-                    </div>
-                </div> 
-
-                <div className="col-xl-6 col-lg-10">
-                    <div className="tl-8-course flex flex-col rounded-[20px] h-full">
-                        <div className="tl-8-course-img">
-                        <img src="assets/images/allied-health-sciences/FST/events/8.jpg" alt="Activity Image"/>
-                        </div>
-                    </div>
-                </div>
-                </div>
                 <div className="tl-11-section-heading mt-50"><h2 className="tl-11-section-title">World Food Day Celebration at Sanjay Ghodawat University, Kolhapur</h2></div>
                 <div className="row g-xl-4 g-3 justify-content-center">
                 <div className="col-xl-12 col-lg-12">
