@@ -22,36 +22,7 @@ const FSTDeptActivities = () => {
                 <h2 className="tl-11-section-title">Events</h2>
             </div>
             
-            <div className="tl-11-section-heading mt-50"><h2 className="tl-11-section-title">Trends in Biological Sciences</h2></div>
-                <div className="row g-xl-4 g-3 justify-content-center">
-                <div className="col-xl-12 col-lg-12">
-                    <div className="tl-8-course flex flex-col rounded-[20px] h-full">
-                        <div className="tl-8-course-txt">
-                            <h4 className="achievements-title">A guest lecture on the topic “Trends in Biological Sciences” was successfully organized at MBA auditorium Sanjay Ghodawat University on 20 August 2025 from 10:30 a.m. to 12:30 p.m. The session was delivered by Dr. Manawa Diwekar Joshi, a distinguished academician and senior teaching associate at the Indian Institute of Science Education and Research (IISER), Pune</h4>
-                            <h4 className="achievements-title">The lecture aimed to familiarize students and faculty members with recent advancements and emerging trends in biological sciences. Dr. Manwa elaborated on contemporary research areas such as biotechnology, molecular biology, bioinformatics, environmental biology, and interdisciplinary approaches that are shaping modern biological research. The speaker also highlighted the role of innovation, technology integration, and research ethics in the advancement of life sciences.</h4>
-                            <h4 className="achievements-title">The session was highly informative and engaging. Dr. Manawa used real-world examples and recent research findings to explain complex concepts in a simplified manner. Students actively participated in the discussion and raised several insightful questions, which were addressed effectively by the speaker</h4>
-                            <h4 className="achievements-title">The guest lecture concluded with an interactive question-and-answer session, encouraging critical thinking and curiosity among the participants. Overall, the program was a great success and proved beneficial in enhancing the academic knowledge and research orientation of students in biological sciences.</h4>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-xl-6 col-lg-10">
-                    <div className="tl-8-course flex flex-col rounded-[20px] h-full">
-                        <div className="tl-8-course-img">
-                            <img src="assets/images/allied-health-sciences/FST/events/1.jpg" alt="Activity Image"/>
-                        </div>
-                    </div>
-                </div>
-               
 
-               
-                <div className="col-xl-6 col-lg-10">
-                    <div className="tl-8-course flex flex-col rounded-[20px] h-full">
-                        <div className="tl-8-course-img">
-                        <img src="assets/images/allied-health-sciences/FST/events/2.jpg" alt="Activity Image"/>
-                        </div>
-                    </div>
-                </div>
-                </div>
 
                 <div className="tl-11-section-heading mt-50"><h2 className="tl-11-section-title">World Food Day Celebration at Sanjay Ghodawat University, Kolhapur</h2></div>
                 <div className="row g-xl-4 g-3 justify-content-center">
