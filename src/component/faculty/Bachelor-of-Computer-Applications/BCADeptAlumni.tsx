@@ -41,6 +41,11 @@ function BCADeptAlumni() {
                             <td><p>2023-2024</p></td>
                             <td><p>56</p></td>
                         </tr>
+                        <tr>
+                            <td><p></p></td>
+                            <td><p>2024-2025</p></td>
+                            <td><p>56</p></td>
+                        </tr>
                      </tbody>
                 </Table>
 
@@ -61,7 +66,7 @@ function BCADeptAlumni() {
                         <tr>
                             <td><p></p></td>
                             <td><p>2023-2024</p></td>
-                            <td><p>103</p></td>
+                            <td><p>102</p></td>
                         </tr>
                      </tbody>
                 </Table>

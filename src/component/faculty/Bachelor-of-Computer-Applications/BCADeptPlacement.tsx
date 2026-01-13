@@ -34,26 +34,24 @@ const BCADeptPlacement = () => {
   };
   const placementimages = [
     {
-      imgSrc: "assets/images/BCA-dept/placement/1.jpeg",
+      imgSrc: "assets/images/BCA-dept/placement/1.PNG",
     },
     {
-      imgSrc: "assets/images/BCA-dept/placement/2.jpeg",
+      imgSrc: "assets/images/BCA-dept/placement/2.PNG",
     },
     {
-      imgSrc: "assets/images/BCA-dept/placement/3.jpeg",
+      imgSrc: "assets/images/BCA-dept/placement/3.PNG",
     },
     {
-        imgSrc: "assets/images/BCA-dept/placement/4.jpeg",
+        imgSrc: "assets/images/BCA-dept/placement/4.PNG",
     },
     {
-      imgSrc: "assets/images/BCA-dept/placement/5.jpeg",
+      imgSrc: "assets/images/BCA-dept/placement/5.PNG",
     },
     {
-      imgSrc: "assets/images/BCA-dept/placement/6.jpeg",
+      imgSrc: "assets/images/BCA-dept/placement/6.PNG",
     },
-    {
-      imgSrc: "assets/images/BCA-dept/placement/7.jpeg",
-    },
+    
   ]
   return (
     <section
@@ -125,6 +123,7 @@ const BCADeptPlacement = () => {
                  <h5 className="dark-mode-white-color mb-3">
                  No of Students : 59
                  </h5>
+                  
                   <div className="tl-event-details-key-content tl-event-details-area">
                     <ul className="tl-event-details-key-content-list phd-container">
                         <h5 className="text-[#4f70b6]"><strong>Company Name</strong></h5>
@@ -158,6 +157,7 @@ const BCADeptPlacement = () => {
                    </div>
                 </div>
               </div>
+              
 
               <div className="col-lg-6">
                 <div className="tl-event-details-left flex flex-col h-full">
@@ -210,10 +210,105 @@ const BCADeptPlacement = () => {
                    </div>
                 </div>
               </div>
+              <div className="row tl-event-details-row g-4 mt-50">
+         
+              <div className="col-lg-6">
+                <div className="tl-event-details-left flex flex-col h-full">
+                  <h3 className="tl-event-details-area-title">Internship Details</h3>
+                {/*  <h5 className="dark-mode-white-color mb-3">
+                    Program - SY MCA
+                 </h5>  */}
+                <h5 className="dark-mode-white-color mb-3">
+                 Academic Year 2024-25 
+                 </h5>
+                 <h5 className="dark-mode-white-color mb-3">
+                 No of Students : 176
+                 </h5>
+
+                  <div className="tl-event-details-key-content tl-event-details-area">
+                        <ul className="tl-event-details-key-content-list phd-container">
+                          <h5 className="text-[#4f70b6]">
+                            <strong>Company Name</strong>
+                          </h5>
+
+                          {[
+                            "Adinity Infotech",
+                            "Algoviz Solutions Pvt. Ltd",
+                            "Alsh Technologies Pvt. Ltd., Pune",
+                            "Atharav Solution",
+                            "Atharava Transformative",
+                            "Beyond Solutions",
+                            "Biyani Technologies, Kolhapur",
+                            "Code Quell",
+                            "Codeplux Technologies",
+                            "Comtrance Technologies",
+                            "CoReco Technologies",
+                            "Cyphersa® Softwares LLP",
+                            "DigiDynamic, Pune",
+                            "Edera Pvt. Ltd",
+                            "Ellicium Solutions",
+                            "Godlink Software Company",
+                            "Gremio Technologies Pvt. Ltd",
+                            "IndustillFarmtech Pvt. Ltd",
+                            "Innothoughts Systems Pvt. Ltd",
+                            "ITIAN Solutions",
+                            "Itpreneur",
+                            "Kiran Academy",
+                            "Kolhapur District Cooperative Society",
+                            "Kredpool Solutions Pvt. Ltd.",
+                            "Lakshay Studios",
+                            "Menstech Innovation Pvt. Ltd",
+                            "MySoftway Technology IT Consultancy",
+                            "Neuronexux Pvt. Ltd",
+                            "Next24 Tech",
+                            "One Star Software Solutions",
+                            "Pawar Technology Services",
+                            "Persistent Systems",
+                            "Platominds Services Pvt. Ltd.",
+                            "Pradip Patil Tax and Financial Consultant",
+                            "Prism Enterprises",
+                            "PTS - Pawar Technology Services",
+                            "QSpiders",
+                            "Qweez Technology",
+                            "Ramakant Pathare – Tax and Financial Consultant",
+                            "Rekonsile Com Tech Pvt. Ltd",
+                            "Revolution IT Solutions",
+                            "S.R. Infotech",
+                            "Scalefull Technologies LLP",
+                            "Shree Lakshmipati Granites, Ichalkaranji",
+                            "Simdaa Technologies",
+                            "Softmusk Info Pvt. Ltd.",
+                            "Softron IT Solution",
+                            "SoftTech Computer Training Institute",
+                            "Sparklab IT Solutions Pvt. Ltd",
+                            "StarCentuari Technologies Pvt. Ltd",
+                            "StormSoft Technology",
+                            "SUSHIV TECHNOLOGIES",
+                            "SVL Automation",
+                            "Technoworld Software",
+                            "Test Yantra Software Solutions Pvt. Ltd",
+                            "Unique System Skills Pvt. Ltd",
+                            "Walstar Technology",
+                            "Webisoftech",
+                            "WIN INFOTECH",
+                            "Wisdom Sprout",
+                            "Wolfox",
+                          ].map((company, index) => (
+                            <li key={index}>{company}</li>
+                          ))}
+                        </ul>
+                      </div>
+
+                   
+                   </div>
+                </div>
+              </div>
+          
              </div>
           </div>
         </div>
-      </div>
+        </div>
+     
     </section>
   );
 };
