@@ -9,7 +9,7 @@ const SciStar2026FullPage = () => {
       <header className="text-center space-y-4">
         <div>
           <h1 className="text-4xl font-bold mb-2">Sci-STAR 2026</h1>
-          <p className="text-gray-600">Science – Students Talent And Research</p>
+          <p className="text-gray-600">(Inspiring Innovations)</p>
         </div>
 
         {/* Announcement */}
@@ -80,8 +80,8 @@ const SciStar2026FullPage = () => {
             <tbody>
               <tr><td className="border p-3 font-semibold">Event</td><td className="border p-3">Sci‑STAR 2026</td></tr>
               <tr><td className="border p-3 font-semibold">Tentative Date</td><td className="border p-3">31st January 2026</td></tr>
-              <tr><td className="border p-3 font-semibold">Target Students</td><td className="border p-3">9th–12th (Science) & UG (Science)</td></tr>
-              <tr><td className="border p-3 font-semibold">Theme</td><td className="border p-3">Sustainable Development</td></tr>
+              <tr><td className="border p-3 font-semibold">Target Students</td><td className="border p-3">11th–12th (Science) & UG (All)</td></tr>
+              <tr><td className="border p-3 font-semibold">Theme</td><td className="border p-3">Science And Technology for Sustainable Future</td></tr>
             </tbody>
           </table>
         </div>
@@ -103,13 +103,13 @@ const SciStar2026FullPage = () => {
               {[
                 [1, "Quiz Competition (Science)", "Mr. Vimalkumar Dige"],
                 [2, "Poster Presentation", "Dr. Sunetra Deshmukh"],
-                [3, "Model / Project", "Ms. Ashwini Chakote"],
+                [3, "Scientific Model Competition", "Ms. Ashwini Chakote"],
                 [4, "Scientific Reel Star", "Dr. Sarika Patil"],
                 [5, "Scientific Memes", "Ms. Shivani Samarth"],
                 [6, "Scientific Short Films", "Mr. Siddhappa Balikar"],
                 [7, "Water Rocket Challenge", "Dr. Sulthan S."],
-                [8, "Free Health Check‑up Camp", "Mr. Suraj Gabale"],
-                [9, "Ingredient Hunting", "Dr. Tejaswini Vhaskoti"],
+                [8, "Ingredient Hunting", "Dr. Tejaswini Vhaskoti"],
+                [9, "Free Health Check‑up Camp", "Mr. Suraj Gabale"],
                 [10, "Food Stall (Testing new food products)", "Ms. Vishakha Deshpande"],
                 [11, "Campus & Department Visit", "Mr. Abhijeet Latkar"],
               ].map((e) => (
@@ -126,7 +126,7 @@ const SciStar2026FullPage = () => {
 
       {/* Committees */}
       <section id="committees">
-        <h2 className="text-2xl font-semibold mb-4">Tentative Committees</h2>
+        <h2 className="text-2xl font-semibold mb-4">Committees</h2>
         <div className="overflow-x-auto">
           <table className="w-full border text-sm">
             <thead className="bg-gray-100">
