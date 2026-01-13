@@ -51,7 +51,7 @@ const BtechAIMLSyllabus = () => {
              <tr>
                   <td><p>6.ANNEXURE VI_FinalYear (2)</p></td>
                   <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/677f5ec84f56d3a0bcfb4b56">6.ANNEXURE VI_FinalYear (2) <i className="fa-regular fa-arrow-right-long"></i></Link></td>
-             </tr>   */}
+             </tr>   
 
                <tr>
                   <td><p>First Year B.Tech AIML</p></td>
@@ -71,7 +71,23 @@ const BtechAIMLSyllabus = () => {
              <tr>
                   <td><p>Final Year B.Tech AIML</p></td>
                   <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/67d93f9b4f56d3a0bcfba05a">Final Year B.Tech AIML <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+             </tr>*/}
+             <tr>
+                  <td><p>R22 AIML Final_Yr</p></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/696611a52707d1e5bb924218">R22 AIML Final_Yr <i className="fa-regular fa-arrow-right-long"></i></Link></td>
              </tr> 
+             <tr>
+                  <td><p>ANNEXURE-II_SY_NEP</p></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/696611c62707d1e5bb92421d">ANNEXURE-II_SY_NEP <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+             </tr>
+             <tr>
+                  <td><p>R23 AIML TY_NEP</p></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6966122d2707d1e5bb924222">R23 AIML TY_NEP <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+             </tr>
+             <tr>
+                  <td><p>R25_First year B.Tech Structure and syllabus_AIML</p></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6966124d2707d1e5bb924227">R25_First year B.Tech Structure and syllabus_AIML <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+             </tr>
           </tbody>
       </Table>
 

@@ -19,9 +19,13 @@ const MtechAIMLSyllabus = () => {
              </tr> 
 
              <tr>
-                  <td><p>Second Year M.Tech in AI & DS</p></td>
-                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="#">Second Year M.Tech in AI & DS <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+                  <td><p>F.Y. M Tech_AI & DS</p></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/696612b62707d1e5bb92422c">F.Y. M Tech_AI & DS <i className="fa-regular fa-arrow-right-long"></i></Link></td>
              </tr> 
+             <tr>
+                  <td><p>R24 SY_M.tech as per NEP</p></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/696612f12707d1e5bb924231">R24 SY_M.tech as per NEP <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+             </tr>
           </tbody>
       </Table>
 

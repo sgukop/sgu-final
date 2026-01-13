@@ -41,7 +41,7 @@ const BCADeptUpcomingEvents = () =>  {
                                                     <tr>
                                                         <td>2</td>
                                                         <td>Expert Session</td>
-                                                        <td>Ms. ASavari Patil (Program Coordinator)</td>
+                                                        <td>Ms. Asavari Patil (Program Coordinator)</td>
                                                         <td>14/08/2025</td>
                                                     </tr>
 
