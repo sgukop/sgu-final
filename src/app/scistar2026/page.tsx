@@ -1,0 +1,23 @@
+import ICSSHFE from "@/component/conference/SCISTAR";
+import BreadcrumbSection from '@/component/breadcrumb/BreadcrumbSection'
+import CtaSection4 from '@/component/cta/CtaSection4'
+import Layout5 from '@/component/layout/Layout5'
+import PricingSection from '@/component/pricing/PricingSection'
+import { Metadata } from 'next'
+import React from 'react'
+export const metadata: Metadata = {
+    title: 'SGU University',
+    description: 'Developed by Enark',
+  }
+const SCISTARPage = () => {
+  return (
+    <Layout5>
+        <BreadcrumbSection title='Sci Star 2026 ' style=''/>
+        <ICSSHFE />
+       {/* <PricingSection/>
+        <CtaSection4 style='tl-8-cta-inner'/> */}
+    </Layout5>
+  )
+}
+
+export default SCISTARPage;
