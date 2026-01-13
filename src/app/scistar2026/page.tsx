@@ -12,7 +12,7 @@ export const metadata: Metadata = {
 const SCISTARPage = () => {
   return (
     <Layout5>
-        <BreadcrumbSection title='Sci Star 2026 ' style=''/>
+        <BreadcrumbSection title='Sci-STAR 2026 ' style=''/>
         <ICSSHFE />
        {/* <PricingSection/>
         <CtaSection4 style='tl-8-cta-inner'/> */}
