@@ -22,6 +22,29 @@ const Media = () => {
                   <div className="tl-course-details-top-courses">
                     <div className="row g-4 g-xl-4 justify-content-center">
 
+                       {/* CARD 1 */}
+                            <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                            <div className="tl-1-course-new bg-white rounded-lg shadow-md overflow-hidden">
+
+                                <div className="tl-1-course-img-new">
+                                <img
+                                    src="/assets/images/sgu-news/3.jpeg"
+                                    alt="News Image"
+                                    className="w-full h-auto"
+                                />
+                                </div>
+
+                                <div className="tl-1-course-txt text-center p-4">
+                                <p className="text-sm text-gray-600 mb-2">10 JAN 2026</p>
+
+                                <h4 className="tl-1-course-title-new">
+                                    AIU WEST ZONE TENNIS TOURNAMENT
+                                </h4>
+                                </div>
+
+                            </div>
+                            </div>
+                        {/* CARD 1 end */}
                         {/* CARD 1 */}
                             <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                             <div className="tl-1-course-new bg-white rounded-lg shadow-md overflow-hidden">
