@@ -118,6 +118,11 @@ const AIandMLDeptAlumni:React.FC<AboutProps> = ({margin}) => {
                                         <tbody>
                                             <tr>
                                                 <td><p>1</p></td>
+                                                <td><p>2024-25</p></td>
+                                                <td><p>61</p></td>
+                                            </tr>
+                                            <tr>
+                                                <td><p>2</p></td>
                                                 <td><p>2023-24</p></td>
                                                 <td><p>65</p></td>
                                             </tr>
