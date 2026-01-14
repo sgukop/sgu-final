@@ -513,7 +513,7 @@ const MobileNavSection = () => {
               <NavLink href="/scholarships">Scholarships</NavLink>
             </li>   */}
              <li>
-                <NavLink href="/admission-process">Admission Process</NavLink>
+                <NavLink href="/admission-open">Admission Enquiry</NavLink>
             </li>
             <li>
                 <NavLink href="/prospectus">Prospectus</NavLink>

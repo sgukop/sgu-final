@@ -54,6 +54,12 @@ const PhotoGallery = ({sectionStyle,pageStyle,categoryStyle} : Props) => {
                 <i className="fa-regular fa-arrow-right-long"></i>
               </Link>
             </div>
+            <div className="col-lg-3 col-md-4 col-6 col-xxs-12">
+              <Link href="/SGU-sports" className={`tl-3-single-program ${categoryStyle}`}>
+                <h5 className="tl-3-single-program-title">Sports @ SGU</h5>
+                <i className="fa-regular fa-arrow-right-long"></i>
+              </Link>
+            </div>
         </div>
       </div>
     </section>
