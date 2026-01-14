@@ -61,7 +61,7 @@ const AdmissionSection: React.FC<Props> = ({ style }) => {
             Submit
           </p>
 
-          <strong>Registration Open 2025–26</strong>
+          <strong>Registration Open 2026–27</strong>
         </div>
 
         <div className="d-lg-flex justify-content-center">
