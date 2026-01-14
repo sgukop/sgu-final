@@ -1,10 +1,25 @@
-'use client';
-import React from 'react';
+"use client";
+
+import React, { useEffect } from "react";
 import { Tab, Nav } from "react-bootstrap";
-import PhdAdmissionProcess from './PhdAdmissionProcess';
-import UGAdmissionProcess from './UGAdmissionProcess';
+import PhdAdmissionProcess from "./PhdAdmissionProcess";
+import UGAdmissionProcess from "./UGAdmissionProcess";
 
 const AdmissionProcess = () => {
+  useEffect(() => {
+    // Load EE Form Widget script dynamically
+    const script = document.createElement("script");
+    script.src =
+      "https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/sanjayghodawatuniversity/ee-form-widget/form-1/widget.js";
+    script.async = true;
+
+    document.body.appendChild(script);
+
+    return () => {
+      document.body.removeChild(script);
+    };
+  }, []);
+
   return (
     <div className="pt-100 pb-100">
       <div className="container">
@@ -14,17 +29,14 @@ const AdmissionProcess = () => {
           </h2>
 
           <div className="col-md-12 mt-4">
-            {/* Google Form Embed */}
-            <div className="w-full h-[900px]">
-              <iframe
-                src="https://forms.gle/PEycfg7nX5iFXDdNA"
-                width="100%"
-                height="100%"
-               
-                className="rounded-lg shadow-md"
-              >
-                Loading…
-              </iframe>
+            {/* EE Form Widget */}
+            <div className="d-lg-flex justify-content-center">
+              <div className="col-lg-12 col-12 d-flex justify-content-center">
+                <div
+                  id="ee-form-1"
+                  style={{ maxWidth: "600px", width: "100%" }}
+                ></div>
+              </div>
             </div>
           </div>
         </div>
