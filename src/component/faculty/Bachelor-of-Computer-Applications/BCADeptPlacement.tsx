@@ -34,22 +34,22 @@ const BCADeptPlacement = () => {
   };
   const placementimages = [
     {
-      imgSrc: "assets/images/BCA-dept/placement/1.PNG",
+      imgSrc: "assets/images/BCA-dept/placement/1.png",
     },
     {
-      imgSrc: "assets/images/BCA-dept/placement/2.PNG",
+      imgSrc: "assets/images/BCA-dept/placement/2.png",
     },
     {
-      imgSrc: "assets/images/BCA-dept/placement/3.PNG",
+      imgSrc: "assets/images/BCA-dept/placement/3.png",
     },
     {
-        imgSrc: "assets/images/BCA-dept/placement/4.PNG",
+        imgSrc: "assets/images/BCA-dept/placement/4.png",
     },
     {
-      imgSrc: "assets/images/BCA-dept/placement/5.PNG",
+      imgSrc: "assets/images/BCA-dept/placement/5.png",
     },
     {
-      imgSrc: "assets/images/BCA-dept/placement/6.PNG",
+      imgSrc: "assets/images/BCA-dept/placement/6.png",
     },
     
   ]
