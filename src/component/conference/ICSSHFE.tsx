@@ -710,8 +710,39 @@ const ICSSHFE = () => {
                       </a>
                     </div>
                   </div>
+                  
                 </div>
               </div>
+              {/* ================= MEDIA PARTNER SECTION ================= */}
+      <section className="py-20 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="bg-gradient-to-r from-blue-50 to-purple-50 rounded-xl p-8 shadow-lg">
+            
+            <h3 className="text-2xl md:text-3xl font-bold mb-10 text-center text-gray-900">
+              Media Partner
+            </h3>
+
+            <div className="flex justify-center">
+              <a
+                href="https://ciree.in/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="group"
+              >
+                <img
+                  src="/assets/images/ICSSHFR-2026.jpeg"
+                  alt="Conference in India"
+                  className="rounded-xl shadow-lg max-w-sm w-full 
+                             transition-transform duration-300 
+                             group-hover:scale-105"
+                />
+              </a>
+            </div>
+
+          </div>
+        </div>
+      </section>
+      
             </div>
 
             
