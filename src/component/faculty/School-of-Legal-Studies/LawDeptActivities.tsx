@@ -49,7 +49,7 @@ const LawDeptActivities = () => {
             <div className="tl-8-course flex flex-col rounded-[20px] h-full">
               <div className="tl-8-course-img">
                 <img
-                  src="assets/images/law-dept/activities&achievements/1.JPG"
+                  src="assets/images/law-dept/activities&achievements/1.jpg"
                   alt="Achievement Image"
                 />
               </div>
