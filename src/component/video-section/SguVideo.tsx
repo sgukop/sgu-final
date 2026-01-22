@@ -20,6 +20,9 @@ const SguVideo = () => {
             <Tab.Pane eventKey="tl-7-cat-4-tab">
               <iframe className="rounded-tl-[40px] rounded-br-[40px]" width="100%" height="740" src="https://www.youtube.com/embed/RfUSqU5Efhg" title="Chairman Sanjay Ghodawat Birthday Massage for Student" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
             </Tab.Pane>
+            <Tab.Pane eventKey="tl-7-cat-5-tab">
+              <iframe className="rounded-tl-[40px] rounded-br-[40px]" width="100%" height="740" src="https://www.youtube.com/embed/gXkc6ZUyxz0" title="An Open-Hearted Conversation with Nana Patekar" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+            </Tab.Pane>
           </Tab.Content>
           <Nav variant="tabs" className="nav nav-tabs w-full lg:w-[46%] bg-transparent" id="myTab" role="tablist" style={{zIndex:'99', flexDirection:'column'}}>
 
@@ -47,6 +50,11 @@ const SguVideo = () => {
             <Nav.Item>
               <Nav.Link eventKey="tl-7-cat-4-tab" className="bg-none" style={{ padding: '25px 45px 25px 45px', backgroundColor: 'rgba(255, 255, 255, 0)' }}>
                 <div className="tl-7-cate-title text-3xl 2xl:text-4xl font-bold w-full lg:w-fit">Chairman Sanjay Ghodawat <p className="font-medium text-3xl 2xl:text-4xl mt-1.5"> Birthday Massage for Student </p></div>
+              </Nav.Link>
+            </Nav.Item>
+            <Nav.Item>
+              <Nav.Link eventKey="tl-7-cat-5-tab" className="" style={{ padding: '25px 45px 25px 45px', backgroundColor: 'white' }}>
+                <div className="tl-7-cate-title text-3xl 2xl:text-4xl font-bold w-full lg:w-fit">Nana Patekar <p className="font-medium text-3xl 2xl:text-4xl mt-1.5"> An Open-Hearted Conversation with Nana Patekar </p></div>
               </Nav.Link>
             </Nav.Item>
             </div>
