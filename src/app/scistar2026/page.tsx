@@ -1,4 +1,4 @@
-import ICSSHFE from "@/component/conference/SCISTAR";
+import SCISTAR from "@/component/conference/SCISTAR";
 import BreadcrumbSection from '@/component/breadcrumb/BreadcrumbSection'
 import CtaSection4 from '@/component/cta/CtaSection4'
 import Layout5 from '@/component/layout/Layout5'
@@ -13,7 +13,7 @@ const SCISTARPage = () => {
   return (
     <Layout5>
         <BreadcrumbSection title='Sci-STAR 2026 ' style=''/>
-        <ICSSHFE />
+        <SCISTAR/>
        {/* <PricingSection/>
         <CtaSection4 style='tl-8-cta-inner'/> */}
     </Layout5>
