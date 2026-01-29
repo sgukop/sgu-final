@@ -9,7 +9,7 @@ const SciStar2026FullPage = () => {
       title: "Online Science Quiz", 
       coordinator: "Mr. Vimalkumar Dige", 
       img: "/assets/images/scistar2026/quiz.png", 
-      doc: "1. Quiz Competation Rules & Regulations.pdf", 
+      doc: "1.Quiz Competation Rules & Regulations.pdf", 
       contact: "9091913133",
       rules: "35 MCQs | 20 Minutes | Round II Offline on 07/02/2026"
     },
@@ -18,7 +18,7 @@ const SciStar2026FullPage = () => {
       title: "Poster Presentation", 
       coordinator: "Dr. Satish A Mahadik", 
       img: "/assets/images/scistar2026/poster.png", 
-      doc: "2. Poster Presentation.pdf", 
+      doc: "2.Poster Presentation.pdf", 
       contact: "9822946226",
       rules: "Themes: AI, Sustainability, Social Issues | Visual & Q&A judging"
     },
@@ -27,7 +27,7 @@ const SciStar2026FullPage = () => {
       title: "Scientific Model Competition", 
       coordinator: "Ms. Ashwini Chakote", 
       img: "/assets/images/scistar2026/model.png", 
-      doc: "3. Scientific Model Competition.pdf",
+      doc: "3.Scientific Model Competition.pdf",
       rules: "Max size 60x60x60 cm | Working models preferred | Eco-friendly materials"
     },
     { 
@@ -246,7 +246,7 @@ const SciStar2026FullPage = () => {
             {events.map((event) => (
               <a 
                 key={event.id}
-                href={`/documents/${event.doc}`} 
+                href={`/assets/files/${event.doc}`} 
                 className="flex items-center p-4 bg-white rounded-xl border border-slate-200 hover:border-blue-400 hover:shadow-md transition-all group"
               >
                 <div className="bg-red-50 text-red-600 p-2 rounded-lg mr-3 font-bold text-xs group-hover:bg-red-600 group-hover:text-white transition-colors">PDF</div>
