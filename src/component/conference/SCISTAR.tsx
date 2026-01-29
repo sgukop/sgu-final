@@ -94,27 +94,71 @@ const SciStar2026FullPage = () => {
   return (
     <div className="bg-slate-50 min-h-screen font-sans text-slate-900 pb-20">
       {/* Hero Section */}
-      <header className="bg-gradient-to-r from-blue-900 via-indigo-900 to-blue-800 text-white py-20 px-4 text-center">
+      <header className="bg-white text-blue-900 border-b py-20 px-4 text-center">
         <div className="max-w-4xl mx-auto">
           <h1 className="text-6xl font-black mb-4 tracking-tighter uppercase">Sci-STAR 2026</h1>
           <div className="h-1 w-24 bg-yellow-400 mx-auto mb-6"></div>
           <p className="text-2xl opacity-90 font-light italic mb-10 text-blue-100">
-            "Inspiring Innovations for a Sustainable Future"
+            "(Inspiring Innovations)"
           </p>
+          {/* Contact Section */}
+      <section id="contact" className="mt-8">
+        <h2 className="text-2xl font-semibold mb-4">Assistance & Queries</h2>
+        <p className="mb-4 text-gray-700">
+          📢 Registrations are now open for Sci-STAR 2026 Interested students are requested to fill out the registration form using the link below.
+        </p>
+        <div className="overflow-x-auto">
+          <table className="w-full border text-left">
+            <thead>
+              <tr className="bg-gray-50">
+                <th className="border p-3 font-semibold">Name & Designation</th>
+                <th className="border p-3 font-semibold">Contact Number</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td className="border p-3 font-medium">Dr. Prajakta Shete <span className="text-sm font-normal text-gray-500">(Coordinator)</span></td>
+                <td className="border p-3">
+                  <a href="tel:8830222561" className="text-blue-600 hover:underline">8830222561</a>
+                </td>
+              </tr>
+              <tr>
+                <td className="border p-3 font-medium">Mr. Sangram Salve <span className="text-sm font-normal text-gray-500">(Sub‑Coordinator)</span></td>
+                <td className="border p-3">
+                  <a href="tel:7387478287" className="text-blue-600 hover:underline">7387478287</a>
+                </td>
+              </tr>
+              <tr>
+                <td className="border p-3 font-medium">Dr. Ajay Nalawade <span className="text-sm font-normal text-gray-500">(Sub‑Coordinator)</span></td>
+                <td className="border p-3">
+                  <a href="tel:9518709419" className="text-blue-600 hover:underline">9518709419</a>
+                </td>
+              </tr>
+              <tr className="bg-blue-50">
+                <td className="border p-3 font-semibold text-blue-800">📧 Official Email</td>
+                <td className="border p-3">
+                  <a href="mailto:scistar2026@sguk.ac.in" className="text-blue-600 font-semibold hover:underline">scistar2026@sguk.ac.in</a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+          
           <div className="flex flex-wrap justify-center gap-6">
             <a 
               href="https://forms.gle/AAFLVvvNDJxnAL4P9" 
               target="_blank" 
               className="bg-yellow-400 text-blue-900 px-10 py-4 rounded-full font-bold text-lg hover:bg-yellow-300 transition-all hover:scale-105 shadow-xl"
             >
-              Register Now
+              Register Now (Google Form)
             </a>
             <a 
               href="https://chat.whatsapp.com/Bb9ZEh7b7Au1MzxRQYuTuF" 
               target="_blank" 
               className="bg-green-600 text-white px-10 py-4 rounded-full font-bold text-lg hover:bg-green-500 transition-all hover:scale-105 shadow-xl"
             >
-              Join WhatsApp
+              Join WhatsApp Group
             </a>
           </div>
         </div>
@@ -122,7 +166,7 @@ const SciStar2026FullPage = () => {
 
       <main className="container mx-auto px-4 py-16 space-y-24">
 
-         {/* Committees */}
+      {/* Committees */}
       <section id="committees">
         <h2 className="text-2xl font-semibold mb-4">Committees</h2>
         <div className="overflow-x-auto">
@@ -190,49 +234,61 @@ const SciStar2026FullPage = () => {
           <table className="w-full border">
             <tbody>
               <tr><td className="border p-3 font-semibold">Event</td><td className="border p-3">Sci‑STAR 2026</td></tr>
-              <tr><td className="border p-3 font-semibold">Tentative Date</td><td className="border p-3">31st January 2026</td></tr>
+              <tr><td className="border p-3 font-semibold">Tentative Date</td><td className="border p-3">07th  February 2026</td></tr>
               <tr><td className="border p-3 font-semibold">Target Students</td><td className="border p-3">11th–12th (Science) & UG (All)</td></tr>
               <tr><td className="border p-3 font-semibold">Theme</td><td className="border p-3">Science And Technology for Sustainable Future</td></tr>
             </tbody>
           </table>
         </div>
       </section>
-            {/* Events & Coordinators */}
-      <section id="events">
-        <h2 className="text-2xl font-semibold mb-4">Event‑wise Coordinators</h2>
-        <div className="overflow-x-auto">
-          <table className="w-full border">
-            <thead className="bg-gray-100">
-              <tr>
-                <th className="border p-2">Sr. No.</th>
-                <th className="border p-2">Event</th>
-                <th className="border p-2">Coordinator</th>
-              </tr>
-            </thead>
-            <tbody>
-              {[
-                [1, "Quiz Competition (Science)", "Mr. Vimalkumar Dige"],
-                [2, "Poster Presentation", "Dr. Sunetra Deshmukh"],
-                [3, "Scientific Model Competition", "Ms. Ashwini Chakote"],
-                [4, "Scientific Reel Star", "Dr. Sarika Patil"],
-                [5, "Scientific Memes", "Ms. Shivani Samarth"],
-                [6, "Scientific Short Films", "Mr. Siddhappa Balikar"],
-                [7, "Water Rocket Challenge", "Dr. Sulthan S."],
-                [8, "Ingredient Hunting", "Dr. Tejaswini Vhaskoti"],
-                [9, "Free Health Check‑up Camp", "Mr. Suraj Gabale"],
-                [10, "Food Stall (Testing new food products)", "Ms. Vishakha Deshpande"],
-                [11, "Campus & Department Visit", "Mr. Abhijeet Latkar"],
-              ].map((e) => (
-                <tr key={e[0]}>
-                  <td className="border p-2">{e[0]}</td>
-                  <td className="border p-2">{e[1]}</td>
-                  <td className="border p-2">{e[2]}</td>
+      {/* Events & Coordinators */}
+          <section id="events" className="mt-12">
+          <h2 className="text-2xl font-semibold mb-6 text-slate-800 flex items-center gap-2">
+            <span className="bg-blue-600 w-2 h-8 rounded-full"></span>
+            Event‑wise Coordinators
+          </h2>
+          <div className="overflow-x-auto rounded-xl border border-slate-200 shadow-sm">
+            <table className="w-full border-collapse bg-white">
+              <thead className="bg-slate-50 border-b border-slate-200">
+                <tr>
+                  <th className="p-4 text-left text-sm font-bold text-slate-600">Sr. No.</th>
+                  <th className="p-4 text-left text-sm font-bold text-slate-600">Event</th>
+                  <th className="p-4 text-left text-sm font-bold text-slate-600">Coordinator</th>
+                  <th className="p-4 text-left text-sm font-bold text-slate-600">Contact Number</th>
                 </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-      </section>
+              </thead>
+              <tbody className="divide-y divide-slate-100">
+                {[
+                  [1, "Quiz Competition (Science)", "Mr. Vimalkumar Dige", "9091913133"],
+                  [2, "Poster Presentation", "Dr. Satish Mahadik", "9822946226"],
+                  [3, "Scientific Model Competition", "Ms. Ashwini Chakote", "8446363848"],
+                  [4, "Scientific Reel Star", "Mrs. Manasi Patil", "9309544954"],
+                  [5, "Scientific Memes", "Ms. Shivani Samarth", "9860268550"],
+                  [6, "Scientific Short Films", "Dr. Sneha Paymal", "9359482323"],
+                  [7, "Water Rocket Challenge", "Mr. Mari Prabhu", "9994288036"],
+                  [8, "Ingredient Hunting", "Dr. Tejaswini Vhaskoti", "9403672449"],
+                  [9, "Free Health Check‑up Camp", "Mr. Suraj Gabale", "9970191188"],
+                  [10, "Food Stall (Testing new food products)", "Ms. Vishakha Deshpande", "9970151311"],
+                  [11, "Campus & Department Visit", "Mr. Abhijeet Latkar", "9822255410"],
+                ].map((e) => (
+                  <tr key={e[0]} className="hover:bg-blue-50/50 transition-colors">
+                    <td className="p-4 text-sm text-slate-500 font-medium">{e[0]}</td>
+                    <td className="p-4 text-sm text-slate-900 font-semibold">{e[1]}</td>
+                    <td className="p-4 text-sm text-slate-700">{e[2]}</td>
+                    <td className="p-4 text-sm">
+                      <a 
+                        href={`tel:${e[3]}`} 
+                        className="text-blue-600 hover:text-blue-800 hover:underline font-medium"
+                      >
+                        {e[3]}
+                      </a>
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </section>
         
         {/* Resource Section */}
         <section id="guidelines">
