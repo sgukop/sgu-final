@@ -9,7 +9,7 @@ const SciStar2026FullPage = () => {
       title: "Online Science Quiz", 
       coordinator: "Mr. Vimalkumar Dige", 
       img: "/assets/images/scistar2026/quiz.png", 
-      doc: "1.Quiz Competation Rules & Regulations.pdf", 
+      doc: "1. Quiz Competation Rules & Regulations.pdf", 
       contact: "9091913133",
       rules: "35 MCQs | 20 Minutes | Round II Offline on 07/02/2026"
     },
