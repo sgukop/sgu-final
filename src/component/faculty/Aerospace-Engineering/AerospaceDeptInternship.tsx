@@ -73,6 +73,11 @@ const AerospaceDeptInternship = () => {
           </div>
           <div className="tl-11-section-heading"><h2 className="tl-11-section-title mt-50">Internship Details</h2></div>
               <div className="row gy-4">
+                 <div className="col-lg-6 col-md-12 col-12 col-xxs-12">
+                        <Link href="#" className="tl-3-single-program-new" target="_blank">
+                          <h5 className="tl-3-single-program-title-new">Final Year Internship (2025-26) <i className="fa-regular fa-arrow-right-long"></i></h5>
+                        </Link>
+                    </div>
                     <div className="col-lg-6 col-md-12 col-12 col-xxs-12">
                         <Link href="https://manage-api.sguk.ac.in/api/assets/67d13e314f56d3a0bcfb9779" className="tl-3-single-program-new" target="_blank">
                           <h5 className="tl-3-single-program-title-new">Final Year Internship (2024-25) <i className="fa-regular fa-arrow-right-long"></i></h5>

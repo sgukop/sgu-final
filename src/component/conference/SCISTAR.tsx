@@ -234,7 +234,7 @@ const SciStar2026FullPage = () => {
           <table className="w-full border">
             <tbody>
               <tr><td className="border p-3 font-semibold">Event</td><td className="border p-3">Sci‑STAR 2026</td></tr>
-              <tr><td className="border p-3 font-semibold">Tentative Date</td><td className="border p-3">07th  February 2026</td></tr>
+              <tr><td className="border p-3 font-semibold">Tentative Date</td><td className="border p-3">18th  February 2026</td></tr>
               <tr><td className="border p-3 font-semibold">Target Students</td><td className="border p-3">11th–12th (Science) & UG (All)</td></tr>
               <tr><td className="border p-3 font-semibold">Theme</td><td className="border p-3">Science And Technology for Sustainable Future</td></tr>
             </tbody>

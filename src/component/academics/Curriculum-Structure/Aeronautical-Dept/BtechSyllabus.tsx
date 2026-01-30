@@ -27,7 +27,7 @@ const BtechSyllabus = () => {
              </tr>  
               <tr>
                   <td><p>Second Year Structure and Syllabus R23</p></td>
-                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68c2b8cedceab808938fd38f">Second Year Structure and Syllabus R23 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/697c8b0bfb80a1d956db43fd">Second Year Structure and Syllabus R23 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
              </tr>
              <tr>
                   <td><p>Third Year Structure and Syllabus R23</p></td>
@@ -35,7 +35,7 @@ const BtechSyllabus = () => {
              </tr>
              <tr>
                   <td><p>Final Year Structure and Syllabus R22</p></td>
-                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68c2b8f5dceab808938fd399">Final Year Structure and Syllabus R21 <i className="fa-regular fa-arrow-right-long"></i></a></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68c2b8f5dceab808938fd399">Final Year Structure and Syllabus R22 <i className="fa-regular fa-arrow-right-long"></i></a></td>
              </tr>
              <tr>
                   <td><p>Minor Aero Structure and Syllabus R23</p></td>
@@ -43,7 +43,7 @@ const BtechSyllabus = () => {
              </tr>
              <tr>
                   <td><p>Minor Aero Structure and Syllabus R25</p></td>
-                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68c2b920dceab808938fd39e">Minor Aero Structure and Syllabus R23 <i className="fa-regular fa-arrow-right-long"></i></a></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68c2b920dceab808938fd39e">Minor Aero Structure and Syllabus R25 <i className="fa-regular fa-arrow-right-long"></i></a></td>
              </tr>
              
               

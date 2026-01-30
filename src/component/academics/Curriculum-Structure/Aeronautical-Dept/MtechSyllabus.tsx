@@ -23,16 +23,21 @@ const MtechSyllabus = () => {
               
               <tr>
                   <td><p>Curriculum Structure Sem I-IV R24</p></td>
-                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68c2ba67dceab808938fd3a5">Curriculum Structure Sem I-VIII R23<i className="fa-regular fa-arrow-right-long"></i></a></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68c2ba67dceab808938fd3a5">Curriculum Structure Sem I-IV R24<i className="fa-regular fa-arrow-right-long"></i></a></td>
              </tr>
              <tr>
-                  <td><p>First Year Structure and Syllabus R24</p></td>
-                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68c2babadceab808938fd3b7">First Year Structure and Syllabus R24 <i className="fa-regular fa-arrow-right-long"></i></a></td>
+                  <td><p>Curriculum Structure Sem I-IV R25</p></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/697c8bfcfb80a1d956db4402">Curriculum Structure Sem I-IV R25<i className="fa-regular fa-arrow-right-long"></i></a></td>
+             </tr>
+             <tr>
+                  <td><p>First Year Structure and Syllabus R25</p></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/697c8c86fb80a1d956db4407">First Year Structure and Syllabus R25 <i className="fa-regular fa-arrow-right-long"></i></a></td>
              </tr>
              <tr>
                   <td><p>Second year Structure and Syllabus R24</p></td>
                   <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/68c2baa8dceab808938fd3b2">Second Year Structure and Syllabus R24 <i className="fa-regular fa-arrow-right-long"></i></a></td>
              </tr>
+
              
             
           </tbody>

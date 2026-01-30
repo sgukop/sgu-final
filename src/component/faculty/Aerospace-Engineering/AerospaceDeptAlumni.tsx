@@ -21,7 +21,7 @@ function AerospaceDeptAlumni() {
             data-offset="0"
           >
         <div className="tl-11-section-heading mt-50">
-	            <h2 className="tl-11-section-title">Alumni 2020_24</h2>
+	            <h2 className="tl-11-section-title">Alumni 2021_25</h2>
         </div>
         <div className="row gx-0 tl-blog-details-row mt-10">
           <div className="col-lg-12">
@@ -39,50 +39,104 @@ function AerospaceDeptAlumni() {
               <tbody>
                 <tr>
                   <td><p>1</p></td>
-                  <td><p>MS. ANKITA PATIL</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/capgemini-logo.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2023-2024/alumni-1.png"/></td>
+                  <td><p>Mr. PRASAD MALI</p></td>
+                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/tata.jpg"/></td>
+                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2023-2024/.png"/></td>
                 </tr>
 
                 <tr>
                   <td><p>2</p></td>
-                  <td><p>MR.JARTARGHAR ANUPAM AMARNATH</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/safran.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2023-2024/alumni-2.png"/></td>
-                </tr>
-
-                <tr>
-                  <td><p>2</p></td>
-                  <td><p>MS. AISHWARYA JANVEKAR</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/capgemini-logo.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2023-2024/alumni-3.png"/></td>
+                  <td><p>Ms.VRUSHALI JITENDRA PATIL</p></td>
+                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/hitech.png"/></td>
+                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2024-2025/22.jpg"/></td>
                 </tr>
 
                 <tr>
                   <td><p>3</p></td>
-                  <td><p>MS. PRADNYA SURVE</p></td>
+                  <td><p>Ms. AISHWARYA JANVEKAR</p></td>
                   <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/hitech.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2023-2024/alumni-4.png"/></td>
+                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2024-2025/3.JPG"/></td>
                 </tr>
 
                 <tr>
                   <td><p>4</p></td>
-                  <td><p>MS. NAMRATA SHINDE</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/hitech.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2023-2024/alumni-5.png"/></td>
+                  <td><p>Ms. HUMAIRA SALIM PARKAR</p></td>
+                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/starair.png"/></td>
+                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2024-2025/4.jpg"/></td>
                 </tr>
 
                 <tr>
                   <td><p>5</p></td>
-                  <td><p>MR. RISHAB JHA</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/hitech.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2023-2024/alumni-6.png"/></td>
+                  <td><p>Mr.OM CHAITANYA GODSE</p></td>
+                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/starair.png"/></td>
+                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2024-2025/"/></td>
+                </tr>
+
+                <tr>
+                  <td><p>6</p></td>
+                  <td><p>Ms. PRATIKSHA RAJKUMAR MALI</p></td>
+                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/aeroChamp.png"/></td>
+                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2024-2025/5.JPG"/></td>
                 </tr>
               </tbody>
             </Table>
           </div>
         </div>
+        <div className="tl-11-section-heading mt-50">
+	            <h2 className="tl-11-section-title">Alumni 2019_23</h2>
+        </div>
+        <div className="row gx-0 tl-blog-details-row mt-10">
+          <div className="col-lg-12">
+            
 
+            <Table bordered responsive className="governing-table">
+              <thead>
+                <tr>
+                  <th><p className="text-[#4f70b6]">Sr.No</p></th>
+                  <th><p className="text-[#4f70b6]">Name</p></th>
+                  <th><p className="text-[#4f70b6]">Company Name</p></th>
+                  <th><p className="text-[#4f70b6]">Photo</p></th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><p>1</p></td>
+                  <td><p>MR. ARGAE VYANKTESH VIDYADHAR</p></td>
+                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/boeing.png"/></td>
+                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2019-2023/alumni-1.png"/></td>
+                </tr>
+
+                <tr>
+                  <td><p>2</p></td>
+                  <td><p>MR. AMOL CHAMKERI SHRIKANT </p></td>
+                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/indigo.png"/></td>
+                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2019-2023/alumni-2.png"/></td>
+                </tr>
+
+                <tr>
+                  <td><p>3</p></td>
+                  <td><p>MR. GURUDAS PRADIP WALAVE</p></td>
+                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/gridpro.png"/></td>
+                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2019-2023/alumni-3.png"/></td>
+                </tr>
+
+                <tr>
+                  <td><p>4</p></td>
+                  <td><p>MR. YASH AMOL JADHAV</p></td>
+                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/starair.png"/></td>
+                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2019-2023/alumni-4.png"/></td>
+                </tr>
+
+                <tr>
+                  <td><p>5</p></td>
+                  <td><p>MR. UTKARSH NIVRUTTI MANGORE</p></td>
+                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/starair.png"/></td>
+                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2019-2023/alumni-5.png"/></td>
+                </tr>
+              </tbody>
+            </Table>
+          </div>
+        </div>
 
         <div className="tl-11-section-heading mt-50">
 	            <h2 className="tl-11-section-title">Alumni 2019_23</h2>

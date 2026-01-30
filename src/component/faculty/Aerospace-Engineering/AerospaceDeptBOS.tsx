@@ -25,78 +25,127 @@ function AerospaceDeptBOS() {
             
 
             <Table striped bordered hover responsive className="governing-table">
-              <thead>
-                <tr>
-                  <th><p className="text-[#4f70b6]">Sr.No</p></th>
-                  <th><p className="text-[#4f70b6]">Name of Member</p></th>
-                  <th><p className="text-[#4f70b6]">Role</p></th>
-                  <th><p className="text-[#4f70b6]">Designation</p></th>
-                </tr>
-              </thead>
-              <tbody>
+          <tbody>
                 <tr>
                   <td><p>1</p></td>
                   <td><p>Mr.S.Sulthan</p></td>
                   <td><p>BOS Chairman</p></td>
-                  <td><p>Head & Assistant Professor <br/> Department of Aerospace Engineering <br/> Sanjay Ghodawat University, Kolhapur</p></td>
+                  <td>
+                    <p>
+                      Head & Assistant Professor <br/>
+                      Department of Aerospace Engineering <br/>
+                      Sanjay Ghodawat University, Kolhapur
+                    </p>
+                  </td>
                 </tr>
 
                 <tr>
                   <td><p>2</p></td>
                   <td><p>Dr.Jims Jhon Wissely</p></td>
                   <td><p>Academic Expert</p></td>
-                  <td><p>Head & Associate Professor <br/> Department of Aerospace Engineering <br/> Karunya Institute of Technology and Science, Coimbatore</p></td>
+                  <td>
+                    <p>
+                      Head & Associate Professor <br/>
+                      Department of Aerospace Engineering <br/>
+                      Karunya Institute of Technology and Science, Coimbatore
+                    </p>
+                  </td>
                 </tr>
 
                 <tr>
                   <td><p>3</p></td>
-                  <td><p>Dr.N.Raja Murugu</p></td>
+                  <td><p>Dr.Raja Murugu</p></td>
                   <td><p>Academic Expert</p></td>
-                  <td><p>Associate Professor <br/> Department of Aerospace Engineering <br/> KCG College of Engineering and Technology, Chennai</p></td>
+                  <td>
+                    <p>
+                      Associate Professor <br/>
+                      Department of Aeronautical Engineering <br/>
+                      KCG College of Engineering and technology, Chennai
+                      </p>
+                  </td>
                 </tr>
 
                 <tr>
                   <td><p>4</p></td>
-                  <td><p>Mr.Vasudev Singh</p></td>
+                  <td><p>Mr.Ravi R Takur</p></td>
                   <td><p>Industrial Expert</p></td>
-                  <td><p>Quality Manager <br/> Ghodawat Enterprises <br/>Majlae, Kolhapur</p></td>
+                  <td>
+                    <p>
+                      Quality Manager <br/>
+                      Star Air <br/>
+                      Bangalore
+                    </p>
+                  </td>
                 </tr>
+
+                
 
                 <tr>
                   <td><p>5</p></td>
                   <td><p>Dr.Muzeer.S</p></td>
                   <td><p>Member</p></td>
-                  <td><p>Assistant Professo <br/> Department of Aerospace Engineering <br/> Sanjay Ghodawat University, Kolhapur</p></td>
+                  <td>
+                    <p>
+                      Assistant Professor <br/>
+                      Department of Aerospace Engineering <br/>
+                      Sanjay Ghodawat University, Kolhapur
+                    </p>
+                  </td>
                 </tr>
 
                 <tr>
                   <td><p>6</p></td>
-                  <td><p>Mr.Syed Habeeb</p></td>
+                  <td><p>Mr.Somava Palit</p></td>
                   <td><p>Member</p></td>
-                  <td><p>Assistant Professor <br/> Department of Aerospace Engineering <br/> Sanjay Ghodawat University, Kolhapur</p></td>
+                  <td>
+                    <p>
+                      Assistant Professor <br/>
+                      Department of Aerospace Engineering <br/>
+                      Sanjay Ghodawat University, Kolhapur
+                    </p>
+                  </td>
                 </tr>
 
                 <tr>
                   <td><p>7</p></td>
                   <td><p>Mr.Mari Prabhu</p></td>
                   <td><p>Member</p></td>
-                  <td><p>Assistant Professor <br/> Department of Aerospace Engineering <br/> Sanjay Ghodawat University, Kolhapur</p></td>
+                  <td>
+                    <p>
+                      Assistant Professor <br/>
+                      Department of Aerospace Engineering <br/>
+                      Sanjay Ghodawat University, Kolhapur
+                    </p>
+                  </td>
                 </tr>
 
                 <tr>
                   <td><p>8</p></td>
                   <td><p>Mr.Vadivel Muthu</p></td>
                   <td><p>Member</p></td>
-                  <td><p>Assistant Professor <br/> Department of Aerospace Engineering <br/> Sanjay Ghodawat University, Kolhapur</p></td>
+                  <td>
+                    <p>
+                      Assistant Professor <br/>
+                      Department of Aerospace Engineering <br/>
+                      Sanjay Ghodawat University, Kolhapur
+                    </p>
+                  </td>
                 </tr>
 
                 <tr>
                   <td><p>9</p></td>
-                  <td><p>Mr.Hardeep Zinta</p></td>
+                  <td><p>Mr.Shivtej Khot</p></td>
                   <td><p>Member</p></td>
-                  <td><p>Assistant Professor <br/> Department of Aerospace Engineering <br/> Sanjay Ghodawat University, Kolhapur</p></td>
+                  <td>
+                    <p>
+                      Assistant Professor <br/>
+                      Department of Aerospace Engineering <br/>
+                      Sanjay Ghodawat University, Kolhapur
+                    </p>
+                  </td>
                 </tr>
-            </tbody>
+              </tbody>
+
             </Table>
           </div>
         </div>

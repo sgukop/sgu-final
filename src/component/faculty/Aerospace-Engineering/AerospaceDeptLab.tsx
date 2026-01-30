@@ -117,6 +117,15 @@ const AerospaceDeptLab = () => {
                         <Link href="https://manage-api.sguk.ac.in/api/assets/67de61094f56d3a0bcfba959" target="_blank"><h3 className="tl-6-latest-article-title mt-10">Vibration and Aero Elasticity Lab</h3></Link>
                     </div>
                   </div>
+                  
+                  <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                    <div className="tl-9-blog flex-flex-col h-full"> 
+                        <div className="tl-9-event-img">
+                            <img src="assets/images/aerospace-engineering-dept/laboratories/new-lab-photoes/Theory of Machines Lab.png" alt="Events Image"/>
+                        </div>
+                        <Link href="https://manage-api.sguk.ac.in/api/assets/697c87e4fb80a1d956db43ed" target="_blank"><h3 className="tl-6-latest-article-title mt-10">Theory of Machines Lab</h3></Link>
+                    </div>
+                  </div>
                 </div>   
               </div>
           </div>

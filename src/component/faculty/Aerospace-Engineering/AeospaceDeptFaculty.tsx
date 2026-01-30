@@ -19,6 +19,19 @@ const AerospaceDeptFaculty = () => {
                         >
                         <div className="tl-course-details-top-courses">
                             <div className="row g-4">
+                                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                                    <div className="tl-1-course-new">
+                                        <div className="tl-1-course-img-new">
+                                            <img src="/assets/images/faculty-profile-photos/aeronautical/2. Mr. S. SULTAN.jpg" alt="Faculty Image"/>
+                                        </div>
+
+                                        <div className="tl-1-course-txt">
+                                            <h4 className="tl-1-course-title-new mt-30">Mr.S.Sulthan</h4>
+                                            <p className="tl-1-course-author-new dark-mode-white-color">HOD/Assistant Professor</p>
+                                            <Link href="https://manage-api.sguk.ac.in/api/assets/674ebde54b17e19d8f361689" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                                        </div>
+                                    </div>
+                                </div>
                                 <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                                     <div className="tl-1-course-new">
                                         <div className="tl-1-course-img-new">
@@ -33,19 +46,7 @@ const AerospaceDeptFaculty = () => {
                                     </div>
                                 </div>  
 
-                                <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                                    <div className="tl-1-course-new">
-                                        <div className="tl-1-course-img-new">
-                                            <img src="/assets/images/faculty-profile-photos/aeronautical/2. Mr. S. SULTAN.jpg" alt="Faculty Image"/>
-                                        </div>
-
-                                        <div className="tl-1-course-txt">
-                                            <h4 className="tl-1-course-title-new mt-30">Mr.S.Sulthan</h4>
-                                            <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                            <Link href="https://manage-api.sguk.ac.in/api/assets/674ebde54b17e19d8f361689" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                                        </div>
-                                    </div>
-                                </div>  
+  
 
                                 
 
@@ -79,26 +80,26 @@ const AerospaceDeptFaculty = () => {
                                 <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                                     <div className="tl-1-course-new">
                                         <div className="tl-1-course-img-new">
-                                            <img src="/assets/images/faculty-profile-photos/aeronautical/Mohammad Fazlur Rahman.jpg" alt="Faculty Image"/>
+                                            <img src="/assets/images/faculty-profile-photos/male.jpg" alt="Faculty Image"/>
                                         </div>
 
                                         <div className="tl-1-course-txt">
-                                            <h4 className="tl-1-course-title-new mt-30">Mohammad Fazlur Rahman</h4>
+                                            <h4 className="tl-1-course-title-new mt-30">Mr. Somuva Palit</h4>
                                             <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                            <Link href="https://manage-api.sguk.ac.in/api/assets/686cfa4dab9e6efa3e79e0d7" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                                            <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                                         </div>
                                     </div>
                                 </div> 
                                 <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                                     <div className="tl-1-course-new">
                                         <div className="tl-1-course-img-new">
-                                            <img src="/assets/images/faculty-profile-photos/aeronautical/Rohan Balasaheb Shilwant.jpg" alt="Faculty Image"/>
+                                            <img src="/assets/images/faculty-profile-photos/aeronautical/Shivtej Khot.JPG" alt="Faculty Image"/>
                                         </div>
 
                                         <div className="tl-1-course-txt">
-                                            <h4 className="tl-1-course-title-new mt-30">Mr. Rohan Balasaheb Shilwant</h4>
+                                            <h4 className="tl-1-course-title-new mt-30">Mr. Shivtej Khot</h4>
                                             <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                            <Link href="https://manage-api.sguk.ac.in/api/assets/686cfabdab9e6efa3e79e0dc" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                                            <Link href="https://manage-api.sguk.ac.in/api/assets/697c8632fb80a1d956db43e6" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                                         </div>
                                     </div>
                                 </div> 

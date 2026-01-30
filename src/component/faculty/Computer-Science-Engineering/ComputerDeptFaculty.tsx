@@ -212,7 +212,7 @@ const ComputerDeptFaculty = () => {
 
                             <div className="tl-1-course-txt">
                                 <h4 className="tl-1-course-title-new mt-30">Mr. Shubham Bhosale</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">ATeaching Assistant</p>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Teaching Assistant</p>
                                 <Link href="https://manage-api.sguk.ac.in/api/assets/69269580160c943cf4224b1e" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
                         </div>

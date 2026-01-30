@@ -75,6 +75,31 @@ const AerospaceDeptMOU = () => {
                         <h3 className="tl-6-latest-article-title mt-10">MOU WITH SS TECHNOLOGIES BANGALORE</h3>
                     </div>
                   </div>
+                  <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                    <div className="tl-9-blog flex flex-col h-full"> 
+                        <div className="tl-9-event-img">
+                          <figure><img src="assets/images/aerospace-engineering-dept/mou/mou7.jpeg" alt="Events Image"/></figure>
+                        </div>
+                        <h3 className="tl-6-latest-article-title mt-10">Mou with Aerominds Pvt Ltd secunderabad</h3>
+                    </div>
+                  </div>
+
+                  <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                    <div className="tl-9-blog flex flex-col h-full"> 
+                        <div className="tl-9-event-img">
+                          <figure><img src="assets/images/aerospace-engineering-dept/mou/mou8.jpeg" alt="Events Image"/></figure>
+                        </div>
+                        <h3 className="tl-6-latest-article-title mt-10">Mou with Agmay technologies secunderabad</h3>
+                    </div>
+                  </div>
+                  <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                    <div className="tl-9-blog flex flex-col h-full"> 
+                        <div className="tl-9-event-img">
+                          <figure><img src="assets/images/aerospace-engineering-dept/mou/mou9.jpeg" alt="Events Image"/></figure>
+                        </div>
+                        <h3 className="tl-6-latest-article-title mt-10">MOU with Takasago Fluidic Systems (TFS), Japan</h3>
+                    </div>
+                  </div>
             </div> 
             <div className="row tl-event-details-row g-0">
                 <div className="col-lg-12">
