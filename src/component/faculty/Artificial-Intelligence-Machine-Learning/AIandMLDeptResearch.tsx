@@ -1,257 +1,228 @@
 "use client";
-import React, { useEffect, useRef, useState } from "react";
+import React from "react";
 import Table from "react-bootstrap/Table";
 import NavLinks from "./Navlinks";
 import MenuList from "../Reusable-components/MenuList";
 
+const researchData = [
+    // ===== 2025 =====
+  {
+    year: 2025,
+    title: "Advances in Deep Learning and Hybrid Neural Networks For Leakemia Diagnosis : A Review",
+    authors: "Mr. Amrish Patil, Mrs. ",
+    journal: "International Conference"
+  },
+  // ===== 2024 =====
+  {
+    year: 2024,
+    title: "The Impact of AI-Powered Personalization on Academic Performance",
+    authors: "Mrs. Shweta Shete, Mrs. Priyanka Koshti",
+    journal: "IEEE Conference"
+  },
+  {
+    year: 2024,
+    title: "Increase the Productivity of Internet Marketing by Using Unsupervised Machine Learning",
+    authors: "Kousar Ghalwade, Dr. Mahesh Gaikwad",
+    journal: "International Journal of Innovative Research in Science, Engineering and Technology"
+  },
+  {
+    year: 2024,
+    title: "Extraction of Popular Product Attributes by Using Unsupervised Machine Learning",
+    authors: "Kousar Ghalwade, Dr. Mahesh Gaikwad",
+    journal: "International Journal of Innovative Research in Computer and Communication Engineering"
+  },
+  {
+    year: 2024,
+    title: "Vision Model Application Using Gemini Pro",
+    authors: "Mahesh P. Gaikwad, Amrish A. Patil, Ruturaj D. Patil",
+    journal: "International Journal of Engineering Research and Technology"
+  },
+  {
+    year: 2024,
+    title: "Strategic Insights and Innovations in Prefabricated Component Obsolescence Mitigation: A Focus on SVM-Based Models",
+    authors: "R. B. Dhumale, M. P. Gaikwad, S. S. Nikam, Sandipann P Narote, Mahendra H. Sonawane, P. B. Mane",
+    journal: "International Journal of Intelligent Systems and Applications in Engineering"
+  },
+  {
+    year: 2024,
+    title: "Comprehensive Review of Population Based Metaheuristic Algorithms & Ontology Integration",
+    authors: "Sujata Pardeshi, Suresh Kumar Billakurthi, Sushopti Gawade",
+    journal: "IEEE Conference at Vellore, IEEE Xplore"
+  },
+
+  // ===== 2023 =====
+  {
+    year: 2023,
+    title: "A Review Paper on Machine Education Methods and Its Applications",
+    authors: "Mrs. Shweta G. Shete, Mrs. Radhika M. Mane",
+    journal: "National Conference on Emerging Trends in Engineering & Technology"
+  },
+  {
+    year: 2023,
+    title: "Feed Forward Neural Network based Brain Tumor Diagnosis in Magnetic Resonance Images",
+    authors: "M. P. Gaikwad, R. B. Dhumale, N. R. Dhumale, P. B. Mane, A. M. Umbrajkaar, A. N. Sarwade",
+    journal: "International Journal of Electrical and Electronics Research (IJEER)"
+  },
+  {
+    year: 2023,
+    title: "Outlier Identification Based on Machine Learning for Medical Equipment",
+    authors: "Dr. Harsh Lohiya, Gaikwad Mahesh Parasharam",
+    journal: "Journal Mathematical Statistician and Engineering Applications"
+  },
+  {
+    year: 2023,
+    title: "A Review Paper on the Use of AI in the Recruitment Process",
+    authors: "Mrs. Shweta Shete, Mrs. Priyanka Koshti",
+    journal: "IJARCCE"
+  },
+  {
+    year: 2023,
+    title: "Ontology as an Open World Assumptions and Its Futuristic",
+    authors: "Sujata Pardeshi, Suresh Kumar Billakurthi, Sushopti Gawade",
+    journal: "12th International Conference on Advanced Computing (ICoAC), IEEE Xplore"
+  },
+
+  // ===== 2022 =====
+  {
+    year: 2022,
+    title: "Student Learning Time Analysis during COVID-19 using Linear Programming - Simplex Method",
+    authors: "Sujata Pardeshi, Sushopti Gawade, Palivela Hemant",
+    journal: "Social Sciences & Humanities Open, Elsevier"
+  },
+  {
+    year: 2022,
+    title: "Feed Forward Neural Network based Brain Tumor Diagnosis in Magnetic Resonance Images",
+    authors: "M. P. Gaikwad, R. B. Dhumale, N. R. Dhumale, P. B. Mane, A. M. Umbrajkaar, A. N. Sarwade",
+    journal: "International Journal of Electrical and Electronics Research (IJEER)"
+  },
+  {
+    year: 2022,
+    title: "Outlier Identification Based on Machine Learning for Medical Equipment",
+    authors: "Dr. Harsh Lohiya, Gaikwad Mahesh Parasharam",
+    journal: "Journal Mathematical Statistician and Engineering Applications"
+  },
+  {
+    year: 2022,
+    title: "Student Learning Time Analysis during COVID-19 Using Linear Programming",
+    authors: "Sujata Pardeshi, Sushopti Gawade, Palivela Hemant",
+    journal: "Journal of Scientific Research, Banaras Hindu University"
+  },
+
+  // ===== 2021 =====
+  {
+    year: 2021,
+    title: "An Evaluation of Outlier Detection Using Machine Learning in Medicine",
+    authors: "Dr. Harsh Lohiya, Gaikwad Mahesh Parasharam",
+    journal: "Journal Mathematical Statistician and Engineering Applications"
+  },
+  {
+    year: 2021,
+    title: "Tumor Diagnosis using Gray Level Co-occurrence Matrix and Artificial Neural Network",
+    authors: "M. P. Gaikwad, R. B. Dhumale",
+    journal: "International Journal of Advanced Science and Technology"
+  },
+  {
+    year: 2021,
+    title: "The Digital Eye Android Application for Assisting Visually Impaired",
+    authors: "Manasi Powar, Shivani Patil, Shwetali Nikam, Komal Kurundwade, Sujata Pardeshi",
+    journal: "International Research Journal of Engineering and Technology (IRJET)"
+  },
+  {
+    year: 2021,
+    title: "Use Of Artificial Intelligence in Education",
+    authors: "Shweta G. Shete, Asavari A. Patil, Varsha K. Kasote, Vinayak I. Pujari",
+    journal: "SEYBOLD"
+  },
+  {
+    year: 2021,
+    title: "Artificial Intelligence: Development, Issues and Applications",
+    authors: "Shweta Girish Shete, Rupali Babaso Dhansare, Priyanka Vijay Patil",
+    journal: "Journal of Northeastern University"
+  },
+
+  // ===== 2020 =====
+  {
+    year: 2020,
+    title: "An Empirical Research on the Use of Machine Learning Algorithm for Medical Image Classification",
+    authors: "Gaikwad Mahesh Parasharam, Dr. Harsh Lohiya",
+    journal: "Journal of Critical Reviews"
+  },
+  {
+    year: 2020,
+    title: "A Survey Paper on Smart Vehicles",
+    authors: "Sahil Inamdar, Ajit Shete, Akshay Ghatage, Jaydeep Gholap, Ashitosh Atnurkar, Sujata Pardeshi",
+    journal: "Journal of Internet of Things and Information Technology"
+  },
+  {
+    year: 2020,
+    title: "Smart Vehicles",
+    authors: "Ajit Shete, Akshay Ghatage, Sahil Inamdar, Ashitosh Atnurkar, Jaydeep Gholap, Sujata Pardeshi",
+    journal: "Journal of Research in Engineering, Science and Management"
+  },
+  {
+    year: 2020,
+    title: "Digital Bus Pass Generation System Using Android Application",
+    authors: "Ms. S. A. Pardeshi, Suraj Dinde, Akash Gaikwad, Aditi Kole, Supriya Patil, Sadaf Mujawar",
+    journal: "Journal of Applied Science and Computations"
+  },
+
+  // ===== 2019 =====
+  {
+    year: 2019,
+    title: "Survey on Different Data Mining Techniques for Prediction",
+    authors: "Pooja Akulwar, Sujata Pardeshi, Arvind Kamble",
+    journal: "2nd International Conference on I-SMAC, IEEE Xplore"
+  }
+];
+
+// 🔽 Sort descending by year
+const sortedResearchData = [...researchData].sort(
+  (a, b) => b.year - a.year
+);
 
 const AIandMLDeptResearch = () => {
   return (
     <section className="pt-100 pb-100">
       <div className="container-fluid">
-        <h2 className="tl-9-section-title mb-50">Research & Publications</h2>
-            <div className="row">
-                <MenuList dept="Artificial Intelligence and Machine Learning" subMenu={NavLinks} />
-                    <div data-spy="scroll" className="scrollspy-example z-depth-1 mt-4 p-3 mb-4 col-lg-9 col-md-6 col-sm-12 dept-content" data-target="#menu-navbar" data-offset="0">
-                        <div className="row gx-0 tl-blog-details-row">
-                            <div className="tl-11-section-heading"><h2 className="tl-11-section-title">Research papers published in the Journals By AIML Department</h2></div>
-                                <div className="col-lg-12">
-                                    <Table bordered responsive className="governing-table">
-                                        <thead>
-                                            <tr>
-                                                <th><p className="text-[#4f70b6]">Sr.No.</p></th>
-                                                <th><p className="text-[#4f70b6]">Year</p></th>
-                                                <th><p className="text-[#4f70b6]">Title of paper</p></th>
-                                                <th><p className="text-[#4f70b6]">Author/s</p></th>
-                                                <th><p className="text-[#4f70b6]">Journal</p></th>
-                                               
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr>
-                                                <td><p>1</p></td>
-                                                <td><p>2019</p></td>
-                                                <td><p>Survey on Different Data Mining Techniques for Prediction</p></td>
-                                                <td><p>Pooja Akulwar, Sujata Pardeshi, Arvind Kamble</p></td>
-                                                <td><p>2nd Intl. Conf. on I-SMAC, 2018. <br/> Paper Added to IEEE XPORE, 2019</p></td>
-                                               
-                                            </tr>
+        <h2 className="tl-9-section-title mb-50">
+          Research & Publications
+        </h2>
 
-                                            <tr>
-                                                <td><p>2</p></td>
-                                                <td><p>2020</p></td>
-                                                <td><p>An Empirical Research on the Use of Machine Learning Algorithm for Medical Image Classification
-                                                </p></td>
-                                                <td><p>Gaikwad Mahesh Parasharam <br/> Dr. Harsh Lohiya</p></td>
-                                                <td><p>JOURNAL OF CRITICAL REVIEWS</p></td>
-                                               
-                                            </tr>
+        <div className="row">
+          <MenuList
+            dept="Artificial Intelligence and Machine Learning"
+            subMenu={NavLinks}
+          />
 
-                                            <tr>
-                                                <td><p>3</p></td>
-                                                <td><p>2020</p></td>
-                                                <td><p>A Survey Paper on Smart Vehicles, Journal of Internet of Things and Information Technology</p></td>
-                                                <td><p>Sahil Inamdar, Ajit Shete, Akshay Ghatage, <br/> Jaydeep Gholap, Ashitosh Atnurkar, Sujata Pardeshi</p></td>
-                                                <td><p>Journal of Internet of Things and Information Technology</p></td>
-                                               
-                                            </tr>
+          <div className="col-lg-9 col-md-6 col-sm-12 dept-content">
+            <Table bordered responsive className="governing-table">
+              <thead>
+                <tr>
+                  <th>Sr. No.</th>
+                  <th>Year</th>
+                  <th>Title of Paper</th>
+                  <th>Authors</th>
+                  <th>Journal / Conference</th>
+                </tr>
+              </thead>
 
-                                            <tr>
-                                                <td><p>4</p></td>
-                                                <td><p>2020</p></td>
-                                                <td><p>Smart Vehicles, International Journal of Research in Engineering</p></td>
-                                                <td><p>Ajit Shete, Akshay Ghatage, Sahil Inamdar, <br/> Ashitosh Atnurkar, Jaydeep Gholap, Sujata Pardeshi</p></td>
-                                                <td><p>Journal of Research in Engineering, Science and Management</p></td>
-                                                
-                                            </tr>
+              <tbody>
+                {sortedResearchData.map((item, index) => (
+                  <tr key={index}>
+                    <td>{index + 1}</td>
+                    <td>{item.year}</td>
+                    <td>{item.title}</td>
+                    <td>{item.authors}</td>
+                    <td>{item.journal}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </Table>
 
-                                            <tr>
-                                                <td><p>5</p></td>
-                                                <td><p>2020</p></td>
-                                                <td><p>Digital Bus Pass Generation System Using Android Application</p></td>
-                                                <td><p>Ms. S. A. Pardeshi, Suraj Dinde, Akash Gaikwad, <br/> Aditi Kole, Supriya Patil, Sadaf Mujawar</p></td>
-                                                <td><p>JASC: Journal of Applied Science and Computations</p></td>
-                                               
-                                            </tr>
-
-                                            <tr>
-                                                <td><p>6</p></td>
-                                                <td><p>2021</p></td>
-                                                <td><p>An Evaluation of Outlier Detection Using Machine Learning in Medicine”</p></td>
-                                                <td><p>Dr. Harsh Lohiya  <br/> Gaikwad Mahesh Parasharam </p></td>
-                                                <td><p>Journal Mathematical Statistician and Engineering Applications</p></td>
-                                               
-                                            </tr>
-
-                                            <tr>
-                                                <td><p>7</p></td>
-                                                <td><p>2021</p></td>
-                                                <td><p>Tumor Diagnosis using Gray Level Co occurrence Matrix and Artificial Neural Network 
-                                                </p></td>
-                                                <td><p>M. P. Gaikwad <br/>R. B. Dhumale</p></td>
-                                                <td><p>International Journal of Advanced Science and Technology</p></td>
-                                               
-                                            </tr>
-
-                                            <tr>
-                                                <td><p>8</p></td>
-                                                <td><p>2021</p></td>
-                                                <td><p>The Digital Eye Android Application For Assisting Visually Impaired</p></td>
-                                                <td><p>Manasi Powar, Shivani Patil, Shwetali Nikam, <br/> Komal Kurundwade, Sujata.A.Pardeshi</p></td>
-                                                <td><p>International Research Journal of Engineering and Technology (IRJET)</p></td>
-                                               
-                                            </tr>
-
-                                            <tr>
-                                                <td><p>9</p></td>
-                                                <td><p>2021</p></td>
-                                                <td><p>Use Of Artificial Intelligence in Education</p></td>
-                                                <td><p>Shweta G. Shete1, Asavari A. Patil2, Varsha K. Kasote3, <br/> Vinayak I. Pujari4</p></td>
-                                                <td><p>SEYBOLD</p></td>
-                                            </tr>
-
-                                            <tr>
-                                                <td><p>10</p></td>
-                                                <td><p>2021</p></td>
-                                                <td><p>Artificial Intelligence : Development, Issues and Applications</p></td>
-                                                <td><p>Shweta Girish Shete1 ,Rupali Babaso Dhansare2 ,Priyanka Vijay Patil3</p></td>
-                                                <td><p>JOURNAL OF NORTHEASTERN UNIVERSITY</p></td>
-                                               
-                                            </tr>
-
-                                            <tr>
-                                                <td><p>11</p></td>
-                                                <td><p>2022</p></td>
-                                                <td><p>Student learning time analysis during COVID-19 using linear programming - Simplex method</p></td>
-                                                <td><p>Sujata Pardeshi, Sushopti Gawade, Palivela Hemant</p></td>
-                                                <td><p>Social Sciences & Humanities Open, Elsevier</p></td>
-                                                
-                                            </tr>
-
-                                            <tr>
-                                                <td><p>12</p></td>
-                                                <td><p>2022</p></td>
-                                                <td><p>Feed Forward Neural Network based Brain Tumor Diagnosis in Magnetic Resonance Images 
-                                                </p></td>
-                                                <td><p>M. P. Gaikwad, <br/> R. B. Dhumale, N. R. Dhumale , <br/> P. B. Mane , A. M. Umbrajkaar and A. N. Sarwade
-                                                </p></td>
-                                                <td><p>International Journal of Electrical and Electronics Research (IJEER)
-                                                </p></td>
-                                            </tr>
-
-                                            <tr>
-                                                <td><p>13</p></td>
-                                                <td><p>2022</p></td>
-                                                <td><p>Outlier Identification Based on Machine Learning for Medical Equipment</p></td>
-                                                <td><p>Dr. Harsh Lohiya ,Gaikwad Mahesh Parasharam</p></td>
-                                                <td><p> journal Mathematical Statistician and Engineering Applications</p></td>
-                                            </tr>
-
-                                            <tr>
-                                                <td><p>14</p></td>
-                                                <td><p>2022</p></td>
-                                                <td><p>Student Learning Time Analysis during COVID'19 Using Linear Programming</p></td>
-                                                <td><p>Sujata Pardeshi, Sushopti Gawade, Palivela Hemant</p></td>
-                                                <td><p>Journal of Scientific Research of The Banaras Hindu University</p></td>
-                                            </tr>
-
-                                            <tr>
-                                                <td><p>15</p></td>
-                                                <td><p>2023</p></td>
-                                                <td><p>A Review Paper on Machine Education Methods and Its Applications</p></td>
-                                                <td><p>Mrs. Shweta G. Shete1, Mrs.Radhika M. Mane2</p></td>
-                                                <td><p>National Conference on Emerging trends in Engineering & Technology</p></td>
-                                            </tr>
-
-                                            <tr>
-                                                <td><p>16</p></td>
-                                                <td><p>2023</p></td>
-                                                <td><p>Feed Forward Neural Network based Brain Tumor Diagnosis in Magnetic Resonance Images 
-                                                </p></td>
-                                                <td><p>M. P. Gaikwad, R. B. Dhumale, N. R. Dhumale , P. B. Mane , A. M. Umbrajkaar and A. N. Sarwade
-                                                </p></td>
-                                                <td><p>International Journal of Electrical and Electronics Research (IJEER)
-                                                </p></td>
-                                            </tr>
-
-                                            <tr>
-                                                <td><p>17</p></td>
-                                                <td><p>2023</p></td>
-                                                <td><p>Outlier Identification Based on Machine Learning for Medical Equipment</p></td>
-                                                <td><p>Dr. Harsh Lohiya ,Gaikwad Mahesh Parasharam </p></td>
-                                                <td><p> journal Mathematical Statistician and Engineering Applications</p></td>
-                                            </tr>
-
-                                            <tr>
-                                                <td><p>18</p></td>
-                                                <td><p>2023</p></td>
-                                                <td><p>A Review Paper on the Use of AI in the Recruitment Process</p></td>
-                                                <td><p>Mrs. Shweta Shete1, Mrs. Priyanka Koshti2</p></td>
-                                                <td><p>IJARCCE</p></td>
-                                            </tr>
-
-                                            <tr>
-                                                <td><p>19</p></td>
-                                                <td><p>2023</p></td>
-                                                <td><p>Ontology as an Open World Assumptions and Its Futuristic</p></td>
-                                                <td><p>Sujata Pardeshi, Suresh Kumar Billakurthi, Sushopti Gawade</p></td>
-                                                <td><p>12th International Conference on Advanced Computing (ICoAC), IEEE Xplore</p></td>
-                                            </tr>
-
-                                            <tr>
-                                                <td><p>20</p></td>
-                                                <td><p>2024</p></td>
-                                                <td><p>The Impact of AI-Powered Personalization on Academic Performance in</p></td>
-                                                <td><p>Mrs. Shweta Shete1, Mrs. Priyanka Koshti2</p></td>
-                                                <td><p>IEEE Conference</p></td>
-                                            </tr>
-
-                                            <tr>
-                                                <td><p>21</p></td>
-                                                <td><p>2024</p></td>
-                                                <td><p>Increase the Productivity of Internet Marketing by Using Unsupervised Machine Learning</p></td>
-                                                <td><p>"Kousar Ghalwade, Dr. Mahesh Gaikwad"</p></td>
-                                                <td><p>International Journal of Innovative  Research in Sci.,Engg and Technology </p></td>
-                                            </tr>
-
-                                            <tr>
-                                                <td><p>22</p></td>
-                                                <td><p>2024</p></td>
-                                                <td><p>Extraction of Popular Product Attributes by Using Unsupervised Machine Learning”.</p></td>
-                                                <td><p>Kousar Ghalwade, Dr. Mahesh Gaikwad</p></td>
-                                                <td><p>International Journal of Innovative Research in computer and communication engineering</p></td>
-                                            </tr>
-
-                                            <tr>
-                                                <td><p>23</p></td>
-                                                <td><p>2024</p></td>
-                                                <td><p>“Vision Model Application Using Gemini Pro” in  with ISSN</p></td>
-                                                <td><p>Mahesh P. Gaikwad,  Mr. Amrish A. Patil, Ruturaj D. Patil</p></td>
-                                                <td><p>International Journal of Engineering Research and Technology</p></td>
-                                            </tr>
-
-                                            <tr>
-                                                <td><p>24</p></td>
-                                                <td><p>2024</p></td>
-                                                <td><p>Strategic Insights and Innovations in Prefabricated Component Obsolescence Mitigation: A Focus on SVM-Based Models”</p></td>
-                                                <td><p>"R. B. Dhumale, M. P. Gaikwad, S. S. Nikam, Sandipann P Narote, Mahendra H. Sonawane, P. B. Mane"</p></td>
-                                                <td><p>International Journal of INTELLIGENT SYSTEMS AND APPLICATIONS IN ENGINEERING </p></td>
-                                            </tr>
-
-                                            <tr>
-                                                <td><p>25</p></td>
-                                                <td><p>2024</p></td>
-                                                <td><p>Comprehensive Review of Population Based Metaheuristic Algorithms & Ontology Integration</p></td>
-                                                <td><p>Sujata Pardeshi, Suresh Kumar Billakurthi, Sushopti Gawade</p></td>
-                                                <td><p>IEEE Conference at Vellore. 22-23 February 2024, India. IEEE Xplore.</p></td>
-                                            </tr>
-                                        </tbody>
-                                    </Table>
-                                </div>
-                            </div>
-                        </div>
-                </div>
-         </div>
+           
+          </div>
+        </div>
+      </div>
     </section>
   );
 };
