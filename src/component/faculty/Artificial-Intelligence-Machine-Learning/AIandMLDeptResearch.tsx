@@ -9,7 +9,7 @@ const researchData = [
   {
     year: 2025,
     title: "Advances in Deep Learning and Hybrid Neural Networks For Leakemia Diagnosis : A Review",
-    authors: "Mr. Amrish Patil, Mrs. ",
+    authors: "Mr. Amrish Patil",
     journal: "International Conference"
   },
   // ===== 2024 =====
