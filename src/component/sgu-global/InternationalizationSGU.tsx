@@ -160,7 +160,183 @@ const InternationalizationSGU = () => {
                 <div className="container">
                     <h2 className="tl-9-section-title pt-100 pb-50 py-4 rounded-tl-[40px] rounded-br-[40px] w-fit px-8 bg-[#4f70b6] font-bold text-white mx-auto mb-50 mt-50">Various Initiative /Activity</h2>
 
-                        <div className="tl-11-section-heading mt-30">
+                            <div className="tl-11-section-heading mt-30">
+                                <h2 className="tl-11-section-title">
+                                    Semester Exchange Program (SEP) – SGU @ INTI University, Malaysia
+                                </h2>
+                            </div>
+
+                            <div className="row g-3 g-lg-4">
+                                {/* Image 1 */}
+                                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                                    <div className="tl-9-blog">
+                                        <div className="tl-9-event-img">
+                                            <figure>
+                                                <img
+                                                    src="assets/images/photo-gallery/academics/Internationalisation/1.jpeg"
+                                                    alt="Semester Exchange Program at INTI University Malaysia"
+                                                />
+                                            </figure>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                {/* Image 2 */}
+                                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                                    <div className="tl-9-blog">
+                                        <div className="tl-9-event-img">
+                                            <figure>
+                                                <img
+                                                    src="assets/images/photo-gallery/academics/Internationalisation/2.jpeg"
+                                                    alt="SGU Students at INTI University Malaysia"
+                                                />
+                                            </figure>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                {/* Image 3 */}
+                                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                                    <div className="tl-9-blog">
+                                        <div className="tl-9-event-img">
+                                            <figure>
+                                                <img
+                                                    src="assets/images/photo-gallery/academics/Internationalisation/3.jpeg"
+                                                    alt="Campus Life at INTI University Malaysia"
+                                                />
+                                            </figure>
+                                        </div>
+                                    </div>
+                                </div>
+                                  {/* Image 4 */}
+                                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                                    <div className="tl-9-blog">
+                                        <div className="tl-9-event-img">
+                                            <figure>
+                                                <img
+                                                    src="assets/images/photo-gallery/academics/Internationalisation/4.jpeg"
+                                                    alt="Campus Life at INTI University Malaysia"
+                                                />
+                                            </figure>
+                                        </div>
+                                    </div>
+                                </div>
+                                  {/* Image 5 */}
+                                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                                    <div className="tl-9-blog">
+                                        <div className="tl-9-event-img">
+                                            <figure>
+                                                <img
+                                                    src="assets/images/photo-gallery/academics/Internationalisation/5.jpeg"
+                                                    alt="Campus Life at INTI University Malaysia"
+                                                />
+                                            </figure>
+                                        </div>
+                                    </div>
+                                </div>
+                                  {/* Image 6 */}
+                                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                                    <div className="tl-9-blog">
+                                        <div className="tl-9-event-img">
+                                            <figure>
+                                                <img
+                                                    src="assets/images/photo-gallery/academics/Internationalisation/6.jpeg"
+                                                    alt="Campus Life at INTI University Malaysia"
+                                                />
+                                            </figure>
+                                        </div>
+                                    </div>
+                                </div>
+                                  {/* Image 7 */}
+                                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                                    <div className="tl-9-blog">
+                                        <div className="tl-9-event-img">
+                                            <figure>
+                                                <img
+                                                    src="assets/images/photo-gallery/academics/Internationalisation/7.jpeg"
+                                                    alt="Campus Life at INTI University Malaysia"
+                                                />
+                                            </figure>
+                                        </div>
+                                    </div>
+                                </div>
+                                  {/* Image 8 */}
+                                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                                    <div className="tl-9-blog">
+                                        <div className="tl-9-event-img">
+                                            <figure>
+                                                <img
+                                                    src="assets/images/photo-gallery/academics/Internationalisation/8.jpeg"
+                                                    alt="Campus Life at INTI University Malaysia"
+                                                />
+                                            </figure>
+                                        </div>
+                                    </div>
+                                </div>
+                                  {/* Image 9 */}
+                                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                                    <div className="tl-9-blog">
+                                        <div className="tl-9-event-img">
+                                            <figure>
+                                                <img
+                                                    src="assets/images/photo-gallery/academics/Internationalisation/9.jpeg"
+                                                    alt="Campus Life at INTI University Malaysia"
+                                                />
+                                            </figure>
+                                        </div>
+                                    </div>
+                                </div>
+                                  {/* Image 10 */}
+                                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                                    <div className="tl-9-blog">
+                                        <div className="tl-9-event-img">
+                                            <figure>
+                                                <img
+                                                    src="assets/images/photo-gallery/academics/Internationalisation/10.jpeg"
+                                                    alt="Campus Life at INTI University Malaysia"
+                                                />
+                                            </figure>
+                                        </div>
+                                    </div>
+                                </div>
+                                  {/* Image 11 */}
+                                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                                    <div className="tl-9-blog">
+                                        <div className="tl-9-event-img">
+                                            <figure>
+                                                <img
+                                                    src="assets/images/photo-gallery/academics/Internationalisation/11.jpeg"
+                                                    alt="Campus Life at INTI University Malaysia"
+                                                />
+                                            </figure>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                {/* Content */}
+                                <div className="col-lg-12">
+                                    <div className="tl-event-details-key-content">
+                                        <p className="dark-mode-white-color">
+                                            Sanjay Ghodawat University (SGU) is recognized for its academic excellence,
+                                            industry-focused education, and strong graduate employability. In line with its
+                                            commitment to Global Learning, International Collaboration, Global Internships
+                                            with Academic Enhancement, Professional Development and Employability, and
+                                            Cultural Immersion, SGU offers the <strong>Semester Exchange Program (SEP)</strong>.
+                                            <br /><br />
+                                            Through the Semester Abroad Program, SGU students study at reputed partner
+                                            universities overseas for one semester, undertaking approved courses and/or
+                                            major projects aligned with their academic program.
+                                            <br /><br />
+                                            Credits earned at the host university are transferred to SGU through an approved
+                                            credit-transfer and conversion process and are counted toward degree requirements.
+                                            Upon completion of the semester abroad, students return to SGU enriched with
+                                            valuable global learning experience.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+                    <div className="tl-11-section-heading mt-30">
                             <h2 className="tl-11-section-title">Singapore-Malaysia Immersion Program 2024</h2>
                         </div>
                         <div className="row g-3 g-lg-4">

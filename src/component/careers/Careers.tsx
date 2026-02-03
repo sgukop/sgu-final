@@ -10,9 +10,9 @@ const Careers = () => {
                 <div className="col-md-12">
                     <div className="tl-event-details-left">
                         <div className="tl-event-details-key-content tl-event-details-area rounded-lg mb-8 shadow-[2px_2px_0_3px_rgba(242,97,34,0.8)]">
-                            <h3 className="tl-event-details-area-title mb-10 text-[#4f70b6]">Current Recruitment 2025</h3>
+                            <h3 className="tl-event-details-area-title mb-10 text-[#4f70b6]">Current Recruitment 2026</h3>
                             <div className="col-lg-12 col-md-12 col-xxs-12">
-                               <h6>Share your CV on <strong>recruitment@sanjayghodawatuniversity.ac.in</strong></h6>
+                               <h6>Share your CV on <strong>recruitment@sguk.ac.in</strong></h6>
                             </div>
                         </div>
                     </div>
