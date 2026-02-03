@@ -140,202 +140,213 @@ const InternationalizationSGU = () => {
                         </div>
                     </div>
 
-                    <div className="col-lg-6">
-                       <div className="">
-                            <div className="tl-event-details-key-content">
-                            <ul className="tl-event-details-key-content-list phd-container">
-                                <h6 className="dark-mode-whitw-color text-[#4f70b6]" style={{fontWeight:"bold"}}>A Co-Created Postgraduate Programme with Teesside University, UK</h6>
-                                <li>Semester Abroad with Teesside University, UK, or any other partner Indian Institute.</li>
-                                <li>Internship Opportunity with government organizations and NGOs involved in resilience planning and disaster management.</li>
-                            </ul>
+                  <div className="col-lg-6">
+                            <div>
+                                <div className="tl-event-details-key-content">
+                                <ul className="tl-event-details-key-content-list phd-container">
+                                    <h6
+                                    className="dark-mode-whitw-color text-[#4f70b6]"
+                                    style={{ fontWeight: "bold" }}
+                                    >
+                                    A Co-Created Postgraduate Programme with Teesside University, UK
+                                    </h6>
+                                    <li>
+                                    Semester Abroad with Teesside University, UK, or any other partner Indian Institute.
+                                    </li>
+                                    <li>
+                                    Internship Opportunity with government organizations and NGOs involved in resilience planning and disaster management.
+                                    </li>
+                                </ul>
 
-                            <p className="dark-mode-white-color mt-20">SGU has undertaken Student Mobility to the next stage. Our pilot batch of four students visited Teesside university, UK successfully and we hosted students from Teesside University, UK. In addition to this Teesside University, Associate Dean Dr. Rob Burton from the School of Arts & Creative Industries visited our campus twice this year to initiate articulation in Design. Dr. Simon Linch, Dean of Internationalisation visited SGU and working closely with faculty toward M.S. Disaster Management course development.<br/><br/>$ students from Teesside University UK came to the University campus and stayed here for a month.SGU hosted them and helped them in their disaster management projects.They have given first hand knowledge on the disaster management initiative.
-                            </p>
+                                <p
+                                    className="dark-mode-white-color mt-20"
+                                    style={{ textAlign: "justify" }}
+                                >
+                                    SGU has undertaken Student Mobility to the next stage. Our pilot batch of
+                                    four students visited Teesside University, UK successfully and we hosted
+                                    students from Teesside University, UK. In addition to this, Teesside
+                                    University Associate Dean Dr. Rob Burton from the School of Arts & Creative
+                                    Industries visited our campus twice this year to initiate articulation in
+                                    Design. Dr. Simon Linch, Dean of Internationalisation, visited SGU and is
+                                    working closely with faculty toward M.S. Disaster Management course
+                                    development.
+                                    <br /><br />
+                                    Students from Teesside University, UK came to the university campus and
+                                    stayed here for a month. SGU hosted them and supported their disaster
+                                    management projects, providing first-hand knowledge on disaster
+                                    management initiatives.
+                                </p>
+                                </div>
                             </div>
-                        </div>
+                            </div>
+
+                </div>
+                <div className="tl-11-section-heading mt-50 mb-50">
+    <h2 className="tl-11-section-title">
+        Semester Exchange Program (SEP) – SGU @ INTI University, Malaysia
+    </h2>
+</div>
+
+<div className="row g-4 align-items-center">
+    {/* Left: Image Slider */}
+    <div className="col-lg-6">
+        <div className="tl-7-about-campus-cards">
+            <Slider
+                className="tl-7-about-info-cards-col tl-7-about-info-cards-col-1 reverse-slider"
+                {...settings}
+            >
+                <div className="slider-item" style={{ marginBottom: "10px" }}>
+                    <div className="tl-7-about-info-card">
+                        <img
+                            src="assets/images/photo-gallery/academics/Internationalisation/1.jpeg"
+                            alt="INTI University Malaysia"
+                        />
                     </div>
                 </div>
+
+                <div className="slider-item">
+                    <div className="tl-7-about-info-card">
+                        <img
+                            src="assets/images/photo-gallery/academics/Internationalisation/2.jpeg"
+                            alt="INTI University Malaysia"
+                        />
+                    </div>
+                </div>
+
+                <div className="slider-item">
+                    <div className="tl-7-about-info-card">
+                        <img
+                            src="assets/images/photo-gallery/academics/Internationalisation/3.jpeg"
+                            alt="INTI University Malaysia"
+                        />
+                    </div>
+                </div>
+                <div className="slider-item">
+                    <div className="tl-7-about-info-card">
+                        <img
+                            src="assets/images/photo-gallery/academics/Internationalisation/4.jpeg"
+                            alt="INTI University Malaysia"
+                        />
+                    </div>
+                </div>
+                <div className="slider-item">
+                    <div className="tl-7-about-info-card">
+                        <img
+                            src="assets/images/photo-gallery/academics/Internationalisation/5.jpeg"
+                            alt="INTI University Malaysia"
+                        />
+                    </div>
+                </div>
+                <div className="slider-item">
+                    <div className="tl-7-about-info-card">
+                        <img
+                            src="assets/images/photo-gallery/academics/Internationalisation/6.jpeg"
+                            alt="INTI University Malaysia"
+                        />
+                    </div>
+                </div>
+                <div className="slider-item">
+                    <div className="tl-7-about-info-card">
+                        <img
+                            src="assets/images/photo-gallery/academics/Internationalisation/7.jpeg"
+                            alt="INTI University Malaysia"
+                        />
+                    </div>
+                </div>
+                <div className="slider-item">
+                    <div className="tl-7-about-info-card">
+                        <img
+                            src="assets/images/photo-gallery/academics/Internationalisation/8.jpeg"
+                            alt="INTI University Malaysia"
+                        />
+                    </div>
+                </div>
+                <div className="slider-item">
+                    <div className="tl-7-about-info-card">
+                        <img
+                            src="assets/images/photo-gallery/academics/Internationalisation/9.jpeg"
+                            alt="INTI University Malaysia"
+                        />
+                    </div>
+                </div>
+                <div className="slider-item">
+                    <div className="tl-7-about-info-card">
+                        <img
+                            src="assets/images/photo-gallery/academics/Internationalisation/10.jpeg"
+                            alt="INTI University Malaysia"
+                        />
+                    </div>
+                </div>
+                <div className="slider-item">
+                    <div className="tl-7-about-info-card">
+                        <img
+                            src="assets/images/photo-gallery/academics/Internationalisation/11.jpeg"
+                            alt="INTI University Malaysia"
+                        />
+                    </div>
+                </div>
+
+            </Slider>
+        </div>
+    </div>
+
+    {/* Right: Content */}
+    <div className="col-lg-6">
+        <div className="tl-event-details-key-content">
+            <ul className="tl-event-details-key-content-list phd-container">
+                <h6
+                    className="dark-mode-whitw-color text-[#4f70b6]"
+                    style={{ fontWeight: "bold" }}
+                >
+                    Global Learning through SGU–INTI Academic Collaboration
+                </h6>
+
+                <li>
+                    One-semester study opportunity at INTI University, Malaysia.
+                </li>
+                <li>
+                    Approved courses and/or major project aligned with the student’s
+                    academic program.
+                </li>
+                <li>
+                    Credit transfer and conversion as per SGU regulations.
+                </li>
+                <li>
+                    Exposure to international academics, culture, and global best practices.
+                </li>
+            </ul>
+
+                            <p
+                            className="dark-mode-white-color mt-20"
+                            style={{ textAlign: "justify" }}
+                            >
+                            Sanjay Ghodawat University (SGU) is committed to global learning,
+                            international collaboration, and enhancing student employability.
+                            As part of this vision, SGU offers the Semester Exchange Program (SEP)
+                            in collaboration with INTI University, Malaysia.
+                            <br /><br />
+                            Through this program, students gain meaningful international academic
+                            exposure by studying abroad for one semester at a reputed partner
+                            university. During the exchange, students undertake approved coursework
+                            or a major project aligned with their degree program.
+                            <br /><br />
+                            Credits earned at the host university are transferred to SGU through
+                            an approved credit-transfer process and counted toward degree
+                            requirements. After completing the semester abroad, students return
+                            to SGU to continue their studies and graduate with a valuable global
+                            learning experience.
+                            </p>
+
+        </div>
+    </div>
+</div>
+
             </div>
             <div className="container-fluid">
                 <div className="container">
                     <h2 className="tl-9-section-title pt-100 pb-50 py-4 rounded-tl-[40px] rounded-br-[40px] w-fit px-8 bg-[#4f70b6] font-bold text-white mx-auto mb-50 mt-50">Various Initiative /Activity</h2>
 
-                            <div className="tl-11-section-heading mt-30">
-                                <h2 className="tl-11-section-title">
-                                    Semester Exchange Program (SEP) – SGU @ INTI University, Malaysia
-                                </h2>
-                            </div>
-
-                            <div className="row g-3 g-lg-4">
-                                {/* Image 1 */}
-                                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
-                                    <div className="tl-9-blog">
-                                        <div className="tl-9-event-img">
-                                            <figure>
-                                                <img
-                                                    src="assets/images/photo-gallery/academics/Internationalisation/1.jpeg"
-                                                    alt="Semester Exchange Program at INTI University Malaysia"
-                                                />
-                                            </figure>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                {/* Image 2 */}
-                                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
-                                    <div className="tl-9-blog">
-                                        <div className="tl-9-event-img">
-                                            <figure>
-                                                <img
-                                                    src="assets/images/photo-gallery/academics/Internationalisation/2.jpeg"
-                                                    alt="SGU Students at INTI University Malaysia"
-                                                />
-                                            </figure>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                {/* Image 3 */}
-                                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
-                                    <div className="tl-9-blog">
-                                        <div className="tl-9-event-img">
-                                            <figure>
-                                                <img
-                                                    src="assets/images/photo-gallery/academics/Internationalisation/3.jpeg"
-                                                    alt="Campus Life at INTI University Malaysia"
-                                                />
-                                            </figure>
-                                        </div>
-                                    </div>
-                                </div>
-                                  {/* Image 4 */}
-                                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
-                                    <div className="tl-9-blog">
-                                        <div className="tl-9-event-img">
-                                            <figure>
-                                                <img
-                                                    src="assets/images/photo-gallery/academics/Internationalisation/4.jpeg"
-                                                    alt="Campus Life at INTI University Malaysia"
-                                                />
-                                            </figure>
-                                        </div>
-                                    </div>
-                                </div>
-                                  {/* Image 5 */}
-                                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
-                                    <div className="tl-9-blog">
-                                        <div className="tl-9-event-img">
-                                            <figure>
-                                                <img
-                                                    src="assets/images/photo-gallery/academics/Internationalisation/5.jpeg"
-                                                    alt="Campus Life at INTI University Malaysia"
-                                                />
-                                            </figure>
-                                        </div>
-                                    </div>
-                                </div>
-                                  {/* Image 6 */}
-                                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
-                                    <div className="tl-9-blog">
-                                        <div className="tl-9-event-img">
-                                            <figure>
-                                                <img
-                                                    src="assets/images/photo-gallery/academics/Internationalisation/6.jpeg"
-                                                    alt="Campus Life at INTI University Malaysia"
-                                                />
-                                            </figure>
-                                        </div>
-                                    </div>
-                                </div>
-                                  {/* Image 7 */}
-                                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
-                                    <div className="tl-9-blog">
-                                        <div className="tl-9-event-img">
-                                            <figure>
-                                                <img
-                                                    src="assets/images/photo-gallery/academics/Internationalisation/7.jpeg"
-                                                    alt="Campus Life at INTI University Malaysia"
-                                                />
-                                            </figure>
-                                        </div>
-                                    </div>
-                                </div>
-                                  {/* Image 8 */}
-                                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
-                                    <div className="tl-9-blog">
-                                        <div className="tl-9-event-img">
-                                            <figure>
-                                                <img
-                                                    src="assets/images/photo-gallery/academics/Internationalisation/8.jpeg"
-                                                    alt="Campus Life at INTI University Malaysia"
-                                                />
-                                            </figure>
-                                        </div>
-                                    </div>
-                                </div>
-                                  {/* Image 9 */}
-                                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
-                                    <div className="tl-9-blog">
-                                        <div className="tl-9-event-img">
-                                            <figure>
-                                                <img
-                                                    src="assets/images/photo-gallery/academics/Internationalisation/9.jpeg"
-                                                    alt="Campus Life at INTI University Malaysia"
-                                                />
-                                            </figure>
-                                        </div>
-                                    </div>
-                                </div>
-                                  {/* Image 10 */}
-                                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
-                                    <div className="tl-9-blog">
-                                        <div className="tl-9-event-img">
-                                            <figure>
-                                                <img
-                                                    src="assets/images/photo-gallery/academics/Internationalisation/10.jpeg"
-                                                    alt="Campus Life at INTI University Malaysia"
-                                                />
-                                            </figure>
-                                        </div>
-                                    </div>
-                                </div>
-                                  {/* Image 11 */}
-                                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
-                                    <div className="tl-9-blog">
-                                        <div className="tl-9-event-img">
-                                            <figure>
-                                                <img
-                                                    src="assets/images/photo-gallery/academics/Internationalisation/11.jpeg"
-                                                    alt="Campus Life at INTI University Malaysia"
-                                                />
-                                            </figure>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                {/* Content */}
-                                <div className="col-lg-12">
-                                    <div className="tl-event-details-key-content">
-                                        <p className="dark-mode-white-color">
-                                            Sanjay Ghodawat University (SGU) is recognized for its academic excellence,
-                                            industry-focused education, and strong graduate employability. In line with its
-                                            commitment to Global Learning, International Collaboration, Global Internships
-                                            with Academic Enhancement, Professional Development and Employability, and
-                                            Cultural Immersion, SGU offers the <strong>Semester Exchange Program (SEP)</strong>.
-                                            <br /><br />
-                                            Through the Semester Abroad Program, SGU students study at reputed partner
-                                            universities overseas for one semester, undertaking approved courses and/or
-                                            major projects aligned with their academic program.
-                                            <br /><br />
-                                            Credits earned at the host university are transferred to SGU through an approved
-                                            credit-transfer and conversion process and are counted toward degree requirements.
-                                            Upon completion of the semester abroad, students return to SGU enriched with
-                                            valuable global learning experience.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
+                            
                     <div className="tl-11-section-heading mt-30">
                             <h2 className="tl-11-section-title">Singapore-Malaysia Immersion Program 2024</h2>
                         </div>
