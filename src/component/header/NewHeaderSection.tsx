@@ -376,7 +376,7 @@ const NewHeaderSection = () => {
         
         
         <sup><img src="assets/images/new-icon-image.gif"/></sup>
-        <a href="https://www.sguk.ac.in/scistar2026" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Sanjay Ghodawat University is pleased to announce Sci-STAR 2026 (Inspiring Innovations), a multidisciplinary science event scheduled on 31st January 2026.</a>
+        <a href="https://www.sguk.ac.in/scistar2026" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Sanjay Ghodawat University is pleased to announce Sci-STAR 2026 (Inspiring Innovations), a multidisciplinary science event scheduled on 18th Feb 2026.</a>
         
         
 
