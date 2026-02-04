@@ -11,6 +11,29 @@ const BCADeptActivities = () => {
       imgSrc: "assets/images/BCA-dept/activities/guest-lecture-orangeIT/image2.jpeg",
     },
 ]
+const OrangeITech = [
+    {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/25.jpg",
+    },
+    {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/26.jpg",
+    },
+    {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/27.jpg",
+    },
+    
+    
+]
+const PanhalaTourImages = [
+    {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/28.jpg",
+    },
+    {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/30.jpg",
+    },
+    
+    
+  ]
 const FireFlinkPvt = [
     {
       imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/1.jpg",
@@ -246,6 +269,7 @@ const parentmeet = [
         imgSrc: "assets/images/BCA-dept/activities/parent-meet/4.png",
     },
   ]
+  
 
   
   return (
@@ -282,31 +306,133 @@ const parentmeet = [
            <div className="tl-11-section-heading ">
            <h2 className="tl-11-section-title">Industrial Visits</h2>
           </div>
-             <div className="col-xl-12 col-lg-12 ">
-              <h2 className="tl-11-section-title">Fire FlinkPvt. Ltd.</h2>
+          <div className="col-xl-12 col-lg-12 ">
+            <h2 className="tl-11-section-title">Orange ITech Services Pvt. Ltd., Pune</h2>
+
+            <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+              <div className="tl-8-course-txt">
+                <h4 className="achievements-title leading-relaxed text-[16px]">
+                  • Industry Type: IT Consulting and Software Development Services<br/>
+                  • Focus Area: Software development, cloud integration, digital transformation, and enterprise solutions.<br/>
+                  • Guidance to Students: Explained real-time implementation of SDLC, demonstrated live projects, and introduced modern frameworks and deployment practices.<br/>
+                  • Benefit to Students: Gained practical exposure to industry workflows, understood client communication, project management tools, and explored career paths in software development.
+                </h4>
+              </div>
+            </div>
+          </div>
+
+          <div className="row tl-7-classes-row mt-10">
+            {OrangeITech.map((activityItem, index) => (
+              <div className="col-lg-4 col-sm-6 rounded-[20px] mb-20" key={index}>
+                <div className="tl-7-class">
+                  <div className="tl-7-class-img">
+                    <img src={activityItem.imgSrc} alt="Industry Visit Images" />
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+
+
+  <div className="col-xl-12 col-lg-12">
+  <h2 className="tl-11-section-title">
+    Educational Tour Report – Panhala Fort
+  </h2>
+
   <div className="tl-8-course flex flex-col rounded-[20px] h-full">
     <div className="tl-8-course-txt">
       <h4 className="achievements-title leading-relaxed text-[16px]">
-        • Industry Type: Software Testing and QA Services<br/>
-        • Focus Area: End-to-end testing solutions, automation frameworks, quality assurance strategies, functional, performance, and security testing.<br/>
-        • Guidance to Students: Demonstrated real-time testing processes and automation tools; explained challenges in enterprise-level testing and AI-based approaches.<br/>
-        • Benefit to Students: Understood the importance of QA in software development and explored career opportunities, advanced testing domains, and professional practices.
+        • Date of Tour: 26 July 2025 <br />
+        • Organized By: Department of Computer Applications <br />
+        • Accompanied By: Mr. Balasaheb Chavan & Mrs. Usha Bubane <br />
+        • Participants: FYMCA (18), FYBCA (36), TYBCA Volunteers (10), Staff (10) <br />
+        • Destination: Panhala Fort, Kolhapur <br />
+        • Theme: Learning Beyond the Classroom
       </h4>
     </div>
   </div>
+</div>
+
+<div className="col-xl-12 col-lg-12 mt-8">
+  <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+    <div className="tl-8-course-txt">
+      <h4 className="achievements-title leading-relaxed text-[16px]">
+        <strong>Purpose of the Tour:</strong><br />
+        The educational tour aimed to enhance academic learning through real-world exposure.
+        By visiting Panhala Fort, students explored historical, cultural, and environmental
+        aspects, encouraging curiosity, teamwork, and critical thinking.
+      </h4>
+    </div>
+  </div>
+</div>
+
+<div className="col-xl-12 col-lg-12 mt-8">
+  <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+    <div className="tl-8-course-txt">
+      <h4 className="achievements-title leading-relaxed text-[16px]">
+        <strong>Highlights & Educational Impact:</strong><br />
+        • Explored 11th-century fort architecture and historical significance <br />
+        • Interactive sessions with guides and experts <br />
+        • Improved observation, analytical, and teamwork skills <br />
+        • Inspired awareness toward heritage conservation <br />
+        • Encouraged collaborative and experiential learning
+      </h4>
+    </div>
+  </div>
+</div>
+
+<div className="col-xl-12 col-lg-12 mt-8">
+  <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+    <div className="tl-8-course-txt">
+      <h4 className="achievements-title leading-relaxed text-[16px]">
+        <strong>Student Reflections:</strong><br />
+        “Seeing the fort in person made me realize how much history is hidden in plain sight.”  
+        – Ms. Diya More (FYMCA) <br /><br />
+        “I loved the group activities—it made learning fun and memorable.”  
+        – Ms. Pratiksha Patil (FYMCA)
+      </h4>
+    </div>
+  </div>
+</div>
+
+<div className="row tl-7-classes-row mt-10">
+  {PanhalaTourImages.map((item, index) => (
+    <div className="col-lg-4 col-sm-6 rounded-[20px] mb-20" key={index}>
+      <div className="tl-7-class">
+        <div className="tl-7-class-img">
+          <img src={item.imgSrc} alt="Panhala Fort Tour" />
+        </div>
+      </div>
+    </div>
+  ))}
+</div>
+
+
+                    <div className="col-xl-12 col-lg-12 ">
+                      <h2 className="tl-11-section-title">Fire FlinkPvt. Ltd.</h2>
+          <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+            <div className="tl-8-course-txt">
+              <h4 className="achievements-title leading-relaxed text-[16px]">
+                • Industry Type: Software Testing and QA Services<br/>
+                • Focus Area: End-to-end testing solutions, automation frameworks, quality assurance strategies, functional, performance, and security testing.<br/>
+                • Guidance to Students: Demonstrated real-time testing processes and automation tools; explained challenges in enterprise-level testing and AI-based approaches.<br/>
+                • Benefit to Students: Understood the importance of QA in software development and explored career opportunities, advanced testing domains, and professional practices.
+              </h4>
             </div>
-             <div className="row tl-7-classes-row mt-10">
-               {FireFlinkPvt.map((activityItems1, index) => (
-               <div className="col-lg-4 col-sm-6 rounded-[20px] mb-20" key={index}>
-                 <div className="tl-7-class">
-                   <div className="tl-7-class-img">
-                  <img src={activityItems1.imgSrc} alt="Activities Images" />
-                </div>
-                </div>
-              </div>
-              
-                   ))}
-             </div>
+          </div>
+                    </div>
+                    <div className="row tl-7-classes-row mt-10">
+                      {FireFlinkPvt.map((activityItems1, index) => (
+                      <div className="col-lg-4 col-sm-6 rounded-[20px] mb-20" key={index}>
+                        <div className="tl-7-class">
+                          <div className="tl-7-class-img">
+                          <img src={activityItems1.imgSrc} alt="Activities Images" />
+                        </div>
+                        </div>
+                      </div>
+                      
+                          ))}
+                    </div>
              
              <div className="col-xl-12 col-lg-12 ">
               <h2 className="tl-11-section-title">Test Yantra Software Solutions Pvt. Ltd.</h2>
