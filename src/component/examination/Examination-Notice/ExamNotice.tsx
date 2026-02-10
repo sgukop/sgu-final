@@ -23,6 +23,16 @@ function ExamNotice() {
               </thead>
               <tbody>
                 <tr>
+                  <td><p>10-02-2026</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/698ac651496356092bc6447d" rel="noopener noreferrer" target="_blank" className="table-link">All Final Year B.Tech & B.Pharmacy and Third Year B.Pharmacy students<i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
+                <tr>
+                  <td><p>10-02-2026</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/698ac661496356092bc64482" rel="noopener noreferrer" target="_blank" className="table-link">All First, Second, and Third Year students under NEP Curriculum (except Third Year B.Pharmacy)<i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
+                 {/*<tr>
                   <td><p>26-11-2025</p></td>
                   <td><a href="https://manage-api.sguk.ac.in/api/assets/6926e1c1160c943cf4224c2f" rel="noopener noreferrer" target="_blank" className="table-link">MOOC Exam Time Table<i className="fa-regular fa-arrow-right"></i></a></td>
                   <td><p>NOTICE</p></td>
@@ -340,7 +350,7 @@ function ExamNotice() {
                   <td><p>25-03-2024</p></td>
                   <td><a href="https://manage-api.sguk.ac.in/api/assets/675a789e9173bf9f471ac505" rel="noopener noreferrer" target="_blank" className="table-link">Exam Form D.Pharmacy <i className="fa-regular fa-arrow-right"></i></a></td>
                   <td><p>NOTICE</p></td>
-                </tr>
+                </tr> */}
 
                
               </tbody>
