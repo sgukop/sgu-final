@@ -106,6 +106,7 @@ const ComputerActivitiesAchievements = () => {
                                     </div>
                                 </div>
                             </div>
+                            
                         </div>
                     </div>
                 </div>

@@ -225,6 +225,27 @@ const ComputerDeptNewEvents = () => {
             imgSrc: "assets/images/computer-science-engineering/activities/industrial-visit/image3.png",
         },
     ]
+    const Seminars = [
+        {
+          imgSrc: "assets/images/computer-science-engineering/activities/Seminars/1.jpeg",
+        },
+        {
+          imgSrc: "assets/images/computer-science-engineering/activities/Seminars/2.jpeg",
+        },
+        {
+          imgSrc: "assets/images/computer-science-engineering/activities/Seminars/3.jpeg",
+        },
+        {
+          imgSrc: "assets/images/computer-science-engineering/activities/Seminars/4.jpeg",
+        },
+        {
+          imgSrc: "assets/images/computer-science-engineering/activities/Seminars/5.jpeg",
+        },
+        {
+          imgSrc: "assets/images/computer-science-engineering/activities/Seminars/6.jpeg",
+        },
+        
+    ]
 
     const sports = [
         {
@@ -421,7 +442,22 @@ const ComputerDeptNewEvents = () => {
               </div>
             </div>
           ))}
-        </div>    
+        </div> 
+           <div className="tl-11-section-heading mt-50">
+            <h2 className="tl-11-section-title">Seminars and Workshops</h2>
+        </div>
+        <div className="row tl-7-classes-row">
+         {Seminars.map((activityItems1, index) => (
+            <div className="col-lg-4 col-sm-6 rounded-[20px]" key={index}>
+              <div className="tl-7-class">
+                <div className="tl-7-class-img">
+                  <img src={activityItems1.imgSrc} alt="Activities Images" />
+                </div>
+                
+              </div>
+            </div>
+          ))}
+        </div>     
 
         <div className="tl-11-section-heading mt-50">
             <h2 className="tl-11-section-title">Student & Faculty Achievements</h2>
