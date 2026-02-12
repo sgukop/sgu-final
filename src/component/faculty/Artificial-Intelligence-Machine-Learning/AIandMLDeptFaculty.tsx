@@ -23,12 +23,25 @@ const AIandMLDeptFaculty = () => {
                 <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
+                                <img src="/assets/images/faculty-profile-photos/male.jpg" alt="Faculty Image"/>
+                            </div>
+
+                            <div className="tl-1-course-txt">
+                                <h4 className="tl-1-course-title-new mt-30">Dr.Santaji Shinde</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">HOD & Professor</p>
+                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                            </div>
+                        </div>
+                    </div> 
+                <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                        <div className="tl-1-course-new">
+                            <div className="tl-1-course-img-new">
                                 <img src="/assets/images/faculty-profile-photos/AIML/Priyanka More.jpeg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
                                 <h4 className="tl-1-course-title-new mt-30">Dr.Priyanka Shivaprasad More</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">I/C HOD & Associate Professor</p>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Associate Professor</p>
                                 <Link href="https://manage-api.sguk.ac.in/api/assets/693688988fa776d15fbf5e34" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
                         </div>
