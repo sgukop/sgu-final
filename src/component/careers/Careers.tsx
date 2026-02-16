@@ -17,23 +17,29 @@ const Careers = () => {
                             <h3 className="tl-event-details-area-title mb-10 text-[#4f70b6]">
                                 Current Openings 2026
                             </h3>
-
                             
+
+                            <div className="col-lg-12 col-md-12 col-xxs-12 mb-4">
+                               
+                            </div>
                                   <ul className="tl-event-details-key-content-list phd-admission-process">
                                     
 
-                                    <li><a rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69930ddcf91aec97f54fb8d3">Advertisement <i className="fa-regular fa-arrow-right-long"></i></a></li>
+                                    <li><a rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69930ddcf91aec97f54fb8d3">Advertisement for the post of CoE, Dean FoCM <i className="fa-regular fa-arrow-right-long"></i></a></li>
 
                                     <li><a rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdwtWHaW1c0gpz0A72BZsufSluZQ-u4gYWnE89AuN8ajlsxIg/viewform?usp=publish-editor">Click Here to Apply<i className="fa-regular fa-arrow-right-long"></i></a></li>
                                 </ul>
+                                 <h3 className="tl-event-details-area-title mb-10 text-[#4f70b6]">
+                                
+                            </h3>
+                            
 
-
-
-                                <div className="col-lg-12 col-md-12 col-xxs-12 mb-4">
+                            <div className="col-lg-12 col-md-12 col-xxs-12 mb-4">
                                 <h6>
                                     Share your CV on <strong>recruitment@sguk.ac.in</strong>
                                 </h6>
                             </div>
+                                
 
                                
                                 
