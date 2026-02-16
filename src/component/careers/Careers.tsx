@@ -5,15 +5,39 @@ const Careers = () => {
   return (
     <section className="tl-1-teachers pt-100 pb-100">
         <div className="container">
-            <h2 className="tl-9-section-title py-4 rounded-tl-[40px] rounded-br-[40px] w-fit px-8 bg-[#4f70b6] font-bold text-white mx-auto mb-50">Recruitment @ SGU</h2>
+            <h2 className="tl-9-section-title py-4 rounded-tl-[40px] rounded-br-[40px] w-fit px-8 bg-[#4f70b6] font-bold text-white mx-auto mb-50">
+                Recruitment @ SGU
+            </h2>
+
             <div className="row">
                 <div className="col-md-12">
                     <div className="tl-event-details-left">
                         <div className="tl-event-details-key-content tl-event-details-area rounded-lg mb-8 shadow-[2px_2px_0_3px_rgba(242,97,34,0.8)]">
-                            <h3 className="tl-event-details-area-title mb-10 text-[#4f70b6]">Current Recruitment 2026</h3>
-                            <div className="col-lg-12 col-md-12 col-xxs-12">
-                               <h6>Share your CV on <strong>recruitment@sguk.ac.in</strong></h6>
+                            
+                            <h3 className="tl-event-details-area-title mb-10 text-[#4f70b6]">
+                                Current Recruitment 2026
+                            </h3>
+
+                            <div className="col-lg-12 col-md-12 col-xxs-12 mb-4">
+                                <h6>
+                                    Share your CV on <strong>recruitment@sguk.ac.in</strong>
+                                </h6>
                             </div>
+
+                            {/* PDF Links */}
+                            <div className="flex flex-col gap-4 mt-4">
+                                
+                                <a 
+                                    href="https://manage-api.sguk.ac.in/api/assets/69930a88b5ed71785ec55443" 
+                                    target="_blank" 
+                                    rel="noopener noreferrer"
+                                    className="bg-[#4f70b6] text-white px-6 py-3 rounded-lg w-fit hover:bg-[#3d5c96] transition"
+                                >
+                                   RECRUITMENTS
+                                </a>
+
+                            </div>
+
                         </div>
                     </div>
                 </div>
