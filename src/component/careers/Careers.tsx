@@ -15,21 +15,28 @@ const Careers = () => {
                         <div className="tl-event-details-key-content tl-event-details-area rounded-lg mb-8 shadow-[2px_2px_0_3px_rgba(242,97,34,0.8)]">
                             
                             <h3 className="tl-event-details-area-title mb-10 text-[#4f70b6]">
-                                Current Recruitment 2026
+                                Current Openings 2026
                             </h3>
 
-                            <div className="col-lg-12 col-md-12 col-xxs-12 mb-4">
+                            
+                                  <ul className="tl-event-details-key-content-list phd-admission-process">
+                                    
+
+                                    <li><a rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69930ddcf91aec97f54fb8d3">Advertisement <i className="fa-regular fa-arrow-right-long"></i></a></li>
+
+                                    <li><a rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdwtWHaW1c0gpz0A72BZsufSluZQ-u4gYWnE89AuN8ajlsxIg/viewform?usp=publish-editor">Click Here to Apply<i className="fa-regular fa-arrow-right-long"></i></a></li>
+                                </ul>
+
+
+
+                                <div className="col-lg-12 col-md-12 col-xxs-12 mb-4">
                                 <h6>
                                     Share your CV on <strong>recruitment@sguk.ac.in</strong>
                                 </h6>
                             </div>
-                                  <ul className="tl-event-details-key-content-list phd-admission-process">
-                                    
 
-                                    <li><a rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69930a88b5ed71785ec55443">Recruitments <i className="fa-regular fa-arrow-right-long"></i></a></li>
-
-                                    <li><a rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69930ddcf91aec97f54fb8d3">Recruitments <i className="fa-regular fa-arrow-right-long"></i></a></li>
-                                </ul>
+                               
+                                
                            
                             </div>
 
