@@ -23,26 +23,22 @@ const Careers = () => {
                                     Share your CV on <strong>recruitment@sguk.ac.in</strong>
                                 </h6>
                             </div>
+                                  <ul className="tl-event-details-key-content-list phd-admission-process">
+                                    
 
-                            {/* PDF Links */}
-                            <div className="flex flex-col gap-4 mt-4">
-                                
-                                <a 
-                                    href="https://manage-api.sguk.ac.in/api/assets/69930a88b5ed71785ec55443" 
-                                    target="_blank" 
-                                    rel="noopener noreferrer"
-                                    className="bg-[#4f70b6] text-white px-6 py-3 rounded-lg w-fit hover:bg-[#3d5c96] transition"
-                                >
-                                   RECRUITMENTS
-                                </a>
+                                    <li><a rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69930a88b5ed71785ec55443">Recruitments <i className="fa-regular fa-arrow-right-long"></i></a></li>
 
+                                    <li><a rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69930ddcf91aec97f54fb8d3">Recruitments <i className="fa-regular fa-arrow-right-long"></i></a></li>
+                                </ul>
+                           
                             </div>
 
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+        
+
     </section>
 
   )
