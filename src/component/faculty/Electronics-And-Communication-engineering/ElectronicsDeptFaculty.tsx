@@ -97,7 +97,32 @@ const ElectronicsDeptFaculty = () => {
                             </div>
                         </div>
                     </div>  
-                   
+                       <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                        <div className="tl-1-course-new">
+                            <div className="tl-1-course-img-new">
+                                <img src="/assets/images/faculty-profile-photos/e&tc/sayaliholkar.jpg" alt="Faculty Image"/>
+                            </div>
+
+                            <div className="tl-1-course-txt">
+                                <h4 className="tl-1-course-title-new mt-30">Mrs. Sayali Bhushan Holkar</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
+                                <Link href="https://manage-api.sguk.ac.in/api/assets/69942172601ecefb5ce22380" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                            </div>
+                        </div>
+                    </div>  
+                        <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                        <div className="tl-1-course-new">
+                            <div className="tl-1-course-img-new">
+                                <img src="/assets/images/faculty-profile-photos/e&tc/Surajkumar.jpeg" alt="Faculty Image"/>
+                            </div>
+
+                            <div className="tl-1-course-txt">
+                                <h4 className="tl-1-course-title-new mt-30">Mr.Surajkumar Sadashiv Ghatage</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
+                                <Link href="https://manage-api.sguk.ac.in/api/assets/69942196601ecefb5ce22385" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                            </div>
+                        </div>
+                    </div>  
                     </div>
             </div> 
             </div>
