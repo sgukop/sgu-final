@@ -25,7 +25,7 @@ const Careers = () => {
                                   <ul className="tl-event-details-key-content-list phd-admission-process">
                                     
 
-                                    <li><a rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69930ddcf91aec97f54fb8d3">Advertisement for the post of CoE, Dean FoCM <i className="fa-regular fa-arrow-right-long"></i></a></li>
+                                    <li><a rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69930ddcf91aec97f54fb8d3">Advertisement <i className="fa-regular fa-arrow-right-long"></i></a></li>
 
                                     <li><a rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdwtWHaW1c0gpz0A72BZsufSluZQ-u4gYWnE89AuN8ajlsxIg/viewform?usp=publish-editor">Click Here to Apply<i className="fa-regular fa-arrow-right-long"></i></a></li>
                                 </ul>
