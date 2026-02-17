@@ -23,6 +23,11 @@ function ExamNotice() {
               </thead>
               <tbody>
                 <tr>
+                  <td><p>17-02-2026</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/699459c7601ecefb5ce223fc" rel="noopener noreferrer" target="_blank" className="table-link">All Final Year B.Tech Revised Schedule Notice <i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
+                <tr>
                   <td><p>10-02-2026</p></td>
                   <td><a href="https://manage-api.sguk.ac.in/api/assets/698c5014496356092bc64786" rel="noopener noreferrer" target="_blank" className="table-link">All Final Year B.Tech & B.Pharmacy and Third Year B.Pharmacy students<i className="fa-regular fa-arrow-right"></i></a></td>
                   <td><p>NOTICE</p></td>
