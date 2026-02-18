@@ -22,69 +22,41 @@ const ClinicalDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/pharmacy/1. Dr. SUBHASH KUMBHAR.jpg" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Subhash Trimbakrao Kumbhar</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Director/Professor</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/67d3d6ad4f56d3a0bcfb9b5e" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div>  
-
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/pharmacy/2. Dr. JIWAN LAVANDE.jpg" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Dr. Jiwan Lavande</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Professor & HOD</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/6750024f4b17e19d8f3618d8" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div>  
-
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/pharmacy/3. Dr. VIDYARANI KHOT.jpg" alt="Faculty Image"/>
+                                <img src="/assets/images/faculty-profile-photos/Clinical/1. Dr. Vidyarani S. Khot.jpg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
                                 <h4 className="tl-1-course-title-new mt-30">Dr. Vidyarani S. Khot</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Head of Department (D. Pharm)</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/67d3d6d04f56d3a0bcfb9b65" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Associate Professor & HOD</p>
+                                <Link href="https://manage-api.sguk.ac.in/api/assets/6995ac3ebb1c2f5e993d1c15" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
                         </div>
-                    </div> 
+                    </div>  
 
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/pharmacy/4. Ms. SANGITA KUMBHAR.jpg" alt="Faculty Image"/>
+                                <img src="/assets/images/faculty-profile-photos/Clinical/2. Ms. Gayatri M. Angadi.jpeg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Mrs. Sangita Anand Kumbhar</h4>
+                                <h4 className="tl-1-course-title-new mt-30">Ms. Gayatri M. Angadi</h4>
                                 <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/675002774b17e19d8f3618e2" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                                <Link href="https://manage-api.sguk.ac.in/api/assets/6995acadbb1c2f5e993d1c29" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
                         </div>
-                    </div> 
+                    </div>  
 
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/pharmacy/5. Ms. PRANOTI MAHADEV PATIL.jpg" alt="Faculty Image"/>
+                                <img src="/assets/images/faculty-profile-photos/Clinical/3. Dr. Payal S. Khape.jpg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Ms. Pranoti Mahadev Patil</h4>
+                                <h4 className="tl-1-course-title-new mt-30">Dr. Payal S. Khape</h4>
                                 <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/67d3d6ee4f56d3a0bcfb9b6c" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                                <Link href="https://manage-api.sguk.ac.in/api/assets/6995ac6fbb1c2f5e993d1c1a" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
                         </div>
                     </div> 
@@ -92,171 +64,47 @@ const ClinicalDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/pharmacy/6. Mr. SURAJ PATIL.jpg" alt="Faculty Image"/>
+                                <img src="/assets/images/faculty-profile-photos/Clinical/4. Sangeeta  Sankpal.jpg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Mr. Suraj Kumar Patil</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor TPO Incharge</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/675002a34b17e19d8f3618ec" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                                <h4 className="tl-1-course-title-new mt-30">Ms.Sangeeta  Sankpal</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
+                                <Link href="https://manage-api.sguk.ac.in/api/assets/6995ac99bb1c2f5e993d1c24" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                            </div>
+                        </div>
+                    </div> 
+
+                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                        <div className="tl-1-course-new">
+                            <div className="tl-1-course-img-new">
+                                <img src="/assets/images/faculty-profile-photos/Clinical/5. Ms. PRANOTI M. PATIL.jpg" alt="Faculty Image"/>
+                            </div>
+
+                            <div className="tl-1-course-txt">
+                                <h4 className="tl-1-course-title-new mt-30">Ms. PRANOTI M. PATIL</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
+                                <Link href="https://manage-api.sguk.ac.in/api/assets/6995acc1bb1c2f5e993d1c2e" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                            </div>
+                        </div>
+                    </div> 
+
+                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                        <div className="tl-1-course-new">
+                            <div className="tl-1-course-img-new">
+                                <img src="/assets/images/faculty-profile-photos/Clinical/6. Mr. Irfan Sayyad.jpg" alt="Faculty Image"/>
+                            </div>
+
+                            <div className="tl-1-course-txt">
+                                <h4 className="tl-1-course-title-new mt-30">Mr. Irfan Sayyad</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
+                                <Link href="https://manage-api.sguk.ac.in/api/assets/6995ac82bb1c2f5e993d1c1f" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
                         </div>
                     </div>  
                      
 
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/pharmacy/8. Ms. ASHWINI CHAKOTE.jpg" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Mrs. Ashwini Shantiprasad Chakote</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/67d3d7ac4f56d3a0bcfb9b84" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div> 
-
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/pharmacy/9. Ms. SHIVANI SAMARTH.jpg" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Mrs. Shivani Suraj Samarth</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/675002df4b17e19d8f3618fb" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div> 
-
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/pharmacy/10. Mr. PRAFULL PATIL.jpg" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Mr. Prafull Prakash Patil</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/675002f54b17e19d8f361900" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div> 
-
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/pharmacy/11. Ms. CHAITALI SHINDE.jpg" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Mrs Chaitali Abhijeet Shinde</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/675003094b17e19d8f361905" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div>  
-
-                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/pharmacy/12. Ms. PRIYANKA NITISH DEVARSHI (1).jpg" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Mrs. Priyanka Nitish Devarshi</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/6750031d4b17e19d8f36190a" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div> 
-
-                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/pharmacy/13. Ms. MITALI BORA.jpg" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Ms. Mitali Manoj Bora</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/675003304b17e19d8f36190f" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div>  
-
-                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/pharmacy/14. Ms. SOURABH BHOSALE.jpg" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Mr. Sourabh Jagannath Bhosale</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/67d3d70c4f56d3a0bcfb9b73" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div>  
-
-                     
-
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/pharmacy/17. Mr. AVDHUT ATHNIKAR.jpg" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Mr. Avadhut Sidhgonda Athanikar</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/6750038e4b17e19d8f361923" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div> 
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/pharmacy/SUJATA KHARADE.jpg" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Mrs. Sujata Vishal Kharade</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/675003dc4b17e19d8f361937" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/pharmacy/SANGEETA SANGPAL.jpg" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Mrs. Sangeeta Sankpal</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/67d3d7684f56d3a0bcfb9b7f" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/female.jpg" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Ms. Tejaswini Anil Kothawale</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/686e161dab9e6efa3e79e30f" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
         </div>

@@ -1,5 +1,6 @@
 const NavLinks = [
     { title: "About Department",path: "/Clinical-dept-about"},
+    { title: "Faculty", path: "/Clinical-dept-faculty" },
     /*{ title: "Programs", path: "/Clinical-dept-programs" },
     { title: "Faculty", path: "/Clinical-dept-faculty" },
     { title: "Academic Infrastructure", path: "/Clinical-dept-laboratories" },
