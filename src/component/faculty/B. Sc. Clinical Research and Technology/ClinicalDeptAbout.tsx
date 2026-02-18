@@ -50,7 +50,7 @@ const ClinicalDeptAbout = () => {
                     style={{ fontWeight: "bold" }}
                   >
                     {" "}
-                     Professor Dr. Vidyarani S. Khot <br /> HOD {" "}
+                     Associate Professor Dr. Vidyarani S. Khot <br /> HOD {" "}
                   </span>
                 </div>
               </div>
