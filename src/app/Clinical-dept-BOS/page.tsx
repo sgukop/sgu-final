@@ -1,4 +1,4 @@
-import PharmacyDeptBOS from '@/component/faculty/School-of-Pharmaceutical-Sciences/PharmacyDeptBOS';
+import ClinicalDeptBOS from '@/component/faculty/B. Sc. Clinical Research and Technology/ClinicalDeptBOS';
 import BreadcrumbSection from '@/component/breadcrumb/BreadcrumbSection'
 import CtaSection4 from '@/component/cta/CtaSection4'
 import Layout5 from '@/component/layout/Layout5'
@@ -9,11 +9,11 @@ export const metadata: Metadata = {
     title: 'SGU University',
     description: 'Developed by Enark',
   }
-const PharmacyDeptBOSPage = () => {
+const ClinicalDeptBOSPage = () => {
   return (
     <Layout5>
         <BreadcrumbSection title='BOS List' style=''/>
-        <PharmacyDeptBOS />
+        <ClinicalDeptBOS />
         
        {/* <PricingSection/>
         <CtaSection4 style='tl-8-cta-inner'/> */}
@@ -21,4 +21,4 @@ const PharmacyDeptBOSPage = () => {
   )
 }
 
-export default PharmacyDeptBOSPage
+export default ClinicalDeptBOSPage

@@ -18,7 +18,7 @@ function ClinicalDeptBOS() {
         </div>
 
         <div className="row">
-          <MenuList dept="Pharmacy" subMenu={NavLinks} />
+          <MenuList dept="Clinical" subMenu={NavLinks} />
 
           <div
             data-spy="scroll"
