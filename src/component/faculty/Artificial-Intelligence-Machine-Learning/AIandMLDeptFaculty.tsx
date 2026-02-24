@@ -29,7 +29,7 @@ const AIandMLDeptFaculty = () => {
                             <div className="tl-1-course-txt">
                                 <h4 className="tl-1-course-title-new mt-30">Dr.Santaji Shinde</h4>
                                 <p className="tl-1-course-author-new dark-mode-white-color">HOD & Professor</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/699569babb1c2f5e993d1b84" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                                <Link href="https://manage-api.sguk.ac.in/api/assets/699d6c85f12ed1048ce48798" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
                         </div>
                     </div> 
