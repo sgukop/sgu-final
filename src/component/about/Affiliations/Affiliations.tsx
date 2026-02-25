@@ -16,7 +16,7 @@ const Affiliations = () => {
                     </div>
                     <div className="col-xl-3 col-lg-4 col-sm-6 col-12">
                         <div className="approved-subj-title" style={{backgroundColor:"#b6c6e9"}}>
-                            <Link href="#" rel="noopener noreferrer" target="_blank"><h5 className="text-center">Approved First Statutes- GOM -29-9-2022.</h5></Link>
+                            <Link href="https://manage-api.sguk.ac.in/api/assets/699ecd91a207c026f3765419" rel="noopener noreferrer" target="_blank"><h5 className="text-center">Approved First Statutes- GOM -29-9-2022.</h5></Link>
                         </div>
                     </div>
 
