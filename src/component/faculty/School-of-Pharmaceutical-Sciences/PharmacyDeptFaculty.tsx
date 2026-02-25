@@ -22,7 +22,7 @@ const PharmacyDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/pharmacy/1. Dr. SUBHASH KUMBHAR.JPG" alt="Faculty Image"/>
+                                <img src="/assets/images/faculty-profile-photos/pharmacy/1. Dr. SUBHASH KUMBHAR.jpg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -36,7 +36,7 @@ const PharmacyDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/pharmacy/2. Dr. JIWAN LAVANDE.JPG" alt="Faculty Image"/>
+                                <img src="/assets/images/faculty-profile-photos/pharmacy/2. Dr. JIWAN LAVANDE.jpg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -50,7 +50,7 @@ const PharmacyDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/pharmacy/3. Dr. VIDYARANI KHOT.JPG" alt="Faculty Image"/>
+                                <img src="/assets/images/faculty-profile-photos/pharmacy/3. Dr. VIDYARANI KHOT.jpg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
