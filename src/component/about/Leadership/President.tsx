@@ -26,7 +26,7 @@ const President = () => {
                     <div>
                         <a
                             rel="noopener noreferrer"
-                            href="https://manage-api.sguk.ac.in/api/assets/68e104e31ece9a1e6d0924dd"
+                            href="https://manage-api.sguk.ac.in/api/assets/69a125b3426d9c530227be09"
                             target="_blank"
                             className="tl-def-btn bg-[#4f70b6] border-none text-white font-bold"
                             style={{ borderRadius: '30px' }}
