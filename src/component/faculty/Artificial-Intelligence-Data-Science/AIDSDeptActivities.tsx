@@ -44,6 +44,11 @@ const eSports  = [
     { imgSrc: "assets/images/AIDS/activities&achievements/11.jpg" },
     { imgSrc: "assets/images/AIDS/activities&achievements/12.jpg" },
     { imgSrc: "assets/images/AIDS/activities&achievements/13.jpg" },
+  ]
+   const Teachers_day   = [
+    { imgSrc: "assets/images/AIDS/activities&achievements/21.jpeg" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/22.jpeg" },
+    { imgSrc: "assets/images/AIDS/activities&achievements/23.jpeg" },
     
     
   ]
@@ -193,10 +198,10 @@ const eSports  = [
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-txt">
                             <h4 className="achievements-title">The university successfully organized an insightful podcast session featuring Mr. Tarun
-Chaudhary, a Software Engineer at Google, who shared his journey, experiences, and
-valuable guidance with students.The session aimed to provide students with real-world
-exposure to career paths in technology and inspire them to pursue excellence in the field of
-software engineering. 
+                                Chaudhary, a Software Engineer at Google, who shared his journey, experiences, and
+                                valuable guidance with students.The session aimed to provide students with real-world
+                                exposure to career paths in technology and inspire them to pursue excellence in the field of
+                                software engineering. 
                         </h4>
                         </div>
                     </div>
@@ -204,6 +209,35 @@ software engineering.
                 </div>
             <div className="row tl-7-classes-row">
               {podcast .map((item, index) => (
+                <div className="col-lg-4 col-md-6 col-10 col-xxs-12" key={index}>
+               <div className="tl-9-blog border-2 border-blue-500 rounded-lg p-2 shadow-sm">
+                <div className="tl-9-event-img">
+                 <figure>
+                 <img src={item.imgSrc} alt="Activities & Achievements" />
+             </figure>
+             </div>
+            </div>
+
+                </div>
+              ))}
+            </div>
+                        {/* Teachers’ Day */}
+            
+            <div className="tl-11-section-heading">
+              <h2 className="tl-11-section-title">Teachers’ Day Celebration</h2>
+            </div>
+            <div className="row g-xl-4 g-3">
+                <div className="col-xl-12 col-lg-12">
+                    <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+                        <div className="tl-8-course-txt">
+                            <h4 className="achievements-title"> The Teachers’ Day Celebration was held on 05-09-2025 in the classrooms to honor and appreciate the invaluable contributions of instructors. Organized by the Program Operations and Success Coach team, the event aimed to express gratitude and strengthen student–teacher bonds. Highlights included a fun prank activity and a joint cake-cutting ceremony that created a joyful and inclusive atmosphere. The Vice Chancellor and Registrar Sir graced the occasion and delivered inspiring and motivational addresses. Overall, the celebration was memorable, fostering mutual respect, appreciation, and a sense of belonging among students and instructors. 
+                        </h4>
+                        </div>
+                    </div>
+                </div>
+                </div>
+            <div className="row tl-7-classes-row">
+              {Teachers_day.map((item, index) => (
                 <div className="col-lg-4 col-md-6 col-10 col-xxs-12" key={index}>
                <div className="tl-9-blog border-2 border-blue-500 rounded-lg p-2 shadow-sm">
                 <div className="tl-9-event-img">
