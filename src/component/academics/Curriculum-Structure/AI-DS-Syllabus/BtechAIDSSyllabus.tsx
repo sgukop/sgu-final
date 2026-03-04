@@ -19,32 +19,33 @@ const BtechAIMLSyllabus = () => {
              </tr>
 
              <tr>
-                  <td><p>Semester 2 </p></td>
-                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/694a5ed369c6a2c81e4614ee">Semester 2 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+                  <td><p>R25_Second Semester B.Tech Structure and syllabus_Computer Science and Engineering_New codes </p></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69a7d5098b58b7a708017b99">R25_Second Semester B.Tech Structure and syllabus_Computer Science and Engineering_New codes
+                   <i className="fa-regular fa-arrow-right-long"></i></Link></td>
              </tr>
              <tr>
-                  <td><p>Semester 3 </p></td>
-                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/694a5f0969c6a2c81e4614ff">Semester 3 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+                  <td><p>R25_ThirdSemester B.Tech Structure and syllabus_Computer Science and Engineering_New codes </p></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69a7d5438b58b7a708017b9e">R25_ThirdSemester B.Tech Structure and syllabus_Computer Science and Engineering_New codes <i className="fa-regular fa-arrow-right-long"></i></Link></td>
              </tr>
              <tr>
-                  <td><p>Semester 4 </p></td>
-                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/694a5ec169c6a2c81e4614e9">Semester 4 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+                  <td><p>R25_FourthSemester B.Tech Structure and syllabus_Computer Science and Engineering_New codes </p></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69a7d5788b58b7a708017ba3">R25_FourthSemester B.Tech Structure and syllabus_Computer Science and Engineering_New codes <i className="fa-regular fa-arrow-right-long"></i></Link></td>
              </tr>
              <tr>
-                  <td><p>Semester 5 </p></td>
-                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/694a5ea769c6a2c81e4614e4">Semester 5 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+                  <td><p>R25_FifthSemester B.Tech Structure and syllabus_Computer Science and Engineering_New codes </p></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69a7d5ab8b58b7a708017ba8">R25_FifthSemester B.Tech Structure and syllabus_Computer Science and Engineering_New codes <i className="fa-regular fa-arrow-right-long"></i></Link></td>
              </tr>
              <tr>
-                  <td><p>Semester 6 </p></td>
-                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/694a5ef969c6a2c81e4614f8">Semester 6 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+                  <td><p>R25_SixthSemester B.Tech Structure and syllabus_Computer Science and Engineering_New codes </p></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69a7d5d08b58b7a708017bad">R25_SixthSemester B.Tech Structure and syllabus_Computer Science and Engineering_New codes <i className="fa-regular fa-arrow-right-long"></i></Link></td>
              </tr>
              <tr>
-                  <td><p>Semester 7 </p></td>
-                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/694a5ee769c6a2c81e4614f3">Semester 7 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+                  <td><p>R25_SeventhSemester B.Tech Structure and syllabus_Computer Science and Engineering_New codes </p></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69a7d6008b58b7a708017bb2">R25_SeventhSemester B.Tech Structure and syllabus_Computer Science and Engineering_New codes <i className="fa-regular fa-arrow-right-long"></i></Link></td>
              </tr>
              <tr>
-                  <td><p>Semester 8 </p></td>
-                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/694a5f1869c6a2c81e461504">Semester 8 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+                  <td><p>SGU_eighth_sem_syllabus </p></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69a7d62c8b58b7a708017bb7">SGU_eighth_sem_syllabus<i className="fa-regular fa-arrow-right-long"></i></Link></td>
              </tr>
 
              {/* <tr>
