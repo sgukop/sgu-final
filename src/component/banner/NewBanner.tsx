@@ -28,7 +28,7 @@ const NewBanner = () => {
             <a href="/admission-open" target="_blank" className='text-center text-3xl font-semibold tracking-wide mb-2.5 uppercase mt-3'>
               Admission Enquiry
             </a>
-            <span className='w-full text-white text-center text-2xl uppercase tracking-wide'>2025 - 2026</span>
+            <span className='w-full text-white text-center text-2xl uppercase tracking-wide'>2026 - 2027</span>
           </div>
           <div className='w-[320px] xl:w-[300px] 2xl:w-[20%] p-6 bg-[#f26122] text-white rounded-tl-[140px] flex flex-col justify-center items-center rounded-br-[140px] px-8 z-30 shadow-xl transition-all ease-in hover:-translate-y-5 hover:scale-105 duration-200'>
           <div className='w-fit flex justify-center items-center'>

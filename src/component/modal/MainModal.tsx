@@ -33,7 +33,7 @@ export const MainModal = ({
           <div className="modalheader">
             <img src="assets/images/sguu-logoo.png" width="90px" />
             <h3 style={{ fontWeight: "700" }}>
-              Admission Notification 2025-26
+              Admission Notification 2026-27
             </h3>
           </div>
 
@@ -47,7 +47,7 @@ export const MainModal = ({
                       className="tl-def-btn-2"
                       href="/admission-open"
                     >
-                      Registration For Admission 2025-2026{" "}
+                      Registration For Admission 2026-2027{" "}
                       <i className="fa-regular fa-arrow-right"></i>
                     </a>
                   </span>
