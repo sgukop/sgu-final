@@ -8,7 +8,17 @@ const ExamTimeTable = () => {
             <h2 className="tl-9-section-title py-4 rounded-tl-[40px] rounded-br-[40px] w-fit px-8 bg-[#4f70b6] font-bold text-white mx-auto mb-50">Examination Time Table</h2>
               <div className="row tl-event-details-row g-0 mt-50 flex justify-between">
                 
+                
                 <div className="examination-container">
+                    <div className="row tl-event-details-row g-2">
+                        <div className="col-lg-10 mb-0">
+                        <h6 className="exam-title"> Diploma in Pharmacy Department Time table 26 </h6> 
+                        </div>
+
+                        <div className="col-lg-2">
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69b137411f1abf5b9678c71c"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                        </div>
+                    </div>
                     <div className="row tl-event-details-row g-2">
                         <div className="col-lg-10 mb-0">
                         <h6 className="exam-title">Ph.D Time table 2025-26 </h6> 
