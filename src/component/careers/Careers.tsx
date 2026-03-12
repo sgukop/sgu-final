@@ -14,7 +14,8 @@ const Careers = () => {
                     <div className="tl-event-details-left">
                         <div className="tl-event-details-key-content tl-event-details-area rounded-lg mb-8 shadow-[2px_2px_0_3px_rgba(242,97,34,0.8)]">
                             
-                            <h3 className="tl-event-details-area-title mb-10 text-[#4f70b6]">
+                            hr.sgu@sguk.ac.in
+                            {/*<h3 className="tl-event-details-area-title mb-10 text-[#4f70b6]">
                                 Current Openings 2026
                             </h3>
                             
@@ -59,7 +60,7 @@ const Careers = () => {
                                                         </a>
                                             </li>
 
-                                             </ul>
+                                             </ul>*/}
 
                             </div>
 
