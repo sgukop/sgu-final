@@ -359,8 +359,7 @@ const NewHeaderSection = () => {
 
     <Marquee speed={100} gradient={false} pauseOnHover className="flex m-2">
 
-      <sup><img src="assets/images/new-icon-image.gif"/></sup>
-      <a href="https://www.sguk.ac.in/careers" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6"> Current Openings 2026</a>
+      
       
       <sup><img src="assets/images/new-icon-image.gif"/></sup>
       <a href="https://manage-api.sguk.ac.in/api/assets/69578ac6c03a7929c6c93c73" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6"> SGU Student Selected as Top 10 Finalist in National Innovation Challenge Powered by Google Gemini</a>
@@ -368,7 +367,9 @@ const NewHeaderSection = () => {
       {/*<sup><img src="assets/images/new-icon-image.gif"/></sup>
       <a href="https://manage-api.sguk.ac.in/api/assets/693a85c55fea6e5500e4d8cb" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6"> West-Zone Tennis Championship 2026 • Sanjay Ghodawat University • Men's & Women's Tennis Tournament • 7th- 11th January 2026</a>
       <sup><img src="assets/images/new-icon-image.gif"/></sup>
-        <a href="https://www.sguk.ac.in/phd-program" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">PhD Admissions Advertisement Academic Year 2025-2026</a>*/}
+        <a href="https://www.sguk.ac.in/phd-program" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">PhD Admissions Advertisement Academic Year 2025-2026</a>
+        <sup><img src="assets/images/new-icon-image.gif"/></sup>
+      <a href="https://www.sguk.ac.in/careers" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6"> Current Openings 2026</a>*/}
         
         <sup><img src="assets/images/new-icon-image.gif"/></sup>
         <a href="https://manage-api.sguk.ac.in/api/assets/6867a31fb513ac737c09b117" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Achievements of SWAYAM - NPTEL SGU Local Chapter Jan-May 2025 </a>
