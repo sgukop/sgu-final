@@ -369,7 +369,10 @@ const NewHeaderSection = () => {
       <sup><img src="assets/images/new-icon-image.gif"/></sup>
         <a href="https://www.sguk.ac.in/phd-program" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">PhD Admissions Advertisement Academic Year 2025-2026</a>
         <sup><img src="assets/images/new-icon-image.gif"/></sup>
-      <a href="https://www.sguk.ac.in/careers" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6"> Current Openings 2026</a>*/}
+      <a href="https://www.sguk.ac.in/careers" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6"> Current Openings 2026</a>
+      <sup><img src="assets/images/new-icon-image.gif"/></sup>
+        <a href="https://www.sguk.ac.in/scistar2026" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Sanjay Ghodawat University is pleased to announce Sci-STAR 2026 (Inspiring Innovations), a multidisciplinary science event scheduled on 18th Feb 2026.</a>
+        */}
         
         <sup><img src="assets/images/new-icon-image.gif"/></sup>
         <a href="https://manage-api.sguk.ac.in/api/assets/6867a31fb513ac737c09b117" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Achievements of SWAYAM - NPTEL SGU Local Chapter Jan-May 2025 </a>
@@ -381,8 +384,6 @@ const NewHeaderSection = () => {
         <a href="https://manage-api.sguk.ac.in/api/assets/68e617dfa28d22ca95ef782c" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Admission Cut off date for the academic year 2025-26. </a>
         
         
-        <sup><img src="assets/images/new-icon-image.gif"/></sup>
-        <a href="https://www.sguk.ac.in/scistar2026" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Sanjay Ghodawat University is pleased to announce Sci-STAR 2026 (Inspiring Innovations), a multidisciplinary science event scheduled on 18th Feb 2026.</a>
         
         
 
