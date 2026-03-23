@@ -19,9 +19,14 @@ function ExamNotice() {
                   <th><p className="text-[#4f70b6]">Date</p></th>
                   <th><p className="text-[#4f70b6]">Particulrs</p></th>
                   <th><p className="text-[#4f70b6]">Type</p></th>
-                </tr>
+                </tr>                              
               </thead>
               <tbody>
+                <tr>
+                  <td><p>17-03-2026</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/69c0f704eb0b0a6998c15b35" rel="noopener noreferrer" target="_blank" className="table-link">NEP Backlog Exam Form <i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
                 <tr>
                   <td><p>17-02-2026</p></td>
                   <td><a href="https://manage-api.sguk.ac.in/api/assets/699459c7601ecefb5ce223fc" rel="noopener noreferrer" target="_blank" className="table-link">All Final Year B.Tech Revised Schedule Notice <i className="fa-regular fa-arrow-right"></i></a></td>
