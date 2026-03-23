@@ -1,4 +1,4 @@
-import Aboutnirf from '@/component/nirf/Aboutnirf';
+import NIRFRanking2025 from '@/component/NIRF-ranking/NIRF-2025/NIRFRanking2025'
 import BreadcrumbSection from '@/component/breadcrumb/BreadcrumbSection'
 import CtaSection4 from '@/component/cta/CtaSection4'
 import Layout5 from '@/component/layout/Layout5'
@@ -9,16 +9,15 @@ export const metadata: Metadata = {
     title: 'SGU University',
     description: 'Developed by Enark',
   }
-const AboutNirfPage = () => {
+const NIRFRanking2025Page = () => {
   return (
     <Layout5>
-        <BreadcrumbSection title='National Institutional Ranking Framework' style=''/>
-        <Aboutnirf/>
-        
+        <BreadcrumbSection title='NIRF' style=''/>
+        <NIRFRanking2025 />
        {/* <PricingSection/>
         <CtaSection4 style='tl-8-cta-inner'/> */}
     </Layout5>
   )
 }
 
-export default AboutNirfPage
+export default NIRFRanking2025Page

@@ -14,7 +14,7 @@ const NIRFRanking2023 = () => {
                         </div>
 
                         <div className="col-lg-2">
-                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="#"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69c0da2aeb0b0a6998c15abb"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
                         </div>
                     </div>
                 </div>

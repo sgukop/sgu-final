@@ -22,9 +22,7 @@ const NewFooter = () => {
                         <li className='text-2xl 2xl:text-3xl font-medium text-white pb-3'>
                             <Link className="hover:text-[#F26122]" href="/library-about">Knowledge Research Center</Link>
                         </li>
-                        <li className='text-2xl 2xl:text-3xl font-medium text-white pb-3'>
-                            <Link className="hover:text-[#F26122]" href="/nirf">National Institutional Ranking Framework</Link>
-                        </li>
+
                     </ul>
                 </div>
                 <div className='w-full lg:w-[40%] 2xl:w-[45%] py-6 px-8 flex justify-between items-center gap-6 lg:gap-8 xl:gap-10 2x:gap-14 p-2'>

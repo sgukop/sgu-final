@@ -28,6 +28,9 @@ const NewHeaderSection = () => {
                     <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
                     <li className='hover:text-[#f26122]'><NavLink href="/careers">Careers</NavLink></li>
                     <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
+                    <li className='hover:text-[#f26122]'><NavLink href="/NIRF-ranking">NIRF Ranking</NavLink></li>
+                    <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
+                    
                 </ul>
                
               </div>
@@ -372,6 +375,8 @@ const NewHeaderSection = () => {
       <a href="https://www.sguk.ac.in/careers" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6"> Current Openings 2026</a>
       <sup><img src="assets/images/new-icon-image.gif"/></sup>
         <a href="https://www.sguk.ac.in/scistar2026" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Sanjay Ghodawat University is pleased to announce Sci-STAR 2026 (Inspiring Innovations), a multidisciplinary science event scheduled on 18th Feb 2026.</a>
+        <sup><img src="assets/images/new-icon-image.gif"/></sup>
+        <a href="https://manage-api.sguk.ac.in/api/assets/68e617dfa28d22ca95ef782c" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Admission Cut off date for the academic year 2025-26. </a>
         */}
         
         <sup><img src="assets/images/new-icon-image.gif"/></sup>
@@ -380,8 +385,7 @@ const NewHeaderSection = () => {
         <sup><img src="assets/images/new-icon-image.gif" /></sup>
         <a href="https://www.sguk.ac.in/our-recruiters" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64]">Training and Placement Details in Academics Year  2025-26 </a>
 
-        <sup><img src="assets/images/new-icon-image.gif"/></sup>
-        <a href="https://manage-api.sguk.ac.in/api/assets/68e617dfa28d22ca95ef782c" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Admission Cut off date for the academic year 2025-26. </a>
+        
         
         
         

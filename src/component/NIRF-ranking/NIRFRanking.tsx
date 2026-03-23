@@ -13,6 +13,18 @@ const NIRFRanking = ({sectionStyle,pageStyle,categoryStyle} : Props) => {
 
         <div className={`row ${pageStyle}-categories-row`}>
          
+              <div className="col-lg-4 col-md-4 col-6 col-xxs-12">
+              <Link href="/NIRF-2026" className={`tl-3-single-program ${categoryStyle}`}>
+                <h5 className="tl-3-single-program-title">NIRF 2026</h5>
+                <i className="fa-regular fa-arrow-right-long"></i>
+              </Link>
+            </div>
+              <div className="col-lg-4 col-md-4 col-6 col-xxs-12">
+              <Link href="/NIRF-2025" className={`tl-3-single-program ${categoryStyle}`}>
+                <h5 className="tl-3-single-program-title">NIRF 2025</h5>
+                <i className="fa-regular fa-arrow-right-long"></i>
+              </Link>
+            </div>
             <div className="col-lg-4 col-md-4 col-6 col-xxs-12">
               <Link href="/NIRF-2024" className={`tl-3-single-program ${categoryStyle}`}>
                <h5 className="tl-3-single-program-title">NIRF 2024</h5>
@@ -33,6 +45,7 @@ const NIRFRanking = ({sectionStyle,pageStyle,categoryStyle} : Props) => {
                 <i className="fa-regular fa-arrow-right-long"></i>
               </Link>
             </div>
+
         </div>
       </div>
     </section>

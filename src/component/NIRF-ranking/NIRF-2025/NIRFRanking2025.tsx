@@ -1,7 +1,7 @@
 import Link from "next/link";
 import React from "react";
 
-const NIRFRanking2024 = () => {
+const NIRFRanking2025 = () => {
    return(
     <div className="tl-event-details-container pt-100 pb-100" >
         <div className="container">
@@ -14,7 +14,7 @@ const NIRFRanking2024 = () => {
                         </div>
 
                         <div className="col-lg-2">
-                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69c0da8ceb0b0a6998c15ac0"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69c0db53eb0b0a6998c15acf"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
                         </div>
                     </div>
                 </div>
@@ -26,7 +26,7 @@ const NIRFRanking2024 = () => {
                         </div>
 
                         <div className="col-lg-2">
-                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69c0daa8eb0b0a6998c15ac5"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69c0db61eb0b0a6998c15ad4"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
                         </div>
                     </div>
                 </div>
@@ -38,7 +38,7 @@ const NIRFRanking2024 = () => {
                         </div>
 
                         <div className="col-lg-2">
-                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69c0dabbeb0b0a6998c15aca"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
+                            <h4 className="exam-download-icon"><Link rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69c0db74eb0b0a6998c15ad9"><i className="fa-regular fa-down-to-bracket"></i></Link></h4> 
                         </div>
                     </div>
                 </div>
@@ -48,4 +48,4 @@ const NIRFRanking2024 = () => {
    )
 }
 
-export default NIRFRanking2024
+export default NIRFRanking2025
