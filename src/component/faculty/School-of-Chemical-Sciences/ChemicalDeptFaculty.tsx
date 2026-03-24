@@ -27,7 +27,7 @@ const ChemicalDeptFaculty = () => {
 
                             <div className="tl-1-course-txt">
                                 <h4 className="tl-1-course-title-new mt-30">Dr. Anand Dilip Sawant</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Associate Professor in Chemistry, Director Allied Health Sciences & Associate Dean Sciences</p>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Associate Dean Sciences, Director AHS & SoPS, HOD Chemistry,Associate Professor in Chemistry </p>
                                 <Link href="https://manage-api.sguk.ac.in/api/assets/674eef3e4b17e19d8f361805" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
                         </div>
@@ -41,7 +41,7 @@ const ChemicalDeptFaculty = () => {
 
                             <div className="tl-1-course-txt">
                                 <h4 className="tl-1-course-title-new mt-30">Dr. Pallavi D. Bhange</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Associate Professor, HOD Chemistry and Director of School of Physical & Chemical Sciences</p>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Associate Professor</p>
                                 <Link href="https://manage-api.sguk.ac.in/api/assets/674eef544b17e19d8f36180a" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
                         </div>

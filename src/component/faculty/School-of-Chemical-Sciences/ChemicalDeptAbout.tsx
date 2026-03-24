@@ -26,7 +26,7 @@ const ChemicalDeptAbout = () => {
             <div className="row g-2 align-items-center">
                 <div className="col-lg-5">
                     <div className="tl-14-about-img">
-                        <img src="assets/images/chemical-sciences-dept/about-dept/hod-photo.png" alt="About Department" className="rounded-full"
+                        <img src="/assets/images/faculty-profile-photos/chemistry/1. Dr. ANAND SAWANT.jpg" alt="About Department" className="rounded-full"
                         style={{border:"10px solid #4f70b6", padding:"20px"}} />
                     </div>
                 </div>
@@ -43,7 +43,7 @@ const ChemicalDeptAbout = () => {
                     style={{ fontWeight: "bold" }}
                   >
                     {" "}
-                    Dr. Pallavi Bhange , <br /> Head, Department of Chemistry{" "}
+                   Dr. Anand Dilip Sawant , <br /> Head, Department of Chemistry{" "}
                   </span>
                     </div>
                 </div>

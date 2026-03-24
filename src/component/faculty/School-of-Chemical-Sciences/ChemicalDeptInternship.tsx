@@ -22,7 +22,7 @@ const ChemicalDeptInternship = () => {
             data-offset="0"
           >
         <div className="row gx-0 tl-blog-details-row">
-        <div className="tl-11-section-heading"><h2 className="tl-11-section-title">Internship Count</h2></div>
+        <div className="tl-11-section-heading"><h2 className="tl-11-section-title">Industry Internship Count</h2></div>
           <div className="col-lg-6">
           <Table bordered responsive className="governing-table">
                     <thead>
@@ -33,6 +33,11 @@ const ChemicalDeptInternship = () => {
                         </tr>
                     </thead>
                     <tbody>
+                            <tr>
+                                <td><p>2025-26</p></td>
+                                <td><p>PG</p></td>
+                                <td><p>4</p></td>
+                            </tr>
                             <tr>
                                 <td><p>2024-25</p></td>
                                 <td><p>PG</p></td>
@@ -75,7 +80,7 @@ const ChemicalDeptInternship = () => {
         </div>
 
         <div className="row gx-0 tl-blog-details-row mt-50">
-        <div className="tl-11-section-heading"><h2 className="tl-11-section-title">Placement Adsorption</h2></div>
+        <div className="tl-11-section-heading"><h2 className="tl-11-section-title">Placement </h2></div>
           <div className="col-lg-6">
           <Table bordered responsive className="governing-table">
                     <thead>
@@ -129,7 +134,7 @@ const ChemicalDeptInternship = () => {
                 </Table>
             </div>
         </div>
-        </div>
+        </div> 
         </div>
       </div>
     </section>
