@@ -22,7 +22,7 @@ const ElectronicsDeptFaculty = () => {
                 <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                   <div className="tl-1-course-new">
                     <div className="tl-1-course-img-new">
-                      <img src="/assets/images/faculty-profile-photos/etc/1. Dr. SHAMALA MAHADIK.PNG" alt="Faculty Image"/>
+                      <img src="/assets/images/faculty-profile-photos/etc/1. Dr. SHAMALA MAHADIK.png" alt="Faculty Image"/>
                     </div>
                     <div className="tl-1-course-txt">
                       <h4 className="tl-1-course-title-new mt-30">Dr. Shamala Rajaram Mahadik</h4>
@@ -36,7 +36,7 @@ const ElectronicsDeptFaculty = () => {
                 <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                   <div className="tl-1-course-new">
                     <div className="tl-1-course-img-new">
-                      <img src="/assets/images/faculty-profile-photos/etc/2. Dr. SWAPNIL HIRIKUDE.PNG" alt="Faculty Image"/>
+                      <img src="/assets/images/faculty-profile-photos/etc/2. Dr. SWAPNIL HIRIKUDE.png" alt="Faculty Image"/>
                     </div>
                     <div className="tl-1-course-txt">
                       <h4 className="tl-1-course-title-new mt-30">Dr. Swapnil Manohar Hirikude</h4>
@@ -50,7 +50,7 @@ const ElectronicsDeptFaculty = () => {
                 <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                   <div className="tl-1-course-new">
                     <div className="tl-1-course-img-new">
-                      <img src="/assets/images/faculty-profile-photos/etc/3. Mr. PRASAN KAMBLE.PNG" alt="Faculty Image"/>
+                      <img src="/assets/images/faculty-profile-photos/etc/3. Mr. PRASAN KAMBLE.png" alt="Faculty Image"/>
                     </div>
                     <div className="tl-1-course-txt">
                       <h4 className="tl-1-course-title-new mt-30">Mr. Prasan Gopal Kamble</h4>
@@ -64,7 +64,7 @@ const ElectronicsDeptFaculty = () => {
                 <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                   <div className="tl-1-course-new">
                     <div className="tl-1-course-img-new">
-                      <img src="/assets/images/faculty-profile-photos/etc/4. Ms. SHUBHANGI DEKHMUKH.PNG" alt="Faculty Image"/>
+                      <img src="/assets/images/faculty-profile-photos/etc/4. Ms. SHUBHANGI DEKHMUKH.png" alt="Faculty Image"/>
                     </div>
                     <div className="tl-1-course-txt">
                       <h4 className="tl-1-course-title-new mt-30">Mrs. Shubhangi Chandrashekhar Deshmukh</h4>
@@ -78,7 +78,7 @@ const ElectronicsDeptFaculty = () => {
                 <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                   <div className="tl-1-course-new">
                     <div className="tl-1-course-img-new">
-                      <img src="/assets/images/faculty-profile-photos/etc/05. KIRAN SALUNKHE.PNG" alt="Faculty Image"/>
+                      <img src="/assets/images/faculty-profile-photos/etc/05. KIRAN SALUNKHE.png" alt="Faculty Image"/>
                     </div>
                     <div className="tl-1-course-txt">
                       <h4 className="tl-1-course-title-new mt-30">Mr. Kiran Dattatray Salunkhe</h4>
@@ -92,7 +92,7 @@ const ElectronicsDeptFaculty = () => {
                 <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                   <div className="tl-1-course-new">
                     <div className="tl-1-course-img-new">
-                      <img src="/assets/images/faculty-profile-photos/etc/6. Ms. JYOTI WAYKULE.PNG" alt="Faculty Image"/>
+                      <img src="/assets/images/faculty-profile-photos/etc/6. Ms. JYOTI WAYKULE.png" alt="Faculty Image"/>
                     </div>
                     <div className="tl-1-course-txt">
                       <h4 className="tl-1-course-title-new mt-30">Mrs. Jyoti Madanrao Waykule</h4>
