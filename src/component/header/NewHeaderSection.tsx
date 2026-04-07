@@ -133,14 +133,11 @@ const NewHeaderSection = () => {
                                         <li  className="dropdown2 relative py-[3px] px-4"><a className="font-normal text-[15px] hover:text-[#f4b826] flex justify-between">School of Engineering & Technology <i className="fa-regular fa-angle-right"></i></a>
                                             <ul className="dropdown-menu2 hidden absolute left-[100%] bg-white top-[10px] py-2 border-t-4 border-[#f4b826]">
                                                   <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/aerospace-engineering-about">Aerospace Engineering</NavLink></li>
-                                                  <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/mechanical-dept-about" >Mechanical Engineering</NavLink></li>
                                                   <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/civil-dept-about">Civil Engineering</NavLink></li>
-                                                  <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/electrical-dept-about" >Electrical and Electronics <br/> Engineering</NavLink></li>
                                                   <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/electronics-dept-about" >Electronics and Communication <br/>Engineering</NavLink></li>
                                                   <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/computer-science-dept-about">Computer Science & Engineering</NavLink></li>
                                                   <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/AI-ML-dept-about" >Artificial Intelligence and <br/> Machine Learning(AI&ML)</NavLink></li>
                                                   <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/AI-DS-dept-about" >Artificial Intelligence and <br/> Data Science(AIDS)</NavLink></li>
-                                                  <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/NIAT-AIML-Data-Science-dept-about" >NIAT Corporate(AI/Ml, Data Science)</NavLink></li>
                                             </ul>
                                         </li>
 
@@ -191,14 +188,7 @@ const NewHeaderSection = () => {
 
                             <li className="dropdown1 relative py-[3px] px-4"><a className="font-normal text-[15px] hover:text-[#f4b826] flex justify-between">Faculty of Humanities and Social Sciences <i className="fa-regular fa-angle-right"></i></a>
                                     <ul className="dropdown-menu1 hidden absolute left-[100%] bg-white top-[10px] py-2 border-t-4 border-[#f4b826]">
-                                        <li  className="dropdown2 relative py-[3px] px-4"><a className="font-normal text-[15px] hover:text-[#f4b826] flex justify-between">School of Social Science <i className="fa-regular fa-angle-right"></i></a>
-                                            <ul className="dropdown-menu2 hidden absolute left-[100%] bg-white top-[10px] py-2 border-t-4 border-[#f4b826]">
-                                            <h6 className="subfaculty-menu">Department of Social Sciences</h6>
-                                                  <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/english-dept-about" >Department of English</NavLink></li>
-                                                  <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/geography-dept-about" >Department of Geography</NavLink></li>
-                                            </ul>
-                                        </li>
-
+                                        
                                         <li  className="dropdown2 relative py-[3px] px-4"><a className="font-normal text-[15px] hover:text-[#f4b826] flex justify-between">School of Legal Studies(Law) <i className="fa-regular fa-angle-right mt-1"></i></a>
                                             <ul className="dropdown-menu2 hidden absolute left-[100%] bg-white top-[10px] py-2 border-t-4 border-[#f4b826]">
                                             <h6 className="subfaculty-menu">Department of Law (Legal Studies)</h6>

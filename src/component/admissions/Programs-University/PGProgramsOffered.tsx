@@ -32,7 +32,6 @@ const PGProgramsOffered = () => {
                             <h3 className="tl-event-details-area-title-new">Master of Technology (M.Tech)</h3>
                             <ul className="tl-event-details-key-content-list">
                                 <li>Aerospace Engineering</li>
-                                <li>M.Tech Civil Construction Engineering & Management </li>
                                 <li>M.Tech Civil Structural Engineering</li>
                                 <li>Artificial Intelligence & Data Science</li>
                                
@@ -72,6 +71,7 @@ const PGProgramsOffered = () => {
                         <h3 className="tl-event-details-area-title-new">Master of Computer Applications</h3>
                             <ul className="tl-event-details-key-content-list">
                                 <li>MCA. Master of Computer Applications</li>
+                                <li>MCA. Full Stack Development</li>
                             </ul>
                         </div>
                     </div>
@@ -108,7 +108,7 @@ const PGProgramsOffered = () => {
                         <div className="tl-event-details-key-content">
                         <h3 className="tl-event-details-area-title-new">Master of Science (M.Sc)</h3>
                             <ul className="tl-event-details-key-content-list">
-                                <li>M. Sc. Physics(Space Sci./Nano Sci.)</li>
+                               
                                 <li>M. Sc. Chemistry (Organic & Analytical)</li>
                             </ul>
                         </div>
@@ -185,6 +185,7 @@ const PGProgramsOffered = () => {
                     <h3 className="tl-event-details-area-title-new">Master of Business Administration (MBA)</h3>
                         <ul className="tl-event-details-key-content-list">
                       <li>Master of Business Administrations</li>
+                      <li>MBA Fintech and Data Analytics</li>
                            
                         </ul>
                     </div>
@@ -194,6 +195,7 @@ const PGProgramsOffered = () => {
         </div>
       </div>
     </div>
+    
    
   
 </div>

@@ -34,9 +34,8 @@ const PhDProgramsOffered = () => {
                                 <li>Aerospace Engineering</li>
                                 <li>Civil Engineering</li>
                                 <li>Computer Science & Engineering</li>
-                                <li>Electrical Engineering</li>
                                 <li>Electronics Engineering</li>
-                                <li>Mechanical Engineering</li>
+                                
                             </ul>
                         </div>
                     </div>
