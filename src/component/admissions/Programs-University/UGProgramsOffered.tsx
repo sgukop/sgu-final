@@ -38,7 +38,7 @@ const UGProgramsOffered = () => {
                                 <li>Computer Science & Engineering</li>
                                 <li>Electronics & Communication Engineering</li>
                                 <li>Artificial Intelligence and Data Science</li>
-                                <li>Robotics and Automation Engineering </li>
+                                <li>Robotics Process Automation </li>
                                 
                                 
                                
