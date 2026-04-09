@@ -64,10 +64,10 @@ const Academicfees = () => {
           <tr><td><p>B.Tech Aeronautical Engineering</p></td><td><p>160000</p></td><td><p>5000</p></td><td><p>165000</p></td></tr>
           <tr><td><p>B.Tech Civil Engineering</p></td><td><p>145000</p></td><td><p>5000</p></td><td><p>150000</p></td></tr>
           <tr><td><p>B.Tech Computer Science & Engineering</p></td><td><p>170000</p></td><td><p>5000</p></td><td><p>175000</p></td></tr>
-          <tr><td><p>B.Tech Artificial Intelligence & Machine Learning</p></td><td><p>155000</p></td><td><p>5000</p></td><td><p>160000</p></td></tr>
+          <tr><td><p>B.Tech Artificial Intelligence & Machine Learning</p></td><td><p>170000</p></td><td><p>5000</p></td><td><p>175000</p></td></tr>
           <tr><td><p>B.Tech Electronics & Communication Engineering</p></td><td><p>160000</p></td><td><p>5000</p></td><td><p>165000</p></td></tr>
-          <tr><td><p>B.Tech Artificial Intelligence and Data Science</p></td><td><p>170000</p></td><td><p>5000</p></td><td><p>175000</p></td></tr>
-          <tr><td><p>B.Tech Robotics Process Automation</p></td><td><p>170000</p></td><td><p>5000</p></td><td><p>175000</p></td></tr>
+          <tr><td><p>B.Tech Artificial Intelligence and Data Science</p></td><td><p>237500</p></td><td><p>5000</p></td><td><p>242500</p></td></tr>
+          <tr><td><p>B.Tech Robotics Process Automation</p></td><td><p>187500</p></td><td><p>5000</p></td><td><p>192500</p></td></tr>
         </tbody>
       </Table>
 
@@ -86,7 +86,7 @@ const Academicfees = () => {
           <tr><td><p>M.Tech Aerospace Engineering</p></td><td><p>120000</p></td><td><p>5000</p></td><td><p>125000</p></td></tr>
           <tr><td><p>M.Tech Civil Engineering (Structural)</p></td><td><p>120000</p></td><td><p>5000</p></td><td><p>125000</p></td></tr>
           <tr><td><p>M.Tech Artificial Intelligence & Data Science</p></td><td><p>120000</p></td><td><p>5000</p></td><td><p>125000</p></td></tr>
-          <tr><td><p>M.Tech Electronics (Embedded Systems)</p></td><td><p>120000</p></td><td><p>5000</p></td><td><p>125000</p></td></tr>
+          
         </tbody>
       </Table>
 
@@ -158,37 +158,37 @@ const Academicfees = () => {
           </tr>
         </thead>
         <tbody>
-          <tr>
-            <td><p>B.Des Fashion Design</p></td>
-            <td><p>245000</p></td>
-            <td><p>5000</p></td>
-            <td><p>250000</p></td>
-          </tr>
-          <tr>
-            <td><p>B.Des Communication Design</p></td>
-            <td><p>245000</p></td>
-            <td><p>5000</p></td>
-            <td><p>250000</p></td>
-          </tr>
-          <tr>
-            <td><p>B.Des Product Design</p></td>
-            <td><p>245000</p></td>
-            <td><p>5000</p></td>
-            <td><p>250000</p></td>
-          </tr>
-          <tr>
-            <td><p>B.Des Interior Design</p></td>
-            <td><p>245000</p></td>
-            <td><p>5000</p></td>
-            <td><p>250000</p></td>
-          </tr>
-          <tr>
-            <td><p>B.Des UI/UX Design</p></td>
-            <td><p>245000</p></td>
-            <td><p>5000</p></td>
-            <td><p>250000</p></td>
-          </tr>
-        </tbody>
+            <tr>
+              <td><p>B.Des Fashion Design</p></td>
+              <td><p>272500</p></td>
+              <td><p>5000</p></td>
+              <td><p>277500</p></td>
+            </tr>
+            <tr>
+              <td><p>B.Des Communication Design</p></td>
+              <td><p>272500</p></td>
+              <td><p>5000</p></td>
+              <td><p>277500</p></td>
+            </tr>
+            <tr>
+              <td><p>B.Des Product Design</p></td>
+              <td><p>272500</p></td>
+              <td><p>5000</p></td>
+              <td><p>277500</p></td>
+            </tr>
+            <tr>
+              <td><p>B.Des Interior Design</p></td>
+              <td><p>272500</p></td>
+              <td><p>5000</p></td>
+              <td><p>277500</p></td>
+            </tr>
+            <tr>
+              <td><p>B.Des UI/UX Design</p></td>
+              <td><p>187500</p></td>
+              <td><p>5000</p></td>
+              <td><p>192500</p></td>
+            </tr>
+          </tbody>
       </Table>
     </div>
   </div>
@@ -206,6 +206,7 @@ const Academicfees = () => {
             <Table striped bordered responsive className="governing-table">
               <tbody>
                 <tr><td><p>B.Pharm</p></td><td><p>122500</p></td><td><p>5000</p></td><td><p>127500</p></td></tr>
+                 <tr><td><p>B.Sc Clinical Research and Technology</p></td><td><p>72500</p></td><td><p>5000</p></td><td><p>77500</p></td></tr>
                 <tr><td><p>M.Pharm - Pharmaceutics</p></td><td><p>95000</p></td><td><p>5000</p></td><td><p>100000</p></td></tr>
                 <tr><td><p>M.Pharm - Pharmaceutical Quality Assurance</p></td><td><p>95000</p></td><td><p>5000</p></td><td><p>100000</p></td></tr>
               </tbody>
@@ -213,6 +214,40 @@ const Academicfees = () => {
           </div>
         </div>
       </div>
+                    {/* School of Life Sciences */}
+              <div className="tl-event-details-area tl-course-details-curriculum">
+                <h2 className="accordion-header">
+                  <button className="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#lifescience">
+                    School of Life Sciences
+                  </button>
+                </h2>
+                <div id="lifescience" className="accordion-collapse collapse">
+                  <div className="accordion-body">
+                    <Table striped bordered responsive className="governing-table">
+                      <tbody>
+                        <tr>
+                          <td><p>B. Sc. Food Science & Technology</p></td>
+                          <td><p>42500</p></td>
+                          <td><p>5000</p></td>
+                          <td><p>47500</p></td>
+                        </tr>
+                        <tr>
+                          <td><p>B.Sc. Medical Lab Technology</p></td>
+                          <td><p>62500</p></td>
+                          <td><p>5000</p></td>
+                          <td><p>67500</p></td>
+                        </tr>
+                        <tr>
+                          <td><p>B. Sc. Biotechnology</p></td>
+                          <td><p>42500</p></td>
+                          <td><p>5000</p></td>
+                          <td><p>47500</p></td>
+                        </tr>
+                      </tbody>
+                    </Table>
+                  </div>
+                </div>
+              </div>
 
       {/* School of Legal Studies */}
       <div className="tl-event-details-area tl-course-details-curriculum">
