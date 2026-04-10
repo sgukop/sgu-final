@@ -233,9 +233,9 @@ const Academicfees = () => {
                         </tr>
                         <tr>
                           <td><p>B.Sc. Medical Lab Technology</p></td>
-                          <td><p>62500</p></td>
+                          <td><p>52500</p></td>
                           <td><p>5000</p></td>
-                          <td><p>67500</p></td>
+                          <td><p>57500</p></td>
                         </tr>
                         <tr>
                           <td><p>B. Sc. Biotechnology</p></td>
@@ -262,7 +262,7 @@ const Academicfees = () => {
               <tbody>
                 <tr><td><p>BBA Law (Hons.)</p></td><td><p>85000</p></td><td><p>5000</p></td><td><p>90000</p></td></tr>
                 <tr><td><p>BA Law (Hons.)</p></td><td><p>55000</p></td><td><p>5000</p></td><td><p>60000</p></td></tr>
-                <tr><td><p>LLB</p></td><td><p>35000</p></td><td><p>5000</p></td><td><p>40000</p></td></tr>
+                <tr><td><p>LLB</p></td><td><p>35000</p></td><td><p>5000</p></td><td><p>60000</p></td></tr>
               </tbody>
             </Table>
           </div>
