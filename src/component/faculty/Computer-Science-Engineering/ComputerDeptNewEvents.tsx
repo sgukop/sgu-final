@@ -64,6 +64,42 @@ const ComputerDeptNewEvents = () => {
         imgSrc: "assets/images/computer-science-engineering/activities/technophilia/techno9.jpeg",
       },
   ]
+  const technophilia4 = [
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/1.jpeg",
+      },
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/2.jpeg",
+      },
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/3.jpeg",
+      },
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/4.jpeg",
+      },
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/5.jpeg",
+      },
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/6.jpeg",
+      },
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/7.jpeg",
+      },
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/8.jpeg",
+      },
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/12.jpeg",
+      },
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/10.jpeg",
+      },
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/11.jpeg",
+      },
+     
+  ]
     const asces = [
         {
           imgSrc: "assets/images/computer-science-engineering/activities/acses/image1.jpeg",
@@ -276,6 +312,27 @@ const ComputerDeptNewEvents = () => {
     ]
   return (
     <>
+        <div className="tl-11-section-heading mt-50">
+                <h2 className="tl-11-section-title">Events</h2>
+            </div>
+
+
+
+         <div className="tl-11-section-heading">
+            <h2 className="tl-11-section-title">Technophilia 4.0</h2>
+        </div>
+        <div className="row tl-7-classes-row">
+         {technophilia4.map((activityItems1, index) => (
+            <div className="col-lg-4 col-sm-6 rounded-[20px]" key={index}>
+              <div className="tl-7-class">
+                <div className="tl-7-class-img">
+                  <img src={activityItems1.imgSrc} alt="Activities Images" />
+                </div>
+                
+              </div>
+            </div>
+          ))}
+        </div>
     <div className="tl-11-section-heading mt-50">
                 <h2 className="tl-11-section-title">Events</h2>
             </div>
