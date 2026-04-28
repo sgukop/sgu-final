@@ -16,6 +16,17 @@ const ComputerDeptNewEvents = () => {
         imgSrc: "assets/images/computer-science-engineering/activities/workshop-fullstack/image3.png",
       },
   ]
+  const workshopDevops = [
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/workshop-devops/1.jpeg",
+      },
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/workshop-devops/2.jpeg",
+      },
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/workshop-devops/3.jpeg",
+      },
+  ]
 
   const newparentmeet = [
     {
@@ -355,6 +366,21 @@ const ComputerDeptNewEvents = () => {
           ))}
         </div>
 
+        <div className="tl-11-section-heading mt-50">
+            <h2 className="tl-11-section-title">Workshop on Cloud Computing and DevOps</h2>
+        </div>
+        <div className="row tl-7-classes-row">
+         {workshopDevops.map((activityItems1, index) => (
+            <div className="col-lg-4 col-sm-6 rounded-[20px]" key={index}>
+              <div className="tl-7-class">
+                <div className="tl-7-class-img">
+                  <img src={activityItems1.imgSrc} alt="Activities Images" />
+                </div>
+                
+              </div>
+            </div>
+          ))}
+        </div>
         <div className="tl-11-section-heading mt-50">
             <h2 className="tl-11-section-title">One Day Workshop On Full Stack Development under CSI</h2>
         </div>

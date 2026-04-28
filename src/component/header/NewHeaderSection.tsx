@@ -295,6 +295,7 @@ const NewHeaderSection = () => {
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/examination-notice">Notice</NavLink></li>
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/examination-revaluation">Revaluation/Re Verification/Photocopy</NavLink></li>
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/examination-convocation">Convocation</NavLink></li>
+                                <li className="px-4 font-normal text-[15px] py-[3px] hover:text-[#f4b826]"><NavLink href="https://manage-api.sguk.ac.in/api/assets/6756da469173bf9f471abfa1">Examination Ordinance</NavLink></li>
                         </ul>
                       </li>
 
