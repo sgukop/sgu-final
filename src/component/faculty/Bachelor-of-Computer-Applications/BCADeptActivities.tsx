@@ -36,7 +36,7 @@ const PanhalaTourImages = [
   ]
 const BalodyanOrphanageImages = [
     {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/31.jpeg",
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/31.jpg",
     },
     
     
