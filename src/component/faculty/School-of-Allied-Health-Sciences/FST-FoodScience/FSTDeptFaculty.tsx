@@ -47,7 +47,7 @@ const FSTDeptFaculty = () => {
                         </div>
                     </div>  
 
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                     {/* <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
                                 <img src="/assets/images/faculty-profile-photos/allied-health/3. Mr. KAPIL UBARHANDE.jpg" alt="Faculty Image"/>
@@ -61,7 +61,7 @@ const FSTDeptFaculty = () => {
                         </div>
                     </div> 
 
-                   {/* <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                  <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
                                 <img src="/assets/images/faculty-profile-photos/allied-health/4. Ms. SNEHAL SANJAY PATIL.jpg" alt="Faculty Image"/>

@@ -19,7 +19,7 @@ const DesignDeptFaculty = () => {
           >
            	<div className="tl-course-details-top-courses">
                 <div className="row g-4 g-xl-4 justify-content-center">
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                  {/*   <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
                                 <img src="/assets/images/faculty-profile-photos/design/1. Ms. SWAPANLI KULKARNI.jpg" alt="Faculty Image"/>
@@ -73,7 +73,7 @@ const DesignDeptFaculty = () => {
                                 <Link href="https://manage-api.sguk.ac.in/api/assets/67501dee4b17e19d8f361a35" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
                         </div>
-                    </div> 
+                    </div> */}
                 </div>
             </div>
         </div>
