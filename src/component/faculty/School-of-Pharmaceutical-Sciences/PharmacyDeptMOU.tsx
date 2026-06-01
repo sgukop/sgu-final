@@ -36,6 +36,11 @@ const PharmacyDeptMOU = () => {
                           <h5 className="tl-3-single-program-title-new">MOU With Prof. Gadgils GPATAcademy <i className="fa-regular fa-arrow-right-long"></i></h5>
                         </Link>
                     </div>
+                    <div className="col-lg-6 col-md-12 col-12 col-xxs-12">
+                        <Link href="https://manage-api.sguk.ac.in/api/assets/6a0d8f4612260ec08e7c83f9" className="tl-3-single-program-new">
+                          <h5 className="tl-3-single-program-title-new">MOU_ Biocyte Institute of Research and Development, Sangli <i className="fa-regular fa-arrow-right-long"></i></h5>
+                        </Link>
+                    </div>
                 </div>
             </div>
 

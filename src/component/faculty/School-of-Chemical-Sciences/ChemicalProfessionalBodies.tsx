@@ -23,23 +23,33 @@ const ChemicalProfessionalBOdies = () => {
                            <ul className="tl-event-details-key-content-list phd-container">
                                    <li>Dr. Pallavi Bhange, member of Maharashtra Academy of Science.</li>
                                    <li>Member-Australia India Critical Minerals Research Hub</li>
+                                    <li>BoS member at PVPIT Sangli</li>
                             </ul>
                         </div>
                   </div>
 
                   <div className="col-lg-12">
-                   <div className="tl-event-details-key-content tl-event-details-area">
-                   <p className="dark-mode-white-color my-4"><strong>Dr. Aanand Sawant</strong></p>
-                    <p>Association with other Universities / Professional Bodies / Industries / NGO etc</p>
-                           <ul className="tl-event-details-key-content-list phd-container">
-                                   <li>Member-Association of Environmental Analytical Chemistry of India (AEACI), BARC, Mumbai.</li>
-                                   <li>Member-American Chemical Society (Number 31823388) </li>
-                                   <li>Affiliate Member-Royal Society of Chemistry (Number 697458) </li>
-                                   <li>Member-Australia India Critical Minerals Research Hub </li>
-                                   <li>Member- CO2INDIA Network</li>
-                            </ul>
-                        </div>
+                  <div className="tl-event-details-key-content tl-event-details-area">
+                    <p className="dark-mode-white-color my-4">
+                      <strong>Dr. Aanand Sawant</strong>
+                    </p>
+
+                    <p>
+                      Association with other Universities / Professional Bodies / Industries / NGO etc
+                    </p>
+
+                    <ul className="tl-event-details-key-content-list phd-container">
+                      <li>Member-American Chemical Society, USA.</li>
+                      <li>Member-Australia India Critical Minerals Research Hub (AICMRH).</li>
+                      <li>Member- International Young Chemists Network-IYCN (IUPAC).</li>
+                      <li>Green Chemistry Teaching & Learning Community.</li>
+                      <li>
+                        Member-Association of Environmental Analytical Chemistry of India
+                        (AEACI), Bhabha Atomic Research Centre (BARC), Mumbai.
+                      </li>
+                    </ul>
                   </div>
+                </div>
 
                   <div className="col-lg-12">
                    <div className="tl-event-details-key-content tl-event-details-area">

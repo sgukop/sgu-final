@@ -32,6 +32,9 @@ const ChemicalDeptResearch = () => {
                           <Nav.Link eventKey="curriculum-tab">Patents</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
+                          <Nav.Link eventKey="instruction-tab">ABCD</Nav.Link>
+                    </Nav.Item>
+                    <Nav.Item>
                           <Nav.Link eventKey="instruction-tab">Seed funding received from University</Nav.Link>
                     </Nav.Item>
                   </Nav>

@@ -7,6 +7,8 @@ const InvitedTalks = () => {
             <div className="tl-event-details-key-content tl-event-details-area">
                 <h3 className="tl-event-details-area-title">Invited talk </h3>
                     <ul className="tl-event-details-key-content-list">
+                    <li>Dr. Pallavi Bhange was invited as a Resource Person for the Value Added Course on "Advanced Analytical Techniques in Biotechnology" at Department of Biotechnology, Shivaji University, scheduled on 5th March, 2026.</li>
+                    <li>Dr. Pallavi Bhange was invited as a Resource Person to deliver the lecture for Ph.D coursework students at Department of Chemistry, Shivaji University, Kolhapur scheduled on 19th Jan, 2026.</li>
                     <li>Dr. Pallavi Bhange invited as a Resource Person for the Value Added Course on “Advanced Techniques &amp; Applications in Sophisticated Instrumentation for Biological Sciences”,scheduled from 9th to 13th October, 2025.</li>
                     <li>Dr. Pallavi Bhange delivered a talk as a resource person in Value added Course on “Scientific tools for research in Chemical Science” at Chemistry department, Shivaji University on 12th March 2025 under PM-USHA Scheme.</li>
                     <li>Dr. Pallavi Bhange delivered a talk as a resource person in the One Week Faculty Development Programme (FDP) on "Recent Trends in Physics, Electronics, and Nanoscience", scheduled from 6th to 11th January 2025 under PM-USHA Scheme in association with UGC-Malaviya Mission Teacher Training Programme(PM-TTP).</li>

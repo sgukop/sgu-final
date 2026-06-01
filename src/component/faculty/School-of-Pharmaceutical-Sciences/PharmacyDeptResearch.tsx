@@ -77,6 +77,10 @@ const PharmacyDeptResearch = () => {
                                     <td><p>2024-25</p></td>
                                     <td><p>11</p></td>
                                 </tr>
+                                <tr>
+                                    <td><p>2025-26</p></td>
+                                    <td><p>04</p></td>
+                                </tr>
                             </tbody>
                         </Table>
                       </div>
@@ -119,6 +123,11 @@ const PharmacyDeptResearch = () => {
                                     <td><p>2024-25</p></td>
                                     <td><p>04</p></td>
                                     <td><p>Gaikwad Raviraj, Snehal Bongarde, Dr. Mangesh Vedpathak</p></td>
+                                </tr>
+                                <tr>
+                                    <td><p>2024-25</p></td>
+                                    <td><p>00</p></td>
+                                    <td><p>--</p></td>
                                 </tr>
                                 
                             </tbody>

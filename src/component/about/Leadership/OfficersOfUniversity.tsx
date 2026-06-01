@@ -40,7 +40,7 @@ const OfficersOfUniversity = () => {
                     </div>
 
                     <div className='w-[380px] p-3 xl:p-3 rounded-[10%] shadow-[0_0_60px_-10px_#c3c2c2]'>
-                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='/assets/images/officers-in-university/male.jpg' />
+                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='/assets/images/officers-in-university/3.jpg' />
                         <p className='text-center text-[#231f20] my-2 font-semibold text-xl justify-center items-center flex'>Prof. Dr.V. V. Kulkarni</p>
                         <p className='text-[#231f20] font-medium text-lg text-center'>Dean,Faculty of Science & Technology <br/> Director (Add. Charge)-School of Design</p>
                        
@@ -49,28 +49,10 @@ const OfficersOfUniversity = () => {
                         </div>
                     </div>
 
-                    <div className='w-[380px] p-3 xl:p-3 rounded-[10%] shadow-[0_0_60px_-10px_#c3c2c2]'>
-                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='/assets/images/officers-in-university/female.jpg' />
-                        <p className='text-center text-[#231f20] my-2 font-semibold text-xl justify-center items-center flex'>Dr. S.Gomathi</p>
-                        <p className='text-[#231f20] font-medium text-lg text-center'>Dean, Faculty of Management <br/> Chairman,BOS & Director - Commerce & Management</p>
-                       
-                        <div className='my-1 flex gap-2 items-center justify-center'>
-                              <a href="https://manage-api.sguk.ac.in/api/assets/6756c03f9173bf9f471abe18" target="_blank" className="px-6 py-3.5 mt-2 text-[14px] xl:text-xl rounded-tl-[20px] rounded-br-[20px] bg-[#4f70b6] hover:text-[#ffcb04] text-[#ffffff] transition ease-in-out hover:-translate-y-2 hover:scale-105 duration-300">Profile</a>
-                        </div>
-                    </div>
+
 
                     <div className='w-[380px] p-3 xl:p-3 rounded-[10%] shadow-[0_0_60px_-10px_#c3c2c2]'>
-                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='/assets/images/officers-in-university/male.jpg' />
-                        <p className='text-center text-[#231f20] my-2 font-semibold text-xl justify-center items-center flex'>Mr. S. M. Ingale</p>
-                        <p className='text-[#231f20] font-medium text-lg text-center'>I/C Dean, Faculty of Interdisciplinary</p>
-                      
-                        <div className='my-1 flex gap-2 items-center justify-center'>
-                              <a href="https://manage-api.sguk.ac.in/api/assets/674ec3a14b17e19d8f3616b0" target="_blank" className="px-6 py-3.5 mt-2 text-[14px] xl:text-xl rounded-tl-[20px] rounded-br-[20px] bg-[#4f70b6] hover:text-[#ffcb04] text-[#ffffff] transition ease-in-out hover:-translate-y-2 hover:scale-105 duration-300">Profile</a>
-                        </div>
-                    </div>
-
-                    <div className='w-[380px] p-3 xl:p-3 rounded-[10%] shadow-[0_0_60px_-10px_#c3c2c2]'>
-                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='/assets/images/officers-in-university/male.jpg' />
+                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='/assets/images/officers-in-university/1.jpg' />
                         <p className='text-center text-[#231f20] my-2 font-semibold text-xl justify-center items-center flex'>Dr. A.D.Sawant</p>
                         <p className='text-[#231f20] font-medium text-lg text-center'>Associate Dean, Physical & Chemical Science</p>
                        
@@ -80,7 +62,7 @@ const OfficersOfUniversity = () => {
                     </div>
 
                     <div className='w-[380px] p-3 xl:p-3 rounded-[10%] shadow-[0_0_60px_-10px_#c3c2c2]'>
-                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='/assets/images/officers-in-university/male.jpg' />
+                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='/assets/images/officers-in-university/2.jpg' />
                         <p className='text-center text-[#231f20] my-2 font-semibold text-xl justify-center items-center flex'>Dr. U. P.Jadhav</p>
                         <p className='text-[#231f20] font-medium text-lg text-center'>I/C Dean,Faculty of Humanities & Social Science <br/> BOS Chairman of Faculty of Liberal Arts. <br/> Director-Knowledge Resource Center Director-School of Social Sciences</p>
                        
