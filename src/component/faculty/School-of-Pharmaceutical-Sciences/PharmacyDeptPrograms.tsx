@@ -33,11 +33,7 @@ const PharmacyDeptPrograms = () => {
                         </tr>
                     </thead>
                     <tbody>
-                        <tr>
-                            <td><p>D. Pharm </p></td>
-                            <td><p>60</p></td>
-                            <td><p>2019-20</p></td>
-                        </tr>
+                        
 
                         <tr>
                             <td><p>B. Pharm </p></td>

@@ -42,10 +42,15 @@ const PharmacyDeptStudentsForum = () => {
                           <h5 className="tl-3-single-program-title-new">PSA 2025 <i className="fa-regular fa-arrow-right-long"></i></h5>
                         </Link>
                     </div>
+                    <div className="col-lg-6 col-md-12 col-12 col-xxs-12">
+                        <Link href="https://manage-api.sguk.ac.in/api/assets/6a0d8d4412260ec08e7c83cf" className="tl-3-single-program-new" target="_blank">
+                          <h5 className="tl-3-single-program-title-new">PSA 2026 <i className="fa-regular fa-arrow-right-long"></i></h5>
+                        </Link>
+                    </div>
                 </div>
             </div>
 
-            <div className="tl-11-section-heading"><h2 className="tl-11-section-title mt-50">Student Mentorship</h2></div>
+            <div className="tl-11-section-heading"><h2 className="tl-11-section-title mt-50">Student Mentorship 24-25</h2></div>
             <div className="tl-3-programs-pills">
                 <div className="row justify-content-center">
                     <div className="col-lg-6 col-md-12 col-12 col-xxs-12">
@@ -69,6 +74,34 @@ const PharmacyDeptStudentsForum = () => {
                     <div className="col-lg-6 col-md-12 col-12 col-xxs-12">
                         <Link href="https://manage-api.sguk.ac.in/api/assets/67dcfcf24f56d3a0bcfba491" className="tl-3-single-program-new" target="_blank">
                           <h5 className="tl-3-single-program-title-new">Third Yr 25 <i className="fa-regular fa-arrow-right-long"></i></h5>
+                        </Link>
+                    </div>
+                </div>
+            </div>
+             <div className="tl-11-section-heading"><h2 className="tl-11-section-title mt-50">Student Mentorship 25-26</h2></div>
+            <div className="tl-3-programs-pills">
+                <div className="row justify-content-center">
+                    <div className="col-lg-6 col-md-12 col-12 col-xxs-12">
+                        <Link href="https://manage-api.sguk.ac.in/api/assets/6a0d8cbd12260ec08e7c83ca" className="tl-3-single-program-new" target="_blank">
+                          <h5 className="tl-3-single-program-title-new">Final Yr 26 <i className="fa-regular fa-arrow-right-long"></i></h5>
+                        </Link>
+                    </div>
+
+                    <div className="col-lg-6 col-md-12 col-12 col-xxs-12">
+                        <Link href="https://manage-api.sguk.ac.in/api/assets/6a0d8c8812260ec08e7c83bb" className="tl-3-single-program-new" target="_blank">
+                          <h5 className="tl-3-single-program-title-new">First Yr 26 <i className="fa-regular fa-arrow-right-long"></i></h5>
+                        </Link>
+                    </div>
+
+                    <div className="col-lg-6 col-md-12 col-12 col-xxs-12">
+                        <Link href="https://manage-api.sguk.ac.in/api/assets/6a0d8c9d12260ec08e7c83c0" className="tl-3-single-program-new" target="_blank">
+                          <h5 className="tl-3-single-program-title-new">Second Yr 26 <i className="fa-regular fa-arrow-right-long"></i></h5>
+                        </Link>
+                    </div>
+
+                    <div className="col-lg-6 col-md-12 col-12 col-xxs-12">
+                        <Link href="https://manage-api.sguk.ac.in/api/assets/6a0d8cac12260ec08e7c83c5" className="tl-3-single-program-new" target="_blank">
+                          <h5 className="tl-3-single-program-title-new">Third Yr 26 <i className="fa-regular fa-arrow-right-long"></i></h5>
                         </Link>
                     </div>
                 </div>

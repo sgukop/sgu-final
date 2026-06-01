@@ -14,7 +14,7 @@ const BPharmacy = () => {
           <tbody>
               <tr>
                   <td><p>B_Pharm Full Curriculum Structure</p></td>
-                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/67f8ebb64f56d3a0bcfbbf46">	B_Pharm Full Curriculum Structure <i className="fa-regular fa-arrow-right-long"></i></a></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6a0d90b912260ec08e7c8412">	B_Pharm Full Curriculum Structure <i className="fa-regular fa-arrow-right-long"></i></a></td>
              </tr>
              {/*  <tr>
                   <td><p>FY B_Pharm</p></td>

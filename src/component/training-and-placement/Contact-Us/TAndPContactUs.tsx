@@ -29,7 +29,7 @@ const TAndPContactUs = () => {
                             <div className="tl-2-course-infos">
                                 <div className="tl-2-course-info">
                                     <h6 className="tl-2-course-info-key"><strong>Email : </strong></h6>
-                                    <h6 className="tl-2-course-info-value">tpo@sanjayghodawatuniversity.ac.in</h6>
+                                    <h6 className="tl-2-course-info-value">tpo@sguk.ac.in</h6>
                                 </div>
                             </div>
                         </div>

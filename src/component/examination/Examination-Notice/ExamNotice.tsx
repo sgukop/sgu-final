@@ -22,6 +22,16 @@ function ExamNotice() {
                 </tr>                              
               </thead>
               <tbody>
+                 <tr>
+                  <td><p>04-05-2026</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/69f8689f90f419ef19cce9ca" rel="noopener noreferrer" target="_blank" className="table-link">Last Opportunity of Exam Form NEP Studets<i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
+                 <tr>
+                  <td><p>04-05-2026</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/69f868bf90f419ef19cce9cf" rel="noopener noreferrer" target="_blank" className="table-link">Last Opportunity of Exam Form S-2026 <i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
                 <tr>
                   <td><p>17-03-2026</p></td>
                   <td><a href="https://manage-api.sguk.ac.in/api/assets/69c0f704eb0b0a6998c15b35" rel="noopener noreferrer" target="_blank" className="table-link">NEP Backlog Exam Form <i className="fa-regular fa-arrow-right"></i></a></td>

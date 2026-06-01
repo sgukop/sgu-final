@@ -4,6 +4,66 @@ import React from 'react';
 const Publications = () => {
   return (
     <div className="accordion" id="publications">
+         <div className="tl-event-details-area tl-course-details-curriculum">
+      <h2 className="accordion-header" id="headingTwo">
+        <button
+          className="accordion-button collapsed"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#collapseEight"
+          aria-expanded="false"
+          aria-controls="collapseEight"
+        >
+          2025-2026
+        </button>
+      </h2>
+      <div
+        id="collapseEight"
+        className="accordion-collapse collapse"
+        aria-labelledby="headingTwo"
+        data-bs-parent="#publications"
+      >
+        <div className="accordion-body">
+        <div className="row align-items-center tl-1-about-row">
+                <div className="col-lg-12">
+                    <div className="tl-event-details-left">
+                       <div className="tl-event-details-key-content">
+                            <ul className="tl-event-details-key-content-list phd-container">
+                              <li>
+                                  Salunkhe, M. M.; Sawant, A. D. NEP 2020 and Beyond: Shaping the Future of Research and Innovation in Indian Higher Education. In Education Vision for Viksit Bharat: Decoding the True Spirit of NEP 2020 Patwardhan, B.; Sabale, B. P.; Deshmukh, S., Eds.; Sakal Publications, Pune, India; 2025; pp 209-232.
+                              </li>
+
+                              <li>
+                                  Sawant, A. D.; Jadhav, N. R. Green chemistry, efficiency and sustainability: A framework for sustainable future. In Green Chemistry Principles, Processes, and Pathways Kaur, A.; Purewal, S. S.; Francoisa, M.; Rai, A. K.; Irfan, M., Eds.; CRC Press Taylor & Francis Group; (Accepted for publication 2026).
+                              </li>
+
+                              <li>
+                                  Ni Doping-Induced Synergistic Enhancement of Antimicrobial Activity in Biogenically Synthesized ZnO Nanosheets Damini Deshmukh, Netaji Desai, Suyog Mane, Asmita Bambole, Vishal Kamble, Santosh Kamble, Yogita Babar, Shubhangi Bandgar, Ravindra Mahajan, Sujit Deshmukh, Sonali Suryawanshi* ChemistrySelect, 11(2), 2026, e04639
+                              </li>
+
+                              <li>
+                                  Biogenic Synthesis of Cuprous Oxide Nanoparticles using Enzyme-Assisted Seed Extract of Trachyspermum ammi L. and its Biological and Catalytic Applications, Chemistry Africa, Accepted.
+                              </li>
+
+                              <li>
+                                  Microwave-induced Bismuth Nitrate-catalyzed Efficient One-pot Synthesis of Pyrroles and their Michael Adducts, Letters in Organic Chemistry, Accepted.
+                              </li>
+
+                              <li>
+                                  Microwave-Induced Sodium Bismuthate-Mediated Efficient Oxidation of Allylic and Benzylic Alcohols, Letters in Organic Chemistry, Accepted.
+                              </li>
+
+                              <li>
+                                  An Efficient One-Pot Grinding Method for the Synthesis of Optically Active N-(Chrysenyl)-3-Acetoxy-4-Aryl-2-Azetidin-2-Ones Using (+)-3-Carene, Current Organocatalysis, Accepted.
+                              </li>
+                          </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>  
+        </div>
+      </div>
+    </div>
       <div className="tl-event-details-area tl-course-details-curriculum">
       <h2 className="accordion-header" id="headingTwo">
         <button

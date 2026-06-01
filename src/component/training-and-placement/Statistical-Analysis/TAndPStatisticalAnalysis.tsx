@@ -13,32 +13,22 @@ const TAndPStatisticalAnalysis = () => {
                     <h2 className="tl-11-section-title">Graphical Presentation of Students Placed</h2>
                 </div>
                     <div className="tl-8-about-img">
-                        <img src="assets/images/training-and-placement/statistics-analysis/Student_Selected_New.jpg" alt="Student Selected Graph Image" className="tl-8-about-main-img"/>
+                        <img src="assets/images/training-and-placement/statistics-analysis/TP1.png" alt="Student Selected Graph Image" className="tl-8-about-main-img"/>
                     </div>
                 </div>
 
                
                 <div className="col-xl-6 col-lg-10">
                 <div className="tl-11-section-heading">
-                    <h2 className="tl-11-section-title">Graphical Presentation of Companies Visited</h2>
+                    <h2 className="tl-11-section-title">Graphical Presentation of Students Internship</h2>
                 </div>
                     <div className="tl-8-about-img">
-                        <img src="assets/images/training-and-placement/statistics-analysis/company-visited.png" alt="Companies Visited Graph Image" className="tl-8-about-main-img"/>
+                        <img src="assets/images/training-and-placement/statistics-analysis/tp2.png" alt="Companies Visited Graph Image" className="tl-8-about-main-img"/>
                     </div>
                 </div>
             </div>
 
-            <div className="row g-4 mt-50">
-               
-               <div className="col-xl-6 col-lg-10">
-               <div className="tl-11-section-heading">
-                   <h2 className="tl-11-section-title">Graphical Presentation of student internships</h2>
-               </div>
-                   <div className="tl-8-about-img">
-                       <img src="assets/images/training-and-placement/statistics-analysis/student-internships.png" alt="Student Selected Graph Image" className="tl-8-about-main-img"/>
-                   </div>
-               </div>
-            </div>
+            
         </div>
     </div>
   )
