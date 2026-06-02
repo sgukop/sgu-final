@@ -68,7 +68,7 @@ const PharmacyDeptDisclosure = () => {
                     </div>
                     <div className="col-xl-3 col-lg-4 col-sm-6 col-12">
                         <div className="approved-subj-title" style={{backgroundColor:"rgb(182, 198, 233)"}}>
-                            <Link href="https://manage-api.sguk.ac.in/api/assets/6a0d8ea712260ec08e7c83f4" rel="noopener noreferrer" target="_blank"><h5 className="text-center">2025-26 PCI Approval Final</h5></Link>
+                            <Link href="https://manage-api.sguk.ac.in/api/assets/6a1ea3d1b7ec52d9d324512d" rel="noopener noreferrer" target="_blank"><h5 className="text-center">2025-26 PCI Approval Final</h5></Link>
                         </div>
                     </div>
 
