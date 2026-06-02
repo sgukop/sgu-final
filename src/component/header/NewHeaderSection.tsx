@@ -297,7 +297,7 @@ const NewHeaderSection = () => {
                       Examination
                         <ul className="dropdown-menu absolute hidden mt-6 py-2 text-left rounded-none border-t-4 border-[#f4b826]">
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/examination-timetable">Time Table</NavLink></li>
-                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/examination-result">Results</NavLink></li>
+                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/examination-result">Results Declaration  </NavLink></li>
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/examination-notice">Notice</NavLink></li>
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/examination-revaluation">Revaluation/Re Verification/Photocopy</NavLink></li>
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/examination-convocation">Convocation</NavLink></li>
