@@ -22,6 +22,11 @@ function ExamNotice() {
                 </tr>                              
               </thead>
               <tbody>
+                <tr>
+                  <td><p>04-05-2026</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/6a1e7f635b3f089b85a78a49" rel="noopener noreferrer" target="_blank" className="table-link">NPTL Time Table Summer-2026<i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>NOTICE</p></td>
+                </tr>
                  <tr>
                   <td><p>04-05-2026</p></td>
                   <td><a href="https://manage-api.sguk.ac.in/api/assets/69f8689f90f419ef19cce9ca" rel="noopener noreferrer" target="_blank" className="table-link">Last Opportunity of Exam Form NEP Studets<i className="fa-regular fa-arrow-right"></i></a></td>
