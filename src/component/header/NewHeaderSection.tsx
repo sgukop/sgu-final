@@ -352,7 +352,11 @@ const NewHeaderSection = () => {
       <a href="https://manage-api.sguk.ac.in/api/assets/69a7d5098b58b7a708017b99" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Sanjay Ghodawat University - Computer Science and Engineering Admissions 2026-27 </a>
       <sup><img src="assets/images/new-icon-image.gif"/></sup>
       <a href="https://manage-api.sguk.ac.in/api/assets/69a7d5438b58b7a708017b9e" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Sanjay Ghodawat University - School of Design Admissions 2026-27 </a>
-        
+      <sup><img src="assets/images/new-icon-image.gif"/></sup>
+      <a href="https://manage-api.sguk.ac.in/api/assets/69a7d5788b58b7a708017ba3" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Sanjay Ghodawat University - School of Legal Studies (Law) Admissions 2026-27 </a>
+       <sup><img src="assets/images/new-icon-image.gif"/></sup>
+      <a href="https://manage-api.sguk.ac.in/api/assets/6a1fc4f3b12285fa277729a8" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Sanjay Ghodawat University - School of Computer Applications Admissions 2026-27 </a>
+         
     </Marquee>
            
             <div className="w-full bg-[#f26122]">
