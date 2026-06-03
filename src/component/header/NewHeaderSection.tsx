@@ -344,6 +344,14 @@ const NewHeaderSection = () => {
       
       <sup><img src="assets/images/new-icon-image.gif"/></sup>
       <a href="https://manage-api.sguk.ac.in/api/assets/6867a31fb513ac737c09b117" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Achievements of SWAYAM - NPTEL SGU Local Chapter Jan-May 2025 </a>
+      <sup><img src="assets/images/new-icon-image.gif"/></sup>
+      <a href="https://manage-api.sguk.ac.in/api/assets/6a1fc360b12285fa2777298d" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Sanjay Ghodawat University - Commerce & Management Admissions 2026-27 </a>
+      <sup><img src="assets/images/new-icon-image.gif"/></sup>
+      <a href="https://manage-api.sguk.ac.in/api/assets/69a51c9213210109c2c2f0e0" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Sanjay Ghodawat University - Aerospace Engineering Admissions 2026-27 </a>
+      <sup><img src="assets/images/new-icon-image.gif"/></sup>
+      <a href="https://manage-api.sguk.ac.in/api/assets/69a7d5098b58b7a708017b99" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Sanjay Ghodawat University - Computer Science and Engineering Admissions 2026-27 </a>
+      <sup><img src="assets/images/new-icon-image.gif"/></sup>
+      <a href="https://manage-api.sguk.ac.in/api/assets/69a7d5438b58b7a708017b9e" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Sanjay Ghodawat University - School of Design Admissions 2026-27 </a>
         
     </Marquee>
            
