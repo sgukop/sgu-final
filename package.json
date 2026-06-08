@@ -21,7 +21,7 @@
     "fslightbox-react": "^1.7.6",
     "lucide-react": "^0.539.0",
     "mongodb": "^6.18.0",
-    "next": "^16.0.3",
+    "next": "^9.3.3",
     "nodemailer": "^8.0.10",
     "react": "^18.2.0",
     "react-bootstrap": "^2.8.0",
