@@ -17,8 +17,8 @@ const ContactUs = () => {
                         <li className="tl-event-details-info">
                             <span className="key">
                                 <i className="fa-solid fa-envelope mr-3"></i> 
-                                <a target="_blank" href="mailto:registrar@sanjayghodawatuniversity.ac.in" className="tl-def-btn-2">
-                                    registrar@sanjayghodawatuniversity.ac.in
+                                <a target="_blank" href="mailto:registrar@sguk.ac.in" className="tl-def-btn-2">
+                                    registrar@sguk.ac.in
                                 </a>
                             </span>
                         </li>
@@ -44,7 +44,7 @@ const ContactUs = () => {
                     <ul className="tl-event-details-infos">
                         <li className="tl-event-details-info">
                             <span>
-                                <i className="fa-solid fa-user mr-3"></i> <strong>Mr. Vashikar Rajesh Ashok</strong><br/> <p className="ml-25">I/C Director, Admission & Marketing Cell</p> 
+                                <i className="fa-solid fa-user mr-3"></i><strong>Mr. Vashikar Rajesh Ashok</strong><br/> <p className="ml-25">I/C Director, Admission & Marketing Cell</p> 
                             </span>
                         </li>
                         <li className="tl-event-details-info">
@@ -60,8 +60,8 @@ const ContactUs = () => {
                         <li className="tl-event-details-info">
                             <span className="key">
                                 <i className="fa-solid fa-envelope mr-3"></i> 
-                                <a target="_blank" href="mailto:admissions@sanjayghodawatuniversity.ac.in" className="tl-def-btn-2">
-                                    admissions@sanjayghodawatuniversity.ac.in
+                                <a target="_blank" href="mailto:admissions@sguk.ac.in" className="tl-def-btn-2">
+                                    admissions@sguk.ac.in
                                 </a>
                             </span>
                         </li>
@@ -87,8 +87,8 @@ const ContactUs = () => {
                         <li className="tl-event-details-info">
                             <span className="key">
                                 <i className="fa-solid fa-envelope mr-3"></i> 
-                                <a target="_blank" href="mailto:admissions@sanjayghodawatuniversity.ac.in" className="tl-def-btn-2">
-                                    admissions@sanjayghodawatuniversity.ac.in
+                                <a target="_blank" href="mailto:admissions@sguk.ac.in" className="tl-def-btn-2">
+                                    admissions@sguk.ac.in
                                 </a>
                             </span>
                         </li>
@@ -115,15 +115,15 @@ const ContactUs = () => {
                         <li className="tl-event-details-info">
                             <span className="key">
                                 <i className="fa-solid fa-envelope mr-3"></i> 
-                                <a target="_blank" href="mailto: kiran.dhanawade@sanjayghodawatuniversity.ac.in" className="tl-def-btn-2">
-                                    kiran.dhanawade@sanjayghodawatuniversity.ac.in
+                                <a target="_blank" href="mailto: kiran.dhanawade@sguk.ac.in" className="tl-def-btn-2">
+                                    kiran.dhanawade@sguk.ac.in
                                 </a>
                             </span>
                         </li>
                     </ul>
                 </div>
 
-               {/* <div className="col-lg-6 mb-20">
+                {/* <div className="col-lg-6 mb-20">
                     <ul className="tl-event-details-infos pl-50">
                         <li className="tl-event-details-info">
                             <span className="key mt-20">
@@ -139,8 +139,8 @@ const ContactUs = () => {
                         <li className="tl-event-details-info">
                             <span className="key mt-10 mb-10">
                                 <i className="fa-solid fa-envelope mr-10"></i> 
-                                <a target="_blank" href="mailto:nitin.kshirsagar@sanjayghodawatuniversity.ac.in" className="tl-def-btn-2">
-                                    nitin.kshirsagar@sanjayghodawatuniversity.ac.in
+                                <a target="_blank" href="mailto:nitin.kshirsagar@sguk.ac.in" className="tl-def-btn-2">
+                                    nitin.kshirsagar@sguk.ac.in
                                 </a>
                             </span>
                         </li>
@@ -163,8 +163,8 @@ const ContactUs = () => {
                         <li className="tl-event-details-info">
                             <span className="key">
                                 <i className="fa-solid fa-envelope mr-3"></i> 
-                                <a target="_blank" href="mailto:vikas.bhandari@sanjayghodawatuniversity.ac.in" className="tl-def-btn-2">
-                                    vikas.bhandari@sanjayghodawatuniversity.ac.in
+                                <a target="_blank" href="mailto:vikas.bhandari@sguk.ac.in" className="tl-def-btn-2">
+                                    vikas.bhandari@sguk.ac.in
                                 </a>
                             </span>
                         </li>
@@ -187,8 +187,8 @@ const ContactUs = () => {
                         <li className="tl-event-details-info">
                             <span className="key">
                                 <i className="fa-solid fa-envelope mr-3"></i> 
-                                    <a target="_blank" href="mailto:vishal.pasale@sanjayghodawatuniversity.ac.in" className="tl-def-btn-2">
-                                        vishal.pasale@sanjayghodawatuniversity.ac.in
+                                    <a target="_blank" href="mailto:vishal.pasale@sguk.ac.in" className="tl-def-btn-2">
+                                        vishal.pasale@sguk.ac.in
                                     </a>
                             </span>
                         </li>

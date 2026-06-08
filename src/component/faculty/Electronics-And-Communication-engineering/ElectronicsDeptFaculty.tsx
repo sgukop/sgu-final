@@ -125,7 +125,7 @@ const ElectronicsDeptFaculty = () => {
                     <div className="tl-1-course-txt">
                       <h4 className="tl-1-course-title-new mt-30">Mr. Surajkumar Sadashiv Ghatage</h4>
                       <p className="tl-1-course-author-new">Assistant Professor</p>
-                      <Link href="https://manage-api.sguk.ac.in/api/assets/69942196601ecefb5ce22385" target="_blank" className="tl-3-def-btn">Profile</Link>
+                      <Link href="https://manage-api.sguk.ac.in/api/assets/6a20142df423db2ce89928f2" target="_blank" className="tl-3-def-btn">Profile</Link>
                     </div>
                   </div>
                 </div>

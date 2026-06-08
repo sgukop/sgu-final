@@ -13,22 +13,19 @@ const BPharmacy = () => {
           </thead>
           <tbody>
               <tr>
-                  <td><p>B_Pharm Full Curriculum Structure</p></td>
-                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6a0d90b912260ec08e7c8412">	B_Pharm Full Curriculum Structure <i className="fa-regular fa-arrow-right-long"></i></a></td>
+                  <td><p>R26- B.Pharm Curriculum Strucutre (NEP2020)</p></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6a1ea6e4b7ec52d9d324514a">	B_Pharm Full Curriculum Structure <i className="fa-regular fa-arrow-right-long"></i></a></td>
              </tr>
-             {/*  <tr>
-                  <td><p>FY B_Pharm</p></td>
-                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/67516dd24b17e19d8f361e48">	FY B_Pharm <i className="fa-regular fa-arrow-right-long"></i></a></td>
+               <tr>
+                  <td><p>R26- B.Pharm Regulations 2026 (NEP2020)</p></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6a1ea693b7ec52d9d324513f">	R26- B.Pharm Regulations 2026 (NEP2020) <i className="fa-regular fa-arrow-right-long"></i></a></td>
              </tr>
             <tr>
-                  <td><p>SY B_Pharm</p></td>
-                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/67516e0e4b17e19d8f361e4d">SY B_Pharm <i className="fa-regular fa-arrow-right-long"></i></a></td>
+                  <td><p>R26- Sem I & Sem II SGU B. Pharm Syllabus</p></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6a1ea725b7ec52d9d324514f">R26- Sem I & Sem II SGU B. Pharm Syllabus <i className="fa-regular fa-arrow-right-long"></i></a></td>
              </tr>
-             <tr>
-                  <td><p>TY B_Pharms</p></td>
-                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/67516e204b17e19d8f361e52">TY B_Pharm <i className="fa-regular fa-arrow-right-long"></i></a></td>
-             </tr>
-             <tr>
+             
+            {/* <tr>
                   <td><p>Final Year B_Pharm</p></td>
                   <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/67516e334b17e19d8f361e57">Final Year B_Pharm <i className="fa-regular fa-arrow-right-long"></i></a></td>
              </tr>  */}

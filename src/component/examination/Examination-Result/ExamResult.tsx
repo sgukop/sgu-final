@@ -21,8 +21,8 @@ const ExamResult = () =>  {
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td><p>10-04-2023</p></td>
-                                            <td><a href="#" rel="noopener noreferrer" target="_blank" className="table-link">#<i className="fa-regular fa-arrow-right"></i></a></td>
+                                            <td><p>01-06-2026</p></td>
+                                            <td><a href="https://manage-api.sguk.ac.in/api/assets/6a1e9692b7ec52d9d32450f0" rel="noopener noreferrer" target="_blank" className="table-link">Result Publication Notice for Diploma Pharmacy and M.Sc. Physics<i className="fa-regular fa-arrow-right"></i></a></td>
                                         </tr>
                                     </tbody>
                                  </Table>

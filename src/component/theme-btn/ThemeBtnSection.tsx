@@ -68,7 +68,7 @@ const ThemeBtnSection = () => {
     <div className="social-media-right">
         <ul>
             <li>
-                <a target="_blank" href="https://api.whatsapp.com/send?phone=+917028811192&amp;text=Hi%2C%20I%20need%20assistance%20for%20Admissions%202025.">
+                <a target="_blank" href="https://api.whatsapp.com/send?phone=+917028811192&amp;text=Hi%2C%20I%20need%20assistance%20for%20Admissions%202026.">
                     <i className="fa-brands fa-whatsapp icon"></i>
                     <span className="st-label">Whatsapp only <br/> +91 7028811192</span>
                 </a>

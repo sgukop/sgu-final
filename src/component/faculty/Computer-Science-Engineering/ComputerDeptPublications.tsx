@@ -53,9 +53,21 @@ const computerDeptPublications = ({sectionStyle,pageStyle,categoryStyle} : Props
                         <h3 className="tl-event-details-area-title text-[#4f70b6]">Research & Publications</h3>
                         <div className="tl-event-details-key-content tl-event-details-area">
                                 <ul className="tl-event-details-key-content-list phd-container">
-                                    <li>A Review Paper on "Phishing Website Detection using Machine Learning" in Industrial Engineering Journal.</li>
-                                    <li>A Review Paper On Federated Learning For Image Classification Of Brain Tumor Detection in Industrial Engineering Journal.</li>
-                                    <li>A Review Paper on "Stress Detection in IT Industries using Machine Learning" in Industrial Engineering Journal.</li>
+                                    
+                                    <li>Manisha S. Otari, Deepika Patil, Mithun B. Patil, "Modular Federated Cross-Domain Recommendation (MFCDR) System with a Projected Attention Network," Journal of Computational and Cognitive Engineering, 2026.</li>
+
+                                    <li>Ambika Gadkari, Sujata Pardeshi, "A Comprehensive Review of a Cutting-Edge Machine Learning Technique for Enhancing Phishing Website Detection," Industrial Engineering Journal, ISSN: 0970-2555, Vol. 54, Issue 4, No. 1, April 2025.</li>
+
+                                    <li>Ambika Gadkari, Sujata Pardeshi, "A Cutting-Edge Machine Learning Technique for Enhancing Phishing Website Detection," presented at the 11th National Conference on Emerging Trends in Engineering and Technology (NCETET 2025), ISBN: 978-93-48354-45-9.</li>
+
+                                    <li>Srushti Patil, Naresh Kamble, "Secure Federated Deep Learning for MRI-Based Brain Tumor Classification," Indian Institution of Industrial Engineering Journal, 2025.</li>
+
+                                    <li>Srushti Patil, Naresh Kamble, "A Review Paper on Federated Learning for Image Classification of Brain Tumor Detection," Indian Institution of Industrial Engineering Journal, 2025.</li>
+
+                                    <li>Ketki Kuudale, Sujata Pardeshi, "A Review on Stress Detection in IT Professionals Using ML & NLP: A Multimodal Approach," Industrial Engineering Journal, ISSN: 0970-2555, Vol. 54, Issue 4, No. 1, April 2025.</li>
+
+                                    <li>Ketki Kuudale, Sujata Pardeshi, "Stress Detection in IT Professionals Using ML and NLP: A Multimodal Approach," presented at the 11th National Conference on Emerging Trends in Engineering and Technology (NCETET 2025), ISBN: 978-93-48354-45-9.</li>
+
                                     <li>S. Pardeshi, "Artificial Intelligence managing human life," International Journal of Advanced Research in Computer and Communication Engineering (IJARCCE), 2024.</li>
 
                                     <li>Machhale, G., Kadam, S., & Patki, V. (2024). Integration of AI-based chatbot in tech interview prep app. In Proceedings of the 2024 2nd World Conference on Communication & Computing (WCONF).</li>

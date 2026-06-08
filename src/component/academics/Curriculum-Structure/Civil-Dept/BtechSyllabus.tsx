@@ -12,24 +12,24 @@ const BtechSyllabus = () => {
               </tr>
           </thead>
           <tbody>
-            <td><p>FY_Civil_Structure and Syllabus</p></td>
-                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69847cc609a4f8562bb027b3">FY_Civil_Structure and Syllabus <i className="fa-regular fa-arrow-right-long"></i></a></td>
+            <td><p>R25 FY Syllabus</p></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6a201729f423db2ce89928fb">R25 FY Syllabus <i className="fa-regular fa-arrow-right-long"></i></a></td>
              
               <tr>
-                  <td><p>SY_Civil_Structure and Syllabus</p></td>
-                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69847c4b09a4f8562bb027a9">SY_Civil_Structure and Syllabus <i className="fa-regular fa-arrow-right-long"></i></a></td>
+                  <td><p>R25 SY Civil Engg Syllabus</p></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6a2017b0f423db2ce8992900">R25 SY Civil Engg Syllabus <i className="fa-regular fa-arrow-right-long"></i></a></td>
              </tr>
              <tr>
-                  <td><p>TY_Civil_Structure and Syllabus</p></td>
-                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69847c6f09a4f8562bb027ae">TY_Civil_Structure and Syllabus <i className="fa-regular fa-arrow-right-long"></i></a></td>
+                  <td><p> R23 B. Tech. Civil Engg. Structure</p></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6a201836f423db2ce8992909"> R23 B. Tech. Civil Engg. Structure <i className="fa-regular fa-arrow-right-long"></i></a></td>
              </tr>
              <tr>
-                  <td><p>Final_Civil_Structure and Syllabus</p></td>
-                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/69847b9209a4f8562bb027a4">Final_Civil_Structure and Syllabus <i className="fa-regular fa-arrow-right-long"></i></a></td>
+                  <td><p>R23 B.Tech Final Year  Civil Engg</p></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6a2018a6f423db2ce8992913">R23 B.Tech Final Year  Civil Engg <i className="fa-regular fa-arrow-right-long"></i></a></td>
              </tr>
              <tr>
-                  <td><p>Minor_Civil</p></td>
-                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/675032c44b17e19d8f361b45">Minor_Civil_Structure and Syllabus <i className="fa-regular fa-arrow-right-long"></i></a></td>
+                  <td><p>B.Tech Civil Engineering Strucutre R25</p></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6a201897f423db2ce899290e">B.Tech Civil Engineering Strucutre R25 <i className="fa-regular fa-arrow-right-long"></i></a></td>
              </tr>
              
           </tbody>

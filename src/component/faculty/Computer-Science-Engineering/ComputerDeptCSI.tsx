@@ -36,12 +36,12 @@ const ComputerDeptCSI = () => {
                     <div className="tl-1-about-author mt-30">
                             <div className="tl-1-about-author-intro">
                                 <div className="tl-1-about-author-img">
-                                    <img src="/assets/images/faculty-profile-photos/cse/6. Mr. SATISH RANBHISE.jpg" alt="Author image" className="rounded-full"
+                                    <img src="/assets/images/faculty-profile-photos/cse/11. Ms. KETAKI KUDALE.jpg" alt="Author image" className="rounded-full"
                                         style={{border:"4px solid #4f70b6", padding:"10px",width:"100px",height:"100px"}}/>
                                 </div>
                                 <div className="tl-1-about-author-info">
                                 <h6 className="tl-8-feature-title">Student Branch Coordinator</h6>
-                                    <h5 className="tl-1-about-author-name">Prof. Satish Ranbhise</h5>
+                                    <h5 className="tl-1-about-author-name">Mrs. Ketki K. Kudale</h5>
                                    
                                 </div>
                             </div>

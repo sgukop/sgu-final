@@ -105,6 +105,11 @@ const computerDeptInternship = ({sectionStyle,pageStyle,categoryStyle} : Props) 
                             <td><p>UG</p></td>
                             <td><p>120</p></td>
                         </tr>
+                        <tr>
+                            <td><p>2025-26</p></td>
+                            <td><p>UG</p></td>
+                            <td><p>184</p></td>
+                        </tr>
                         
                     </tbody>
                 </Table>
@@ -152,6 +157,11 @@ const computerDeptInternship = ({sectionStyle,pageStyle,categoryStyle} : Props) 
                                     <td><p>2024-25</p></td>
                                     <td><p>UG</p></td>
                                     <td><p>43</p></td>
+                                </tr>
+                                 <tr>
+                                    <td><p>2025-26</p></td>
+                                    <td><p>UG</p></td>
+                                    <td><p>70</p></td>
                                 </tr>
                                
                             </tbody>
