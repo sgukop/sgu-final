@@ -43,7 +43,7 @@ const NewHeaderSection = () => {
                             rel="noopener noreferrer"
                         >
                             <img
-                                src="assets/images/popup/admission-popup.JPEG"
+                                src="assets/images/popup/admission-popup.jpeg"
                                 alt="SGU Announcement Popup"
                                 className="max-h-[80vh] object-contain rounded-md"
                             />
