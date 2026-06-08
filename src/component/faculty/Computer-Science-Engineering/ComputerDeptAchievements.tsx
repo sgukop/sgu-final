@@ -11,6 +11,7 @@ const ComputerDeptAchievements = () => {
         <div className="tl-event-details-key-content col-lg-12 d-md-flex gap-5" style={{ marginTop: '8px',padding:"15px"}}>
             <div className="col-md-12 col-12"> 
                 <ul className="tl-event-details-key-content-list phd-container">
+                  <li>Prof. Sameer I. Tamboli, SGU, Kolhapur, was honored for his valuable contribution as a Reviewer and Session Chair at the International Conference on Recent Trends in Engineering and Technology (ICRTET-2026), organized by D. Y. Patil College of Engineering & Technology, Kasaba Bawada, Kolhapur, held on **6th and 7th February 2026.</li>
                 <li>Students From Second Year B.Tech Computer Science and Engineering Mr. Sai Chigare , Mr.Roshan Chimne and Mr. Shubham Gawade had participated in <strong>NATIONAL LEVEL TECHNICAL EVENT TECHNOTSAV-2024</strong> organized by D.Y.Patil College of Engineering and Technology Kolhapur and secured FIRST PRIZE in APP Architect.</li>
 
                 <li>Ladies Faculty members of CSE Department secured first prize in Cricket as well as
