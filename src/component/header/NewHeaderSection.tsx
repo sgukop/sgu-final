@@ -81,7 +81,7 @@ const NewHeaderSection = () => {
                     <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
                     <li className='whitespace-nowrap hover:text-[#f26122]'><a href="https://manage-api.sguk.ac.in/api/assets/675187f44b17e19d8f361f97" target="_blank">Mandatory Disclosure</a></li>
                     <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
-                    <li className='whitespace-nowrap hover:text-[#f26122]'><NavLink href="/photo-gallery">PhotoGallery</NavLink></li>
+                    <li className='whitespace-nowrap hover:text-[#f26122]'><NavLink href="/photo-gallery">Photo Gallery</NavLink></li>
                     <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
                     <li className='whitespace-nowrap hover:text-[#f26122]'><a href="https://sgu.edulip.in/UI/indexSGU.php" target="_blank">Staff Login</a></li>
                      <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
