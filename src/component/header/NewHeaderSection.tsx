@@ -70,7 +70,7 @@ const NewHeaderSection = () => {
                     <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
                     <li className='hover:text-[#f26122]'><NavLink href="/careers">Careers</NavLink></li>
                     <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
-                    <li className='hover:text-[#f26122]'><NavLink href="/NIRF-ranking">NIRFRanking</NavLink></li>
+                    <li className='hovser:text-[#f26122]'><NavLink href="/NIRF-ranking">NIRF Ranking</NavLink></li>
                     <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
                 </ul>
               </div>
