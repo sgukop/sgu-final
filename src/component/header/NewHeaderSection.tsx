@@ -37,17 +37,7 @@ const NewHeaderSection = () => {
                         </button>
 
                         {/* Popup Image */}
-                        <a
-                            href="https://www.sguk.ac.in/admission-open"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                        >
-                            <img
-                                src="assets/images/popup/admission-popup.jpeg"
-                                alt="SGU Announcement Popup"
-                                className="max-h-[80vh] object-contain rounded-md"
-                            />
-                        </a>
+                       
                     </div>
                 </div>
             )}
