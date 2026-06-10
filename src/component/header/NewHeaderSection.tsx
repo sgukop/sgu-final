@@ -54,7 +54,7 @@ const NewHeaderSection = () => {
             <div className='w-full py-2 bg-[#212f64] flex justify-center items-center sm:flex-wrap gap-2 lg:flex-nowrap md:flex-wrap top-navbar'> 
               <div className='items-center text-[#fff] font-semibold text-[12px] lg:text-[12px] lg:justify-start 2xl:text-lg pl-4 2xl:justify-start flex sm:justify-center pl-2 md:justify-center pl-2'>
                 <ul className='gap-4 2xl:gap-4 items-center flex'>
-                    <li className='hover:text-[#f26122]'><NavLink href="/internationalization-SGU">Internationalization @SGU</NavLink></li>
+                    <li className='hover:text-[#f26122]'><NavLink href="/internationalization-SGU">Internationalization.@SGU</NavLink></li>
                     <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
                     <li className='hover:text-[#f26122]'><NavLink href="/antiragging">Anti-Ragging</NavLink></li>
                     <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
