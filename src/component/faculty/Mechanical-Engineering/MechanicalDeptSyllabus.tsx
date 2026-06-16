@@ -32,7 +32,7 @@ const MechanicalDeptSyllabus = () => {
                     </div>
                     <div className="col-lg-6 col-md-12 col-12 col-xxs-12">
                         <Link href="https://manage-api.sguk.ac.in/api/assets/67502f434b17e19d8f361b1b" className="tl-3-single-program-new" target="_blank">
-                           <h5 className="tl-3-single-program-title-new">Final Year Syllabus . <i className="fa-regular fa-arrow-right-long"></i></h5>
+                           <h5 className="tl-3-single-program-title-new">Final Year Syllabus <i className="fa-regular fa-arrow-right-long"></i></h5>
                         </Link>
                     </div>
                     <div className="col-lg-6 col-md-12 col-12 col-xxs-12">
