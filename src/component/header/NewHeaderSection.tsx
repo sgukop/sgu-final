@@ -172,7 +172,7 @@ const NewHeaderSection = () => {
                                                     <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/FST-dept-about">B.Sc.<br/> (Food Science & Technology)</NavLink></li>
                                                     <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/MLT-dept-about">B.Sc.<br/> (Medical Laboratory Technology)</NavLink></li>
                                                     <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/biotech-dept-about" >B.Sc.<br/> (Biotechnology)</NavLink></li>
-                                                    <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/biotech-dept-about" >B.Sc.<br/> (Biotechnology)</NavLink></li>
+                                                    <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/biotech-dept-about" >B.Sc.<br/> (Biotechnology).</NavLink></li>
                                             </ul>
                                         </li>
                                         <li  className="dropdown2 relative py-[3px] px-4"><a className="font-normal text-[15px] hover:text-[#f4b826] flex justify-between">School of Pharmaceutical Sciences <i className="fa-regular fa-angle-right"></i></a>
