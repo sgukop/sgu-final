@@ -76,7 +76,16 @@ const PhotoGalleryAcademic = () => {
                                     <Link href="/photo-gallery-six" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
                                 </div>
                         </div>
-                    </div>  
+                    </div> 
+                    <div className="col-lg-4">
+                        <div className="tl-1-blog flex flex-col justify-center h-full">
+                            <img src="assets/images/photo-gallery/academics/sci-star-2023/13.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
+                                <div className="tl-1-blog-txt">
+                                    <h4 className="tl-1-blog-title"><Link href="/photo-gallery-sci-star-2023">Sci-STAR 2023</Link></h4>
+                                    <Link href="/photo-gallery-sci-star-2023" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
+                                </div>
+                        </div>
+                    </div> 
                     <div className="col-lg-4">
                         <div className="tl-1-blog flex flex-col justify-center h-full">
                             <img src="assets/images/photo-gallery/academics/IEEE/11.jpeg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
@@ -107,15 +116,7 @@ const PhotoGalleryAcademic = () => {
                         </div>
                     </div> 
 
-                    <div className="col-lg-4">
-                        <div className="tl-1-blog flex flex-col justify-center h-full">
-                            <img src="assets/images/photo-gallery/academics/first-national-conference/5.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
-                                <div className="tl-1-blog-txt">
-                                    <h4 className="tl-1-blog-title"><Link href="/photo-gallery-first-national-conference">1st National Conference (NCSAS-2019)</Link></h4>
-                                    <Link href="/photo-gallery-first-national-conference" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
-                                </div>
-                        </div>
-                    </div>
+                    
 
                     <div className="col-lg-4">
                         <div className="tl-1-blog flex flex-col justify-center h-full">
@@ -139,15 +140,7 @@ const PhotoGalleryAcademic = () => {
                         </div>
                     </div>
 
-                    <div className="col-lg-4">
-                        <div className="tl-1-blog flex flex-col justify-center h-full">
-                            <img src="assets/images/photo-gallery/academics/sci-star-2023/13.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
-                                <div className="tl-1-blog-txt">
-                                    <h4 className="tl-1-blog-title"><Link href="/photo-gallery-sci-star-2023">Sci-STAR 2023</Link></h4>
-                                    <Link href="/photo-gallery-sci-star-2023" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
-                                </div>
-                        </div>
-                    </div>
+                    
 
                     <div className="col-lg-4">
                         <div className="tl-1-blog flex flex-col justify-center h-full">
@@ -155,6 +148,15 @@ const PhotoGalleryAcademic = () => {
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/photo-gallery-tata-technology">Inauguration of TATA Technology Competency Center</Link></h4>
                                     <Link href="/photo-gallery-tata-technology" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
+                                </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4">
+                        <div className="tl-1-blog flex flex-col justify-center h-full">
+                            <img src="assets/images/photo-gallery/academics/first-national-conference/5.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
+                                <div className="tl-1-blog-txt">
+                                    <h4 className="tl-1-blog-title"><Link href="/photo-gallery-first-national-conference">1st National Conference (NCSAS-2019)</Link></h4>
+                                    <Link href="/photo-gallery-first-national-conference" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
                                 </div>
                         </div>
                     </div>

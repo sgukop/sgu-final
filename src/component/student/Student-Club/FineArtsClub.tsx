@@ -36,7 +36,7 @@ const FineArtsClub = () => {
 
                                     <div className="tl-2-course-txt">
                                         <h4 className="tl-1-course-title tl-2-course-title"><strong>Faculty Coordinators</strong></h4>
-                                        <p className="tl-2-course-descr"><strong>Ms. Sonal Budhawani</strong></p>
+                                        <p className="tl-2-course-descr"><strong>Ms. Sonal Budhawani.</strong></p>
                                         <p className="tl-2-course-descr"><strong>Mobile No.8329515957</strong></p>
                                     </div>
                                 </div>

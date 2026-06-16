@@ -30,7 +30,7 @@ const TAndPTeam = () => {
                             <div className="tl-2-course-infos">
                                 <div className="tl-2-course-info">
                                     <h6 className="tl-2-course-info-key"><strong>Email : </strong></h6>
-                                    <h6 className="tl-2-course-info-value">tpo@sanjayghodawatuniversity.ac.in</h6>
+                                    <h6 className="tl-2-course-info-value">tpo@sguk.ac.in</h6>
                                 </div>
                             </div>
                         </div>
@@ -59,7 +59,7 @@ const TAndPTeam = () => {
                             <div className="tl-2-course-infos">
                                 <div className="tl-2-course-info">
                                     <h6 className="tl-2-course-info-key"><strong>Email : </strong></h6>
-                                    <h6 className="tl-2-course-info-value">dytpo@sanjayghodawatuniversity.ac.in</h6>
+                                    <h6 className="tl-2-course-info-value">dytpo@sguk.ac.in</h6>
                                 </div>
                             </div>
                         </div>
@@ -88,7 +88,7 @@ const TAndPTeam = () => {
                             <div className="tl-2-course-infos">
                                 <div className="tl-2-course-info">
                                     <h6 className="tl-2-course-info-key"><strong>Email:</strong></h6>
-                                    <h6 className="tl-2-course-info-value">akshay.dhere@sanjayghodawatuniversity.ac.in</h6>
+                                    <h6 className="tl-2-course-info-value">akshay.dhere@sguk.ac.in</h6>
                                 </div>
                             </div>
                         </div>

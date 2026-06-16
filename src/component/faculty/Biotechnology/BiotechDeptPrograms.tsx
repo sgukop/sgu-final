@@ -30,10 +30,8 @@ const BiotechDeptPrograms = () => {
                  <h6 className="tl-8-feature-title">About Program</h6>
                    
                         <div className="tl-8-feature">
-                           <p className="tl-8-feature-descr">B.Sc. Biotechnology course focuses on the application of biological principles and processes to technological advancements and innovations. It is a 4-year undergraduate program that involves subjects such as Molecular Biology, Genetics, Cell Biology, Bioinformatics, Microbiology, Immunology, Bioprocess Engineering, Biochemistry, and Biostatistics.<br/><br/>
-                           
-
-                        </p>
+                           <p className="tl-8-feature-descr">The B.Sc. Biotechnology (3+1 Hons. / Hons. by Research) program offers future-focused education with strong scientific foundations, hands-on laboratory training, multidisciplinary learning, and industry-oriented skill development. Integrating modern biotechnology with healthcare, agriculture, environmental science, and computational biology, it prepares students for careers in research, innovation, higher education, and biotechnology industries.<br/><br/>
+                           </p>
                        
                     </div>
                     <Table bordered responsive className="governing-table mt-30">
@@ -63,28 +61,40 @@ const BiotechDeptPrograms = () => {
                         <h3 className="tl-event-details-area-title">Career Opportunities:</h3>
                         <p className="dark-mode-white-color">B. Sc. Biotechnology graduates can find career options in several job profiles like </p>
                             <ul className="tl-event-details-key-content-list">
-                                <li>Pharmacist,</li>
-                                <li>Epidemiologist,</li>
-                                <li>Bio-Production Operator,</li>
-                                <li>Biotech Specialist,</li>
-                                <li>Bio-Manufacturing Specialist, etc.</li>
+                                <li>Healthcare & Bio-Pharmaceuticals</li>
+                                <li>Research & Development</li>
+                                <li>Bioinformatics & AI in Biology </li>
+                                <li>Environmental Biotechnology </li>
+                                <li>Food & Agricultural Industries </li>
                             </ul>
-                            <p className="dark-mode-white-color mt-15">Top recruiters for B. Sc. Biotechnology graduates are</p>
-                            <ul className="tl-event-details-key-content-list">
-                                <li>Cipla,</li>
-                                <li>Philips Healthcare, </li>
-                                <li>Abbott,</li>
-                                <li>Reliance Life Sciences, etc.</li>
-                            </ul>
-                            <p className="dark-mode-white-color mt-15">Some popular M. Sc.  Biotechnology jobs are</p>
-                            <ul className="tl-event-details-key-content-list">
-                                <li>Biotech Analyst,</li>
-                                <li>Research Scientist, </li>
-                                <li>Biochemist,</li>
-                                <li>Epidemiologist, etc.</li>
-                            </ul>
-                            <p className="dark-mode-white-color mt-15">The average starting salary of a Biotechnologist in India is INR 3 LPA.</p>
-                        </div>
+                            <h3 className="tl-event-details-area-title">Specialization Verticals:</h3>
+
+                                <p className="dark-mode-white-color">
+                                Explore diverse biotechnology domains aligned with global industry demands.
+                                </p>
+
+                                <ul className="tl-event-details-key-content-list">
+                                <li>
+                                    <strong>Medical &amp; Health Biotechnology</strong><br />
+                                    Drug discovery, diagnostics, therapeutics, and regenerative medicine.
+                                </li>
+
+                                <li>
+                                    <strong>Agricultural Biotechnology</strong><br />
+                                    Plant biotechnology, medicinal plants, and molecular agriculture.
+                                </li>
+
+                                <li>
+                                    <strong>Environmental Biotechnology</strong><br />
+                                    Bioremediation, sustainability, and green biotechnology.
+                                </li>
+
+                                <li>
+                                    <strong>Computational Biotechnology</strong><br />
+                                    Bioinformatics, genomics, proteomics, and AI-driven biology.
+                                </li>
+                                </ul>
+                             </div>
                 </div>
             </div>
 
@@ -94,16 +104,45 @@ const BiotechDeptPrograms = () => {
                         <h3 className="tl-event-details-area-title">Key Features of the Program
                         </h3>
                             <ul className="tl-event-details-key-content-list">
-                                <li><strong>Comprehensive Curriculum : </strong>A balanced blend of theoretical knowledge and practical skills in biotechnology, including molecular biology, genetic engineering, bioinformatics, and bioprocessing.</li>
-                                <li><strong>State-of-the-Art Infrastructure : </strong>Access to modern laboratories and research facilities equipped with the latest technologies.</li>
-                                <li><strong>Interdisciplinary Approach : </strong>Integration of biological sciences, chemistry, engineering, and computational tools to address complex biotechnological challenges.</li>
-                                <li><strong>Hands-On Training : </strong>Emphasis on experiential learning through laboratory work, internships, and project-based assignments.</li>
-                                <li><strong>Research-Driven Learning : </strong>Opportunities to engage in cutting-edge research projects under the guidance of experienced faculty and industry experts.</li>
-                                <li><strong>Industry Partnerships : </strong>Collaborations with leading biotech companies and organizations for internships, training, and placements.</li>
-                                <li><strong>Global Perspective : </strong>Curriculum aligned with international standards to prepare students for global opportunities in academia, research, and industry.</li>
-                                <li><strong>Entrepreneurship Focus : </strong>Encouragement for innovation and entrepreneurial initiatives through mentorship and support for start-up ideas.</li>
-                                <li><strong>Career Readiness : </strong>Programs designed to develop critical thinking, problem-solving, and professional skills for diverse career paths in biotechnology and allied fields. </li>
-                                <li><strong>Sustainability and Ethics : </strong>A focus on addressing global challenges with sustainable and ethical biotechnological solutions.</li>
+                                <li>
+                                    <strong>Comprehensive Curriculum :</strong> Offers a meticulously structured blend of theoretical foundations and advanced practical competencies across core domains, including molecular biology, genetic engineering, bioinformatics, and bioprocessing.
+                                    </li>
+
+                                    <li>
+                                    <strong>State-of-the-Art Infrastructure :</strong> Provides students with access to cutting-edge laboratories and premium research facilities equipped with modern, industry-standard analytical instrumentation.
+                                    </li>
+
+                                    <li>
+                                    <strong>Interdisciplinary Synergy :</strong> Seamlessly integrates biological sciences, chemistry, data science, and computational tools to address complex and evolving global biotechnological challenges.
+                                    </li>
+
+                                    <li>
+                                    <strong>Experiential Learning & Hands-On Training :</strong> Prioritizes intensive laboratory exposure, mandatory corporate internships, and project-based assignments to cultivate robust technical and analytical proficiency.
+                                    </li>
+
+                                    <li>
+                                    <strong>Research-Driven Learning :</strong> Fosters an active research culture by offering students opportunities to engage in high-impact projects under the rigorous mentorship of accomplished faculty members and industry experts.
+                                    </li>
+
+                                    <li>
+                                    <strong>Industry Collaborations :</strong> Maintains strategic collaborations with premier biotechnology corporations and research organizations to facilitate high-value training, industry mentorship, and placement opportunities.
+                                    </li>
+
+                                    <li>
+                                    <strong>Global Relevance :</strong> Features a curriculum benchmarked against international standards, effectively preparing graduates to excel in global pursuits across academia, research, and industrial sectors.
+                                    </li>
+
+                                    <li>
+                                    <strong>Culture of Innovation & Entrepreneurship :</strong> Nurtures creative thinking and entrepreneurial ambition through dedicated professional mentorship, incubation resources, and support for student-led start-up initiatives.
+                                    </li>
+
+                                    <li>
+                                    <strong>Career Readiness :</strong> Cultivates essential professional competencies, critical thinking, and technical problem-solving skills necessary to excel in diverse career pathways across life sciences and allied fields.
+                                    </li>
+
+                                    <li>
+                                    <strong>Sustainability & Bioethics :</strong> Emphasizes the development of ecologically sustainable, socially responsible, and ethically sound biotechnological solutions to address pressing global issues.
+                                    </li>
                             </ul>
                     </div>
                 </div>

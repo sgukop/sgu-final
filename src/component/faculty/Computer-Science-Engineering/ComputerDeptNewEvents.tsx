@@ -16,6 +16,17 @@ const ComputerDeptNewEvents = () => {
         imgSrc: "assets/images/computer-science-engineering/activities/workshop-fullstack/image3.png",
       },
   ]
+  const workshopDevops = [
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/workshop-devops/1.jpeg",
+      },
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/workshop-devops/2.jpeg",
+      },
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/workshop-devops/3.jpeg",
+      },
+  ]
 
   const newparentmeet = [
     {
@@ -63,6 +74,42 @@ const ComputerDeptNewEvents = () => {
       {
         imgSrc: "assets/images/computer-science-engineering/activities/technophilia/techno9.jpeg",
       },
+  ]
+  const technophilia4 = [
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/1.jpeg",
+      },
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/2.jpeg",
+      },
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/3.jpeg",
+      },
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/4.jpeg",
+      },
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/5.jpeg",
+      },
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/6.jpeg",
+      },
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/7.jpeg",
+      },
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/8.jpeg",
+      },
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/12.jpeg",
+      },
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/10.jpeg",
+      },
+      {
+        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/11.jpeg",
+      },
+     
   ]
     const asces = [
         {
@@ -276,6 +323,27 @@ const ComputerDeptNewEvents = () => {
     ]
   return (
     <>
+        <div className="tl-11-section-heading mt-50">
+                <h2 className="tl-11-section-title">Events</h2>
+            </div>
+
+
+
+         <div className="tl-11-section-heading">
+            <h2 className="tl-11-section-title">Technophilia 4.0</h2>
+        </div>
+        <div className="row tl-7-classes-row">
+         {technophilia4.map((activityItems1, index) => (
+            <div className="col-lg-4 col-sm-6 rounded-[20px]" key={index}>
+              <div className="tl-7-class">
+                <div className="tl-7-class-img">
+                  <img src={activityItems1.imgSrc} alt="Activities Images" />
+                </div>
+                
+              </div>
+            </div>
+          ))}
+        </div>
     <div className="tl-11-section-heading mt-50">
                 <h2 className="tl-11-section-title">Events</h2>
             </div>
@@ -298,6 +366,21 @@ const ComputerDeptNewEvents = () => {
           ))}
         </div>
 
+        <div className="tl-11-section-heading mt-50">
+            <h2 className="tl-11-section-title">Workshop on Cloud Computing and DevOps</h2>
+        </div>
+        <div className="row tl-7-classes-row">
+         {workshopDevops.map((activityItems1, index) => (
+            <div className="col-lg-4 col-sm-6 rounded-[20px]" key={index}>
+              <div className="tl-7-class">
+                <div className="tl-7-class-img">
+                  <img src={activityItems1.imgSrc} alt="Activities Images" />
+                </div>
+                
+              </div>
+            </div>
+          ))}
+        </div>
         <div className="tl-11-section-heading mt-50">
             <h2 className="tl-11-section-title">One Day Workshop On Full Stack Development under CSI</h2>
         </div>

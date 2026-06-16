@@ -4,25 +4,15 @@ import Table from "react-bootstrap/Table";
 const Academicfees = () => {
   return (
     <div className="accordion mt-20" id="accordionExample">
-      {/* School of Pharmacy */}
+
+      {/* School of Commerce & Management */}
       <div className="tl-event-details-area tl-course-details-curriculum">
-        <h2 className="accordion-header" id="headingOne">
-          <button
-            className="accordion-button"
-            type="button"
-            data-bs-toggle="collapse"
-            data-bs-target="#collapseOne"
-            aria-controls="collapseOne"
-          >
-            School of Pharmaceutical Science
+        <h2 className="accordion-header">
+          <button className="accordion-button" data-bs-toggle="collapse" data-bs-target="#comm">
+            School of Commerce & Management
           </button>
         </h2>
-        <div
-          id="collapseOne"
-          className="accordion-collapse collapse show"
-          aria-labelledby="headingOne"
-          data-bs-parent="#accordionExample"
-        >
+        <div id="comm" className="accordion-collapse collapse show">
           <div className="accordion-body">
             <Table striped bordered responsive className="governing-table">
               <thead>
@@ -34,141 +24,110 @@ const Academicfees = () => {
                 </tr>
               </thead>
               <tbody>
-                <tr>
-                  <td><p>B. Pharmacy</p></td>
-                  <td><p>122500</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>127500</p></td>
-                </tr>
-                <tr>
-                  <td><p>M. Pharmacy</p></td>
-                  <td><p>72500</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>77500</p></td>
-                </tr>
-                <tr>
-                  <td><p>D. Pharm</p></td>
-                  <td><p>95000</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>100000</p></td>
-                </tr>
+                <tr><td><p>B.Com</p></td><td><p>40000</p></td><td><p>5000</p></td><td><p>45000</p></td></tr>
+                <tr><td><p>BBA</p></td><td><p>120000</p></td><td><p>5000</p></td><td><p>125000</p></td></tr>
+                <tr><td><p>MBA</p></td><td><p>245000</p></td><td><p>5000</p></td><td><p>250000</p></td></tr>
+                <tr><td><p>MBA - Fintech & Data Analytics</p></td><td><p>245000</p></td><td><p>5000</p></td><td><p>250000</p></td></tr>
               </tbody>
             </Table>
           </div>
         </div>
       </div>
 
-      {/* School of Technology */}
-      <div className="tl-event-details-area tl-course-details-curriculum">
-        <h2 className="accordion-header" id="headingTwo">
-          <button
-            className="accordion-button collapsed"
-            type="button"
-            data-bs-toggle="collapse"
-            data-bs-target="#collapseTwo"
-            aria-expanded="false"
-            aria-controls="collapseTwo"
-          >
-            School of Technology
-          </button>
-        </h2>
-        <div
-          id="collapseTwo"
-          className="accordion-collapse collapse"
-          aria-labelledby="headingTwo"
-          data-bs-parent="#accordionExample"
-        >
-          <div className="accordion-body">
-            <Table striped bordered responsive className="governing-table">
-              <thead>
-                <tr>
-                  <th><p>Programme Name</p></th>
-                  <th><p>Course Fee</p></th>
-                  <th><p>Exam Fee</p></th>
-                  <th><p>Total Fee</p></th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td><p>B. Tech. Aeronautical / Electronics & Communication</p></td>
-                  <td><p>160000</p></td>
-                  
-                  <td><p>5000</p></td>
-                  <td><p>165000</p></td>
-                </tr>
-                <tr>
-                  <td><p>B. Tech. Comp. Sci. (A.I. & M.L.) / Robotics</p></td>
-                  <td><p>187500</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>192500</p></td>
-                </tr>
-                <tr>
-                  <td><p>B. Tech. AI & DS</p></td>
-                  <td><p>170000</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>175000</p></td>
-                </tr>
-                <tr>
-                  <td><p>M. Tech. (All Specializations)</p></td>
-                  <td><p>120000</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>125000</p></td>
-                </tr>
-              </tbody>
-            </Table>
-          </div>
-        </div>
-      </div>
+      {/* School of Engineering & Technology */}
+<div className="tl-event-details-area tl-course-details-curriculum">
+  <h2 className="accordion-header">
+    <button
+      className="accordion-button collapsed"
+      data-bs-toggle="collapse"
+      data-bs-target="#eng"
+    >
+      School of Engineering & Technology
+    </button>
+  </h2>
+
+  <div id="eng" className="accordion-collapse collapse">
+    <div className="accordion-body">
+
+      {/* UG Section */}
+      <h4 className="mb-3">UG Programmes (B.Tech)</h4>
+      <Table striped bordered responsive className="governing-table">
+        <thead>
+          <tr>
+            <th><p>Programme Name</p></th>
+            <th><p>Course Fee</p></th>
+            <th><p>Exam Fee</p></th>
+            <th><p>Total Fee</p></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td><p>B.Tech Aeronautical Engineering</p></td><td><p>160000</p></td><td><p>5000</p></td><td><p>165000</p></td></tr>
+          <tr><td><p>B.Tech Civil Engineering</p></td><td><p>145000</p></td><td><p>5000</p></td><td><p>150000</p></td></tr>
+          <tr><td><p>B.Tech Computer Science & Engineering</p></td><td><p>170000</p></td><td><p>5000</p></td><td><p>175000</p></td></tr>
+          <tr><td><p>B.Tech Artificial Intelligence & Machine Learning</p></td><td><p>170000</p></td><td><p>5000</p></td><td><p>175000</p></td></tr>
+          <tr><td><p>B.Tech Electronics & Communication Engineering</p></td><td><p>160000</p></td><td><p>5000</p></td><td><p>165000</p></td></tr>
+          <tr><td><p>B.Tech Artificial Intelligence and Data Science</p></td><td><p>237500</p></td><td><p>5000</p></td><td><p>242500</p></td></tr>
+          <tr><td><p>B.Tech Robotics Process Automation</p></td><td><p>187500</p></td><td><p>5000</p></td><td><p>192500</p></td></tr>
+        </tbody>
+      </Table>
+
+      {/* PG Section */}
+      <h4 className="mt-4 mb-3">PG Programmes (M.Tech)</h4>
+      <Table striped bordered responsive className="governing-table">
+        <thead>
+          <tr>
+            <th><p>Programme Name</p></th>
+            <th><p>Course Fee</p></th>
+            <th><p>Exam Fee</p></th>
+            <th><p>Total Fee</p></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td><p>M.Tech Aerospace Engineering</p></td><td><p>120000</p></td><td><p>5000</p></td><td><p>125000</p></td></tr>
+          <tr><td><p>M.Tech Civil Engineering (Structural)</p></td><td><p>120000</p></td><td><p>5000</p></td><td><p>125000</p></td></tr>
+          <tr><td><p>M.Tech Artificial Intelligence & Data Science</p></td><td><p>120000</p></td><td><p>5000</p></td><td><p>125000</p></td></tr>
+          
+        </tbody>
+      </Table>
+
+    </div>
+  </div>
+</div>
 
       {/* School of Computer Applications */}
       <div className="tl-event-details-area tl-course-details-curriculum">
-        <h2 className="accordion-header" id="headingThree">
-          <button
-            className="accordion-button collapsed"
-            type="button"
-            data-bs-toggle="collapse"
-            data-bs-target="#collapseThree"
-            aria-expanded="false"
-            aria-controls="collapseThree"
-          >
+        <h2 className="accordion-header">
+          <button className="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#comp">
             School of Computer Applications
           </button>
         </h2>
-        <div
-          id="collapseThree"
-          className="accordion-collapse collapse"
-          aria-labelledby="headingThree"
-          data-bs-parent="#accordionExample"
-        >
+        <div id="comp" className="accordion-collapse collapse">
           <div className="accordion-body">
             <Table striped bordered responsive className="governing-table">
-              <thead>
-                <tr>
-                  <th><p>Programme Name</p></th>
-                  <th><p>Course Fee</p></th>
-                  <th><p>Exam Fee</p></th>
-                  <th><p>Total Fee</p></th>
-                </tr>
-              </thead>
               <tbody>
-                <tr>
-                  <td><p>B.C.A.</p></td>
-                  <td><p>55000</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>60000</p></td>
-                </tr>
-                <tr>
-                  <td><p>M.C.A.</p></td>
-                  <td><p>105000</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>110000</p></td>
-                </tr>
-                <tr>
-                  <td><p>M.C.A. Full Stack Development</p></td>
-                  <td><p>122500</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>127500</p></td>
-                </tr>
+                <tr><td><p>BCA</p></td><td><p>55000</p></td><td><p>5000</p></td><td><p>60000</p></td></tr>
+                <tr><td><p>MCA</p></td><td><p>105000</p></td><td><p>5000</p></td><td><p>110000</p></td></tr>
+                <tr><td><p>MCA Full Stack Development</p></td><td><p>122500</p></td><td><p>5000</p></td><td><p>127500</p></td></tr>
+              </tbody>
+            </Table>
+          </div>
+        </div>
+      </div>
+
+      {/* School of Science */}
+      <div className="tl-event-details-area tl-course-details-curriculum">
+        <h2 className="accordion-header">
+          <button className="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#science">
+            School of Science
+          </button>
+        </h2>
+        <div id="science" className="accordion-collapse collapse">
+          <div className="accordion-body">
+            <Table striped bordered responsive className="governing-table">
+              <tbody>
+                <tr><td><p>B.Sc Physics</p></td><td><p>27500</p></td><td><p>5000</p></td><td><p>32500</p></td></tr>
+                <tr><td><p>B.Sc Chemistry</p></td><td><p>27500</p></td><td><p>5000</p></td><td><p>32500</p></td></tr>
+                <tr><td><p>M.Sc Chemistry</p></td><td><p>62500</p></td><td><p>5000</p></td><td><p>67500</p></td></tr>
               </tbody>
             </Table>
           </div>
@@ -176,158 +135,140 @@ const Academicfees = () => {
       </div>
 
       {/* School of Design */}
-      <div className="tl-event-details-area tl-course-details-curriculum">
-        <h2 className="accordion-header" id="headingFour">
-          <button
-            className="accordion-button collapsed"
-            type="button"
-            data-bs-toggle="collapse"
-            data-bs-target="#collapseFour"
-            aria-expanded="false"
-            aria-controls="collapseFour"
-          >
-            School of Design
-          </button>
-        </h2>
-        <div
-          id="collapseFour"
-          className="accordion-collapse collapse"
-          aria-labelledby="headingFour"
-          data-bs-parent="#accordionExample"
-        >
-          <div className="accordion-body">
-            <Table striped bordered responsive className="governing-table">
-              <thead>
-                <tr>
-                  <th><p>Programme Name</p></th>
-                  <th><p>Course Fee</p></th>
-                  <th><p>Exam Fee</p></th>
-                  <th><p>Total Fee</p></th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td><p>B. Design (Fashion/Interior/Communication/Product)</p></td>
-                  <td><p>272500</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>277500</p></td>
-                </tr>
-                <tr>
-                  <td><p>B. Design (UI/UX)</p></td>
-                  <td><p>187500</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>192500</p></td>
-                </tr>
-              </tbody>
-            </Table>
-          </div>
-        </div>
-      </div>
+<div className="tl-event-details-area tl-course-details-curriculum">
+  <h2 className="accordion-header">
+    <button
+      className="accordion-button collapsed"
+      data-bs-toggle="collapse"
+      data-bs-target="#design"
+    >
+      School of Design
+    </button>
+  </h2>
 
-      {/* School of Commerce and Management */}
+  <div id="design" className="accordion-collapse collapse">
+    <div className="accordion-body">
+      <Table striped bordered responsive className="governing-table">
+        <thead>
+          <tr>
+            <th><p>Programme Name</p></th>
+            <th><p>Course Fee</p></th>
+            <th><p>Exam Fee</p></th>
+            <th><p>Total Fee</p></th>
+          </tr>
+        </thead>
+        <tbody>
+            <tr>
+              <td><p>B.Des Fashion Design</p></td>
+              <td><p>272500</p></td>
+              <td><p>5000</p></td>
+              <td><p>277500</p></td>
+            </tr>
+            <tr>
+              <td><p>B.Des Communication Design</p></td>
+              <td><p>272500</p></td>
+              <td><p>5000</p></td>
+              <td><p>277500</p></td>
+            </tr>
+            <tr>
+              <td><p>B.Des Product Design</p></td>
+              <td><p>272500</p></td>
+              <td><p>5000</p></td>
+              <td><p>277500</p></td>
+            </tr>
+            <tr>
+              <td><p>B.Des Interior Design</p></td>
+              <td><p>272500</p></td>
+              <td><p>5000</p></td>
+              <td><p>277500</p></td>
+            </tr>
+            <tr>
+              <td><p>B.Des UI/UX Design</p></td>
+              <td><p>187500</p></td>
+              <td><p>5000</p></td>
+              <td><p>192500</p></td>
+            </tr>
+          </tbody>
+      </Table>
+    </div>
+  </div>
+</div>
+
+      {/* School of Pharmacy */}
       <div className="tl-event-details-area tl-course-details-curriculum">
-        <h2 className="accordion-header" id="headingFive">
-          <button
-            className="accordion-button collapsed"
-            type="button"
-            data-bs-toggle="collapse"
-            data-bs-target="#collapseFive"
-            aria-expanded="false"
-            aria-controls="collapseFive"
-          >
-            School of Commerce and Management
+        <h2 className="accordion-header">
+          <button className="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#pharma">
+            School of Pharmaceutical Science
           </button>
         </h2>
-        <div
-          id="collapseFive"
-          className="accordion-collapse collapse"
-          aria-labelledby="headingFive"
-          data-bs-parent="#accordionExample"
-        >
+        <div id="pharma" className="accordion-collapse collapse">
           <div className="accordion-body">
             <Table striped bordered responsive className="governing-table">
-              <thead>
-                <tr>
-                  <th><p>Programme Name</p></th>
-                  <th><p>Course Fee</p></th>
-                  <th><p>Exam Fee</p></th>
-                  <th><p>Total Fee</p></th>
-                </tr>
-              </thead>
               <tbody>
-                <tr>
-                  <td><p>B. Com.</p></td>
-                  <td><p>40000</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>45000</p></td>
-                </tr>
-                <tr>
-                  <td><p>B. B. A.</p></td>
-                  <td><p>120000</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>125000</p></td>
-                </tr>
-                <tr>
-                  <td><p>M.B.A. / M.B.A. Fintech</p></td>
-                  <td><p>245000</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>250000</p></td>
-                </tr>
+                <tr><td><p>B.Pharm</p></td><td><p>122500</p></td><td><p>5000</p></td><td><p>127500</p></td></tr>
+                 <tr><td><p>B.Sc Clinical Research and Technology</p></td><td><p>72500</p></td><td><p>5000</p></td><td><p>77500</p></td></tr>
+                <tr><td><p>M.Pharm - Pharmaceutics</p></td><td><p>95000</p></td><td><p>5000</p></td><td><p>100000</p></td></tr>
+                <tr><td><p>M.Pharm - Pharmaceutical Quality Assurance</p></td><td><p>95000</p></td><td><p>5000</p></td><td><p>100000</p></td></tr>
               </tbody>
             </Table>
           </div>
         </div>
       </div>
+                    {/* School of Life Sciences */}
+              <div className="tl-event-details-area tl-course-details-curriculum">
+                <h2 className="accordion-header">
+                  <button className="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#lifescience">
+                    School of Life Sciences
+                  </button>
+                </h2>
+                <div id="lifescience" className="accordion-collapse collapse">
+                  <div className="accordion-body">
+                    <Table striped bordered responsive className="governing-table">
+                      <tbody>
+                        <tr>
+                          <td><p>B. Sc. Food Science & Technology</p></td>
+                          <td><p>42500</p></td>
+                          <td><p>5000</p></td>
+                          <td><p>47500</p></td>
+                        </tr>
+                        <tr>
+                          <td><p>B.Sc. Medical Lab Technology</p></td>
+                          <td><p>52500</p></td>
+                          <td><p>5000</p></td>
+                          <td><p>57500</p></td>
+                        </tr>
+                        <tr>
+                          <td><p>B. Sc. Biotechnology</p></td>
+                          <td><p>42500</p></td>
+                          <td><p>5000</p></td>
+                          <td><p>47500</p></td>
+                        </tr>
+                      </tbody>
+                    </Table>
+                  </div>
+                </div>
+              </div>
 
       {/* School of Legal Studies */}
       <div className="tl-event-details-area tl-course-details-curriculum">
-        <h2 className="accordion-header" id="headingTen">
-          <button
-            className="accordion-button collapsed"
-            type="button"
-            data-bs-toggle="collapse"
-            data-bs-target="#collapseTen"
-            aria-expanded="false"
-            aria-controls="collapseTen"
-          >
+        <h2 className="accordion-header">
+          <button className="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#law">
             School of Legal Studies
           </button>
         </h2>
-        <div
-          id="collapseTen"
-          className="accordion-collapse collapse"
-          aria-labelledby="headingTen"
-          data-bs-parent="#accordionExample"
-        >
+        <div id="law" className="accordion-collapse collapse">
           <div className="accordion-body">
             <Table striped bordered responsive className="governing-table">
-              <thead>
-                <tr>
-                  <th><p>Programme Name</p></th>
-                  <th><p>Course Fee</p></th>
-                  <th><p>Exam Fee</p></th>
-                  <th><p>Total Fee</p></th>
-                </tr>
-              </thead>
               <tbody>
-                <tr>
-                  <td><p>LLB</p></td>
-
-                  <td><p>55000</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>60000</p></td>
-                </tr>
-                <tr>
-                  <td><p>BA LLB / BBA LLB</p></td>
-                  <td><p>85000</p></td>
-                  <td><p>5000</p></td>
-                  <td><p>90000</p></td>
-                </tr>
+                <tr><td><p>BBA Law (Hons.)</p></td><td><p>85000</p></td><td><p>5000</p></td><td><p>90000</p></td></tr>
+                <tr><td><p>BA Law (Hons.)</p></td><td><p>55000</p></td><td><p>5000</p></td><td><p>60000</p></td></tr>
+                <tr><td><p>LLB</p></td><td><p>35000</p></td><td><p>5000</p></td><td><p>60000</p></td></tr>
               </tbody>
             </Table>
           </div>
         </div>
       </div>
+
     </div>
   );
 };

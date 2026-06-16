@@ -110,37 +110,7 @@ const PharmacyDeptAbout = () => {
             </div>
         </div>
 
-        <div className="row outer-style mt-50">
-           <h3 className="tl-event-details-area-title">D. Pharmacy</h3>
-                <div>
-                      <Tab.Container id="myTab" defaultActiveKey="overview-tab">
-                            <Nav className="nav-tabs tl-course-details-navs">
-                                <Nav.Item>
-                                      <Nav.Link eventKey="overview-tab">PEO</Nav.Link>
-                                </Nav.Item>
-                                <Nav.Item>
-                                      <Nav.Link eventKey="curriculum-tab">PO</Nav.Link>
-                                </Nav.Item>
-                                <Nav.Item>
-                                      <Nav.Link eventKey="instructor-tab">PSO</Nav.Link>
-                                </Nav.Item>
-                            </Nav>
 
-                            <Tab.Content id="tl-course-tab-content">
-                                    <Tab.Pane eventKey="overview-tab">
-                                          <DPharmacyPEO/>
-                                    </Tab.Pane>
-                                    <Tab.Pane eventKey="curriculum-tab">
-                                          <DPharamcyPO/>
-                                    </Tab.Pane>
-                                    <Tab.Pane eventKey="instructor-tab">
-                                        <DPharmacyPSO/>
-                                    </Tab.Pane>
-                                   
-                            </Tab.Content>
-                      </Tab.Container>
-                  </div>
-              </div>
 
               <div className="row outer-style mt-50">
            <h3 className="tl-event-details-area-title">B. Pharmacy</h3>

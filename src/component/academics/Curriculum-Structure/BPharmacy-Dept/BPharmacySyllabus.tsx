@@ -27,9 +27,7 @@ const BPharmacySyllabus = () => {
         <Nav.Item>
           <Nav.Link eventKey="overview-tab">B. Pharmacy</Nav.Link>
         </Nav.Item>
-        <Nav.Item>
-          <Nav.Link eventKey="curriculum-tab">D. Pharmacy</Nav.Link>
-        </Nav.Item>
+        
 
         <Nav.Item>
           <Nav.Link eventKey="instruction-tab">M. Pharmacy</Nav.Link>

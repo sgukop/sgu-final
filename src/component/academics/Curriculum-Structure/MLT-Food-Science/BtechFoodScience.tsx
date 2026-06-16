@@ -27,6 +27,15 @@ const BtechFoodScience = () => {
                   <td><p>MLT Minor Track</p></td>
                   <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/67d7f3754f56d3a0bcfb9f21">MLT Minor Track <i className="fa-regular fa-arrow-right-long"></i></Link></td>
              </tr>
+             <tr>
+                  <td><p>R23 B. Sc. MLT 4th Year Syllabus</p></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6a2129fcf423db2ce8992ac8">R23 B. Sc. MLT 4th Year Syllabus <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+             </tr>
+
+             <tr>
+                  <td><p>R-24 B. Sc. MLT 3rd Year Syllabus</p></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6a212a34f423db2ce8992acf">R-24 B. Sc. MLT 3rd Year Syllabus <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+             </tr>
           </tbody>
       </Table>
 

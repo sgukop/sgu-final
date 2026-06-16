@@ -33,6 +33,11 @@ const PharmacyProfessionalBodies = () => {
                           <h5 className="tl-3-single-program-title-new">Details of Guest Lectures 24-25 <i className="fa-regular fa-arrow-right-long"></i></h5>
                         </Link>
                     </div>
+                 <div className="col-lg-6 col-md-12 col-12 col-xxs-12 mt-20">
+                        <Link href="https://manage-api.sguk.ac.in/api/assets/6a0d85e612260ec08e7c837e" className="tl-3-single-program-new" target="_blank">
+                          <h5 className="tl-3-single-program-title-new">Details of Guest Lectures 25-26 <i className="fa-regular fa-arrow-right-long"></i></h5>
+                        </Link>
+                    </div>
             </div>
 
 

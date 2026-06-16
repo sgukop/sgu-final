@@ -28,7 +28,7 @@ const PharmacyDeptPlacements = () => {
                 <div className="col-lg-6">
                     <div className="mt-20">
                       <p className="tl-8-feature-descr">The SGU Training & Placement Cell is committed to providing all possible assistance to its graduates and postgraduates students in their efforts to find employment. The purpose of the Training and Placement is to give the students right knowledge, skill and aptitude and meet the manpower requirements of the Industry. This commitment is demonstrated by the existence Placement record.</p>
-                      <a href="https://manage-api.sguk.ac.in/api/assets/67de7f8e4f56d3a0bcfbaa07" className="tl-def-btn-2 mt-4" target="_blank">Cumulative Placement Data <i className="fa-regular fa-arrow-right"></i></a>
+                      <a href="https://manage-api.sguk.ac.in/api/assets/6a1ea2ffb7ec52d9d3245126" className="tl-def-btn-2 mt-4" target="_blank">Cumulative Placement Data <i className="fa-regular fa-arrow-right"></i></a>
                      
                     </div>
                 </div>

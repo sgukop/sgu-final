@@ -30,7 +30,7 @@ const FundReceived = () => {
                        <div className="tl-event-details-key-content">
                             <ul className="tl-event-details-key-content-list phd-container">
                                 <li><strong>Dr. S. A. Deshmukh</strong>, Studies on Microwave Assisted Dissolution of silk fibroin with ionic liquids for their photonic applications. Fund received: <strong>1,60,000/-</strong></li>
-                                <li><strong>Dr. K.N. Tiwari</strong>, Design, Synthesis and Antimicrobial Evaluation of Dihydroquinazolinone and Quinazolinone linked Sulfonamide derivatives, Fund received: <strong>1,95,000/-</strong></li>
+                                <li><strong>Dr. A.D.Sawant</strong>, Design, Synthesis and Antimicrobial Evaluation of Dihydroquinazolinone and Quinazolinone linked Sulfonamide derivatives, Fund received: <strong>1,95,000/-</strong></li>
                                 <li><strong>Dr. M. S. Chavan</strong>, Efficient, facial and greener protocol for the synthesis of heterocycles and its applications, Fund received: <strong>80,000/-</strong></li>
                             </ul>
                         </div>

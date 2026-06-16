@@ -29,7 +29,7 @@ const ElectricalDeptAbout = () => {
               <div className="col-lg-5">
                 <div className="tl-14-about-img">
                   <img
-                    src="assets/images/electrical-electronics-engineering/about-dept/about-dept.png"
+                    src="assets/images/electrical-electronics-engineering/about-dept/male.jpg"
                     alt="Image"
                     className="rounded-full"
                     style={{border:"10px solid #4f70b6", padding:"20px"}}
@@ -70,8 +70,7 @@ const ElectricalDeptAbout = () => {
                     United Nation General Assembly (UNGA) <br />
                     <br />
                     <span style={{ fontWeight: "bold" }}>
-                      Head of Department <br /> Dr. Rajin M. Linus <br />{" "}
-                      Associate Professor{" "}
+                      Head of Department <br></br>
                     </span>
                   </p>
                 </div>

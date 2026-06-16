@@ -36,16 +36,29 @@ const BiotechDeptFaculty = () => {
                                 <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                                     <div className="tl-1-course-new">
                                         <div className="tl-1-course-img-new">
-                                            <img src="/assets/images/faculty-profile-photos/biotechnology/2. Dr. MONIKA.jpg" alt="Faculty Image"/>
+                                            <img src="/assets/images/faculty-profile-photos/biotechnology/4. Dr. Sneha Paymal.jpeg" alt="Faculty Image"/>
                                         </div>
 
                                         <div className="tl-1-course-txt">
-                                            <h4 className="tl-1-course-title-new mt-30">Dr. Monika Yadav</h4>
+                                            <h4 className="tl-1-course-title-new mt-30">Dr. Sneha Babasaheb Paymal</h4>
                                             <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                            <Link href="https://manage-api.sguk.ac.in/api/assets/67d7e5224f56d3a0bcfb9eee" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                                            <Link href="https://manage-api.sguk.ac.in/api/assets/6a1e9875b7ec52d9d32450fc" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                                         </div>
                                     </div>
-                                </div>  
+                                </div>
+                                <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                                    <div className="tl-1-course-new">
+                                        <div className="tl-1-course-img-new">
+                                            <img src="/assets/images/faculty-profile-photos/biotechnology/5. Dr. Yuvraj Jagtab.jpeg" alt="Faculty Image"/>
+                                        </div>
+
+                                        <div className="tl-1-course-txt">
+                                            <h4 className="tl-1-course-title-new mt-30">Dr. Yuvraj Anandrao Jagtap</h4>
+                                            <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
+                                            <Link href="https://manage-api.sguk.ac.in/api/assets/6a1e988bb7ec52d9d3245101" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                                        </div>
+                                    </div>
+                                </div>    
                              </div>
                         </div>    
                     </div>

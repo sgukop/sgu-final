@@ -80,6 +80,34 @@ const Download = () => {
                         </div>
                     </div>
                 </div>
+                <div className="col-md-6">
+                    <div className="tl-event-details-left">
+                        <div className="tl-event-details-key-content tl-event-details-area rounded-lg mb-8 shadow-[2px_2px_0_3px_rgba(242,97,34,0.6)]">
+                          <h3 className="tl-event-details-area-title text-[#4f70b6]">Staff Quarters & Hostel Accommodation Policy  2025</h3>
+                            <div className="col-lg-12 col-md-12 col-xxs-12">
+                                <div className="publications-content">
+                                    <Link href="https://manage-api.sguk.ac.in/api/assets/69a810ac1f1abf5b9678b3d3" target="_blank">
+                                        <h6 className="tl-3-single-program-title publication-title">Staff Quarters & Hostel Accommodation Policy  2025 <i className="fa-regular fa-arrow-right-long"></i></h6>
+                                    </Link>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="col-md-6">
+                    <div className="tl-event-details-left">
+                        <div className="tl-event-details-key-content tl-event-details-area rounded-lg mb-8 shadow-[2px_2px_0_3px_rgba(242,97,34,0.6)]">
+                          <h3 className="tl-event-details-area-title text-[#4f70b6]">Staff Quarters & Hostel Accommodation Policy  2026</h3>
+                            <div className="col-lg-12 col-md-12 col-xxs-12">
+                                <div className="publications-content">
+                                    <Link href="https://manage-api.sguk.ac.in/api/assets/69a810931f1abf5b9678b3ce" target="_blank">
+                                        <h6 className="tl-3-single-program-title publication-title">Staff Quarters & Hostel Accommodation Policy  2026 <i className="fa-regular fa-arrow-right-long"></i></h6>
+                                    </Link>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <div className="col-md-6 mt-30">
                     <div className="tl-event-details-left">
                         <div className="tl-event-details-key-content tl-event-details-area rounded-lg mb-8 shadow-[2px_2px_0_3px_rgba(242,97,34,0.6)]">

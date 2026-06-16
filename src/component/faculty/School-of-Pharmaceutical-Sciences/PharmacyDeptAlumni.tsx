@@ -139,6 +139,11 @@ const PharmacyDeptAlumni: React.FC = () => {
                      <h5 className="tl-3-single-program-title-new">ALUMNI LIST B PHARM 23-24 <i className="fa-regular fa-arrow-right-long"></i></h5>
                    </Link>
                </div>
+               <div className="col-lg-6 col-md-12 col-12 col-xxs-12">
+                   <Link href="https://manage-api.sguk.ac.in/api/assets/6a0d86e312260ec08e7c8387" className="tl-3-single-program-new" target="_blank">
+                     <h5 className="tl-3-single-program-title-new">ALUMNI LIST B PHARM 24-25 <i className="fa-regular fa-arrow-right-long"></i></h5>
+                   </Link>
+               </div>
           </div>
 
           <div className="tl-11-section-heading mt-50">

@@ -41,11 +41,7 @@ const StudentSportsEvents = () => {
                                             <td><p>10.00 am to 5.30 pm</p></td>
                                             <td><p>A Building Drawing Hall</p></td>
                                         </tr>
-                                        <tr>
-                                            <td><p>Carrom - 3 Set (M/W)</p></td>
-                                            <td><p>10.00 am to 5.30 pm</p></td>
-                                            <td><p>MBA Building 2nd Floor</p></td>
-                                        </tr>
+                                        
                                         <tr>
                                             <td><p>Kabaddi (20+10+20) (M)</p></td>
                                             <td><p>10.00 am to 5.30 pm</p></td>
@@ -133,16 +129,8 @@ const StudentSportsEvents = () => {
                                             <td><p>10.00 am to 5.30 pm</p></td>
                                             <td><p>Cricket Ground</p></td>
                                         </tr>
-                                        <tr>
-                                            <td><p>Kho-Kho (8+8) (M)</p></td>
-                                            <td><p>10.00 am to 5.30 pm</p></td>
-                                            <td><p>Main Ground</p></td>
-                                        </tr>
-                                        <tr>
-                                            <td><p>Sprints (100m, 200m) (M/W)</p></td>
-                                            <td><p>10.00 am to 5.30 pm</p></td>
-                                            <td><p>Main Ground</p></td>
-                                        </tr>
+                                        
+                                        
                                         <tr>
                                             <td><p>Long jump (M/W)</p></td>
                                             <td><p>10.00 am to 5.30 pm</p></td>

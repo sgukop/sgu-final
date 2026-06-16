@@ -147,12 +147,37 @@ const PharmacyDeptLaboratories = () => {
                     </div>
                   </div>
 
+                  
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/pharmacy-dept/laboratories/machineroom.jpeg" alt="Laboratories Image"/></figure>
+                            <figure><img src="assets/images/pharmacy-dept/laboratories/Extruder Cum Spheronizer.jpeg" alt="Laboratories Image"/></figure>
                         </div>
-                        <h3 className="tl-6-latest-article-title mt-10">Machine Room</h3>
+                        <h3 className="tl-6-latest-article-title mt-10">Extruder Cum Spheronizer</h3>
+                    </div>
+                  </div>
+                                    <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                    <div className="tl-9-blog"> 
+                        <div className="tl-9-event-img">
+                            <figure><img src="assets/images/pharmacy-dept/laboratories/Humidity Chamber.jpeg" alt="Laboratories Image"/></figure>
+                        </div>
+                        <h3 className="tl-6-latest-article-title mt-10">Humidity Chamber </h3>
+                    </div>
+                  </div>
+                                    <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                    <div className="tl-9-blog"> 
+                        <div className="tl-9-event-img">
+                            <figure><img src="assets/images/pharmacy-dept/laboratories/Machine room.jpeg" alt="Laboratories Image"/></figure>
+                        </div>
+                        <h3 className="tl-6-latest-article-title mt-10">Machine room</h3>
+                    </div>
+                  </div>
+                                    <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                    <div className="tl-9-blog"> 
+                        <div className="tl-9-event-img">
+                            <figure><img src="assets/images/pharmacy-dept/laboratories/Medicinal Garden.jpeg" alt="Laboratories Image"/></figure>
+                        </div>
+                        <h3 className="tl-6-latest-article-title mt-10">Medicinal Garden</h3>
                     </div>
                   </div>
             </div>   

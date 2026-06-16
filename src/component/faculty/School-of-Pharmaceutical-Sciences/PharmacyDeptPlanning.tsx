@@ -22,6 +22,16 @@ const PharmacytDeptPlanning = () => {
                 <div className="row">
                
                     <div className="col-lg-6 col-md-12 col-12 col-xxs-12">
+                        <Link href="https://manage-api.sguk.ac.in/api/assets/6a1e9c9bb7ec52d9d324510c" className="tl-3-single-program-new" target="_blank">
+                          <h5 className="tl-3-single-program-title-new">Academic Calendar 2026-27  <i className="fa-regular fa-arrow-right-long"></i></h5>
+                        </Link>
+                    </div>
+                    <div className="col-lg-6 col-md-12 col-12 col-xxs-12">
+                        <Link href="https://manage-api.sguk.ac.in/api/assets/6a1e9cb8b7ec52d9d3245111" className="tl-3-single-program-new" target="_blank">
+                          <h5 className="tl-3-single-program-title-new">Academic Calendar 2025-26 <i className="fa-regular fa-arrow-right-long"></i></h5>
+                        </Link>
+                    </div>
+                    <div className="col-lg-6 col-md-12 col-12 col-xxs-12">
                         <Link href="https://manage-api.sguk.ac.in/api/assets/67dcfef84f56d3a0bcfba4b1" className="tl-3-single-program-new" target="_blank">
                           <h5 className="tl-3-single-program-title-new">Academic Calendar 2024-25 Odd Sem <i className="fa-regular fa-arrow-right-long"></i></h5>
                         </Link>

@@ -34,6 +34,14 @@ const PanhalaTourImages = [
     
     
   ]
+const BalodyanOrphanageImages = [
+    {
+      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/31.jpg",
+    },
+    
+    
+    
+  ]
 const FireFlinkPvt = [
     {
       imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/1.jpg",
@@ -306,6 +314,40 @@ const parentmeet = [
            <div className="tl-11-section-heading ">
            <h2 className="tl-11-section-title">Industrial Visits</h2>
           </div>
+
+          <div className="col-xl-12 col-lg-12 ">
+              <h2 className="tl-11-section-title">
+                Balodyan Orphanage, Abdul Lat Ichalkaranji, Maharashtra
+              </h2>
+
+              <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+                <div className="tl-8-course-txt">
+                  <h4 className="achievements-title leading-relaxed text-[16px]">
+                    • Organized By: Department of Computer Applications<br/>
+                    • Date: 31st January 2026<br/>
+                    • Objective: To inculcate social responsibility among students and support underprivileged children through community service.<br/>
+                    • Activity Details: Visit conducted with 4 faculty members and 25 students. Donated essential items like jowar, dal, wheat, rice, atta, pencils, pens, biscuits, and snacks benefiting around 100 children.<br/>
+                    • Faculty Guidance: Conducted under the guidance of Dr. Chetan S. Arage along with Mrs. Usha Bubane, Ms. Swati Patil, Mr. Shailesh Sokashe, and Ms. Ishwari Bhosale.<br/>
+                    • Student Interaction: Students engaged with children, shared experiences, and motivated them through friendly interaction.<br/>
+                    • Outcome: Developed empathy, social responsibility, and strengthened community bonding.<br/>
+                    • Conclusion: A meaningful initiative promoting compassion, service, and social awareness among students.
+                  </h4>
+                </div>
+              </div>
+            </div>
+
+            {/* Image Section */}
+            <div className="row tl-7-classes-row mt-10">
+              {BalodyanOrphanageImages.map((activityItem, index) => (
+                <div className="col-lg-4 col-sm-6 rounded-[20px] mb-20" key={index}>
+                  <div className="tl-7-class">
+                    <div className="tl-7-class-img">
+                      <img src={activityItem.imgSrc} alt="Social Activity Images" />
+                    </div>
+                  </div>
+                </div>
+              ))}
+            </div>
           <div className="col-xl-12 col-lg-12 ">
             <h2 className="tl-11-section-title">Orange ITech Services Pvt. Ltd., Pune</h2>
 

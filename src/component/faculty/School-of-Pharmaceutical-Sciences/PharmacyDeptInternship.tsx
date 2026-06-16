@@ -78,6 +78,12 @@ const PhramacyDeptInternship = () => {
                             <td><p>110</p></td>
                             <td><a href="https://manage-api.sguk.ac.in/api/assets/67dd17674f56d3a0bcfba589" className="tl-def-btn-2" target="_blank">T.Y.B.PhARM 2023-24<i className="fa-regular fa-arrow-right"></i></a></td>
                         </tr>
+                        <tr>
+                            <td><p></p></td>
+                            <td><p>2025</p></td>
+                            <td><p>88</p></td>
+                            <td><a href="https://manage-api.sguk.ac.in/api/assets/6a1ea3eab7ec52d9d3245132" className="tl-def-btn-2" target="_blank">T.Y.B.PhARM 2023-24<i className="fa-regular fa-arrow-right"></i></a></td>
+                        </tr>
                     </tbody>
                 </Table>
                 </div>

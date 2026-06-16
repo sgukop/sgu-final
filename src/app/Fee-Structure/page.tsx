@@ -12,7 +12,7 @@ export const metadata: Metadata = {
 const Academicyear2425Page = () => {
   return (
     <Layout5>
-        <BreadcrumbSection title='Fee Structure for F.Y. - Academic Year 2025-26' style=''/>
+        <BreadcrumbSection title='Fee Structure for F.Y. - Academic Year 2026-27' style=''/>
         <Academicyear2425/>
         
        {/* <PricingSection/>

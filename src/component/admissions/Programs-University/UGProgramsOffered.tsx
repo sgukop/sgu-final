@@ -37,6 +37,10 @@ const UGProgramsOffered = () => {
                                 <li>Civil Engineering</li>
                                 <li>Computer Science & Engineering</li>
                                 <li>Electronics & Communication Engineering</li>
+                                <li>Artificial Intelligence and Data Science</li>
+                                <li>Robotics Process Automation </li>
+                                
+                                
                                
                             </ul>
                         </div>
@@ -235,43 +239,7 @@ const UGProgramsOffered = () => {
 
     <h3 className="tl-event-details-area-title-new text-[#f26122] mb-4">Faculty of Humanities and Social Sciences</h3>
 
-    <div className="tl-course-details-curriculum rounded-lg mb-8 shadow-[2px_2px_0_3px_rgba(242,97,34,0.6)]">
-      <h2 className="accordion-header" id="headingTwo">
-        <button
-          className="accordion-button collapsed"
-          type="button"
-          data-bs-toggle="collapse"
-          data-bs-target="#collapseSix"
-          aria-expanded="false"
-          aria-controls="collapseSix"
-        >
-          School of Social Science
-        </button>
-      </h2>
-      <div
-        id="collapseSix"
-        className="accordion-collapse collapse"
-        aria-labelledby="headingTwo"
-        data-bs-parent="#ugprograms"
-      >
-        <div className="accordion-body">
-            <div className="row">
-                <div className="col-lg-12">
-                    <div className="tl-event-details-left">
-                        <div className="tl-event-details-key-content">
-                        <h3 className="tl-event-details-area-title-new">Bachelor of Arts (B.A.)</h3>
-                            <ul className="tl-event-details-key-content-list">
-                                <li>Bachelor of Arts(History, Geography, Political Science)</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>  
-        </div>
-      </div>
-    </div>
-
-    <div className="tl-course-details-curriculum rounded-lg mb-8 shadow-[2px_2px_0_3px_rgba(242,97,34,0.6)]">
+      <div className="tl-course-details-curriculum rounded-lg mb-8 shadow-[2px_2px_0_3px_rgba(242,97,34,0.6)]">
       <h2 className="accordion-header" id="headingTwo">
         <button
           className="accordion-button collapsed"
@@ -336,9 +304,11 @@ const UGProgramsOffered = () => {
                         <div className="tl-event-details-key-content">
                         <h3 className="tl-event-details-area-title-new">Bachelor in Design</h3>
                             <ul className="tl-event-details-key-content-list">
-                                <li>Fashion Design Styling & Business </li>
+                                <li>Fashion Design  </li>
                                 <li>Communication Design</li>
                                 <li>Product Design</li>
+                                <li>Interior Design</li>
+                                <li>UI-UX</li>
                                
                                 
                             </ul>

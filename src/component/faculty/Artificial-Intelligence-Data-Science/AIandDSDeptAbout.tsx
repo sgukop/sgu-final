@@ -44,7 +44,7 @@ const AIandDSDeptAbout = () => {
                   It gives me immense pleasure to welcome you to the Department of Artificial Intelligence and Data Science at Sanjay Ghodawat University. With the world moving rapidly towards an AI-driven economy, this program is a unique initiative to empower students with the knowledge and skills required to become innovative technologists, researchers, and entrepreneurs.
                   </p>
                   <p className="dark-mode-white-color text-justify">
-                  Our tie-up with NxtWave Institute of Advanced Technology bridges the gap between academia and industry, ensuring that students learn not just theory but also its application in solving real-world challenges. The department focuses on holistic development through rigorous academics, industry-driven projects, internships, aptitude building, and communication skills. I firmly believe that our students will emerge as industry-ready professionals and responsible citizens who will contribute meaningfully to society
+                  Our tie-up with NxtWave of Innovation in Advanced Technologies bridges the gap between academia and industry, ensuring that students learn not just theory but also its application in solving real-world challenges. The department focuses on holistic development through rigorous academics, industry-driven projects, internships, aptitude building, and communication skills. I firmly believe that our students will emerge as industry-ready professionals and responsible citizens who will contribute meaningfully to society
                   </p>
                   <p className="text-center mt-2"><strong>“WISH YOU ALL THE BEST”</strong></p>
                   <span

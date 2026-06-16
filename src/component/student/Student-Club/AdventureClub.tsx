@@ -15,7 +15,7 @@ const AdventureClub = () => {
                             <div className="col-lg-6 col-md-12 col-xxs-12">
                                 <div className="publications-content">
                                     <Link href="#">
-                                        <h6 className="tl-3-single-program-title publication-title">Registration link for SGU Student Clubs 2023-24 <i className="fa-regular fa-arrow-right-long"></i></h6>
+                                        <h6 className="tl-3-single-program-title publication-title">Registration link for SGU Student Clubs. 2023-24 <i className="fa-regular fa-arrow-right-long"></i></h6>
                                     </Link>
                                 </div>
                             </div>

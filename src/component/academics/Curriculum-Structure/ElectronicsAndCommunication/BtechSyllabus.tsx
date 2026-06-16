@@ -31,27 +31,23 @@ const BtechSyllabus = () => {
              </tr>   */}
 
              <tr>
-                  <td><p>B.Tech ECE Complete Program Structure as per NEP</p></td>
-                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/684bbed190b84f1a67c86cb8">B.Tech ECE Complete Program Structure as per NEP w.e.f A.Y 2025-26 Onwards <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+                  <td><p>B.Tech E & C Engineering Strucutre R23</p></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6a210446f423db2ce8992a55">B.Tech E & C Engineering Strucutre R23 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
              </tr>
              <tr>
-                  <td><p>First Year B.Tech ECE Structure and Syllabus as per NEP</p></td>
-                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/684bbee590b84f1a67c86cbd">First Year B.Tech ECE Structure and Syllabus as per NEP -R.25 w.e.f A.Y 2025-26 Onwards <i className="fa-regular fa-arrow-right-long"></i></a></td>
+                  <td><p>B.Tech E & C Engineering Strucutre R25 (Sem I to VIII)</p></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6a2104dff423db2ce8992a5a">B.Tech E & C Engineering Strucutre R25 (Sem I to VIII) <i className="fa-regular fa-arrow-right-long"></i></a></td>
              </tr>
              <tr>
-                  <td><p>Second Year B.tech ECE Structure and Syllabus as per NEP</p></td>
-                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/684bbefb90b84f1a67c86cc2">Second Year B.tech ECE Structure and Syllabus as per NEP- R24 for A.Y. 2025-26 <i className="fa-regular fa-arrow-right-long"></i></a></td>
+                  <td><p>B.Tech E & C Engineering Strucutre and syllabus  R23 Final  Year</p></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6a2104f8f423db2ce8992a5f">B.Tech E & C Engineering Strucutre and syllabus  R23 Final  Year <i className="fa-regular fa-arrow-right-long"></i></a></td>
              </tr>
              <tr>
-                  <td><p>Third Year B.Tech ECE Structure and Syllabus-R23 for A.Y 2025-26</p></td>
-                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/684bbf0c90b84f1a67c86cc7">Third Year B.Tech ECE Structure and Syllabus-R23 for A.Y 2025-26 <i className="fa-regular fa-arrow-right-long"></i></a></td>
+                  <td><p>SY B.Tech ECE Syllabus (R-25)</p></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6a210505f423db2ce8992a64">SY B.Tech ECE Syllabus (R-25) <i className="fa-regular fa-arrow-right-long"></i></a></td>
              </tr> 
 
-             <tr>
-                  <td><p>Final Year B.Tech ECE Structure and Syllabus R22 for A.Y 2025-26</p></td>
-                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/684bbf1e90b84f1a67c86ccc">Final Year B.Tech ECE Structure and Syllabus R22 for A.Y 2025-26 <i className="fa-regular fa-arrow-right-long"></i></a></td>
-             </tr>   
-          </tbody>
+                       </tbody>
       </Table>
 
     </div>
