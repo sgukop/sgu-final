@@ -97,19 +97,7 @@ const PhdProgram = () => {
 
                   {[
                     ["01","Research Proposal Template","01_Research Proposal Template"],
-                    ["02","Six Month Progress Report","02_Approved Ph. D Six Month Progress Report"],
-                    ["03","Progress Report Submission","03_Approved Six-month PhD Progress Report Submission"],
-                    ["04","PhD APS Guidelines","04_Approved PhD APS Guidelines"],
-                    ["05","APS Report & Pre-PhD Seminar","05_Approved APS Report cum Extension of Ph. D Registration_Pre-PhD Seminar Form"],
-                    ["06","PhD Synopsis Manual","06_Aproved Manual_Phd-Synosis"],
-                    ["07","PhD Synopsis Template","07_Approved PhD Synopsis Template"],
-                    ["08","Thesis Preparation Guidelines","08_Approved Guidelines for Peparation of PhD Thesis"],
-                    ["09","Thesis Template","09_Approved SGU Ph.D. Thesis Template"],
-                    ["10","Evaluator Appointment Letter","10_Approved PhD Evaluater Appointment Letter"],
-                    ["11","Adjudication Report","11_Approved Ph.D Adjudication Report"],
-                    ["12","Thesis Evaluation Letter","12_Approved PhD Evaluation of Thesis Letter"],
-                    ["13","Remuneration Bill","13_Approved PhD Examination Remulneration Bill"],
-                    ["14","Checklist with Thesis","14_CHECK LIST T0 BE SUBMITTED WITH THESIS"]
+                    
                   ].map(([no, name, file]) => (
                     <tr key={no}>
                       <td>{no}</td>
@@ -150,8 +138,7 @@ const PhdProgram = () => {
 
                   {[
                     ["01","PG Dissertation Guidelines","01_Approved Guidelines for PG Dissertation","01_Approved Guidelines for Peparation of PhD Thesis"],
-                    ["02","PG Dissertation Template","02_Approved PG Dissertation Template","02_Approved PG Dissertation Template"],
-                    ["03","PG Remuneration Bill","03_Approved PG Examination Remulneration Bill","03_Approved PG Examination Remulneration Bill"]
+                 
                   ].map(([no, name, pdfFile, wordFile]) => (
                     <tr key={no}>
                       <td>{no}</td>
