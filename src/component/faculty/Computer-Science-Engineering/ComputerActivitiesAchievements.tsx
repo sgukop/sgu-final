@@ -91,6 +91,8 @@ const ComputerActivitiesAchievements = () => {
                                 <div className="tl-event-details-key-content col-lg-12 d-md-flex gap-5" style={{ marginTop: '8px',padding:"15px" }}>
                                     <div className="col-md-12 col-12"> 
                                         <ul className="tl-event-details-key-content-list phd-container">
+                                            <li>Two days Workshop on cloud computing and Devops by Mr. Shreyash P. Lingare DevSecOps Engineer, Lippopay Mumbai in 2025</li>
+                                            <li>Workshop on Google Tools, Product, and Gemini API Integration by  Google Student Ambassador Program 2025</li>
                                             <li>Workshop on GDG Arcade and Google Cloud Study Jam on 13th october 2025</li>
                                             <li>Workshop on Google tools , Product and Gemini API Integration  on 3rd october 2025</li>
                                             <li>Sustainable Development was organized on 1st & 2nd February 2024.</li>
@@ -134,6 +136,7 @@ const ComputerActivitiesAchievements = () => {
                                 <div className="tl-event-details-key-content col-lg-12 d-md-flex gap-5" style={{ marginTop: '8px',padding:"15px" }}>
                                     <div className="col-md-12 col-12"> 
                                         <ul className="tl-event-details-key-content-list phd-container">
+                                            <li>    Expert Session on From Idea to Publication: A Guide to Writing Research Papers” By Resource Person: Dr. Shefali Sonavne Associate Professor, IT Walchand College of Engineering, Sangli on Date:Friday,08/08/2025.</li>
                                             <li>A guest lecture on “How AI is Revolutionising various industries is that good enough” by  Dr. Aneish Kumar Ex Country Head, Bank of Newyork.. on 7th February 2024</li>
                                             <li>Mrs. Radika Dhanal, Assistant Professor, DYP Kolhapur addresses an expert session on a topic of “Advance Algorithms” in Sanjay Ghodawat University on 26th September 2024.</li>
                                             <li>Mr. Juber Mohamad Shaphi Mulla, Assistant Professor, Dept. of Mechatronics, Rajarambapu Institute of Technology, Islampur addresses a expert session on a topic of “Future Trends on IOT and Embedded Systems” in Sanjay Ghodawat University on 04th October 2024.</li>

@@ -37,17 +37,7 @@ const NewHeaderSection = () => {
                         </button>
 
                         {/* Popup Image */}
-                        <a
-                            href="https://www.sguk.ac.in/admission-open"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                        >
-                            <img
-                                src="assets/images/popup/admission-popup.jpeg"
-                                alt="SGU Announcement Popup"
-                                className="max-h-[80vh] object-contain rounded-md"
-                            />
-                        </a>
+                       
                     </div>
                 </div>
             )}
@@ -70,7 +60,7 @@ const NewHeaderSection = () => {
                     <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
                     <li className='hover:text-[#f26122]'><NavLink href="/careers">Careers</NavLink></li>
                     <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
-                    <li className='hover:text-[#f26122]'><NavLink href="/NIRF-ranking">NIRF Ranking</NavLink></li>
+                    <li className='hovser:text-[#f26122]'><NavLink href="/NIRF-ranking">NIRF Ranking</NavLink></li>
                     <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
                 </ul>
               </div>
@@ -182,7 +172,7 @@ const NewHeaderSection = () => {
                                                     <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/FST-dept-about">B.Sc.<br/> (Food Science & Technology)</NavLink></li>
                                                     <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/MLT-dept-about">B.Sc.<br/> (Medical Laboratory Technology)</NavLink></li>
                                                     <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/biotech-dept-about" >B.Sc.<br/> (Biotechnology)</NavLink></li>
-                                                    <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/biotech-dept-about" >B.Sc.<br/> (Biotechnology)</NavLink></li>
+                                                    <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/biotech-dept-about" >B.Sc.<br/> (Biotechnology).</NavLink></li>
                                             </ul>
                                         </li>
                                         <li  className="dropdown2 relative py-[3px] px-4"><a className="font-normal text-[15px] hover:text-[#f4b826] flex justify-between">School of Pharmaceutical Sciences <i className="fa-regular fa-angle-right"></i></a>
@@ -344,7 +334,12 @@ const NewHeaderSection = () => {
       
       <sup><img src="assets/images/new-icon-image.gif"/></sup>
       <a href="https://manage-api.sguk.ac.in/api/assets/6867a31fb513ac737c09b117" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Achievements of SWAYAM - NPTEL SGU Local Chapter Jan-May 2025 </a>
-        
+    
+    <sup><img src="assets/images/new-icon-image.gif"/></sup>
+      <a href="https://manage-api.sguk.ac.in/api/assets/6a0fe1fe45c0260733062523" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">📢 KOLHAPUR, GET READY FOR THE FUTURE OF DESIGN! </a>
+    <sup><img src="assets/images/new-icon-image.gif"/></sup>
+      <a href="#" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">MBA Admissions Open for Academic Year 2026–27  </a>
+    
     </Marquee>
            
             <div className="w-full bg-[#f26122]">

@@ -28,7 +28,7 @@ const BiotechDeptAbout = () => {
               <div className="col-lg-5">
                 <div className="tl-14-about-img">
                   <img
-                    src="assets/images/biotechnology/about-department/about-image.png"
+                    src="assets/images/biotechnology/about-department/about-image.jpg"
                     alt="About Department Image"
                     className="rounded-full"
                     style={{border:"10px solid #4f70b6", padding:"20px"}}
@@ -38,22 +38,17 @@ const BiotechDeptAbout = () => {
 
               <div className="col-lg-7">
                
-                <p className="dark-mode-white-color">
-                  The last few decades have witnessed a significant, if not revolutionary, shift in our understanding of living things and our capacity to control biological systems. This has resulted in significant advancements in biotechnology, which have a broad influence on a variety of fields, including consumer goods, agriculture, food, diagnostics, health care, and the environment. Until and unless the general public benefits from these biotechnological advancements, they are pointless. <br/> Only if such technologies are adopted for production on an industrial scale would this be possible. The Department provides a special combination of applied biological sciences skills. It aims to apply this knowledge to advance different biotechnological processes and products. Achieving this goal is thought to be possible through: <br/><br/> </p>
-                  <ul className="tl-event-details-key-content-list phd-container">
-                      <li>
-                      (a) producing highly skilled human resources with the ability to quantitatively analyse biological systems, which will enable them to play a part in staffing contemporary bioprocess industries and offer an integrated approach to biotechnology research and development.
-                      </li>
-                      <li>
-                      (b) To keep improving research and development initiatives for bio-industrial goods and services that are environmentally sustainable, such as bio-energy, biopolymers, clean environment, and medicines.
-                      </li>
-                      <li>
-                      (c) Taking the lead in worldwide advancements in applied biological sciences and bioprocess technology, as well as facilitating involvement in sponsored research and industrial consultancy.
-                      </li>
-                      <li>
-                      (d) Sharing information produced by conferences, workshops, and short-term courses
-                      </li>
-                    </ul>
+                <p className="dark-mode-white-color">        
+                
+                  Welcome to the Department of Biotechnology, where science, innovation, and societal impact converge to solve global challenges in healthcare, agriculture, industry, and environmental sustainability. Our dynamic, future-oriented biotechnology programme seamlessly bridges fundamental life sciences with emerging innovations. Rooted in interdisciplinary learning, the curriculum provides a strong foundation in microbiology, molecular biology, cell biology, biochemistry, bioinformatics, and biostatistics.
+                  <br/><br/>
+
+                  We are committed to nurturing young minds with the technical expertise, research aptitude, and ethical values required to thrive in this rapidly advancing field. The programme emphasizes both theoretical understanding and extensive, hands-on laboratory training. Students gain practical exposure to modern scientific instruments, biomolecular analysis, fermentation technology, and computational biology, while exploring cutting-edge areas like AI in biology and biopharmaceuticals.
+                  <br/><br/>
+
+                  Through a vibrant research culture, industrial interactions, workshops, and community-oriented learning, we encourage students to think critically and innovate for the benefit of society. Ultimately, our vision is to prepare competent researchers, professionals, and entrepreneurs ready to meet global scientific and industrial challenges. We invite aspiring students to join us in this exciting journey of discovery, where knowledge meets application and ideas evolve into sustainable solutions for a better future.
+                  </p>
+
                 </div>
             </div>
            
@@ -62,7 +57,7 @@ const BiotechDeptAbout = () => {
                 <div className="rounded-[20px] bg-[#4f70b6] p-6 text-white flex flex-col h-full">
                     <h3 className="tl-event-details-area-title text-white">Vision</h3>
                     <h6 className="vision-info">
-                    A center of excellence in Biotechnology education, research and innovation, fostering sustainable solutions for the benefit of humankind and the environment.
+                    To be a center of excellence in biotechnology education, research, and innovation, empowering future scientists to develop sustainable, ethical, and impactful solutions for society, industry, and the environment.
                     </h6>
                 </div>
             </div>
@@ -71,19 +66,27 @@ const BiotechDeptAbout = () => {
                     <h3 className="tl-event-details-area-title text-white">Mission</h3>
                     <ul className="course-subjects">
                       <li>
-                      To engage in cutting-edge BT research with global relevance such as Medical Biotechnology, genetic engineering and bioinformatics.
+                        To provide quality education and interdisciplinary training in biotechnology through strong foundations in life sciences, emerging technologies, and hands-on learning.
                       </li>
+
                       <li>
-                      To establish collaborations with reputed national and international institutions via student exchange programs and knowledge transfer.
+                        To promote cutting-edge research and innovation in areas such as medical biotechnology, genetic engineering, bioinformatics, industrial biotechnology, environmental biotechnology, and sustainable bioprocesses with global relevance.
                       </li>
+
                       <li>
-                      Contribute to the global scientific community by carrying out research published in the most reputed journals.
+                        To establish meaningful collaborations with reputed national and international academic, research, and industrial organizations for knowledge exchange, internships, research partnerships, and student development.
                       </li>
+
                       <li>
-                      Encourage the spirit of entrepreneurship and innovation through research.
+                        To contribute to the scientific community through impactful research, publications, patents, consultancy, and technology-driven solutions addressing societal and environmental challenges.
                       </li>
+
                       <li>
-                      Engage in community service and outreach programs and align with the UN SDGs.
+                        To foster innovation, critical thinking, and entrepreneurial spirit among students by encouraging research-based learning, startup culture, and problem-solving approaches.
+                      </li>
+
+                      <li>
+                        To engage in community outreach, environmental awareness, and socially responsible initiatives aligned with the Sustainable Development Goals (SDGs) for the betterment of society.
                       </li>
                     </ul>
                     </div>

@@ -82,7 +82,7 @@ const PharmacyDeptStudentsForum = () => {
             <div className="tl-3-programs-pills">
                 <div className="row justify-content-center">
                     <div className="col-lg-6 col-md-12 col-12 col-xxs-12">
-                        <Link href="https://manage-api.sguk.ac.in/api/assets/6a0d8cbd12260ec08e7c83ca" className="tl-3-single-program-new" target="_blank">
+                        <Link href="https://manage-api.sguk.ac.in/api/assets/6a1e9ccfb7ec52d9d3245116" className="tl-3-single-program-new" target="_blank">
                           <h5 className="tl-3-single-program-title-new">Final Yr 26 <i className="fa-regular fa-arrow-right-long"></i></h5>
                         </Link>
                     </div>

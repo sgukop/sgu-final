@@ -34,7 +34,7 @@ const NIRFRanking2026 = () => {
                 <div className="examination-container">
                     <div className="row tl-event-details-row g-2">
                         <div className="col-lg-10 mb-0">
-                            <h6 className="exam-title">SANJAY GHODAWAT UNIVERSITY20240301- Overall</h6> 
+                            <h6 className="exam-title">SANJAY GHODAWAT UNIVERSITY20240301- Overall..</h6> 
                         </div>
 
                         <div className="col-lg-2">

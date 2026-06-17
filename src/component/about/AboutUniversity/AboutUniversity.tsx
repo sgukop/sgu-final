@@ -17,7 +17,7 @@ const AboutUniversity = () => {
                 <div className="col-lg-6 col-sm-6 col-12">
                     <div className="pl-8">
                         <h2 className="tl-4-section-title-new py-4 rounded-tl-[40px] rounded-br-[40px] w-fit px-8 bg-[#4f70b6] font-bold text-white">Sanjay Ghodawat University</h2>
-                        <p className="tl-4-about-descr">Sanjay Ghodawat University was established as a State Private University in the year 2017. Previously it was Sanjay Ghodawat Insitutes formed in the year 2009 by the Chairman of SG Group, Sanjay Ghodawat. The Institute had received NAAC A grade and also its programs were accredited by NBA and after this the natural progression was the evolvement of Sanjay Ghodawat University.</p>
+                        <p className="tl-4-about-descr">Sanjay Ghodawat University was established as a State Private University in the year 2017. Previously it was Sanjay Ghodawat Institute formed in the year 2009 by the Chairman of SG Group, Sanjay Ghodawat. The Institute had received NAAC A grade and also its programs were accredited by NBA and after this the natural progression was the evolvement of Sanjay Ghodawat University.</p>
                     </div>
                 </div>
             </div>

@@ -1,7 +1,15 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  allowedDevOrigins: ["http://172.18.0.80:3000", "http://localhost:3000"],
+  reactStrictMode: true,
+
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: '**',
+      },
+    ],
+  },
 };
 
 module.exports = nextConfig;
-
