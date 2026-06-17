@@ -26,17 +26,7 @@ const SocialGathering = () => {
                         </div>
                     </div>
 
-                    
-
-                    <div className="col-lg-4">
-                        <div className="tl-1-blog">
-                            <img src="assets/images/photo-gallery/social-gathering/social-gathering-2022/1.jfif" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
-                                <div className="tl-1-blog-txt">
-                                    <h4 className="tl-1-blog-title"><Link href="/social-gathering-2022">Social Gathering 2022</Link></h4>
-                                    <Link href="/social-gathering-2022" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
-                                </div>
-                        </div>
-                    </div> 
+                                        
                     
                 </div>
              </div>
