@@ -337,8 +337,6 @@ const NewHeaderSection = () => {
     
     <sup><img src="assets/images/new-icon-image.gif"/></sup>
       <a href="https://manage-api.sguk.ac.in/api/assets/6a0fe1fe45c0260733062523" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">📢 KOLHAPUR, GET READY FOR THE FUTURE OF DESIGN! </a>
-    <sup><img src="assets/images/new-icon-image.gif"/></sup>
-      <a href="#" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">MBA Admissions Open for Academic Year 2026–27  </a>
     
     </Marquee>
            
