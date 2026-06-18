@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "ES5",
+    "target": "ES2022",
     "lib": [
       "dom",
       "dom.iterable",
@@ -23,7 +23,6 @@
         "src/*"
       ]
     },
-    "ignoreDeprecations": "6.0",
     "plugins": [
       {
         "name": "next"
@@ -40,4 +39,4 @@
   "exclude": [
     "node_modules"
   ]
-} 
+}
