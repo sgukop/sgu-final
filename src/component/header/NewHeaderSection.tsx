@@ -11,7 +11,6 @@ const NewHeaderSection = () => {
   
     return (
         <>
-        
         <div className="w-full">
             <img
                         src="assets/images/new-logo/sgu-main-logo.jpg"
@@ -25,13 +24,10 @@ const NewHeaderSection = () => {
                 <ul className='gap-4 2xl:gap-4 items-center flex'>
                     <li className='hover:text-[#f26122]'><NavLink href="/internationalization-SGU">Internationalization @SGU</NavLink></li>
                     <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
-                    <li className='hover:text-[#f26122]'><NavLink href="/antiragging">Anti-Ragging</NavLink></li>
+                    <li className='hover:text-[#f26122]'><NavLink href="/antiragging">Anti Ragging</NavLink></li>
                     <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
                     <li className='hover:text-[#f26122]'><NavLink href="/careers">Careers</NavLink></li>
                     <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
-                    <li className='hover:text-[#f26122]'><NavLink href="/NIRF-ranking">NIRF Ranking</NavLink></li>
-                    <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
-                    
                 </ul>
                
               </div>
@@ -45,12 +41,6 @@ const NewHeaderSection = () => {
                     <li className='whitespace-nowrap hover:text-[#f26122]'><a href="https://manage-api.sguk.ac.in/api/assets/675187f44b17e19d8f361f97" target="_blank">Mandatory Disclosure</a></li>
                     <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
                     <li className='whitespace-nowrap hover:text-[#f26122]'><NavLink href="/photo-gallery">Photo Gallery</NavLink></li>
-                    <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
-                    <li className='whitespace-nowrap hover:text-[#f26122]'><a href="https://sgu.edulip.in/UI/indexSGU.php" target="_blank">Staff Login</a></li>
-                     <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
-                    <li className='hover:text-[#f26122]'><NavLink href="/Media">Media</NavLink></li>
-                    
-
                 </ul>
               </div>
               
@@ -134,11 +124,14 @@ const NewHeaderSection = () => {
                                         <li  className="dropdown2 relative py-[3px] px-4"><a className="font-normal text-[15px] hover:text-[#f4b826] flex justify-between">School of Engineering & Technology <i className="fa-regular fa-angle-right"></i></a>
                                             <ul className="dropdown-menu2 hidden absolute left-[100%] bg-white top-[10px] py-2 border-t-4 border-[#f4b826]">
                                                   <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/aerospace-engineering-about">Aerospace Engineering</NavLink></li>
+                                                  <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/mechanical-dept-about" >Mechanical Engineering</NavLink></li>
                                                   <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/civil-dept-about">Civil Engineering</NavLink></li>
+                                                  <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/electrical-dept-about" >Electrical and Electronics <br/> Engineering</NavLink></li>
                                                   <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/electronics-dept-about" >Electronics and Communication <br/>Engineering</NavLink></li>
                                                   <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/computer-science-dept-about">Computer Science & Engineering</NavLink></li>
                                                   <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/AI-ML-dept-about" >Artificial Intelligence and <br/> Machine Learning(AI&ML)</NavLink></li>
                                                   <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/AI-DS-dept-about" >Artificial Intelligence and <br/> Data Science(AIDS)</NavLink></li>
+                                                  <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/NIAT-AIML-Data-Science-dept-about" >NIAT Corporate(AI/Ml, Data Science)</NavLink></li>
                                             </ul>
                                         </li>
 
@@ -170,7 +163,6 @@ const NewHeaderSection = () => {
                                         <li  className="dropdown2 relative py-[3px] px-4"><a className="font-normal text-[15px] hover:text-[#f4b826] flex justify-between">School of Pharmaceutical Sciences <i className="fa-regular fa-angle-right"></i></a>
                                             <ul className="dropdown-menu2 hidden absolute left-[100%] bg-white top-[10px] py-2 border-t-4 border-[#f4b826]">
                                                   <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/pharmacy-dept-about" >Department of Pharmacy</NavLink></li>
-                                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/pharmacy-clinical-about" >B. Sc. Clinical Research and Technology</NavLink></li>
                                             </ul>
                                         </li>
                                     </ul>
@@ -189,7 +181,14 @@ const NewHeaderSection = () => {
 
                             <li className="dropdown1 relative py-[3px] px-4"><a className="font-normal text-[15px] hover:text-[#f4b826] flex justify-between">Faculty of Humanities and Social Sciences <i className="fa-regular fa-angle-right"></i></a>
                                     <ul className="dropdown-menu1 hidden absolute left-[100%] bg-white top-[10px] py-2 border-t-4 border-[#f4b826]">
-                                        
+                                        <li  className="dropdown2 relative py-[3px] px-4"><a className="font-normal text-[15px] hover:text-[#f4b826] flex justify-between">School of Social Science <i className="fa-regular fa-angle-right"></i></a>
+                                            <ul className="dropdown-menu2 hidden absolute left-[100%] bg-white top-[10px] py-2 border-t-4 border-[#f4b826]">
+                                            <h6 className="subfaculty-menu">Department of Social Sciences</h6>
+                                                  <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/english-dept-about" >Department of English</NavLink></li>
+                                                  <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/geography-dept-about" >Department of Geography</NavLink></li>
+                                            </ul>
+                                        </li>
+
                                         <li  className="dropdown2 relative py-[3px] px-4"><a className="font-normal text-[15px] hover:text-[#f4b826] flex justify-between">School of Legal Studies(Law) <i className="fa-regular fa-angle-right mt-1"></i></a>
                                             <ul className="dropdown-menu2 hidden absolute left-[100%] bg-white top-[10px] py-2 border-t-4 border-[#f4b826]">
                                             <h6 className="subfaculty-menu">Department of Law (Legal Studies)</h6>
@@ -240,21 +239,14 @@ const NewHeaderSection = () => {
                       Admissions
                         <ul className="dropdown-menu absolute hidden mt-6 py-2 text-left rounded-none border-t-4 border-[#f4b826]">
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/programs-university">Programs</NavLink></li>
-                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/admission-open">Admission Enquiry</NavLink></li>
-                                
-                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/contact-admission">Contact For Admission</NavLink></li>
-                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/Fee-Structure">Fees Structure</NavLink></li>
-                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/eligibility-criteria">Eligibility-criteria</NavLink></li>
-                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/scholarships">Scholarships</NavLink></li>
-                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/document-required">Document Required</NavLink></li>
-                                <li className="py-[3px] px-4"><a href="https://manage-api.sguk.ac.in/api/assets/693bbdbd475c25da4f1219ce" className="font-normal text-[15px] hover:text-[#f4b826]" target="_blank">SGU Brochure</a></li>
-                                
-
+                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/admission-process">Admission Process</NavLink></li>
+                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/prospectus">Prospectus</NavLink></li>
+                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/contact-admission">Contact For Admission</NavLink></li> 
                                 </ul>
                       </li>
                    
 
-                    <li className='whitespace-nowrap 2xl:text-xl hover:text-[#212f64] dropdown relative cursor-pointer py-4'>
+                    <li className='whitespace-nowrap 2xl:text-xl hover:text-[#212f64] dropdown relative cursor-pointer py-4 z-0 px-4'>
                         Life &#64;SGU
                         <ul className="dropdown-menu absolute hidden mt-6 py-2 text-left rounded-none border-t-4 border-[#f4b826]">
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/about-campus">Campus Pulse @SGU</NavLink></li>
@@ -275,7 +267,7 @@ const NewHeaderSection = () => {
                         className="h-full object-contain ml-2"
                     /></a>
                 </div>   */}
-                <ul className='gap-3 2xl:gap-6 items-center lg:grid-cols-5 flex'>
+                <ul className='gap-3 2xl:gap-4 items-center lg:grid-cols-5 flex'>
                    <li className='whitespace-nowrap 2xl:text-xl hover:text-[#212f64] dropdown relative cursor-pointer py-4'>
                       R&amp;D
                         <ul className="dropdown-menu absolute hidden mt-6 py-2 text-left rounded-none border-t-4 border-[#f4b826]">
@@ -296,7 +288,6 @@ const NewHeaderSection = () => {
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/examination-notice">Notice</NavLink></li>
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/examination-revaluation">Revaluation/Re Verification/Photocopy</NavLink></li>
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/examination-convocation">Convocation</NavLink></li>
-                                <li className="px-4 font-normal text-[15px] py-[3px] hover:text-[#f4b826]"><NavLink href="https://manage-api.sguk.ac.in/api/assets/6756da469173bf9f471abfa1">Examination Ordinance</NavLink></li>
                         </ul>
                       </li>
 
@@ -308,7 +299,7 @@ const NewHeaderSection = () => {
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/our-recruiters">Our Recruiters</NavLink></li>
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/training-placement-statistical-analysis" >Statistics</NavLink></li>
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/sgu-photo-gallery">Photo Gallery</NavLink></li>
-                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/Media">Media Coverage</NavLink></li>
+                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/training-placement-media-coverage">Media Coverage</NavLink></li>
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/training-placement-softskills-syllabus" >Aptitude & Soft Skill Syllabus</NavLink></li>
                         </ul>
                       </li>
@@ -318,9 +309,8 @@ const NewHeaderSection = () => {
                         <ul className="dropdown-menu absolute hidden mt-6 py-2 text-left rounded-none border-t-4 border-[#f4b826]">
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/icctvb2025">International Conference ICCTVB 2025</NavLink></li>
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/icsshfe2026">International Conference ICSHFSE 2026</NavLink></li>
-                               <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/icsbp2026">International Conference ICSBP 2026</NavLink></li>
-                               <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/scistar2026">Sci-STAR 2026</NavLink></li>
-                                                                                               
+                               
+                                                               
                         </ul>
                       </li>
 
@@ -353,41 +343,11 @@ const NewHeaderSection = () => {
 </div>*/}
 
     <Marquee speed={100} gradient={false} pauseOnHover className="flex m-2">
-
-      
-      
-       <sup><img src="assets/images/new-icon-image.gif"/></sup>
-        <a href="https://manage-api.sguk.ac.in/api/assets/6a02fdbda93e8415504a4dca" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">SGU Placements 2025 – Top Recruiters & Prominent Placements </a>
-
-      <sup><img src="assets/images/new-icon-image.gif"/></sup>
-        <a href="https://www.sguk.ac.in/admission-open" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Admissions Open for Academic Year 2026–27 </a>
-
-      <sup><img src="assets/images/new-icon-image.gif"/></sup>
-      <a href="https://manage-api.sguk.ac.in/api/assets/69578ac6c03a7929c6c93c73" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6"> SGU Student Selected as Top 10 Finalist in National Innovation Challenge Powered by Google Gemini</a>
-      
-      {/*<sup><img src="assets/images/new-icon-image.gif"/></sup>
-      <a href="https://manage-api.sguk.ac.in/api/assets/693a85c55fea6e5500e4d8cb" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6"> West-Zone Tennis Championship 2026 • Sanjay Ghodawat University • Men's & Women's Tennis Tournament • 7th- 11th January 2026</a>
-      <sup><img src="assets/images/new-icon-image.gif"/></sup>
-        <a href="https://www.sguk.ac.in/phd-program" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">PhD Admissions Advertisement Academic Year 2025-2026</a>
         <sup><img src="assets/images/new-icon-image.gif"/></sup>
-      <a href="https://www.sguk.ac.in/careers" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6"> Current Openings 2026</a>
-      <sup><img src="assets/images/new-icon-image.gif"/></sup>
-        <a href="https://www.sguk.ac.in/scistar2026" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Sanjay Ghodawat University is pleased to announce Sci-STAR 2026 (Inspiring Innovations), a multidisciplinary science event scheduled on 18th Feb 2026.</a>
-        <sup><img src="assets/images/new-icon-image.gif"/></sup>
-        <a href="https://manage-api.sguk.ac.in/api/assets/68e617dfa28d22ca95ef782c" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Admission Cut off date for the academic year 2025-26. </a>
-        */}
-        
-        <sup><img src="assets/images/new-icon-image.gif"/></sup>
-        <a href="https://manage-api.sguk.ac.in/api/assets/6867a31fb513ac737c09b117" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Achievements of SWAYAM - NPTEL SGU Local Chapter Jan-May 2025 </a>
+        <a href="https://manage-api.sguk.ac.in/api/assets/6867a31fb513ac737c09b117" target="_blank" className="text-[#ffd300] text-bold hover:text-[#212f64] mr-6">Achievements of SWAYAM - NPTEL SGU Local Chapter Jan-May 2025 </a>
 
-        
-        
-        
-        
-        
-        
-        
-
+        <sup><img src="assets/images/new-icon-image.gif" /></sup>
+        <a href="https://www.sguk.ac.in/our-recruiters" target="_blank" className="text-[#ffd300] text-bold hover:text-[#212f64]">Training and Placement Details in Academics Year  2024-25 </a>
     </Marquee>
            
             <div className="w-full bg-[#f26122]">
@@ -405,4 +365,4 @@ const NewHeaderSection = () => {
     )
 }
 
-export default NewHeaderSection 
+export default NewHeaderSection
