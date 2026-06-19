@@ -46,6 +46,7 @@ const NewHeaderSection = () => {
                 </div>
             )}
             {/* --- POPUP MODAL END --- */}
+            
         
         <div className="w-full">
             <img
