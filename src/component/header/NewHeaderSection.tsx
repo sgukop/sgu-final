@@ -348,7 +348,7 @@ const NewHeaderSection = () => {
     
     
     
-    </Marquee>s
+    </Marquee>
            
             <div className="w-full bg-[#f26122]">
               <div className="hamburgerrrrr">
