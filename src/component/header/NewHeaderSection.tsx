@@ -343,9 +343,12 @@ const NewHeaderSection = () => {
     <sup><img src="assets/images/new-icon-image.gif"/></sup>
       <a href="https://manage-api.sguk.ac.in/api/assets/6a0fe1fe45c0260733062523" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">📢 KOLHAPUR, GET READY FOR THE FUTURE OF DESIGN! </a>
     
+     <sup><img src="assets/images/new-icon-image.gif"/></sup>
+      <a href="https://manage-api.sguk.ac.in/api/assets/6a34e7e4a269d0dd77bf4681" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Brand Of Kolhapur </a>
     
     
-    </Marquee>
+    
+    </Marquee>s
            
             <div className="w-full bg-[#f26122]">
               <div className="hamburgerrrrr">
