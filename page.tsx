@@ -23,19 +23,7 @@ const Home10 = () => {
         <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap" rel="stylesheet" />
       </Head>
 
-      {/* Google Analytics Scripts */}
-      <Script
-        src="https://www.googletagmanager.com/gtag/js?id=G-9V6X4YR0GP"
-        strategy="afterInteractive"
-      />
-      <Script id="google-analytics" strategy="afterInteractive">
-        {`
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-9V6X4YR0GP');
-        `}
-      </Script>
+      
 
       {/* Main Page Layout */}
       <div className='home-10 font-sans'>

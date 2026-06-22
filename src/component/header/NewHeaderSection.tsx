@@ -5,6 +5,7 @@ import NavLink from '../navigation/NavLink';
 import Link from 'next/link';
 import Marquee from 'react-fast-marquee';
 import { usePathname } from "next/navigation";
+import Script from 'next/script';
 
 
 const NewHeaderSection = () => {
@@ -22,6 +23,19 @@ const NewHeaderSection = () => {
 
     return (
         <>
+                {/* Google Analytics Scripts */}
+      <Script
+        src="https://www.googletagmanager.com/gtag/js?id=G-9V6X4YR0GP"
+        strategy="afterInteractive"
+      />
+      <Script id="google-analytics" strategy="afterInteractive">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-9V6X4YR0GP');
+        `}
+      </Script>
                 {/* --- POPUP MODAL START --- */}
             {pathname === "/" && isPopupOpen && (
                 <div className="fixed inset-0 z-[9999] flex items-center justify-center bg-black bg-opacity-60 backdrop-blur-sm">
