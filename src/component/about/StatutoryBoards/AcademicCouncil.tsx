@@ -7,58 +7,37 @@ function AcademicCouncil() {
   const councilMembers = [
     {
       name: "Dr. Udhav Bhosle",
-      address: "SGU Campus, Atigre",
-      email: "vc@sguk.ac.in",
-      post: "Vice-Chancellor, Sanjay Ghodawat University, Kolhapur.",
-      designation: "Chairperson",
+      post: "Vice-Chancellor",
+      designation: "Chairman",
       statute: "20.2(i)",
     },
     {
       name: "Dr. Vivek V. Kulkarni",
-      address: "SGU Campus, Atigre",
-      email: "dean@fst.sguk.ac.in",
-      post: "Dean, Faculty of Science & Technology\nDirector (Add. Charge)-School of Design",
+      post: "Dean, Faculty of Science & Technology",
       designation: "Member",
-      statute: "20.2(ii)\n20.2(iv)",
+      statute: "20.2(ii)",
     },
     {
       name: "Dr. S. Gomathi",
-      address: "SGU Campus, Atigre",
-      email: "dean@fcm.sguk.ac.in",
-      post: "Dean, Faculty of Commerce and Management\nDirector - School of Commerce & Management",
+      post: "Dean, Faculty of Commerce and Management",
       designation: "Member",
-      statute: "20.2(ii)\n20.2(iii)\n20.2(iv)",
+      statute: "20.2(ii)",
     },
     {
       name: "Dr. U. P. Jadhav",
-      address: "C-Block, SGU Campus, Atigre.",
-      email: "dean@fhs.sguk.ac.in",
-      post: "I/C Dean, Faculty of Humanities & Social Science\nBOS Chairman of Humanities and Social Science\nDirector-School of Social Sciences",
+      post: "I/C Dean, Faculty of Humanities & Social Science",
       designation: "Member",
-      statute: "20.2(ii)\n20.2(iii)\n20.2(iv)",
+      statute: "20.2(ii)",
     },
     {
       name: "Dr. Somesh Gurao",
-      address: "SGU Campus, Atigre",
-      email: "somesh.gurao@sguk.ac.in",
-      post: "I/C Dean, Faculty of Interdisciplinary Study\nHead - Department of Design",
+      post: "I/C Dean, Faculty of Interdisciplinary Study",
       designation: "Member",
-      statute: "20.2(ii)\n20.2(iii)\n20.2(iv)",
+      statute: "20.2(ii)",
     },
     {
       name: "Dr. A. D. Sawant",
-      address:
-        "Department of Chemistry, Sanjay Ghodawat University, Kolhapur - 416118",
-      email: "anand.sawant@ch.sguk.ac.in",
-      post: "Associate Dean Sciences\nDirector Life Sciences",
-      designation: "Member",
-      statute: "20.2(iv)",
-    },
-    {
-      name: "Dr. Raja Krushnamurthi",
-      address: "SGU Campus, Atigre",
-      email: "rajak@sguk.ac.in",
-      post: "Associate Dean Engineering & Technology\nDirector - National International Linkages",
+      post: "Associate Dean Sciences",
       designation: "Member",
       statute: "20.2(iv)",
     },
@@ -67,269 +46,194 @@ function AcademicCouncil() {
 
     {
       name: "Mr. S. Sulthan",
-      address:
-        "School of Technology, C/o Aeronautical Engineering, Sanjay Ghodawat University, Atigre.",
-      email: "s.sulthan@as.sguk.ac.in",
       post: "BOS Chairman, Aeronautical Engineering",
       designation: "Member",
       statute: "20.2(iii)",
     },
     {
       name: "Dr. D. V. Patil",
-      address: "Computer Science Engineering, B-Block, SGU Campus, Atigre",
-      email: "deepika.patil@cs.sguk.ac.in",
       post: "BOS Chairman, Computer Science Engineering",
       designation: "Member",
       statute: "20.2(iii)",
     },
     {
-      name: "Dr. M. P. Gaikwad",
-      address:
-        "Artificial Intelligence and Machine Learning, SGU Campus, Atigre",
-      email: "mahesh.gaikwad@am.sguk.ac.in",
+      name: "Dr. Santaji Shinde",
       post: "BOS Chairman, AIML",
       designation: "Member",
       statute: "20.2(iii)",
     },
     {
       name: "Dr. Swapnil Hirikude",
-      address:
-        "Electronics and Communication Engineering, SGU Campus, Atigre",
-      email: "swapnil.hirikude@ec.sguk.ac.in",
-      post: "Chairman BOS - Electronics & Communication Engineering",
+      post: "BOS Chairman, Electronics & Communication Engineering",
       designation: "Member",
-      statute: "20.2(iii)\n20.2(iv)",
+      statute: "20.2(iii)",
     },
     {
       name: "Mr. A. P. Dhawan",
-      address: "Mechanical Engineering, SGU Campus, Atigre",
-      email: "ajay.dhawan@me.sguk.ac.in",
       post: "BOS Chairman, Mechanical Engineering",
       designation: "Member",
       statute: "20.2(iii)",
     },
     {
       name: "Dr. Shubhash Kumbhar",
-      address: "School of Pharmacy, SGU Campus, Atigre",
-      email: "shubhash.kumbhar@ph.sguk.ac.in",
-      post: "Chairman BOS - Pharmacy\nDirector - School of Pharmacy",
+      post: "BOS Chairman, Pharmacy",
       designation: "Member",
-      statute: "20.2(iii)\n20.2(iv)",
+      statute: "20.2(iii)",
     },
     {
       name: "Dr. Chetan Arage",
-      address: "Computer Application, SGU Campus, Atigre",
-      email: "chetan.arage@ca.sguk.ac.in",
       post: "BOS Chairman, Computer Applications",
       designation: "Member",
       statute: "20.2(iii)",
     },
     {
       name: "Dr. P. D. Bhange",
-      address:
-        "School of Physical & Chemical Science, SGU Campus, Atigre",
-      email: "pallavi.bhange@ch.sguk.ac.in",
-      post: "Chairman BOS- Chemistry\nDirector- School of Physical & Chemical Science",
+      post: "BOS Chairman, Chemistry",
       designation: "Member",
-      statute: "20.2(iii)\n20.2(iv)",
+      statute: "20.2(iii)",
     },
     {
       name: "Dr. S. M Pawar",
-      address:
-        "Department of Physics, Sanjay Ghodawat University",
-      email: "sambhaji.pawar@ph.sguk.ac.in",
-      post: "BOS Chairman, Physics\nDirector -Innovation & Research",
+      post: "BOS Chairman, Physics",
       designation: "Member",
-      statute: "20.2(iii)\n20.2(iv)",
+      statute: "20.2(iii))",
     },
     {
       name: "Dr. Tejaswini A. Vhaskoti",
-      address:
-        "Department of Food Science And Technology, SGU Campus, Atigre",
-      email: "tejaswini.vhaskoti@sguk.ac.in",
-      post: "Head - Department of Food Science And Technology",
+      post: "BOS Chairman, Food Science And Technology",
       designation: "Member",
       statute: "20.2(iii)",
     },
     {
       name: "Dr. Prajakata B. Shete",
-      address:
-        "Department of Medical Laboratory Technology, SGU Campus, Atigre",
-      email: "prajakata.shete@sguk.ac.in",
-      post: "Head - Department of Medical Laboratory Technology",
+      post: "BOS Chairman, Medical Laboratory Technology",
       designation: "Member",
       statute: "20.2(iii)",
     },
     {
       name: "Dr. Ajay S. Nalawade",
-      address: "Department of Biotechnology, SGU Campus, Atigre",
-      email: "ajay.nalawade@sguk.ac.in",
-      post: "Head - Department of Biotechnology",
+      post: "BOS Chairman, of Biotechnology",
       designation: "Member",
       statute: "20.2(iii)",
     },
     {
       name: "Dr. V.S. Khot",
-      address: "SGU Campus, Atigre",
-      email: "vs.khot@sguk.ac.in",
-      post: "Head - Clinical Research & Technology",
+      post: "BOS Chairman, Clinical Research & Technology",
       designation: "Member",
       statute: "20.2(iii)",
     },
     {
       name: "Dr. Vilas Balgaonkar",
-      address: "Department of Management, SGU Campus, Atigre",
-      email: "vilas.balgaonkar@sguk.ac.in",
-      post: "Head - Department of Management",
+      post: "BOS Chairman, Management",
       designation: "Member",
       statute: "20.2(iii)",
     },
     {
       name: "Dr. R. L .Deshpande",
-      address: "SGU Campus, Atigre",
-      email: "iqac@sguk.ac.in",
-      post: "Director, IQAC\nHead- Department of Commerce",
+      post: "BOS Chairman, Commerce",
       designation: "Member",
-      statute: "20.2(iii)\n20.2(iv)",
+      statute: "20.2(iii)",
     },
     {
       name: "Mrs. Priyanka Patil",
-      address:
-        "School of Media, Block –B, SGU Campus, Atigre.",
-      email: "priyanka.patil@jm.sguk.ac.in",
-      post: "I/C Head - Social Media",
+      post: "BOS Chairman, Media",
       designation: "Member",
       statute: "20.2(iii)",
     },
     {
       name: "Dr. Kapil Patil",
-      address:
-        "School of Social Science, SGU Campus, Atigre",
-      email: "kapil.patil@sguk.ac.in",
-      post: "Head - Social Science",
+      post: "BOS Chairman, Social Science",
       designation: "Member",
       statute: "20.2(iii)",
     },
     {
       name: "Adv. Dr. Anjali Patil",
-      address:
-        "Department of LAW, Block-C, SGU Campus, Atigre.",
-      email: "anjali.patil@lw.sguk.ac.in",
-      post: "Chairman, BOS & Director-Legal Studies",
-      designation: "Member",
-      statute: "20.2(iii)\n20.2(iv)",
-    },
-    {
-      name: "Dr. Jiwan Lavande",
-      address:
-        "Department of B. Pharmacy, SGU Campus, Atigre",
-      email: "jiwan.lavande@sguk.ac.in",
-      post: "Head - Department of B. Pharmacy",
+      post: "BOS Chairman,Legal Studies",
       designation: "Member",
       statute: "20.2(iii)",
     },
+   
     {
       name: "Mr . Gurunath G. Machhale",
-      address:
-        "Department of Artificial Intelligence & Data Science (AIDS), SGU Campus, Atigre",
-      email: "gurunath.machhale@sguk.ac.in",
-      post: "Head - Department of Artificial Intelligence & Data Science (AIDS)",
+      post: "BOS Chairman, Artificial Intelligence & Data Science ",
       designation: "Member",
       statute: "20.2(iii)",
     },
     {
       name: "Dr. Sachin Popat Patil",
-      address:
-        "C/o Civil Engineering, A-Block, Sanjay Ghodawat University, Atigre",
-      email: "sachin.patil@ce.sguk.ac.in",
-      post: "Chairman, Civil Engineering\nDirector School of Engineering & Technology",
+      post: "BOS Chairman, Civil Engineering",
       designation: "Member",
-      statute: "20.2(iii)\n20.2(iv)",
+      statute: "20.2(iii)",
     },
-    {
-      name: "Mr. S. N. Patil (Incharge)",
-      address:
-        "Department of Allied Health & Science, SGU Campus, Atigre.",
-      email: "samsher.patil@sanjayghodawatuniveristy.ac.in",
-      post: "Chairman, BOS Allied Health & Science",
+     {
+      name: "Dr. Jiwan Lavande",
+      post: "PG Coordinator Pharmacy",
       designation: "Member",
       statute: "20.2(iii)",
     },
     {
-      name: "Dr. S. P. Patil",
-      address:
-        "School of Architecture, Block –B, SGU Campus, Atigre.",
-      email: "sachin.patil@ce.sguk.ac.in",
-      post: "I/C Director / School of Architecture",
+      name: "Ms. Adnya Sakharam Manjarekar",
+      post: "PG Coordinator Civil Engineering",
       designation: "Member",
-      statute: "20.2(iv)",
+      statute: "20.2(iii)",
     },
 
     // ------------------ Nominated ------------------
 
     {
       name: "Dr. Subhabrata (Subho) Ghosal",
-      address: "RGIT, Mumbai University",
-      email: "subhoghosal@gmail.com",
+      address: "Former CEO TVS Infrastructure Pvt. Ltd, Mumbai",
       post: "Industry Expert (Nominated by Vice Chancellor)",
-      designation: "Nominated",
+      designation: "Member",
       statute: "20.2(v)",
     },
     {
       name: "Dr. Aneish Kumar",
-      address: "RGIT, Mumbai University",
-      email: "aneishk@yahoo.com",
+      address: "Former Country Head, Bank of Milan India",
       post: "Industry Expert (Nominated by Vice Chancellor)",
-      designation: "Nominated",
+      designation: "Member",
       statute: "20.2(v)",
     },
     {
       name: "Dr. Deepak Panaskar",
       address: "SRTMU, Nanded",
-      email: "dbpanaskar@gmail.com",
       post: "Academician / Scientist (Nominated by President)",
-      designation: "Nominated",
+      designation: "Member",
       statute: "20.2(vi)",
     },
     {
       name: "Dr. K. V. Srinivasan",
       address: "TIFR, Mumbai",
-      email: "kvsrini@tifr.res.in",
-      post: "Academician / Scientist (Nominated by President)",
-      designation: "Nominated",
+      post: "Scientist (Nominated by President)",
+      designation: "Member",
       statute: "20.2(vi)",
     },
     {
       name: "Dr. H. Barkate",
-      address: "TIFR, Mumbai",
-      email: "hbarkate@gmail.com",
-      post: "Academician / Scientist (Nominated by President)",
-      designation: "Nominated",
+      address: "Vice President of Glenmark Pharmaceuticals",
+      post: "Industry Expert (Nominated by Vice Chancellor)",
+      designation: "Member",
       statute: "20.2(vi)",
     },
     {
       name: "Mrs. V. Ambili",
-      address:
-        "Deputy Director General, Geological Survey of India, Thiruvananthapuram",
-      email: "v.ambli@gsi.gov.in",
-      post: "Academician / Scientist (Nominated by President)",
-      designation: "Nominated",
+      address: "Deputy Director General, Geological Survey of India, Thiruvananthapuram",
+      post: "Scientist (Nominated by President)",
+      designation: "Member",
       statute: "20.2(vi)",
     },
     {
       name: "Dr. Manjunath K.N",
-      address: "Associate Professor, SCE, MIT MAHE Manipal ",
-      email: "manjunath.kn@manipal.edu",
+      address: "Associate Professor, SCE, MIT MAHE Manipal",
       post: "Academician (Nominated by President)",
-      designation: "Nominated",
+      designation: "Member",
       statute: "20.2(vi)",
     },
     {
       name: "Dr. Akash Saxena",
-      address: "Professor, Department of Electrical Engineering,School of Engineering and Technology,Central University of Haryana",
-      email: "drakash@cuh.ac.in ",
+      address: "Professor, Department of Electrical Engineering, School of Engineering and Technology, Central University of Haryana",
       post: "Academician (Nominated by President)",
-      designation: "Nominated",
+      designation: "Member",
       statute: "20.2(vi)",
     },
 
@@ -337,8 +241,6 @@ function AcademicCouncil() {
 
     {
       name: "Dr. N. K. Patil",
-      address: "",
-      email: "coe@sguk.ac.in",
       post: "Controller of Examinations",
       designation: "Permanent Invitee",
       statute: "20.2(viii)",
@@ -348,20 +250,21 @@ function AcademicCouncil() {
 
     {
       name: "Dr. Vivek M. Kayande",
-      address: "Sanjay Ghodawat University, Kolhapur",
-      email: "registrar@sanjayghodawatuniversity.ac.in",
-      post: "Registrar, Sanjay Ghodawat University",
+      post: " Registrar ",
       designation: "Member Secretary",
       statute: "20.2(vii)",
     },
   ];
 
-  // ----------- FIX: typed parameter (text: string) ------------
   const renderMultiLine = (text: string) => {
-    if (!text) return <p>-</p>;
+    if (!text) return <p className="mb-0">-</p>;
 
     return text.split("\n").map((line: string, index: number) =>
-      line.trim() ? <p key={index}>{line}</p> : null
+      line.trim() ? (
+        <p key={index} className="mb-0">
+          {line}
+        </p>
+      ) : null
     );
   };
 
@@ -370,14 +273,13 @@ function AcademicCouncil() {
       <div className="container">
         <div className="row gx-0 tl-blog-details-row">
           <div className="col-lg-12">
-
             <div className="governing-body">
               <div className="d-flex justify-content-center">
                 <h2 className="tl-2-section-title py-4 rounded-tl-[40px] rounded-br-[40px] px-8 bg-[#4f70b6] font-bold text-white mb-50">
                   Academic Council
                 </h2>
               </div>
-              <span className="dark-mode-white-color mt-2 mb-12">
+              <span className="dark-mode-white-color mt-2 mb-12 d-block text-center">
                 (As per Statute 20.2)
               </span>
             </div>
@@ -385,39 +287,35 @@ function AcademicCouncil() {
             <Table striped bordered hover responsive className="governing-table">
               <thead>
                 <tr>
-                  <th><p>Sr.No</p></th>
-                  <th><p>NAME OF THE MEMBER</p></th>
-                  <th><p>POST/CATEGORY</p></th>
-                  <th><p>DESIGNATION</p></th>
-                  <th><p>STATUTE NO.</p></th>
+                  <th>Sr.No</th>
+                  <th>NAME OF THE MEMBER</th>
+                  <th>POST/CATEGORY</th>
+                  <th>DESIGNATION</th>
+                  <th>STATUTE NO.</th>
                 </tr>
               </thead>
 
               <tbody>
                 {councilMembers.map((member, index) => (
                   <tr key={index}>
-                    <td><p>{index + 1}</p></td>
+                    <td>{index + 1}</td>
 
                     <td>
-                      <p>{member.name}</p>
-                      {member.address && <p>{member.address}</p>}
-                      {member.email && (
-                        <a href={`mailto:${member.email}`} className="table-link">
-                          {member.email} <i className="fa-regular fa-arrow-right"></i>
-                        </a>
+                      <h6 className="font-bold mb-1">{member.name}</h6>
+                      {member.address && (
+                        <p className="small mb-0 text-muted">{member.address}</p>
                       )}
                     </td>
 
                     <td>{renderMultiLine(member.post)}</td>
 
-                    <td><p>{member.designation}</p></td>
+                    <td>{member.designation}</td>
 
                     <td>{renderMultiLine(member.statute)}</td>
                   </tr>
                 ))}
               </tbody>
             </Table>
-
           </div>
         </div>
       </div>
