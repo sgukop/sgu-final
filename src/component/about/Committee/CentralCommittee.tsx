@@ -31,8 +31,8 @@ function CentralCommittee() {
                     <a href="mailto:vc@sanjayghodawatuniversity.ac.in" className="tl-def-btn-2">vc@sanjayghodawatuniversity.ac.in <i className="fa-regular fa-arrow-right"></i></a>
                   </td>
 
-                  <td><p>Vice-Chancellor,</p>
-                      <p>Sanjay Ghodawat University, Kolhapur.</p>
+                  <td><p>Vice-Chancellor</p>
+         
                   </td>
                   <td><p>Chairman</p></td>
                   <td><p>4.4-2(i)</p></td>

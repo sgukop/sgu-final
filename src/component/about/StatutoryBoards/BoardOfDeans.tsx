@@ -23,34 +23,33 @@ function BoardOfDeans() {
               </thead>
               <tbody>
                 <tr>
-                    <td><p>Prof. Dr.V. V. Kulkarni</p><p>SGU Campus, Atigre</p></td>
+                    <td><p>Prof. Dr.V. V. Kulkarni</p></td>
                     <td><p>Dean,</p>
-                      <p>Faculty of Science & Technology Director (Add. Charge)-School of Design,</p>
-                      <p>Sanjay Ghodawat University</p>
+                      <p>Faculty of Science & Technology Director </p>
+              
                   </td>
                     <td> <a href="mailto:dean@fst.sguk.ac.in" className="table-link">dean@fst.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a></td>
                 </tr>
 
                 <tr>
-                    <td><p>Dr.S. Gomathi</p><p>SGU Campus, Atigre</p></td>
+                    <td><p>Dr.S. Gomathi</p></td>
                     <td><p>Dean,</p>
-                      <p>Faculty of Management & Chairman, <br/> BOS & Director -Commerce & Management,</p>
-                      <p>Sanjay Ghodawat University</p>
-                  </td>
-                    <td> <a href="mailto:dean.cm@sanjayghodawatuniversity.ac.in" className="table-link">ddean@fcm.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a></td>
+                      <p>Faculty of Commerce & Management,</p>
+                      </td>
+                    <td> <a href="mailto:dean.cm@sanjayghodawatuniversity.ac.in" className="table-link">dean@fcm.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a></td>
                 </tr>
 
                 <tr>
-                    <td><p>Dr. U. P.Jadhav</p> <p>C-Block, SGU Campus, Atigre.</p></td>
+                    <td><p>Dr. U. P.Jadhav</p> </td>
                     <td><p>I/C Dean,</p>
-                      <p>Faculty of Humanities & Social Science & BOS Chairman of Faculty of Liberal Arts. <br/> Director-Knowledge Resource Center Director-School of Social Sciences</p>
+                      <p>Faculty of Humanities & Social Science </p>
                   </td>
                     <td> <a href="dean@fhs.sguk.ac.in" className="table-link">dean@fhs.sguk.ac.in<i className="fa-regular fa-arrow-right"></i></a></td>
                 </tr>
 
                 
                 <tr>
-                    <td><p>Dr. A.D.Sawant</p>  <p>Department of Chemistry. Sanjay Ghodawat University, Kolhapur - 416118</p></td>
+                    <td><p>Dr. A.D.Sawant</p>  </td>
                     <td><p>Associate Dean,</p>
                       <p>Physical & Chemical Science</p>
                   </td>

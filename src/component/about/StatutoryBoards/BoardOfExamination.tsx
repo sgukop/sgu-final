@@ -25,7 +25,7 @@ function BoardOfExamination() {
               <tr>
                  <td>
                     <p>Vice-Chancellor,</p> 
-                    <p>Sanjay Ghodawat University, Kolhapur.</p>
+                   
                 </td>
 
                 <td><p>Chairman</p></td>

@@ -27,7 +27,7 @@ function BoardOfStudent() {
               <tr>
                  <td>
                     <p>Vice-Chancellor,</p> 
-                    <p>Sanjay Ghodawat University, Kolhapur.</p>
+                  
                 </td>
 
                 <td><p>Chairman</p></td>
@@ -44,27 +44,27 @@ function BoardOfStudent() {
             </tr>
             
             <tr>
-                <td><p>Student Representative Shivtej Khot</p></td>
+                <td><p>Student Representative </p></td>
                 <td><p>Member</p></td>
             </tr>
 
             <tr>
-                <td><p>Student Representative - Ms. Surabhi Gaikwad</p></td>
+                <td><p>Student Representative </p></td>
                 <td><p>Member</p></td>
             </tr>
 
             <tr>
-                <td><p>Student Representative Mr. Abhijeet Patil</p></td>
+                <td><p>Student Representative </p></td>
                 <td><p>Member</p></td>
             </tr>
 
             <tr>
-                <td><p>Student Representative (Girls) Mr. Mousam Sing</p></td>
+                <td><p>Student Representative (Girls) </p></td>
                 <td><p>Member</p></td>
             </tr>
 
             <tr>
-                <td><p>Director, NSS - Mr. B. B. Pujari</p></td>
+                <td><p>Director, NSS </p></td>
                 <td><p>Member</p></td>
             </tr>
 

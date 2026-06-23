@@ -30,8 +30,8 @@ function BoardOfManagement() {
                 <tr>
                   <td><p>Dr. Udhav Bhosle</p></td>
                   <td>
-                    <p>Vice-Chancellor,</p>
-                    <p>Sanjay Ghodawat University, Kolhapur</p>
+                    <p>Vice-Chancellor</p>
+              
                   </td>
                   <td><p>Chairperson</p></td>
                   <td><p>22 (1) a</p></td>
