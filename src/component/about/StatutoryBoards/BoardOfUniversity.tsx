@@ -1,5 +1,5 @@
 "use client";
-import Link from "next/link";
+
 import React from "react";
 import Table from "react-bootstrap/Table";
 
@@ -10,346 +10,274 @@ function BoardOfUniversity() {
         <div className="row gx-0 tl-blog-details-row">
           <div className="col-lg-12">
             <div className="governing-body">
-             <div className="d-flex justify-content-center"><h2 className="tl-2-section-title py-4 rounded-tl-[40px] rounded-br-[40px] w-fit px-8 bg-[#4f70b6] font-bold text-white mx-auto mb-50">Board of University Teaching and Research</h2></div>
-              <span className="dark-mode-white-color mt-2 mb-12">(As per statute 26)</span>
+              <div className="d-flex justify-content-center">
+                <h2 className="tl-2-section-title py-4 rounded-tl-[40px] rounded-br-[40px] w-fit px-8 bg-[#4f70b6] font-bold text-white mx-auto mb-50">
+                  Board of University Teaching and Research
+                </h2>
+              </div>
+              <span className="dark-mode-white-color mt-2 mb-12 block">
+                (As per statute 26)
+              </span>
             </div>
 
             <Table striped bordered hover responsive className="governing-table">
               <thead>
                 <tr>
-                  <th><p>NAME OF THE MEMBER</p></th>
-                  <th><p>POST/FACULTY</p></th>
-                  <th><p>DESIGNATION</p></th>
-                  <th><p>STATUTE NO.</p></th>
+                  <th className="text-center"><p className="m-0 font-bold">SR. NO.</p></th>
+                  <th><p className="m-0 font-bold">NAME OF THE MEMBER</p></th>
+                  <th><p className="m-0 font-bold">POST / FACULTY</p></th>
+                  <th><p className="m-0 font-bold">DESIGNATION</p></th>
+                  <th><p className="m-0 font-bold">STATUTE NO.</p></th>
                 </tr>
               </thead>
               <tbody>
-              <tr>
-                 <td>
-                    <p>Prof. Dr. Udhav Bhosle</p> 
-                    <p>SGU Campus, Atigre</p>
-                    <a href="mailto:vc@sguk.ac.in" className="table-link">vc@sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                {/* Row 1 */}
+                <tr>
+                  <td className="text-center"><p className="m-0">1</p></td>
+                  <td>
+                    <p className="font-bold m-0">Prof. Dr. Udhav Bhosle</p>
                   </td>
-
-                  <td><p>Vice-Chancellor,</p>
-                      <p>Sanjay Ghodawat University, Kolhapur.</p>
+                  <td>
+                    <p className="m-0">Vice-Chancellor</p>
                   </td>
-                  <td><p>Chairperson</p></td>
-                  <td><p>26(i)</p></td>
-              </tr>
+                  <td><p className="m-0">Chairman</p></td>
+                  <td><p className="m-0">26(i)</p></td>
+                </tr>
 
-              <tr>
-                 <td>
-                    <p>Prof. Dr. V .V. Kulkarni</p> 
-                    <p>SGU Campus, Atigre</p>
-                    <a href="mailto:dean@fst.sguk.ac.in" className="table-link">dean@fst.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                {/* Row 2 */}
+                <tr>
+                  <td className="text-center"><p className="m-0">2</p></td>
+                  <td>
+                    <p className="font-bold m-0">Prof. Dr. V. V. Kulkarni</p>
                   </td>
-
-                  <td><p>Dean,</p>
-                      <p>Faculty of Science & Technology Director (Add. Charge)-School of Design,</p>
-                      <p>Sanjay Ghodawat University</p>
+                  <td>
+                    <p className="m-0">Dean, Faculty of Science & Technology</p>
                   </td>
-                  <td><p>Member</p></td>
-                  <td><p>26(ii)</p></td>
-              </tr>
+                  <td><p className="m-0">Member</p></td>
+                  <td><p className="m-0">26(ii)</p></td>
+                </tr>
 
-              <tr>
-                 <td>
-                    <p>Dr.S. Gomathi</p> 
-                    <p>SGU Campus, Atigre</p>
-                    <a href="mailto:dean@fcm.sguk.ac.in" className="table-link">dean@fcm.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                {/* Row 3 */}
+                <tr>
+                  <td className="text-center"><p className="m-0">3</p></td>
+                  <td>
+                    <p className="font-bold m-0">Dr. S. Gomathi</p>
                   </td>
-
-                  <td><p>Dean,</p>
-                      <p>Faculty of Management & Chairman, BOS & Director -Commerce & Management,</p>
-                      <p>Sanjay Ghodawat University</p>
+                  <td>
+                    <p className="m-0">Dean, Faculty of Management & Chairman, BOS</p>
                   </td>
-                  <td><p>Member</p></td>
-                  <td><p>26(ii)</p></td>
-              </tr>
+                  <td><p className="m-0">Member</p></td>
+                  <td><p className="m-0">26(ii)</p></td>
+                </tr>
 
-              <tr>
-                 <td>
-                    <p>Dr. U. P. Jadhav</p> 
-                    <p>C-Block, SGU Campus, Atigre.</p>
-                    <a href="mailto:dean@fhs.sguk.ac.in" className="table-link">dean@fhs.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                {/* Row 4 */}
+                <tr>
+                  <td className="text-center"><p className="m-0">4</p></td>
+                  <td>
+                    <p className="font-bold m-0">Dr. U. P. Jadhav</p>
                   </td>
-
-                  <td><p>I/C Dean,</p>
-                      <p>Faculty of Humanities & Social Science & BOS Chairma of Faculty of Liberal Arts. Director-Knowledge Resource Center Director-School of Social Sciences</p>
-                      
+                  <td>
+                    <p className="m-0">I/C Dean, Faculty of Humanities & Social Sciences</p>
                   </td>
-                  <td><p>Member</p></td>
-                  <td><p>26(ii)</p></td>
-              </tr>
+                  <td><p className="m-0">Member</p></td>
+                  <td><p className="m-0">26(ii)</p></td>
+                </tr>
 
-            
-              <tr>
-                 <td>
-                    <p>Dr. A. D. Sawant</p> 
-                    <p>Department of Chemistry. Sanjay Ghodawat University, Kolhapur - 416118</p>
-                    <a href="mailto:anand.sawant@ch.sguk.ac.in" className="table-link">anand.sawant@ch.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                {/* Row 5 */}
+                <tr>
+                  <td className="text-center"><p className="m-0">5</p></td>
+                  <td>
+                    <p className="font-bold m-0">Dr. A. D. Sawant</p>
                   </td>
-
-                  <td><p>Associate Dean,</p>
-                      <p>Physical & Chemical Science</p>
-                      
+                  <td>
+                    <p className="m-0">Associate Dean Sciences</p>
                   </td>
-                  <td><p>Member</p></td>
-                  <td><p>26(ii)</p></td>
-              </tr>
+                  <td><p className="m-0">Member</p></td>
+                  <td><p className="m-0">26(ii)</p></td>
+                </tr>
 
-              <tr>
-                 <td>
-                    <p>Dr. sachin Patil</p> 
-                    <p>C/o Civil Engineering, A-Block, Sanjay Ghodawat University A/P- Atigre, Tal-Hatkanangale, Dist - Kolhapur.</p>
-                    <a href="mailto:sachin.patil@ce.sguk.ac.in" className="table-link">sachin.patil@ce.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                {/* Row 6 */}
+                <tr>
+                  <td className="text-center"><p className="m-0">6</p></td>
+                  <td>
+                    <p className="font-bold m-0">Dr. Sachin Patil</p>
                   </td>
-
-                  <td><p>Head of Department,</p>
-                      <p>Civil Engineering Director School of Engineering & Technology</p>
-                      
+                  <td>
+                    <p className="m-0">Head of Department, Civil Engineering</p>
                   </td>
-                  <td><p>Member</p></td>
-                  <td><p>26(ii)</p></td>
-              </tr>
+                  <td><p className="m-0">Member</p></td>
+                  <td><p className="m-0">26(ii)</p></td>
+                </tr>
 
-              <tr>
-                 <td>
-                    <p>Mr. S. Sulthan</p> 
-                    <p>School of Technology, C/o Aeronautical Engineering,</p>
-                    <p>Sanjay Ghodawat University, A/P- Atigre, Tal-Hatkanangale, Dist - Kolhapur.</p>
-                    <a href="mailto:s.sulthan@as.sguk.ac.in" className="table-link">s.sulthan@as.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                {/* Row 7 */}
+                <tr>
+                  <td className="text-center"><p className="m-0">7</p></td>
+                  <td>
+                    <p className="font-bold m-0">Mr. S. Sulthan</p>
                   </td>
-
-                  <td><p>Head of Department,</p>
-                      <p>Aeronautical Engineering</p>
-                      
+                  <td>
+                    <p className="m-0">Head of Department, Aeronautical Engineering</p>
                   </td>
-                  <td><p>Member</p></td>
-                  <td><p>26(iii)</p></td>
-              </tr>
+                  <td><p className="m-0">Member</p></td>
+                  <td><p className="m-0">26(iii)</p></td>
+                </tr>
 
-              <tr>
-                 <td>
-                    <p>Dr. Swapnil Manohar Hirikude</p> 
-                    <p>C/o Electronics and Communication Engineering, B-Block, Sanjay Ghodawat University A/P- Atigre, Tal-Hatkanangale, Dist - Kolhapur.</p>
-                    
-                    <a href="mailto:swapnil.hirikude@ec.sguk.ac.in" className="table-link">swapnil.hirikude@ec.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                {/* Row 8 */}
+                <tr>
+                  <td className="text-center"><p className="m-0">8</p></td>
+                  <td>
+                    <p className="font-bold m-0">Dr. Swapnil Manohar Hirikude</p>
                   </td>
-
-                  <td><p>Head of Department,</p>
-                      <p>Electrical & Electronics Engineering Electric Engineering BOS- Electronics & Communicatin Engineering</p>
-                      
+                  <td>
+                    <p className="m-0">Head of Department, Electrical & Electronics Engineering</p>
                   </td>
-                  <td><p>Member</p></td>
-                  <td><p>26(iii)</p></td>
-              </tr>
-            
-              <tr>
-                 <td>
-                    <p>Mr. Dhawan Ajay Prabhakar</p> 
-                    <p>C/o Mechanical Engineering, A-Block, Sanjay Ghodawat University A/P- Atigre, Tal-Hatkanangale, Dist - Kolhapur.</p>
-                    
-                    <a href="mailto:ajay.dhawan@me.sguk.ac.in" className="table-link">ajay.dhawan@me.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                  <td><p className="m-0">Member</p></td>
+                  <td><p className="m-0">26(iii)</p></td>
+                </tr>
+
+                {/* Row 9 */}
+                <tr>
+                  <td className="text-center"><p className="m-0">9</p></td>
+                  <td>
+                    <p className="font-bold m-0">Mr. Dhawan Ajay Prabhakar</p>
                   </td>
-
-                  <td><p>Head of Department,</p>
-                      <p>Mechanical Engineering</p>
-                      
+                  <td>
+                    <p className="m-0">Head of Department, Mechanical Engineering</p>
                   </td>
-                  <td><p>Member</p></td>
-                  <td><p>26(iii)</p></td>
-              </tr>
+                  <td><p className="m-0">Member</p></td>
+                  <td><p className="m-0">26(iii)</p></td>
+                </tr>
 
-              <tr>
-                 <td>
-                    <p>Dr. Deepika Patil</p> 
-                    <p>Computer Science Engineering,<br/>B-Block, Sanjay Ghodawat University A/P- Atigre,<br/>Tal - Hatkanangale, Dist - Kolhapur.</p>
-                    
-                    <a href="mailto:deepika.patil@cs.sguk.ac.in" className="table-link">deepika.patil@cs.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                {/* Row 10 */}
+                <tr>
+                  <td className="text-center"><p className="m-0">10</p></td>
+                  <td>
+                    <p className="font-bold m-0">Dr. Deepika Patil</p>
                   </td>
-
-                  <td><p>Head of Department,</p>
-                      <p>Computer Science Engineering</p>
-                      
+                  <td>
+                    <p className="m-0">Head of Department, Computer Science Engineering</p>
                   </td>
-                  <td><p>Member</p></td>
-                  <td><p>26(iii)</p></td>
-              </tr>
+                  <td><p className="m-0">Member</p></td>
+                  <td><p className="m-0">26(iii)</p></td>
+                </tr>
 
-              <tr>
-                 <td>
-                    <p>Dr. M. P. Gaikwad</p> 
-                    <p>Artificial Intelligence and Machine Learning,<br/>B-Block, Sanjay Ghodawat University A/P- Atigre,<br/>Tal - Hatkanangale, Dist - Kolhapur.</p>
-                    
-                    <a href="mailto:mahesh.gaikwad@am.sguk.ac.in" className="table-link">mahesh.gaikwad@am.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                {/* Row 11 */}
+                <tr>
+                  <td className="text-center"><p className="m-0">11</p></td>
+                  <td>
+                    <p className="font-bold m-0">Dr. Santaji Shinde</p>
                   </td>
-
-                  <td><p>Head of Department,</p>
-                      <p>Artificial Intelligence and Machine Learning</p>
-                      
+                  <td>
+                    <p className="m-0">Head of Department, Artificial Intelligence and Machine Learning</p>
                   </td>
-                  <td><p>Member</p></td>
-                  <td><p>26(iii)</p></td>
-              </tr>
+                  <td><p className="m-0">Member</p></td>
+                  <td><p className="m-0">26(iii)</p></td>
+                </tr>
 
-              <tr>
-                 <td>
-                    <p>Dr. Chetan Arage</p> 
-                    <p>Computer Application,<br/>B-Block, Sanjay Ghodawat University A/P- Atigre,<br/>Tal - Hatkanangale, Dist - Kolhapur.</p>
-                    
-                    <a href="mailto:chetan.arage@ca.sguk.ac.in" className="table-link">chetan.arage@ca.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                {/* Row 12 */}
+                <tr>
+                  <td className="text-center"><p className="m-0">12</p></td>
+                  <td>
+                    <p className="font-bold m-0">Dr. Chetan Arage</p>
                   </td>
-
-                  <td><p>Head of Department,</p>
-                      <p>Computer Application</p>
-                      
+                  <td>
+                    <p className="m-0">Head of Department, Computer Application</p>
                   </td>
-                  <td><p>Member</p></td>
-                  <td><p>26(iii)</p></td>
-              </tr>
+                  <td><p className="m-0">Member</p></td>
+                  <td><p className="m-0">26(iii)</p></td>
+                </tr>
 
-              <tr>
-                 <td>
-                    <p>Dr. S. M. Pawar</p> 
-                    <p>Department of Physics,Sanjay Ghodawat University,<br/>Kolhapur - 416118</p>
-                    
-                    <a href="mailto:sambhaji.pawar@ph.sguk.ac.in" className="table-link">sambhaji.pawar@ph.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                {/* Row 13 */}
+                <tr>
+                  <td className="text-center"><p className="m-0">13</p></td>
+                  <td>
+                    <p className="font-bold m-0">Dr. S. M. Pawar</p>
                   </td>
-
-                  <td><p>Director, Innovation & Research</p>
-                      <p>Head of Department,<br/>Physics</p>
-                      
+                  <td>
+                    <p className="m-0">Head of Department, Physics</p>
                   </td>
-                  <td><p>Member</p></td>
-                  <td><p>26(v)<br/>26(iii)</p></td>
-              </tr>
+                  <td><p className="m-0">Member</p></td>
+                  <td><p className="m-0">26(v)</p></td>
+                </tr>
 
-              <tr>
-                 <td>
-                    <p>Dr. P. D. Bhange</p> 
-                    <p>School of Physical & Chemical Science,<br/>Sanjay Ghodawat University A/P- Atigre, Tal - Hatkanangale,<br/>Dist - Kolhapur.</p>
-                    
-                    <a href="mailto:pallavi.bhange@ph.sguk.ac.in" className="table-link">pallavi.bhange@ph.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                {/* Row 14 */}
+                <tr>
+                  <td className="text-center"><p className="m-0">14</p></td>
+                  <td>
+                    <p className="font-bold m-0">Dr. P. D. Bhange</p>
                   </td>
-
-                  <td><p>Director, School of Physical & Chemical Science</p>
-                      <p>Head of Department,<br/>Chemical Science</p>
-                      
+                  <td>
+                    <p className="m-0">Head of Department, Chemical Sciences</p>
                   </td>
-                  <td><p>Member</p></td>
-                  <td><p>26(v)<br/>26(iii)</p></td>
-              </tr>
+                  <td><p className="m-0">Member</p></td>
+                  <td><p className="m-0">26(v)</p></td>
+                </tr>
 
-              <tr>
-                 <td>
-                    <p>Dr. Anand Dilip Sawant .</p> 
-                    <p>School of Life Science, SGU Campus, Atigre.</p>
-                 
-                    
-                    <a href="mailto:sanand.sawant@ch.sguk.ac.in" className="table-link">anand.sawant@ch.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                {/* Row 15 */}
+                <tr>
+                  <td className="text-center"><p className="m-0">15</p></td>
+                  <td>
+                    <p className="font-bold m-0">Dr. Subhash Trimbakrao Kumbhar</p>
                   </td>
-
-                  <td><p>Head of Department,<br/>Director- School of Life Science</p>
-                      
+                  <td>
+                    <p className="m-0">Head of Department, B. Pharmacy</p>
                   </td>
-                  <td><p>Member</p></td>
-                  <td><p>26(iii)</p></td>
-              </tr>
+                  <td><p className="m-0">Member</p></td>
+                  <td><p className="m-0">26(ii)</p></td>
+                </tr>
 
-              <tr>
-                 <td>
-                    <p>Dr. Subhash Trimbakrao Kumbhar</p> 
-                    <p>SGU Campus, Atigre.</p>
-                  
-                    
-                    <a href="mailto:subhash.kumbhar@py.sguk.ac.in" className="table-link">subhash.kumbhar@py.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                {/* Row 16 */}
+                <tr>
+                  <td className="text-center"><p className="m-0">16</p></td>
+                  <td>
+                    <p className="font-bold m-0">Mrs. Khot Vidyarani S.</p>
                   </td>
-
-                  <td><p>Dean,</p>
-                      <p>B. Pharmacy</p>
-                      
+                  <td>
+                    <p className="m-0">Head of Department, D. Pharmacy</p>
                   </td>
-                  <td><p>Member</p></td>
-                  <td><p>26(ii)</p></td>
-              </tr>
+                  <td><p className="m-0">Member</p></td>
+                  <td><p className="m-0">26(iii)</p></td>
+                </tr>
 
-              <tr>
-                 <td>
-                    <p>Mrs. Khot Vidyarani S</p> 
-                   
-                  
-                    
-                    <a href="mailto:vidyarani.khot@py.sguk.ac.in" className="table-link">vidyarani.khot@py.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                {/* Row 17 */}
+                <tr>
+                  <td className="text-center"><p className="m-0">17</p></td>
+                  <td>
+                    <p className="font-bold m-0">Dr. Vilas Balgaonkar</p>
                   </td>
-
-                  <td><p>Head of Department,</p>
-                      <p>D. Pharmacy</p>
-                      
+                  <td>
+                    <p className="m-0">Head of Department, Management</p>
                   </td>
-                  <td><p>Member</p></td>
-                  <td><p>26(iii)</p></td>
-              </tr>
+                  <td><p className="m-0">Member</p></td>
+                  <td><p className="m-0">26(iii)</p></td>
+                </tr>
 
-              <tr>
-                 <td>
-                    <p>Dr. Vilas Balgaonkar </p> 
-                    <p>SGU Campus, Atigre.</p>
-                  
-                    
-                    <a href="mailto:vilas.balgaonkar@mg.sguk.ac.in" className="table-link">vilas.balgaonkar@mg.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                {/* Row 18 */}
+                <tr>
+                  <td className="text-center"><p className="m-0">18</p></td>
+                  <td>
+                    <p className="font-bold m-0">Dr. Revati Deshpande</p>
                   </td>
-
-                  <td><p>Head of Department,</p>
-                      <p>Management</p>
-                      
+                  <td>
+                    <p className="m-0">Head of Department, Commerce</p>
                   </td>
-                  <td><p>Member</p></td>
-                  <td><p>26(iii)</p></td>
-              </tr>
+                  <td><p className="m-0">Member</p></td>
+                  <td><p className="m-0">26(iii)</p></td>
+                </tr>
 
-              <tr>
-                 <td>
-                    <p>Dr. Revati Deshpande</p> 
-                    <p>SGU Campus, Atigre.</p>
-                  
-                    
-                    <a href="mailto:revati.deshpande@mg.sguk.ac.in" className="table-link">revati.deshpande@mg.sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
+                {/* Row 19 */}
+                <tr>
+                  <td className="text-center"><p className="m-0">19</p></td>
+                  <td>
+                    <p className="font-bold m-0">Dr. Vivek M. Kayande</p>
                   </td>
-
-                  <td><p>Head of Department,</p>
-                      <p>Commerce</p>
-                      
+                  <td>
+                    <p className="m-0">Registrar</p>
                   </td>
-                  <td><p>Member</p></td>
-                  <td><p>26(iii)</p></td>
-              </tr>
-
-              
-
-              <tr>
-                 <td>
-                    <p>Dr. Vivek M. Kayande</p> 
-                    <p>Sanjay Ghodawat University Kolhapur.</p>
-                  
-                    
-                    <a href="mailto:registrar@sguk.ac.in" className="table-link">registrar@sguk.ac.in <i className="fa-regular fa-arrow-right"></i></a>
-                  </td>
-
-                  <td><p>Registrar,</p>
-                      <p>Sanjay Ghodawat University</p>
-                      
-                  </td>
-                  <td><p>Member Secretary</p></td>
-                  <td><p>26(vi)</p></td>
-              </tr>
-  
-  
-             
-             
-
-	          </tbody>
+                  <td><p className="m-0">Member Secretary</p></td>
+                  <td><p className="m-0">26(vi)</p></td>
+                </tr>
+              </tbody>
             </Table>
           </div>
         </div>
