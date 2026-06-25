@@ -11,7 +11,7 @@ const NewFooter = () => {
                             <a className="hover:text-[#F26122]" href="" target="_blank">Academics</a>
                         </li>   */}
                         <li className='text-2xl 2xl:text-3xl font-medium text-white pb-3'>
-                            <Link className="hover:text-[#F26122]" href="/academic-brochure">Academic Brochure</Link>
+                            <Link className="hover:text-[#F26122]" href="/academic-brochure">SGU Brochure</Link>
                         </li>
                         <li className='text-2xl 2xl:text-3xl font-medium text-white pb-3'>
                             <Link className="hover:text-[#F26122]" href="/collaborations">Foreign University Collaborations</Link>

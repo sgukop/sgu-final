@@ -20,7 +20,7 @@ const AcademicBrochure = () => {
                     rel="noopener noreferrer"
                     className="table-link"
                   >
-                    Academic Brochure-2026{' '}
+                    SGU Brochure-2026{' '}
                     <i className="fa-regular fa-arrow-right"></i>
                   </a>
                 </td>

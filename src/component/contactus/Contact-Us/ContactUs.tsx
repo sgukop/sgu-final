@@ -23,12 +23,7 @@ const ContactUs = () => {
                             </span>
                         </li>
                
-                        <li className="tl-event-details-info">
-                            <span className="key">
-                                <i className="fa-solid fa-phone-office mr-3"></i> Toll Free : 1800 31300 1566
-                            </span>
-                        </li>
-                        <li className="tl-event-details-info">
+                           <li className="tl-event-details-info">
                             <span className="key">
                                 <i className="fa-solid fa-mobile-button mr-3"></i> +91 90110 39800 / 90110 22567
                             </span>
@@ -37,7 +32,7 @@ const ContactUs = () => {
                 </div>
             </div>
             <div className="row align-items-center justify-content-center">
-                <h3 className="tl-event-details-area-title mt-10 text-[#4f70b6]">Counselling Cell</h3>
+                <h3 className="tl-event-details-area-title mt-10 text-[#4f70b6]">Admissions / Counselling Cell</h3>
                 <p className="text-center dark-mode-white-color mt-6 mb-6">For admissions, more information & queries about admissions , admission process and other admission related information contact -</p>
                
                 <div className="col-lg-6">
