@@ -36,6 +36,7 @@ const NewHeaderSection = () => {
           gtag('config', 'G-9V6X4YR0GP');
         `}
       </Script>
+      <meta name="google-site-verification" content="GxwsG06HAefi2nLkir4k_hQ7JpXzX1qf7bhtGnhWCEk" />
                 {/* --- POPUP MODAL START --- */}
             {pathname === "/" && isPopupOpen && (
                 <div className="fixed inset-0 z-[9999] flex items-center justify-center bg-black bg-opacity-60 backdrop-blur-sm">
