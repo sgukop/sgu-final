@@ -2077,14 +2077,25 @@ const serviceSliderData = [
 
 const blogList = [
   {
-  id: 1,
-  date: "June 25, 2026",
-  title: "Blog 1",
-  author: "Admin",
-  category: "Blog",
-  desc: "Read our latest blog article covering important insights, updates, and information.",
-  link: "https://docs.google.com/document/d/1nEYnnat6IHvQP_sFVxHVu0kOkZr5uvOBBMfjDrTgxxQ/edit?usp=sharing",
-  slug: "blog-1",
+
+id: 0,
+
+imgSrc: "assets/images/blog/blog-1.jpg",
+
+date: "June 25, 2026",
+
+title: "Emerging Trends in Higher Education",
+
+author: "Admin",
+
+category: "Blog",
+
+desc: "Explore the latest developments, innovations, and best practices shaping the future of higher education.",
+
+link: "https://docs.google.com/document/d/1nEYnnat6IHvQP_sFVxHVu0kOkZr5uvOBBMfjDrTgxxQ/edit?usp=sharing",
+
+slug: "emerging-trends-in-higher-education",
+
 },
  
 ];
