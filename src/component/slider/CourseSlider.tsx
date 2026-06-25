@@ -11,7 +11,7 @@ const CourseSlider = () => {
      <section className="tl-1-courses pb-80 pt-130">
       <div className="container">
       <div className="tl-1-section-heading">
-        <h2 className="tl-2-section-title">Latest news / Events / Announcements</h2>
+        <h2 className="tl-2-section-title">Latest news / Events / Announcements / Blong</h2>
         <div 
         className="tl-2-blogs-slider-nav" 
         id="tl-1-courses-slider-nav"

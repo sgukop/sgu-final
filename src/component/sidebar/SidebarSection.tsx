@@ -51,7 +51,7 @@ const SidebarSection = () => {
                 <Tab.Pane eventKey="nav-info">
                   <div className="kidba-sidebar-info-content-331">
                     <ul>
-                      <li><i className="icofont-clock-time"></i> 9:30am - 6:30pm, Mon - Sun</li>
+                      <li><i className="icofont-clock-time"></i> 8:30am - 6:30pm, Mon - Sun</li>
                       <li>
                         <a href="tel:http://80012345676587"><i className="icofont-phone"></i> 1800 31300 1566</a>
                       </li>
