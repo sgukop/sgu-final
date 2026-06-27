@@ -75,42 +75,7 @@ const ComputerDeptNewEvents = () => {
         imgSrc: "assets/images/computer-science-engineering/activities/technophilia/techno9.jpeg",
       },
   ]
-  const technophilia4 = [
-      {
-        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/1.jpeg",
-      },
-      {
-        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/2.jpeg",
-      },
-      {
-        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/3.jpeg",
-      },
-      {
-        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/4.jpeg",
-      },
-      {
-        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/5.jpeg",
-      },
-      {
-        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/6.jpeg",
-      },
-      {
-        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/7.jpeg",
-      },
-      {
-        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/8.jpeg",
-      },
-      {
-        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/12.jpeg",
-      },
-      {
-        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/10.jpeg",
-      },
-      {
-        imgSrc: "assets/images/computer-science-engineering/activities/technophilia4/11.jpeg",
-      },
-     
-  ]
+  
     const asces = [
         {
           imgSrc: "assets/images/computer-science-engineering/activities/acses/image1.jpeg",
@@ -188,45 +153,11 @@ const ComputerDeptNewEvents = () => {
         {
             imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image3.png",
         },
-        {
-            imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image4.png",
-        },
+       
        
     ]
 
-      const Smart = [
-        {
-          imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image6.jpeg",
-        },
-        {
-            imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image7.jpeg",
-        },
-        {
-            imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image8.jpeg",
-        },
-        {
-            imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image9.jpeg",
-        },
-         {
-            imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image10.jpeg",
-        },
-         {
-            imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image11.jpeg",
-        },
-         {
-            imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image12.jpeg",
-        },
-         {
-            imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image13.jpeg",
-        },
-         {
-            imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image14.jpeg",
-        },
-         {
-            imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image15.jpeg",
-        },
-       
-    ]
+      
 
     const parentmeet = [
         {
@@ -235,18 +166,7 @@ const ComputerDeptNewEvents = () => {
         {
             imgSrc: "assets/images/computer-science-engineering/activities/parent-meet/image2.jpeg",
         },
-        {
-            imgSrc: "assets/images/computer-science-engineering/activities/parent-meet/image3.jpeg",
-        },
-        {
-            imgSrc: "assets/images/computer-science-engineering/activities/parent-meet/image4.jpeg",
-        },
-        {
-            imgSrc: "assets/images/computer-science-engineering/activities/parent-meet/image5.jpeg",
-        },
-        {
-            imgSrc: "assets/images/computer-science-engineering/activities/parent-meet/image6.jpeg",
-        },
+        
     ]
 
     const algochamp = [
@@ -279,18 +199,7 @@ const ComputerDeptNewEvents = () => {
         {
           imgSrc: "assets/images/computer-science-engineering/activities/Seminars/2.jpeg",
         },
-        {
-          imgSrc: "assets/images/computer-science-engineering/activities/Seminars/3.jpeg",
-        },
-        {
-          imgSrc: "assets/images/computer-science-engineering/activities/Seminars/4.jpeg",
-        },
-        {
-          imgSrc: "assets/images/computer-science-engineering/activities/Seminars/5.jpeg",
-        },
-        {
-          imgSrc: "assets/images/computer-science-engineering/activities/Seminars/6.jpeg",
-        },
+       
         
     ]
 
@@ -329,27 +238,7 @@ const ComputerDeptNewEvents = () => {
 
 
 
-         <div className="tl-11-section-heading">
-            <h2 className="tl-11-section-title">Technophilia 4.0</h2>
-        </div>
-        <div className="row tl-7-classes-row">
-         {technophilia4.map((activityItems1, index) => (
-            <div className="col-lg-4 col-sm-6 rounded-[20px]" key={index}>
-              <div className="tl-7-class">
-                <div className="tl-7-class-img">
-                  <img src={activityItems1.imgSrc} alt="Activities Images" />
-                </div>
-                
-              </div>
-            </div>
-          ))}
-        </div>
-    <div className="tl-11-section-heading mt-50">
-                <h2 className="tl-11-section-title">Events</h2>
-            </div>
-
-
-
+    
          <div className="tl-11-section-heading">
             <h2 className="tl-11-section-title">Technophilia 3.0</h2>
         </div>
@@ -367,21 +256,6 @@ const ComputerDeptNewEvents = () => {
         </div>
 
         <div className="tl-11-section-heading mt-50">
-            <h2 className="tl-11-section-title">Workshop on Cloud Computing and DevOps</h2>
-        </div>
-        <div className="row tl-7-classes-row">
-         {workshopDevops.map((activityItems1, index) => (
-            <div className="col-lg-4 col-sm-6 rounded-[20px]" key={index}>
-              <div className="tl-7-class">
-                <div className="tl-7-class-img">
-                  <img src={activityItems1.imgSrc} alt="Activities Images" />
-                </div>
-                
-              </div>
-            </div>
-          ))}
-        </div>
-        <div className="tl-11-section-heading mt-50">
             <h2 className="tl-11-section-title">One Day Workshop On Full Stack Development under CSI</h2>
         </div>
         <div className="row tl-7-classes-row">
@@ -397,21 +271,7 @@ const ComputerDeptNewEvents = () => {
           ))}
         </div>
 
-        <div className="tl-11-section-heading mt-50">
-            <h2 className="tl-11-section-title">Parent Meet 2025-2026</h2>
-        </div>
-        <div className="row tl-7-classes-row">
-         {newparentmeet.map((activityItems1, index) => (
-            <div className="col-lg-4 col-sm-6 rounded-[20px]" key={index}>
-              <div className="tl-7-class">
-                <div className="tl-7-class-img">
-                  <img src={activityItems1.imgSrc} alt="Activities Images" />
-                </div>
-                
-              </div>
-            </div>
-          ))}
-        </div>
+        
 
 
 
@@ -479,21 +339,7 @@ const ComputerDeptNewEvents = () => {
           ))}
           </div>  
 
-         <div className="tl-11-section-heading mt-50">
-            <h2 className="tl-11-section-title">Smart India Hackathon (SIH)  </h2>
-        </div>
-        <div className="row tl-7-classes-row">
-         {Smart.map((activityItems1, index) => (
-            <div className="col-lg-4 col-sm-6 rounded-[20px]" key={index}>
-              <div className="tl-7-class">
-                <div className="tl-7-class-img">
-                  <img src={activityItems1.imgSrc} alt="Activities Images" />
-                </div>
-                
-              </div>
-            </div>
-          ))}
-        </div> 
+         
 
         <div className="tl-11-section-heading mt-50">
             <h2 className="tl-11-section-title">Parent Meet 2024-2025</h2>
