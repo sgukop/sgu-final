@@ -2092,7 +2092,7 @@ category: "Blog",
 
 desc: "Explore the latest developments, innovations, and best practices shaping the future of higher education.",
 
-link: "https://docs.google.com/document/d/1nEYnnat6IHvQP_sFVxHVu0kOkZr5uvOBBMfjDrTgxxQ/edit?usp=sharing",
+link: "https://docs.google.com/document/d/1nEYnnat6IHvQP_sFVxHVu0kOkZr5uvOBBMfjDrTgxxQ/edit?tab=t.0",
 
 slug: "emerging-trends-in-higher-education",
 
