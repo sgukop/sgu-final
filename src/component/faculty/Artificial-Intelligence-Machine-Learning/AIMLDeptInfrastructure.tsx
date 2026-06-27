@@ -18,14 +18,7 @@ const AIMLDeptInfrastructure = () => {
             data-offset="0"
           >
             <div className="row g-3 g-lg-4 justify-content-center">
-               <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
-                    <div className="tl-9-blog flex flex-col h-full"> 
-                        <div className="tl-9-event-img">
-                            <figure><img src="assets/images/AIML/academic-infrastructure/image1.png" alt="Infrastructure Image"/></figure>
-                        </div>
-                        <h3 className="tl-6-latest-article-title mt-10">HOD Cabin</h3>
-                    </div>
-                  </div>
+               
                  
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
@@ -72,23 +65,7 @@ const AIMLDeptInfrastructure = () => {
                     </div>
                   </div>
 
-                  <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
-                    <div className="tl-9-blog flex flex-col h-full"> 
-                        <div className="tl-9-event-img">
-                            <figure> <img src="assets/images/AIML/academic-infrastructure/image2.png" alt="Events Image"/></figure>
-                        </div>
-                        <h3 className="tl-6-latest-article-title mt-10">Meeting Room</h3>
-                      </div>
-                  </div>
                   
-                  <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
-                    <div className="tl-9-blog flex flex-col h-full"> 
-                        <div className="tl-9-event-img">
-                            <figure><img src="assets/images/AIML/academic-infrastructure/image4.png" alt="Events Image"/></figure>
-                        </div>
-                        <h3 className="tl-6-latest-article-title mt-10">Staff Room</h3>
-                      </div>
-                  </div>
             </div>   
         </div>
        </div>
