@@ -12,7 +12,6 @@ const pdfLinks = [
   "https://manage-api.sguk.ac.in/api/assets/6a44efae634f29742167a4a7",
   "https://manage-api.sguk.ac.in/api/assets/6a44efc2634f29742167a4ac",
   "https://manage-api.sguk.ac.in/api/assets/6a44efd6634f29742167a4b1",
-  "https://manage-api.sguk.ac.in/api/assets/6a44eff6634f29742167a4b8",
   "https://manage-api.sguk.ac.in/api/assets/6a44f00d634f29742167a4bf",
   "https://manage-api.sguk.ac.in/api/assets/6a44f01e634f29742167a4c4",
   "https://manage-api.sguk.ac.in/api/assets/6a44f03e634f29742167a4c9",
