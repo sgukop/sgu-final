@@ -3,105 +3,86 @@
 import React from "react";
 import Table from "react-bootstrap/Table";
 
-const pdfLinks = [
-  "https://manage-api.sguk.ac.in/api/assets/6a44eee6634f29742167a488",
-  "https://manage-api.sguk.ac.in/api/assets/6a44ef59634f29742167a493",
-  "https://manage-api.sguk.ac.in/api/assets/6a44ef6d634f29742167a498",
-  "https://manage-api.sguk.ac.in/api/assets/6a44ef82634f29742167a49d",
-  "https://manage-api.sguk.ac.in/api/assets/6a44ef9c634f29742167a4a2",
-  "https://manage-api.sguk.ac.in/api/assets/6a44efae634f29742167a4a7",
-  "https://manage-api.sguk.ac.in/api/assets/6a44efc2634f29742167a4ac",
-  "https://manage-api.sguk.ac.in/api/assets/6a44efd6634f29742167a4b1",
-  "https://manage-api.sguk.ac.in/api/assets/6a44f00d634f29742167a4bf",
-  "https://manage-api.sguk.ac.in/api/assets/6a44f01e634f29742167a4c4",
-  "https://manage-api.sguk.ac.in/api/assets/6a44f03e634f29742167a4c9",
-  "https://manage-api.sguk.ac.in/api/assets/6a44f04e634f29742167a4ce",
-  "https://manage-api.sguk.ac.in/api/assets/6a44f060634f29742167a4d3",
-  "https://manage-api.sguk.ac.in/api/assets/6a44f072634f29742167a4d8",
-  "https://manage-api.sguk.ac.in/api/assets/6a44f083634f29742167a4df",
-  "https://manage-api.sguk.ac.in/api/assets/6a44f095634f29742167a4e4",
-];
-
 const results = [
   {
     date: "01-06-2026",
     title: "Result Declaration Summer-2026 Notice-01-06-2026-1",
-    link: pdfLinks[0],
+    link: "https://manage-api.sguk.ac.in/api/assets/6a44eee6634f29742167a488",
   },
   {
     date: "01-06-2026",
     title: "Result Declaration Notice",
-    link: pdfLinks[1],
+    link: "https://manage-api.sguk.ac.in/api/assets/6a44ef59634f29742167a493",
   },
   {
     date: "01-06-2026",
     title: "CSE Non-NEP Curriculum",
-    link: pdfLinks[2],
+    link: "https://manage-api.sguk.ac.in/api/assets/6a44ef6d634f29742167a498",
   },
   {
     date: "01-06-2026",
     title: "AIML & B.Pharmacy",
-    link: pdfLinks[3],
+    link: "https://manage-api.sguk.ac.in/api/assets/6a44ef82634f29742167a49d",
   },
   {
     date: "01-06-2026",
     title: "Aero, Civil, Mechanical & Electrical",
-    link: pdfLinks[4],
+    link: "https://manage-api.sguk.ac.in/api/assets/6a44ef9c634f29742167a4a2",
   },
   {
     date: "01-06-2026",
     title: "FST & MLT",
-    link: pdfLinks[5],
+    link: "https://manage-api.sguk.ac.in/api/assets/6a44efae634f29742167a4a7",
   },
   {
     date: "01-06-2026",
     title: "B.Pharmacy & Civil Engineering",
-    link: pdfLinks[6],
+    link: "https://manage-api.sguk.ac.in/api/assets/6a44efc2634f29742167a4ac",
   },
   {
     date: "01-06-2026",
     title: "B.Sc Biotechnology",
-    link: pdfLinks[7],
+    link: "https://manage-api.sguk.ac.in/api/assets/6a44efd6634f29742167a4b1",
   },
   {
     date: "01-06-2026",
     title: "LLB",
-    link: pdfLinks[8],
+    link: "https://manage-api.sguk.ac.in/api/assets/6a44f00d634f29742167a4bf",
   },
   {
     date: "01-06-2026",
     title: "B.Design",
-    link: pdfLinks[9],
+    link: "https://manage-api.sguk.ac.in/api/assets/6a44f01e634f29742167a4c4",
   },
   {
     date: "01-06-2026",
     title: "BBA / CRT / BCA / CSE / Design",
-    link: pdfLinks[10],
+    link: "https://manage-api.sguk.ac.in/api/assets/6a44f03e634f29742167a4c9",
   },
   {
     date: "01-06-2026",
     title: "BA",
-    link: pdfLinks[11],
+    link: "https://manage-api.sguk.ac.in/api/assets/6a44f04e634f29742167a4ce",
   },
   {
     date: "01-06-2026",
     title: "BBA",
-    link: pdfLinks[12],
+    link: "https://manage-api.sguk.ac.in/api/assets/6a44f060634f29742167a4d3",
   },
   {
     date: "01-06-2026",
     title: "B.Sc Chemistry",
-    link: pdfLinks[13],
+    link: "https://manage-api.sguk.ac.in/api/assets/6a44f072634f29742167a4d8",
   },
   {
     date: "01-06-2026",
     title: "BJMC",
-    link: pdfLinks[14],
+    link: "https://manage-api.sguk.ac.in/api/assets/6a44f083634f29742167a4df",
   },
   {
     date: "01-06-2026",
     title: "M.Pharm",
-    link: pdfLinks[15],
+    link: "https://manage-api.sguk.ac.in/api/assets/6a44f095634f29742167a4e4",
   },
 ];
 
@@ -121,9 +102,11 @@ const ExamResult = () => {
           <Table bordered hover responsive className="governing-table">
             <thead>
               <tr>
-                <th>Date</th>
-                <th>Notice</th>
-                <th className="text-center">Download</th>
+                <th >Date</th>
+                <th >Notice</th>
+                <th  className="text-center">
+                  Download
+                </th>
               </tr>
             </thead>
 
