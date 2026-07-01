@@ -27,82 +27,82 @@ const results = [
   {
     date: "01-06-2026",
     title: "Result Declaration Summer-2026 Notice-01-06-2026-1",
-    link: pdfLink,
+    link: pdfLink[0],
   },
   {
     date: "01-06-2026",
     title: "Result Declaration Notice",
-    link: pdfLink,
+    link: pdfLink[1],
   },
   {
     date: "01-06-2026",
     title: "CSE Non-NEP Curriculum",
-    link: pdfLink,
+    link: pdfLink[2],
   },
   {
     date: "01-06-2026",
     title: "AIML & B.Pharmacy",
-    link: pdfLink,
+    link: pdfLink[3],
   },
   {
     date: "01-06-2026",
     title: "Aero, Civil, Mechanical & Electrical",
-    link: pdfLink,
+    link: pdfLink[4],
   },
   {
     date: "01-06-2026",
     title: "FST & MLT",
-    link: pdfLink,
+    link: pdfLink[5],
   },
   {
     date: "01-06-2026",
     title: "B.Pharmacy & Civil Engineering",
-    link: pdfLink,
+    link: pdfLink[6],
   },
   {
     date: "01-06-2026",
     title: "B.Sc Biotechnology",
-    link: pdfLink,
+    link: pdfLink[7],
   },
   {
     date: "01-06-2026",
     title: "LLB",
-    link: pdfLink,
+    link: pdfLink[8],
   },
   {
     date: "01-06-2026",
     title: "B.Design",
-    link: pdfLink,
+    link: pdfLink[9],
   },
   {
     date: "01-06-2026",
     title: "BBA / CRT / BCA / CSE / Design",
-    link: pdfLink,
+    link: pdfLink[10],
   },
   {
     date: "01-06-2026",
     title: "BA",
-    link: pdfLink,
+    link: pdfLink[11],
   },
   {
     date: "01-06-2026",
     title: "BBA",
-    link: pdfLink,
+    link: pdfLink[12],
   },
   {
     date: "01-06-2026",
     title: "B.Sc Chemistry",
-    link: pdfLink,
+    link: pdfLink[13],
   },
   {
     date: "01-06-2026",
     title: "BJMC",
-    link: pdfLink,
+    link: pdfLink[14],
   },
   {
     date: "01-06-2026",
     title: "M.Pharm",
-    link: pdfLink,
+    link: pdfLink[15],
   },
 ];
 
