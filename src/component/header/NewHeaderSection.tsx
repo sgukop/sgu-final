@@ -96,6 +96,9 @@ const NewHeaderSection = () => {
                     <li className='whitespace-nowrap hover:text-[#f26122]'><a href="https://sgu.edulip.in/UI/indexSGU.php" target="_blank">Staff Login</a></li>
                      <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
                     <li className='hover:text-[#f26122]'><NavLink href="/Media">Media</NavLink></li>
+                   
+                     <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
+                    <li className='hover:text-[#f26122]'><NavLink href="#">Blog</NavLink></li>
                      
                    
                 </ul>
