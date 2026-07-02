@@ -1,4 +1,4 @@
-import Blog from '@/component/Blog/Media'
+import Blog from '@/component/Blog/Media';
 import BreadcrumbSection from '@/component/breadcrumb/BreadcrumbSection'
 import CtaSection4 from '@/component/cta/CtaSection4'
 import Layout5 from '@/component/layout/Layout5'
@@ -20,4 +20,4 @@ const BlogPage = () => {
   )
 }
 
-export default BlogPage
+export default BlogPage;
