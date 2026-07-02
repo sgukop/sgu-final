@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import React from 'react'
 
-const Blog = () => {
+const Media= () => {
   return (
     <section className="tl-1-teachers pt-100 pb-100">
       <div className="container">
@@ -279,4 +279,4 @@ const Blog = () => {
   )
 }
 
-export default Blog
+export default Media

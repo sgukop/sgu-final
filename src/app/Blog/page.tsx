@@ -1,4 +1,4 @@
-import Blog from '@/component/Blog/Media';
+import Blog from '@/component/Blog/Media'
 import BreadcrumbSection from '@/component/breadcrumb/BreadcrumbSection'
 import CtaSection4 from '@/component/cta/CtaSection4'
 import Layout5 from '@/component/layout/Layout5'
@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     title: 'SGU University',
     description: 'Developed by Enark',
   }
-const BlogPage = () => {
+const MediaPage = () => {
   return (
     <Layout5>
         <BreadcrumbSection title='New & Blog @ SGU' style=''/>
@@ -20,4 +20,4 @@ const BlogPage = () => {
   )
 }
 
-export default BlogPage;
+export default MediaPage
