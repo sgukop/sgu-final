@@ -97,8 +97,6 @@ const NewHeaderSection = () => {
                      <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
                     <li className='hover:text-[#f26122]'><NavLink href="/Media">Media</NavLink></li>
                    
-                     <span className='h-full w-[4px] bg-[#f26122] text-[#f26122]'>.</span>
-                    
                     
                      
                    
