@@ -1,4 +1,5 @@
 import Blog from '@/component/Blog/Media'
+import BlogSection9 from '@/component/blog/BlogSection9'
 import BreadcrumbSection from '@/component/breadcrumb/BreadcrumbSection'
 import CtaSection4 from '@/component/cta/CtaSection4'
 import Layout5 from '@/component/layout/Layout5'
