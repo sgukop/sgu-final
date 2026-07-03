@@ -40,7 +40,7 @@ const blogs = [
   },
 ]
 
-const BlogSection9 = () => {
+const BlogNew = () => {
   return (
     <section className="pt-60 pb-60">
       <div className="container">
@@ -94,4 +94,4 @@ const BlogSection9 = () => {
   )
 }
 
-export default BlogSection9
+export default BlogNew

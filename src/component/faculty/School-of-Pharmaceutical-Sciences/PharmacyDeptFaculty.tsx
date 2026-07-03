@@ -232,19 +232,7 @@ const PharmacyDeptFaculty = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/pharmacy/Ms. Pooja Swani.jpeg" alt="Faculty Image"/>
-                            </div>
 
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Ms. Pooja Mahesh Swami</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Associate Professor</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/699d5fbcf12ed1048ce48773" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div>
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
@@ -271,19 +259,7 @@ const PharmacyDeptFaculty = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/pharmacy/18. Mr. BIRAPPA DUDHAL.jpg" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Mr. Dudhal Birappa A.</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
         </div>

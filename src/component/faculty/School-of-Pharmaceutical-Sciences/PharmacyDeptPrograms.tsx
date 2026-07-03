@@ -29,7 +29,7 @@ const PharmacyDeptPrograms = () => {
                         <tr>
                             <th><p className="text-[#4f70b6]">Name of program</p></th>
                             <th><p className="text-[#4f70b6]">Intake</p></th>
-                            <th><p className="text-[#4f70b6]">Starting year</p></th>
+                            <th><p className="text-[#4f70b6]">Academic year</p></th>
                         </tr>
                     </thead>
                     <tbody>
@@ -37,7 +37,7 @@ const PharmacyDeptPrograms = () => {
 
                         <tr>
                             <td><p>B. Pharm </p></td>
-                            <td><p>100</p></td>
+                            <td><p>60</p></td>
                             <td><p>2019-20</p></td>
                         </tr>
 
