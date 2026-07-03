@@ -2,6 +2,7 @@
 
 import React from 'react'
 
+// Corrected the array variable name to 'blogs' to match the mapping logic below
 const blogs = [
   {
     id: 1,
