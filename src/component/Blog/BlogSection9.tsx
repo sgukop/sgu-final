@@ -10,7 +10,7 @@ const BlogSection9 = () => {
         <section className="tl-13-blogs pb-60 pt-60">
             <div className="container">
                 <div className="tl-13-section-heading" style={{borderBottom:'1px solid rgba(23, 22, 28, 0.14);'}}>
-                    <h2 className="tl-section-title tl-10-section-title" style={{paddingBottom:'10px'}}>Latest news / Events / Announcement / Blog</h2>
+                    <h2 className="tl-section-title tl-10-section-title" style={{paddingBottom:'10px'}}>Latest news / Events / Announcements</h2>
                     <div className='d-flex gap-2 tl-13-blogs-slider-nav'>        <button
                         type="button"
                         role="presentation"
