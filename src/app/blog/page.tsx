@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 const BlogsPage = () => {
   return (
     <Layout5>
-      <BreadcrumbSection title="New Blog" style="" />
+      <BreadcrumbSection title="Blog" style="" />
       <NewBlog />
       
       {/* <PricingSection/>
