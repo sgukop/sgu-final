@@ -1,61 +1,98 @@
-// components/SEO.jsx
-import React from 'react';
-import { Helmet } from 'react-helmet-async';
+'use client'
 
-const SEO = () => {
-  const schemaData = {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "WebPage",
-        "@id": "https://sgischool.in/blog/",
-        "url": "https://sgischool.in/blog/",
-        "name": "Latest Educational Updates & News | SGIS Blog",
-        "description": "Explore latest news, events, and educational insights from Sanjay Ghodawat International School.",
-        "breadcrumb": { "@id": "https://sgischool.in/blog/#breadcrumb" },
-        "inLanguage": "en-US"
-      },
-      {
-        "@type": "BreadcrumbList",
-        "@id": "https://sgischool.in/blog/#breadcrumb",
-        "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://sgischool.in/" },
-          { "@type": "ListItem", "position": 2, "name": "Blog" }
-        ]
-      }
-    ]
-  };
+import React from 'react'
 
+// Corrected the array variable name to 'blogs' to match the mapping logic below
+const blogs = [
+  {
+    id: 1,
+    preview:
+      'https://docs.google.com/document/d/1nEYnnat6IHvQP_sFVxHVu0kOkZr5uvOBBMfjDrTgxxQ/preview',
+    open:
+      'https://docs.google.com/document/d/1nEYnnat6IHvQP_sFVxHVu0kOkZr5uvOBBMfjDrTgxxQ/edit',
+  },
+  {
+    id: 2,
+    preview:
+      'https://docs.google.com/document/d/1pfgEkytC1RmZwqbPZTouuj1olSEd4f-9TY_-mQpImjc/preview',
+    open:
+      'https://docs.google.com/document/d/1pfgEkytC1RmZwqbPZTouuj1olSEd4f-9TY_-mQpImjc/edit',
+  },
+  {
+    id: 3,
+    preview:
+      'https://docs.google.com/document/d/142y431-ZdRoTwZiTroZgg4fInLcFgCJszxHvd81Rffk/preview',
+    open:
+      'https://docs.google.com/document/d/142y431-ZdRoTwZiTroZgg4fInLcFgCJszxHvd81Rffk/edit',
+  },
+  {
+    id: 4,
+    preview:
+      'https://docs.google.com/document/d/1e1BbgzCoj03KFn9WjtmxIHUg_PpvIUy567Vgo7myDNo/preview',
+    open:
+      'https://docs.google.com/document/d/1e1BbgzCoj03KFn9WjtmxIHUg_PpvIUy567Vgo7myDNo/edit',
+  },
+  {
+    id: 5,
+    preview:
+      'https://docs.google.com/document/d/1LJWdDc7Ec-QTNeWze1k25YO-fI078EgKPUzgZFtC3W8/preview',
+    open:
+      'https://docs.google.com/document/d/1LJWdDc7Ec-QTNeWze1k25YO-fI078EgKPUzgZFtC3W8/edit',
+  },
+]
+
+const BlogNew = () => {
   return (
-    <Helmet>
-      <title>Latest Educational Updates & News | SGIS Blog</title>
-      <meta name="description" content="Explore latest news, events, and educational insights from Sanjay Ghodawat International School. Stay updated with institutional updates and educational highlights." />
-      <link rel="canonical" href="https://sgischool.in/blog/" />
-      
-      {/* Open Graph / Facebook */}
-      <meta property="og:locale" content="en_US" />
-      <meta property="og:type" content="article" />
-      <meta property="og:title" content="Latest Educational Updates & News | SGIS Blog" />
-      <meta property="og:description" content="Explore latest news, events, and educational insights from Sanjay Ghodawat International School." />
-      <meta property="og:url" content="https://sgischool.in/blog/" />
-      <meta property="og:site_name" content="Sanjay Ghodawat International School" />
-      <meta property="og:image" content="https://sgischool.in/wp-content/uploads/2025/09/gala-event.jpg" />
-      
-      {/* Twitter */}
-      <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:label1" content="Est. reading time" />
-      <meta name="twitter:data1" content="2 minutes" />
+    <section className="pt-60 pb-60">
+      <div className="container">
+        {/* Main Title */}
+        <div
+          className="mb-5"
+          style={{
+            borderBottom: '1px solid rgba(23,22,28,0.14)',
+          }}
+        >
+          <h2
+            className="tl-section-title tl-10-section-title"
+            style={{ paddingBottom: '10px' }}
+          >
+            Latest Blogs
+          </h2>
+        </div>
 
-      {/* FontAwesome & Google Fonts */}
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
-      <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet" />
+        <div className="row">
+          {blogs.map((blog) => (
+            <div className="col-lg-6 col-md-12 mb-4" key={blog.id}>
+              <div
+                className="card shadow-sm border-0 rounded-3 overflow-hidden"
+                style={{ background: '#fff' }}
+              >
+                <iframe
+                  src={blog.preview}
+                  title={`Blog ${blog.id}`}
+                  width="100%"
+                  height="500"
+                  style={{ border: 'none' }}
+                  loading="lazy"
+                />
 
-      {/* JSON-LD Schema */}
-      <script type="application/ld+json">
-        {JSON.stringify(schemaData)}
-      </script>
-    </Helmet>
-  );
-};
+                <div className="card-footer bg-white text-center">
+                  <a
+                    href={blog.open}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="btn btn-primary"
+                  >
+                    Open Full Blog
+                  </a>
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )
+}
 
-export default SEO;
+export default BlogNew
