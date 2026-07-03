@@ -28,6 +28,7 @@
     "react-countup": "^6.5.3",
     "react-dom": "18.2.0",
     "react-fast-marquee": "^1.6.5",
+    "react-helmet-async": "^3.0.0",
     "react-phone-input-2": "^2.15.1",
     "react-responsive-carousel": "^3.2.23",
     "react-slick": "^0.29.0",
