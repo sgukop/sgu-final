@@ -14,7 +14,7 @@ const EligibilityCriteria = ({sectionStyle,pageStyle,categoryStyle} : Props) => 
         <div className={`row ${pageStyle}-categories-row justify-content-center`}>
          
             <div className="col-lg-6 col-md-12 col-12 col-xxs-12">
-              <Link href="https://manage-api.sguk.ac.in/api/assets/6a1e7dc05b3f089b85a78a3c" className={`tl-3-single-program ${categoryStyle}`}>
+              <Link href="https://manage-api.sguk.ac.in/api/assets/6a4f88160a3e8b9f2807dc5f" className={`tl-3-single-program ${categoryStyle}`}>
                <h5 className="tl-3-single-program-title">Click here for Eligibility Criteria for Admission</h5>
                 <i className="fa-regular fa-arrow-right-long"></i>
               </Link>

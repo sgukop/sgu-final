@@ -26,27 +26,50 @@ const ChemicalDeptAbout = () => {
             <div className="row g-2 align-items-center">
                 <div className="col-lg-5">
                     <div className="tl-14-about-img">
-                        <img src="/assets/images/faculty-profile-photos/chemistry/1. Dr. ANAND SAWANT.jpg" alt="About Department" className="rounded-full"
+                        <img src="/assets/images/faculty-profile-photos/chemistry/HOD.jpeg" alt="About Department" className="rounded-full"
                         style={{border:"10px solid #4f70b6", padding:"20px"}} />
                     </div>
                 </div>
 
-                <div className="col-lg-7">
-                    <div className="tl-14-about-txt">
-                       <h2 className="tl-14-section-title">HOD's Desk</h2>
-                      {/* <p className="dark-mode-white-color">Chemistry is central science that deals with everyday life. Chemistry is all about knowing, measuring and making material. It can be making molecules, modifying and studying their properties.<br/><br/>
-                        Students can make their bright career in chemistry with our graduate, post graduate and PhD programs in chemistry. Deep understanding of chemistry can enable our graduates to take up new challenges in all aspects of chemistry that includes organic synthesis, chemical analysis, catalysis, nanotechnology, biochemistry etc. Our focused skill enhancement courses develop intellectual, practical and transferable skills of students.</p>  */}
-                        <p className="dark-mode-white-color text-justify">The Department of Chemistry, under the esteemed School of Physical and Chemical Sciences started functioning since the inception of SGU in the year 2017. The department has been actively involved in teaching and research activities by offering Bachelor’s, Master’s, and Doctoral degree programs in Chemistry. The Department has well-equipped modern research laboratories with state-of-the art facilities like GC, HPLC, UV-visible spectrophotometer, Electrochemical Workstation etc. The Department has tie-ups with recognized institutions and industries for student projects, training and research activities. The department has enthusiastic, competent, well qualified and dedicated faculty members whose areas of expertise covers not only the core areas of chemistry but also many multidisciplinary areas such as energy and Materials science, Green Chemistry and catalysis, Synthetic chemistry, Ionic liquid, environmental remediation and nanoscience, publishing high-quality papers and patents clearly portray our dedication. 
-                        </p>
-                        <span
-                    className="dark-mode-white-color mt-4"
-                    style={{ fontWeight: "bold" }}
-                  >
-                    {" "}
-                   Dr. Anand Dilip Sawant , <br /> Head, Department of Chemistry{" "}
-                  </span>
+                    <div className="col-lg-7">
+                        <div className="tl-14-about-txt">
+                            <h2 className="tl-14-section-title">HOD's Desk</h2>
+                            
+                            <p className="dark-mode-white-color text-justify">
+                                Welcome to the Department of Chemistry!
+                            </p>
+                            
+                            <p className="dark-mode-white-color text-justify">
+                                Since its inception in 2017, the Department of Chemistry, under the School of Physical and Chemical Sciences, has been a cornerstone of academic excellence and research at Sanjay Ghodawat University. Chemistry is the "central science" that touches every aspect of daily life, and our department is dedicated to preparing the next generation of scientists to meet the global challenges of the future.
+                            </p>
+
+                            <ul className="dark-mode-white-color text-justify list-unstyled">
+                                <li className="mb-3">
+                                    <strong>Academic Excellence & Industry Integration:</strong> We offer comprehensive B.Sc., M.Sc., and Ph.D. programs designed with an industry-aligned curriculum that meets global standards. Our teaching methodology goes beyond traditional boundaries, integrating professional practices in sciences to ensure our graduates are not just degree holders, but job-ready professionals. Our faculty members are highly qualified experts in diverse fields, ranging from core organic and analytical chemistry to multidisciplinary areas like Green Chemistry, Nanoscience, Energy and Materials Science, and Catalysis.
+                                </li>
+                                <li className="mb-3">
+                                    <strong>State-of-the-Art Infrastructure:</strong> Our students train in state-of-the-art laboratories equipped with advanced instrumentation, including HPLC, GC, UV-Visible Spectrophotometers, FTIR, NMR, and Electrochemical Workstations. We believe in hands-on training, ensuring mastery over wet lab SOPs, method validation, and QC documentation.
+                                </li>
+                                <li className="mb-3">
+                                    <strong>Future-Ready Skills for a Global Career:</strong> In alignment with modern demands, we have integrated Digital and AI skills into our research tools, providing training in data analysis (Excel, Python/R), ChemDraw, and molecular modelling. Our focus on Safety and Compliance (GMP/GLP) ensures that our students are prepared for high-stakes roles in Pharma, Biotech, CRO, and API development.
+                                </li>
+                                <li className="mb-3">
+                                    <strong>Research, Collaboration, and Beyond:</strong> With strong industry linkages and tie-ups with recognized institutions, we provide excellent internships and placement records. Whether our students aim for international research fellowships, leadership roles in regulatory affairs, or careers in academia, we provide the pathways to achieve those global ambitions.
+                                </li>
+                            </ul>
+
+                            <p className="dark-mode-white-color text-justify">
+                                Our vision is to emerge as a center of excellence in education and research, fostering an environment of lifelong learning and leadership. We invite you to join us in this journey of discovery and professional growth.
+                            </p>
+
+                            <span
+                                className="dark-mode-white-color mt-4 d-block"
+                                style={{ fontWeight: "bold" }}
+                            >
+                                Dr. Anand Dilip Sawant , <br /> Head, Department of Chemistry
+                            </span>
+                        </div>
                     </div>
-                </div>
             </div>
 
           <div className="row tl-event-details-row g-0 mt-50">
