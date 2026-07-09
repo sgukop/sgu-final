@@ -63,7 +63,7 @@ const ChemicalProfessionalBOdies = () => {
 
                   <div className="col-lg-12">
                    <div className="tl-event-details-key-content tl-event-details-area">
-                   <p className="dark-mode-white-color my-4"><strong>Sonali Suryawanshi</strong></p>
+                   <p className="dark-mode-white-color my-4"><strong>Dr. Sonali Suryawanshi</strong></p>
                     <p>Association with other Universities / Professional Bodies / Industries / NGO etc</p>
                            <ul className="tl-event-details-key-content-list phd-container">
                                    <li>ACS (American Chemical Society) chemistry for life community member (Membership number: 32691583) 2021. </li>

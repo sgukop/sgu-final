@@ -20,7 +20,7 @@ const ChemicalPGProgram = () => {
                  <h6 className="tl-8-feature-title">About Program</h6>
                    
                         <div className="tl-8-feature">
-                           <p className="tl-8-feature-descr" style={{textAlign:"justify"}}>The PG program M.Sc. chemistry offered by the department has successfully completed its journey of excellence for around 8 years. The primary focus of the M.Sc. Chemistry course is on Organic and Analytical chemistry. Over four semesters, both theory and laboratory courses are taught at an advanced level. 
+                           <p className="tl-8-feature-descr" style={{textAlign:"justify"}}>The PG program M.Sc. chemistry offered by the department has successfully completed its journey of excellence for around 8 years. The primary focus of the M.Sc. Chemistry course is on Organic and Analytical chemistry. Over four semesters, both theory and laboratory courses(PBL-Project base learning) are taught at an advanced level. 
                         </p>
 
                        {/* <Table bordered responsive className="governing-table mt-30">
