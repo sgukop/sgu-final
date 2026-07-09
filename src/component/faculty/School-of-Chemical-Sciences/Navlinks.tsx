@@ -10,6 +10,7 @@ const NavLinks = [
     { title: "Curriculum Structure and Syllabus", path: "/che-dept-syllabus" },
    /*{ title: "Placement", path: "/chemical-dept-placements" }, */
     { title: "MOU", path: "/chemical-dept-MOU" },
+     { title: "Alumni", path: "/chemical-dept-alumni" },
     { title: "Conference / Guest lecture / Invited talk / Workshop / FDP attended", path: "/chemical-dept-conference" },
     { title: "Achievements", path: "/chemical-dept-achievements" },
     { title: "Associations", path: "/chemical-dept-associations" },

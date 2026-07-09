@@ -82,7 +82,9 @@ const ChemicalDeptInternship = () => {
   <div className="tl-11-section-heading">
     <h2 className="tl-11-section-title">Major Recruiters</h2>
   </div>
-
+<h3>
+  200+ Students Successfully Placed in Leading Pharmaceutical, Chemical, Biotech, and Research Organizations.
+</h3>
   <div className="col-lg-12">
     <Table bordered responsive className="governing-table">
       <thead>
