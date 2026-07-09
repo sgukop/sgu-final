@@ -5,11 +5,11 @@ const GuestLecture = () => {
     <div className="col-lg-12">
         <div className="tl-event-details-left">
             <div className="tl-event-details-key-content tl-event-details-area">
-                <h3 className="tl-event-details-area-title">Conference Participated / Presented</h3>
+                <h3 className="tl-event-details-area-title">Conference Participated </h3>
                     <ul className="tl-event-details-key-content-list">
                         <li>Montmorillonite Clay Catalyzed Bioactive Green Synthesis of Dihydropyrano[3,2-c]chromenes,S. A. Khade and P. D. Bhange</li>
                         <li>International Conference on Sustainable Healthcare, Food Science and Energy - 2026 (ICSHFE-2026), held on January 23 & 24, 2026 organized by Sanjay Ghodawat University, Kolhapur</li>
-                        <li><strong>Conference Presentations : </strong>ACS Global Scientific Conference; 8-11 October 2025, IIT Bombay</li>
+                        <li><strong>Conference Presentations : </strong> ACS Global Scientific Conference, Dr. A.D. Sawant, 8-11 October 2025, IIT Bombay</li>
                         <li><strong>Channelling eggshell waste : </strong>As efficient, reusable and cheap alternative to valuable synthesis of Pyrazole scaffolds, as potent anticancer agents Sachin Khade, Bhushan Wale, Aniket Savvashe, Pallavi Bhange National conference on Sustainable Development and scientific Synergies for the future” on 21-22nd Feb., 2025 at Warananagar, Sangli.</li>
                         <li><strong>Silk Fibroin/Palladium For Suzuki-Miyaura coupling Reactions</strong> Shubham Chandwad, Rohan Bhosale, Giriraj patil and Sunetra Deshmukh The International Conference on Silk Fibroin & Sericulture Resources (IC-SFSR-24) (A Multi-Mega Event on Innovative Technologies For Viksit Bharat) on 16th to 19th February 2024 at the Center For Research & Technology Developments (CRTD)-Sinhgad Institutes, Solapur in collaboration with, Punyashlok Ahilyadevi Holkar, Solapur University, Solapur,.</li>
 

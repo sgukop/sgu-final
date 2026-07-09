@@ -29,7 +29,7 @@ const Conference = () => {
                   <Tab.Container id="myTab" defaultActiveKey="overview-tab">
                       <Nav className="nav-tabs tl-course-details-navs">
                         <Nav.Item>
-                            <Nav.Link eventKey="overview-tab">Conference Participated / Presented</Nav.Link>
+                            <Nav.Link eventKey="overview-tab">Conference Participated </Nav.Link>
                         </Nav.Item>
                         <Nav.Item>
                             <Nav.Link eventKey="curriculum-tab">Guest lecture / program Organized</Nav.Link>

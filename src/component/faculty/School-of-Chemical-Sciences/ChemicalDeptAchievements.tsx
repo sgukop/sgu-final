@@ -23,6 +23,8 @@ const ChemicalDeptAchievements = () => {
             <div className="tl-event-details-key-content">
                 <h3 className="tl-event-details-area-title">Students Achievements</h3>
                 <ul className="tl-event-details-key-content-list">
+                    <li>Ms Eureka Kadlas, Cracked IIT-JAM 2025-2026.</li>
+                    <li>Shreya Koregave awareded DST- Inspire scholarship for Bsc Program.</li>
                     <li>Ms Ruth Madhale, Research Scholar from the Department of Chemistry has successfully Ph.D degree in Chemistry.
                          Thesis entitled: “development of novel photocatalytic materials for water splitting, environmental remediation and antimicrobial activity”.</li>
                     <li>Ms Pratiksha Lambe who is selected for an prestigious  Indian Academy of Science, Bangalore (IASc) Summer Research Fellowship in 2023 at Guru Nanak Dev University, Amritsar.</li>
