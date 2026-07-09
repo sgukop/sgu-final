@@ -8,6 +8,7 @@ const NavLinks = [
    /* { title: "Alumni Count Year Wise", path: "" },  
     { title: "Events", path: "/design-dept-events" },*/
     { title: "Structure of the Program", path: "/design-dept-structure" },
+    { title: "SGU x Hamstech", path: "/design-dept-hamstech" },
 ];
   
   export default NavLinks;
