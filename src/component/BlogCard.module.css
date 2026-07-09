@@ -1,0 +1,79 @@
+/* components/BlogCard.module.css */
+
+.card {
+  display: flex;
+  flex-direction: column;
+  background: #f4f4f4;
+  border-radius: 12px;
+  overflow: hidden;
+  height: 100%;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.1);
+}
+
+.imageWrap {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  background: #fdeceb;
+  overflow: hidden;
+}
+
+.image {
+  object-fit: cover;
+}
+
+.body {
+  padding: 22px 22px 26px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.title {
+  font-size: 1.15rem;
+  line-height: 1.4;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 0 0 10px;
+  min-height: 3.9em;
+}
+
+.date {
+  font-size: 0.85rem;
+  color: #9a9a9a;
+  margin: 0 0 12px;
+}
+
+.excerpt {
+  font-size: 0.95rem;
+  line-height: 1.55;
+  color: #6b6b6b;
+  margin: 0 0 20px;
+  flex: 1;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.readMore {
+  display: inline-block;
+  align-self: flex-start;
+  background: var(--brand-red, #c1272d);
+  color: #fff;
+  font-weight: 600;
+  font-size: 0.9rem;
+  padding: 10px 22px;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: background 0.2s ease;
+}
+
+.readMore:hover {
+  background: var(--brand-red-dark, #a11f24);
+}

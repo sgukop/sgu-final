@@ -1,0 +1,94 @@
+/* components/Footer.module.css */
+
+.footer {
+  background: #1c1c1c;
+  color: #d8d8d8;
+  margin-top: 64px;
+}
+
+.top {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 56px 24px 32px;
+  display: grid;
+  grid-template-columns: 1.4fr 1fr 1fr 1fr;
+  gap: 32px;
+}
+
+.brandCol .logoMark {
+  font-family: Georgia, serif;
+  font-weight: 800;
+  font-size: 1.6rem;
+  color: #fff;
+}
+
+.tagline {
+  margin: 14px 0 18px;
+  font-size: 0.88rem;
+  color: #a8a8a8;
+  line-height: 1.5;
+}
+
+.socials {
+  display: flex;
+  gap: 10px;
+}
+
+.socials a {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background: var(--brand-red, #c1272d);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.linkCol h4 {
+  color: #fff;
+  font-size: 0.95rem;
+  margin: 0 0 16px;
+}
+
+.linkCol ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.linkCol a {
+  color: #b8b8b8;
+  text-decoration: none;
+  font-size: 0.88rem;
+}
+
+.linkCol a:hover {
+  color: #fff;
+}
+
+.bottom {
+  border-top: 1px solid #333;
+  text-align: center;
+  padding: 18px 24px;
+  font-size: 0.8rem;
+  color: #8f8f8f;
+}
+
+@media (max-width: 900px) {
+  .top {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 560px) {
+  .top {
+    grid-template-columns: 1fr;
+  }
+}

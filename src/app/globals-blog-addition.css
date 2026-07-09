@@ -1,0 +1,9 @@
+/* Add these variables to your existing global stylesheet (e.g. app/globals.css)
+   Skip this file if you already have brand color variables defined —
+   just make sure --brand-red matches your logo red (#C1272D used throughout
+   these blog components). */
+
+:root {
+  --brand-red: #c1272d;
+  --brand-red-dark: #a11f24;
+}

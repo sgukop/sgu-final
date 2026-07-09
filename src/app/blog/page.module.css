@@ -1,0 +1,43 @@
+/* app/blog/page.module.css */
+
+.page {
+  background: #fff;
+  padding: 48px 0 64px;
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.heading {
+  font-size: 2.4rem;
+  font-weight: 800;
+  color: var(--brand-red, #c1272d);
+  margin: 0 0 32px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 28px;
+}
+
+/* Tablet: 2 columns */
+@media (max-width: 992px) {
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Mobile: 1 column */
+@media (max-width: 600px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+
+  .heading {
+    font-size: 1.8rem;
+  }
+}

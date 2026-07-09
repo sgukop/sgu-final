@@ -1,0 +1,85 @@
+/* components/Header.module.css */
+
+.header {
+  width: 100%;
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: #fff;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+}
+
+.topBar {
+  background: var(--brand-red, #c1272d);
+  color: #fff;
+  font-size: 0.8rem;
+}
+
+.topBarInner {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 8px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 24px;
+}
+
+.topBarCta {
+  background: #fff;
+  color: var(--brand-red, #c1272d);
+  padding: 4px 14px;
+  border-radius: 4px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.mainBar {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 14px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+}
+
+.logo {
+  text-decoration: none;
+}
+
+.logoMark {
+  font-family: Georgia, serif;
+  font-weight: 800;
+  font-size: 1.6rem;
+  color: var(--brand-red, #c1272d);
+  letter-spacing: 1px;
+}
+
+.nav {
+  display: flex;
+  gap: 26px;
+  flex-wrap: wrap;
+}
+
+.navLink {
+  color: #2b2b2b;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.92rem;
+  transition: color 0.2s ease;
+}
+
+.navLink:hover {
+  color: var(--brand-red, #c1272d);
+}
+
+@media (max-width: 900px) {
+  .mainBar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .nav {
+    gap: 16px;
+  }
+}
