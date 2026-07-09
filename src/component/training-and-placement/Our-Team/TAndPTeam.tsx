@@ -37,34 +37,7 @@ const TAndPTeam = () => {
                     </div>
                 </div>
 
-                <div className="col-lg-4 col-sm-6">
-                    <div className="tl-2-blog tl-2-course">
-                        <div className="tl-2-course-txt">
-                            <h4 className="tl-1-course-title tl-2-course-title text-[#4f70b6]"><strong>Mr. Milind Patil</strong></h4>
-                           
-                            <div className="tl-2-course-infos">
-                                <div className="tl-2-course-info">
-                                    <h6 className="tl-2-course-info-key"><strong>Designation : </strong></h6>
-                                    <h6 className="tl-2-course-info-value">Deputy - Training & Placement</h6>
-                                </div>
-                            </div>  
 
-                            <div className="tl-2-course-infos">
-                                <div className="tl-2-course-info">
-                                    <h6 className="tl-2-course-info-key"><strong>Contact Number : </strong></h6>
-                                    <h6 className="tl-2-course-info-value">+91 7218052990</h6>
-                                </div>
-                            </div>
-
-                            <div className="tl-2-course-infos">
-                                <div className="tl-2-course-info">
-                                    <h6 className="tl-2-course-info-key"><strong>Email : </strong></h6>
-                                    <h6 className="tl-2-course-info-value">dytpo@sguk.ac.in</h6>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
 
                 <div className="col-lg-4 col-sm-6">
                     <div className="tl-2-blog tl-2-course">
