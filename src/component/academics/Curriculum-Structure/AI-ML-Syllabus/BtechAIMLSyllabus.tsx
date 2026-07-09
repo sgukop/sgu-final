@@ -71,7 +71,7 @@ const BtechAIMLSyllabus = () => {
              <tr>
                   <td><p>Final Year B.Tech AIML</p></td>
                   <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/67d93f9b4f56d3a0bcfba05a">Final Year B.Tech AIML <i className="fa-regular fa-arrow-right-long"></i></Link></td>
-             </tr>*/}
+             </tr>
              <tr>
                   <td><p>B.Tech Final_Year Syllabus</p></td>
                   <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/696611a52707d1e5bb924218">B.Tech Final_Year Syllabus<i className="fa-regular fa-arrow-right-long"></i></Link></td>
@@ -88,7 +88,28 @@ const BtechAIMLSyllabus = () => {
              <tr>
                   <td><p>B.Tech First Year R25 Syllabus</p></td>
                   <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6966124d2707d1e5bb924227">B.Tech First Year R25 Syllabus <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+             </tr>*/}
+             <tr>
+                  <td><p>B.Tech AIML Strucutre R25</p></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6a4f87510a3e8b9f2807dc44">B.Tech AIML Strucutre R25 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
              </tr>
+             <tr>
+                  <td><p>F. Y. B. Tech. AIML Syllabus R25</p></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6a4f87610a3e8b9f2807dc49">F. Y. B. Tech. AIML Syllabus R25 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+             </tr>
+             <tr>
+                  <td><p>S. Y. B. Tech. AIML Syllabus R-25</p></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6a4f87710a3e8b9f2807dc4e">S. Y. B. Tech. AIML Syllabus R-25 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+             </tr>
+             <tr>
+                  <td><p>B.Tech AIML R23_Structure</p></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6a4f877f0a3e8b9f2807dc53">B.Tech AIML R23_Structure <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+             </tr>
+             <tr>
+                  <td><p>B. Tech. AIML Final Year Syllabus R23</p></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6a4f878e0a3e8b9f2807dc58">B.Tech AIML Final Year Syllabus R23 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+             </tr>
+             
           </tbody>
       </Table>
 
