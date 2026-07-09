@@ -62,6 +62,113 @@ const ChemicalDeptAbout = () => {
               </div>
               
             </div>  
+           <div className="row tl-event-details-row g-0 mt-50">
+  <div className="col-lg-12">
+    <div className="tl-event-details-left">
+
+      {/* Infrastructure Features */}
+      <h3 className="tl-event-details-area-title text-[#4f70b6]">
+        Infrastructure Features
+      </h3>
+
+      <div className="tl-event-details-key-content tl-event-details-area">
+        <ul className="list-disc pl-5 space-y-3 dark-mode-white-color">
+          <li>
+            <strong>State-of-the-Art Laboratories:</strong> Equipped with advanced
+            instrumentation and modern laboratory facilities for advanced
+            experiments, research, and hands-on training.
+          </li>
+        </ul>
+      </div>
+
+      {/* Curriculum & Academic Features */}
+      <h3 className="tl-event-details-area-title text-[#4f70b6] mt-5">
+        Curriculum & Academic Features
+      </h3>
+
+      <div className="tl-event-details-key-content tl-event-details-area">
+        <ul className="list-disc pl-5 space-y-3 dark-mode-white-color">
+          <li>
+            <strong>Highly Qualified Faculty:</strong> Experienced faculty members
+            committed to quality teaching, mentoring, and research excellence.
+          </li>
+
+          <li>
+            <strong>Industry-Aligned Curriculum:</strong> Curriculum designed to
+            meet global industry standards and future skill requirements.
+          </li>
+
+          <li>
+            <strong>Unique Industry & Job-Ready Courses:</strong> Professional
+            science practices integrated into the curriculum to enhance
+            employability and practical expertise.
+          </li>
+
+          <li>
+            <strong>Internships & Placements:</strong> Strong industry linkages
+            offering internship opportunities and excellent placement support.
+          </li>
+
+          <li>
+            <strong>Core Technical Skills:</strong> Hands-on training in HPLC, GC,
+            UV–Visible Spectroscopy, FTIR, NMR, wet laboratory SOPs, analytical
+            method validation, and quality control documentation.
+          </li>
+
+          <li>
+            <strong>Digital & AI Skills:</strong> Training in data analysis using
+            Excel, Python/R, ChemDraw, molecular modelling, and AI-powered
+            research tools.
+          </li>
+
+          <li>
+            <strong>Safety & Compliance:</strong> Practical knowledge of GMP,
+            GLP, laboratory safety, chemical handling, waste management, and
+            regulatory documentation.
+          </li>
+        </ul>
+      </div>
+
+      {/* Career Prospects */}
+      <h3 className="tl-event-details-area-title text-[#4f70b6] mt-5">
+        Career Prospects
+      </h3>
+
+      <div className="tl-event-details-key-content tl-event-details-area">
+        <ul className="list-disc pl-5 space-y-3 dark-mode-white-color">
+          <li>
+            <strong>Pharma & Biotech:</strong> Career opportunities in drug
+            discovery, CROs, CDMOs, API development, and biotechnology
+            industries.
+          </li>
+
+          <li>
+            <strong>Government & Private Laboratories:</strong> Opportunities in
+            quality control, regulatory affairs, analytical testing, and applied
+            research laboratories.
+          </li>
+
+          <li>
+            <strong>Research & Academia:</strong> Pathways to Ph.D. programs,
+            postdoctoral fellowships, scientific research, and teaching careers.
+          </li>
+
+          <li>
+            <strong>Global Careers:</strong> International fellowships, industry
+            placements, higher education, and research positions abroad.
+          </li>
+
+          <li>
+            <strong>Leadership Roles:</strong> Career advancement in project
+            management, regulatory affairs, scientific communication, and
+            research leadership.
+          </li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</div> 
 
             <div className="row g-2 mt-50">
                 <div className="col-lg-6">

@@ -45,6 +45,8 @@ const ChemicalUGProgram = () => {
                         <ul className="tl-event-details-key-content-list">
                             <li>Data Science Analytics</li>
                             <li>Food Processing Technology</li>
+                            <li>Biotechnology</li>
+                           
                         </ul>
                         <p className="text-black mt-4"><strong>Eligibility : </strong>10+2 (Science)</p>
 
