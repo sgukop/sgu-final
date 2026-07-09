@@ -10,12 +10,12 @@ import styles from "./Header.module.css";
 
 const navLinks = [
   { label: "Home", href: "/" },
-  { label: "About Us", href: "/about" },
-  { label: "Admissions", href: "/admissions" },
-  { label: "Academics", href: "/academics" },
-  { label: "Life @Campus", href: "/life" },
+  { label: "About Us", href: "/about-university" },
+  { label: "Admissions", href: "/admission-open" },
+  
+  { label: "Life @Campus", href: "/about-campus" },
   { label: "Blog", href: "/blog" },
-  { label: "Contact Us", href: "/contact" },
+  { label: "Contact Us", href: "/contact-us" },
 ];
 
 export default function Header() {
