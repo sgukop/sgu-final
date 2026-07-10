@@ -76,7 +76,17 @@ const AIMLDeptActivities = () => {
                         
                     </div>
                   </div>
+                  <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                    <div className="tl-9-blog"> 
+                        <div className="tl-9-event-img">
+                        <figure><img src="assets/images/AIML/activities&achievements/AIML26.jpg" alt="Activities & Achievements Image"/></figure>
+                        </div>
+                        
+                    </div>
                   </div>
+                  </div>
+                  
+                  
                   
                   <h3 className="tl-event-details-area-title">Other Activities</h3>
                   <div className="row g-3 g-lg-4 lift-content-center">
@@ -172,6 +182,14 @@ const AIMLDeptActivities = () => {
                                 </div>
                   </div>
                   </div>
+                                    <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+                    <div className="tl-9-blog"> 
+                        <div className="tl-9-event-img">
+                        <figure><img src="assets/images/AIML/activities&achievements/AIML23.jpg" alt="Activities & Achievements Image"/></figure>
+                        </div>
+                        
+                    </div>
+                  </div>
           <h3 className="tl-event-details-area-title">Hackathon winners</h3>
                  <div className="row g-3 g-lg-4 lift-content-center">
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
@@ -202,37 +220,6 @@ const AIMLDeptActivities = () => {
                   </div>
                   </div>
                   
-                  <h3 className="tl-event-details-area-title">Department meet</h3>
-                  <div className="row g-3 g-lg-4 lift-content-center">
-                  <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
-                    <div className="tl-9-blog"> 
-                        <div className="tl-9-event-img">
-                        <figure><img src="assets/images/AIML/activities&achievements/AIML10.jpg" alt="Activities & Achievements Image"/></figure>
-                        </div>
-                       
-                    </div>
-                  </div>
-                  
-
-                  </div>  
-                  <div className="tl-8-course mt-30">
-                      <div className="tl-8-course-img">
-                          <img src="assets/images/AIML/activities&achievements/AIML23.jpg" alt="Activities & Achievements Image"/>
-                      </div>
-                      <div className="tl-8-course-txt">
-                          <p className="dark-mode-white-color">Guest Lecture on <strong>“Python Data Manipulation Playbook: NumPy &Pandas” </strong> by Mr. Sandesh S. Dandin.
-                        </p>
-                      </div>
-                  </div>
-
-                  <div className="tl-8-course mt-30">
-                      <div className="tl-8-course-img">
-                          <img src="assets/images/AIML/activities&achievements/AIML26.jpg" alt="Activities & Achievements Image"/>
-                      </div>
-                      <div className="tl-8-course-txt">
-                          <p className="dark-mode-white-color">Webverse Compitition Orgnized by AIMLSA.</p>
-                      </div>
-                  </div>
               </div>
           </div>
        </div>
