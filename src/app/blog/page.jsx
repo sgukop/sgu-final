@@ -1,9 +1,8 @@
-// app/blog/page.jsx
 "use client";
 
 import { useMemo, useState } from "react";
-import Header from "@/component/Header"; // swap for your existing Header
-import Footer from "@/component/Footer"; // swap for your existing Footer
+import Layout5 from "@/component/layout/Layout5";
+import BreadcrumbSection from "@/component/breadcrumb/BreadcrumbSection";
 import BlogCard from "@/component/BlogCard";
 import Pagination from "@/component/Pagination";
 import blogPosts from "@/data/blogPosts";
@@ -25,21 +24,23 @@ export default function BlogPage() {
 
   const handlePageChange = (page) => {
     if (page < 1 || page > totalPages) return;
+
     setCurrentPage(page);
-    // Scroll back to top of the grid on page change
+
     document
       .getElementById("blog-grid-top")
-      ?.scrollIntoView({ behavior: "smooth", block: "start" });
+      ?.scrollIntoView({
+        behavior: "smooth",
+        block: "start",
+      });
   };
 
   return (
-    <>
-      <Header />
+    <Layout5>
+      <BreadcrumbSection title="Blogs" style="" />
 
       <main className={styles.page}>
         <div className={styles.container} id="blog-grid-top">
-          <h1 className={styles.heading}>Blogs</h1>
-
           <div className={styles.grid}>
             {visiblePosts.map((post) => (
               <BlogCard key={post.id} post={post} />
@@ -53,8 +54,6 @@ export default function BlogPage() {
           />
         </div>
       </main>
-
-      <Footer />
-    </>
+    </Layout5>
   );
 }
