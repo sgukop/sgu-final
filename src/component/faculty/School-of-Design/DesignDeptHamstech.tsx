@@ -319,7 +319,7 @@ const DesignDeptHamstech = () => {
       <p className="mb-4">4-Year Programme</p>
 
       <div className="d-flex justify-content-center gap-2 flex-wrap">
-        <a href="#" className="btn btn-light fw-semibold">
+        <a href="https://manage-api.sguk.ac.in/api/assets/6a577129935ebc5e821311df" className="btn btn-light fw-semibold">
           <i className="fa-solid fa-download me-2"></i>
           Prospectus
         </a>
@@ -354,7 +354,7 @@ const DesignDeptHamstech = () => {
       <p className="mb-4">4-Year Programme</p>
 
       <div className="d-flex justify-content-center gap-2 flex-wrap">
-        <a href="#" className="btn btn-light fw-semibold">
+        <a href="https://manage-api.sguk.ac.in/api/assets/6a577045935ebc5e821311d5" className="btn btn-light fw-semibold">
           <i className="fa-solid fa-download me-2"></i>
           Prospectus
         </a>
@@ -394,7 +394,7 @@ const DesignDeptHamstech = () => {
           Prospectus
         </a>
 
-        <a href="#" className="btn btn-outline-light fw-semibold">
+        <a href="https://manage-api.sguk.ac.in/api/assets/6a57709d935ebc5e821311da" className="btn btn-outline-light fw-semibold">
           <i className="fa-solid fa-phone me-2"></i>
           Book A Call
         </a>
