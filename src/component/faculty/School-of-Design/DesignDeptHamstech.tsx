@@ -251,7 +251,7 @@ const DesignDeptHamstech = () => {
   style={{
     color: "#0056b3",
     fontFamily: "'Times New Roman', serif",
-    fontSize: "40px",
+    fontSize: "30px", // Changed from 40px to make it smaller
     fontWeight: "700",
     textTransform: "uppercase",
     letterSpacing: "2px",
@@ -403,10 +403,21 @@ const DesignDeptHamstech = () => {
   </div>
 
 </div>
+ <h3
+  className="text-center mb-5"
+  style={{
+    color: "#0056b3",
+    fontFamily: "'Times New Roman', serif",
+    fontSize: "30px", // Changed from 40px to make it smaller
+    fontWeight: "700",
+    textTransform: "uppercase",
+    letterSpacing: "2px",
+  }}
+>
+   What Makes This Design School Different
+</h3>
 
-  <h3 className="mb-4 text-primary fw-bold">
-    What Makes This Design School Different
-  </h3>
+  
 
   <div className="row">
 
@@ -590,17 +601,17 @@ const DesignDeptHamstech = () => {
 </div>
 
 {/* Recruiter Logos */}
-<div className="row justify-content-center g-4 mb-5">
+<div className="row justify-content-center g-1 mb-3">
 
   {[...Array(20)].map((_, index) => (
     <div
-      className="col-lg-2 col-md-3 col-sm-4 col-6 text-center"
+      className="col-xl-1 col-lg-2 col-md-2 col-sm-3 col-4 text-center"
       key={index}
     >
       <div
-        className="shadow-sm rounded-3 bg-white p-3 d-flex align-items-center justify-content-center"
+        className="shadow-sm rounded-2 bg-white p-1 d-flex align-items-center justify-content-center"
         style={{
-          height: "100px",
+          height: "60px", // Reduced container height from 100px
           transition: "0.3s",
         }}
       >
@@ -609,8 +620,8 @@ const DesignDeptHamstech = () => {
           alt={`Recruiter ${index + 1}`}
           className="img-fluid"
           style={{
-            maxHeight: "60px",
-            maxWidth: "120px",
+            maxHeight: "35px", // Reduced image height from 60px
+            maxWidth: "80px",  // Reduced image width from 120px
             objectFit: "contain",
           }}
         />
@@ -625,7 +636,7 @@ const DesignDeptHamstech = () => {
   <div
   className="text-center mt-5 py-5 px-4 rounded-5 shadow"
   style={{
-    backgroundColor: "#FFF3E6",
+    backgroundColor: "#f78409",
     border: "3px solid #E67E22",
   }}
 >
@@ -636,7 +647,7 @@ const DesignDeptHamstech = () => {
       style={{
         width: "70px",
         height: "70px",
-        backgroundColor: "#E67E22",
+        backgroundColor: "#f57709",
         color: "#fff",
         fontSize: "28px",
       }}
@@ -647,7 +658,7 @@ const DesignDeptHamstech = () => {
 
   <h2
     className="fw-bold"
-    style={{ color: "#E67E22" }}
+    style={{ color: "#855933" }}
   >
     Design the Future. Lead with Creativity.
   </h2>
@@ -659,16 +670,12 @@ const DesignDeptHamstech = () => {
   </p>
 
   <a
-    href="/admissions"
-    className="btn btn-lg mt-3 text-white"
-    style={{
-      backgroundColor: "#E67E22",
-      borderRadius: "50px",
-      padding: "12px 35px",
-    }}
-  >
-    Apply Now
-  </a>
+  href="/admissions"
+  className="btn btn-lg mt-3 text-white rounded-pill px-4 py-2"
+  style={{ backgroundColor: "rgb(219, 218, 216)" }} 
+>
+  Apply Now
+</a>
 </div>
 
 </div>
