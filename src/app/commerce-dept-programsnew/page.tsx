@@ -6,8 +6,8 @@ import PricingSection from '@/component/pricing/PricingSection'
 import { Metadata } from 'next'
 import React from 'react'
 export const metadata: Metadata = {
-    title: 'SGU University',
-    description: 'Developed by Enark',
+    title: 'Best B.Com and M.Com colleges in Kolhapur for Career | SGU',
+    description: 'Planning to join best B.Com and M.Com colleges in Kolhapur? SGU provides industry-oriented commerce education, internships, and the skills needed for successful careers.',
   }
 const CommerceDeptProgramsNewPage = () => {
   return (

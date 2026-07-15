@@ -6,8 +6,8 @@ import PricingSection from '@/component/pricing/PricingSection'
 import { Metadata } from 'next'
 import React from 'react'
 export const metadata: Metadata = {
-    title: 'SGU University',
-    description: 'Developed by Enark',
+    title: 'Best B.Pharmacy college in Kolhapur | SGU',
+    description: 'Explore best B Pharmacy colleges in Kolhapur. Gain practical skills, clinical exposure, and industry-ready education to build a successful pharmacy career at SGU.',
   }
 const PharmacyDeptProgramsPage = () => {
   return (

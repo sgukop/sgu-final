@@ -6,8 +6,8 @@ import PricingSection from '@/component/pricing/PricingSection'
 import { Metadata } from 'next'
 import React from 'react'
 export const metadata: Metadata = {
-    title: 'SGU University',
-    description: 'Developed by Enark',
+    title: 'Best BBA LLB college in Kolhapur | SGU',
+    description: 'Start your legal career with best BBA LLB colleges in Kolhapur. SGU offers hands-on learning, industry exposure, and the skills needed for legal success',
   }
 const LawDeptBALLBPage = () => {
   return (

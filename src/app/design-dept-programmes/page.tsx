@@ -6,8 +6,8 @@ import PricingSection from '@/component/pricing/PricingSection'
 import { Metadata } from 'next'
 import React from 'react'
 export const metadata: Metadata = {
-    title: 'SGU University',
-    description: 'Developed by Enark',
+    title: 'Top Fashion Designing college in Kolhapur | SGU',
+    description: 'Explore the best fashion designing colleges in Kolhapur. Learn about courses, careers, practical training, and how SGU prepares future fashion professionals.',
   }
 const DesignDeptProgrammesPage = () => {
   return (

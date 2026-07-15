@@ -6,8 +6,8 @@ import PricingSection from '@/component/pricing/PricingSection'
 import { Metadata } from 'next'
 import React from 'react'
 export const metadata: Metadata = {
-    title: 'SGU University',
-    description: 'Developed by Enark',
+    title: 'Food science & Technology college in Kolhapur | SGU',
+    description: 'Start your journey with leading food science & technology colleges in Kolhapur. Learn food processing, quality control, and innovation through hands-on training at SGU.',
   }
 const FSTDeptAboutPage = () => {
   return (

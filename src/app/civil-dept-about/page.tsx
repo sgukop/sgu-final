@@ -6,8 +6,8 @@ import PricingSection from '@/component/pricing/PricingSection'
 import { Metadata } from 'next'
 import React from 'react'
 export const metadata: Metadata = {
-    title: 'SGU University',
-    description: 'Developed by Enark',
+    title: 'Best Civil Engineering College in Kolhapur  | SGU',
+    description: 'Looking for civil engineering colleges in Kolhapur? Learn about admissions, curriculum, placements, and how SGU prepares students for rewarding engineering careers.',
   }
 const CivilDeptAboutPage = () => {
   return (
