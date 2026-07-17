@@ -6,8 +6,8 @@ import PricingSection from '@/component/pricing/PricingSection'
 import { Metadata } from 'next'
 import React from 'react'
 export const metadata: Metadata = {
-    title: 'SGU University',
-    description: 'Developed by Enark',
+    title: 'Leading MCA College in Kolhapur | Build Your IT Career at SGU',
+    description: ' Upgrade your technical expertise at SGU, the Best MCA College in Kolhapur with advanced computing, AI, software development and industry-oriented learning.',
   }
 const MCAProgramPage = () => {
   return (
