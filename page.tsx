@@ -13,8 +13,8 @@ const Home10 = () => {
   return (
     <>
       <Head>
-        <title>SGU University</title>
-        <meta name="description" content="Developed by Enark" />
+        <title>Top University in Kolhapur for UG & PG Courses | SGU</title>
+        <meta name="description" content="Explore career-oriented UG, PG, Diploma and PhD programs with world-class infrastructure, scholarships, and placement support. Apply Now !!" />
         <meta name="google-site-verification" content="GxwsG06HAefi2nLkir4k_hQ7JpXzX1qf7bhtGnhWCEk" />
         
         {/* Fonts */}
