@@ -5,6 +5,16 @@ import Table from "react-bootstrap/Table";
 
 const results = [
   {
+    date: "17-07-2026",
+    title: "Result Declaration Summer-2026 Design",
+    link: "https://manage-api.sguk.ac.in/api/assets/6a59ecc66134c4211ee481c9",
+  },
+  {
+    date: "17-07-2026",
+    title: "Result Declaration Summer-2026 AIML",
+    link: "https://manage-api.sguk.ac.in/api/assets/6a59ed2f6134c4211ee481ce",
+  },
+  {
     date: "01-06-2026",
     title: "Result Declaration Summer-2026 Notice-01-06-2026-1",
     link: "https://manage-api.sguk.ac.in/api/assets/6a44eee6634f29742167a488",

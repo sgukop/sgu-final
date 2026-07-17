@@ -2,7 +2,6 @@
 const nextConfig = {
   reactStrictMode: true,
 
-  // Development only
   allowedDevOrigins: ["172.18.0.80"],
 
   images: {
@@ -12,16 +11,6 @@ const nextConfig = {
         hostname: "**",
       },
     ],
-  },
-
-  typescript: {
-    // Set to false after fixing all TypeScript errors
-    ignoreBuildErrors: true,
-  },
-
-  eslint: {
-    // Set to false after fixing all ESLint errors
-    ignoreDuringBuilds: true,
   },
 };
 
