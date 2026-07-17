@@ -41,7 +41,7 @@ const ElectronicsDeptFaculty = () => {
                     <div className="tl-1-course-txt">
                       <h4 className="tl-1-course-title-new mt-30">Dr. Swapnil Manohar Hirikude</h4>
                       <p className="tl-1-course-author-new">Assistant Professor & HoD</p>
-                      <Link href="https://manage-api.sguk.ac.in/api/assets/674ed2ba4b17e19d8f36172f" target="_blank" className="tl-3-def-btn">Profile</Link>
+                      <Link href="https://manage-api.sguk.ac.in/api/assets/6a5a0973648848a16a0da0c7" target="_blank" className="tl-3-def-btn">Profile</Link>
                     </div>
                   </div>
                 </div>

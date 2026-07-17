@@ -12,8 +12,8 @@ import TestimonialSection2 from '@/component/testimonial/TestimonialSection2';
 import { Metadata } from 'next';
 import React from 'react'
 export const metadata: Metadata = {
-    title: "SGU University",
-    description: "Developed by Enark",
+    title: "Top University in Kolhapur for UG & PG Courses | SGU",
+    description: "Explore career-oriented UG, PG, Diploma and PhD programs with world-class infrastructure, scholarships, and placement support. Apply Now !!",
   };  
 const Home10 = () => {
   return (

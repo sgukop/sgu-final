@@ -18,6 +18,11 @@ const Home10 = () => {
   return (
     <>
       <Head>
+         {/* Meta Title and Description */}
+        <title>Top University in Kolhapur for UG & PG Courses | SGU</title>
+        <meta name="description" content="Explore career-oriented UG, PG, Diploma and PhD programs with world-class infrastructure, scholarships, and placement support. Apply Now !!" />
+
+   
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
         <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap" rel="stylesheet" />
