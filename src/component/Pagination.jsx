@@ -1,4 +1,4 @@
-// components/Pagination.jsx
+// component/Pagination.jsx
 "use client";
 
 import styles from "./Pagination.module.css";

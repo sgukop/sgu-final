@@ -1,4 +1,4 @@
-// components/Footer.jsx
+// component/Footer.jsx
 //
 // NOTE: This is a placeholder footer for preview purposes only.
 // Since you already have a Footer component on your live site, delete this

@@ -1,4 +1,4 @@
-// components/Header.jsx
+// component/Header.jsx
 //
 // NOTE: This is a placeholder header for preview purposes only.
 // Since you already have a Header component on your live site, delete this

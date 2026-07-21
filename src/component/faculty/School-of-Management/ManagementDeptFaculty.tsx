@@ -18,19 +18,7 @@ const ManagementDeptFaculty = () => {
           >
           	<div className="tl-course-details-top-courses">
                 <div className="row g-4 g-xl-4 justify-content-center">
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/management/Dr. S. Gomathi.jpeg" alt="Faculty Image" style={{height:"200px"}}/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Dr. S. Gomathi</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Professor & Dean</p>
-                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div>
+                    
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
@@ -44,19 +32,7 @@ const ManagementDeptFaculty = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/management/5. Dr. VILAS BALGAONKAR.jpg" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Dr. Vilas Shivshankar Balgaonkar</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Associate Professor & HOD</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/675013144b17e19d8f361971" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div>  
+                    
                    
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
@@ -89,21 +65,7 @@ const ManagementDeptFaculty = () => {
 
                     
 
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/management/6. Dr. DIPAK JADHAV.jpg" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Dr. Dipak Shivaji Jadhav</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/675013254b17e19d8f361976" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div> 
-
-                   
+                                  
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
@@ -132,19 +94,7 @@ const ManagementDeptFaculty = () => {
                         </div>
                     </div> 
 
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/management/11. Mr. VINAYAK GRAMOPADHYE.jpg" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Vinayak Raghunath Gramopadhye </h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/6750138a4b17e19d8f36198f" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div> 
+                    
 
                      <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
@@ -201,19 +151,7 @@ const ManagementDeptFaculty = () => {
                         </div>
                     </div>  
 
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/male.jpg" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Rohit Pawar</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/67d3ea374f56d3a0bcfb9c0a" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div> 
+                    
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
@@ -227,87 +165,8 @@ const ManagementDeptFaculty = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/management/Mr. Amritesh Singh.JPG" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Mr. Amritesh Singh</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/management/Mrs. Kusum parik.JPG" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Mrs. Kusum parik</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div>  
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/management/Mr. Narayan Kharat.JPG" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Mr. Narayan Kharat</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
-                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div>    
-
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/male.jpg" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Dr. Dipak Tatpuje</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Distinguished Professor</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/67d3eb0b4f56d3a0bcfb9c0f" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div> 
-
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/female.jpg" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">CA. Vrishali Kulkarni</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Professor of Practice</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/67d3eb184f56d3a0bcfb9c14" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div> 
-
-                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
-                        <div className="tl-1-course-new">
-                            <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/male.jpg" alt="Faculty Image"/>
-                            </div>
-
-                            <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Maheshkumar Sudhakar Lakade</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Professor of Practices</p>
-                                <Link href="https://manage-api.sguk.ac.in/api/assets/67d3fa4f4f56d3a0bcfb9c2e" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
-                            </div>
-                        </div>
-                    </div> 
+                    
+                     
                 </div>
             </div>
         </div>

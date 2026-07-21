@@ -40,7 +40,16 @@
   font-weight: 700;
   color: #1a1a1a;
   margin: 0 0 10px;
+
+  /* Keep title height consistent */
   min-height: 3.9em;
+
+  /* Clamp to 2 lines */
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  line-clamp: 2;
+  -webkit-line-clamp: 2;
 }
 
 .date {
@@ -55,10 +64,17 @@
   color: #6b6b6b;
   margin: 0 0 20px;
   flex: 1;
-  display: -webkit-box;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
+
+  /* Multi-line truncation */
   overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+
+  /* Standard property */
+  line-clamp: 3;
+
+  /* Chrome, Edge, Safari */
+  -webkit-line-clamp: 3;
 }
 
 .readMore {
@@ -71,9 +87,29 @@
   padding: 10px 22px;
   border-radius: 6px;
   text-decoration: none;
-  transition: background 0.2s ease;
+  transition: background 0.2s ease, transform 0.2s ease;
 }
 
 .readMore:hover {
   background: var(--brand-red-dark, #a11f24);
+  transform: translateY(-2px);
+}
+
+@media (max-width: 768px) {
+  .body {
+    padding: 18px;
+  }
+
+  .title {
+    font-size: 1.05rem;
+  }
+
+  .excerpt {
+    font-size: 0.9rem;
+  }
+
+  .readMore {
+    width: 100%;
+    text-align: center;
+  }
 }

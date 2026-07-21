@@ -3,6 +3,8 @@ import Image from "next/image";
 import Link from "next/link";
 import styles from "./BlogCard.module.css";
 
+
+
 export default function BlogCard({ post }) {
   return (
     <article className={styles.card}>
@@ -21,7 +23,7 @@ export default function BlogCard({ post }) {
         <p className={styles.date}>{post.date}</p>
         <p className={styles.excerpt}>{post.excerpt}</p>
 
-        <Link href={`/blog/${post.slug}`} className={styles.readMore}>
+        <Link href={`blog/${post.slug}`} className={styles.readMore}>
           Read More
         </Link>
       </div>

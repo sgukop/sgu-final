@@ -8,6 +8,8 @@ import Pagination from "@/component/Pagination";
 import blogPosts from "@/data/blogPosts";
 import styles from "./page.module.css";
 
+
+
 const COLUMNS = 3;
 const ROWS_PER_PAGE = 3;
 const POSTS_PER_PAGE = COLUMNS * ROWS_PER_PAGE; // 9 posts per page
