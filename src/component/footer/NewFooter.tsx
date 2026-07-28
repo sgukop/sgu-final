@@ -64,7 +64,7 @@ const NewFooter = () => {
             </div>
 
             <div className='w-full pt-2 text-center text-white lg:text-lg'>
-            Copyright &copy; 2024 All Rights Reserved by Enark
+            Copyright &copy; 2026 All Rights Reserved by Sanjay Ghodawat University
             </div>
         </section>
     )
