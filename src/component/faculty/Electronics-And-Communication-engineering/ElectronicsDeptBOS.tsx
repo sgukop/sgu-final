@@ -92,7 +92,7 @@ function ElectronicsDeptBOS() {
                 <tr>
                   <td><p>1</p></td>
                   <td><p>Dr. Swapnil Hirikude</p></td>
-                  <td><p>Assistant Professor & Head, E & C Engg Department, Sanjay Ghodawat University</p></td>
+                  <td><p>Associate Professor & Head, E & C Engg Department, Sanjay Ghodawat University</p></td>
                   <td><p>Chairman</p></td>
                   <td><p>swapnil.hirikude@ec.sguk.ac.in</p></td>
                 </tr>

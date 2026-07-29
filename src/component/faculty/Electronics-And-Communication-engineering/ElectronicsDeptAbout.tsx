@@ -31,7 +31,7 @@ const ElectronicsDeptAbout = () => {
 
                                         <span className="dark-mode-white-color mt-4" style={{ fontWeight: "bold" }}>
                                         {" "}
-                                        Dr. Swapnil Hirikude, <br /> Assistant Professor & HOD{" "}
+                                        Dr. Swapnil Hirikude, <br /> Associate Professor & HOD{" "}
                                     </span>
                                    
                                 </div>
