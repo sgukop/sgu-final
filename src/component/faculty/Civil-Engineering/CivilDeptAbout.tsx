@@ -25,8 +25,8 @@ const CivilDeptAbout = () => {
                 <div className="row gy-4 align-items-center">
                     <div className="col-lg-6">
                         <div className="tl-14-about-img">
-                            <img src="assets/images/civil-engineering-dept/about-dept/hod-photo.jpeg" alt="Image" className="rounded-full"
-                            style={{border:"10px solid #4f70b6", padding:"20px"}}/>
+                            <img src="assets/images/faculty-profile-photos/civil/3. Dr. SACHIN PATIL.jpg" alt="Image" className="rounded-full"
+                            style={{border:"10px solid #4f70b6", padding:"100px"}}/>
                         </div>
                     </div>
 

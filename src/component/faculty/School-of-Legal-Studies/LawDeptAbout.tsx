@@ -23,8 +23,8 @@ const LawDeptAbout = () => {
             <div className="row gy-4 align-items-center">
                 <div className="col-lg-5">
                     <div className="tl-14-about-img">
-                        <img src="assets/images/law-dept/about-department/director.png" alt="Director Image" className="rounded-full"
-                          style={{border:"10px solid #4f70b6", padding:"20px"}} />
+                        <img src="assets/images/faculty-profile-photos/law/1. Adv. Dr. ANJALI PATIL.jpg" alt="Director Image" className="rounded-full"
+                          style={{border:"10px solid #4f70b6", padding:"100px"}} />
                     </div>
                 </div>
 
