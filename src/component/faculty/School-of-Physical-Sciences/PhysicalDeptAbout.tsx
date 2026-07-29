@@ -19,8 +19,8 @@ const PhysicalDeptAbout = () => {
             <div className="row gy-4 align-items-center">
                 <div className="col-lg-5">
                     <div className="tl-14-about-img">
-                        <img src="assets/images/physical-sciences-dept/about-department/hod-photo.png" alt="About Department" className="rounded-full"
-                        style={{border:"10px solid #4f70b6", padding:"20px"}} />
+                        <img src="/assets/images/faculty-profile-photos/physics/1. Dr. SAMBHAJI POWAR.jpg" alt="About Department" className="rounded-full"
+                        style={{border:"10px solid #4f70b6", padding:"100px"}} />
                     </div>
                 </div>
 
