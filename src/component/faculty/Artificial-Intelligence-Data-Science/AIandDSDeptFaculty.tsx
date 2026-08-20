@@ -173,7 +173,7 @@ const AIandMLDeptFaculty = () => {
                   <div className="tl-1-course-new">
                     <div className="tl-1-course-img-new">
                       <img
-                        src="/assets/images/faculty-profile-photos/male.jpg"
+                        src="/assets/images/faculty-profile-photos/AIDS/Rahul P.jpeg"
                         alt="Faculty Image"
                       />
                     </div>

@@ -47,9 +47,7 @@ const ChemicalDeptAbout = () => {
                                 <li className="mb-3">
                                     <strong>Academic Excellence & Industry Integration:</strong> We offer comprehensive B.Sc., M.Sc., and Ph.D. programs designed with an industry-aligned curriculum that meets global standards. Our teaching methodology goes beyond traditional boundaries, integrating professional practices in sciences to ensure our graduates are not just degree holders, but job-ready professionals. Our faculty members are highly qualified experts in diverse fields, ranging from core organic and analytical chemistry to multidisciplinary areas like Green Chemistry, Nanoscience, Energy and Materials Science, and Catalysis.
                                 </li>
-                                <li className="mb-3">
-                                    <strong>State-of-the-Art Infrastructure:</strong> Our students train in state-of-the-art laboratories equipped with advanced instrumentation, including HPLC, GC, UV-Visible Spectrophotometers, FTIR, NMR, and Electrochemical Workstations. We believe in hands-on training, ensuring mastery over wet lab SOPs, method validation, and QC documentation.
-                                </li>
+                                
                                 <li className="mb-3">
                                     <strong>Future-Ready Skills for a Global Career:</strong> In alignment with modern demands, we have integrated Digital and AI skills into our research tools, providing training in data analysis (Excel, Python/R), ChemDraw, and molecular modelling. Our focus on Safety and Compliance (GMP/GLP) ensures that our students are prepared for high-stakes roles in Pharma, Biotech, CRO, and API development.
                                 </li>
