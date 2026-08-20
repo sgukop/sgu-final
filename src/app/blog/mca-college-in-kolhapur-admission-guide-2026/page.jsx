@@ -31,7 +31,7 @@ export default function MCABlogPage() {
 
           {/* ── Image section — add your banner image here ───────────── */}
           <Image
-            src="/assets/images/blog-mca-college-kolhapur.jpg"
+            src="/assets/images/images/6.jpg"
             alt="MCA college in kolhapur | SGU"
             width={1040}
             height={580}
