@@ -77,35 +77,57 @@ function AIandDSDeptBOS() {
                         <p>7219104454</p>
                       </td>
                     </tr>
-
                     <tr>
                       <td>
                         <p>2</p>
                       </td>
                       <td>
-                        <p>Mr. Vijay Mithari</p>
+                        <p>Dr. Saira Banu Atham</p>
                       </td>
                       <td>
-                        <p>Program Manager</p>
+                        <p>Dean and Professor,School of Engineering Aurora Deemed to be University,Aurora Higher Education and Research Academy</p>
                       </td>
                       <td>
-                        <p>Member Secretary</p>
+                        <p>Member (Expert Academician)</p>
                       </td>
                       <td>
                         <a
-                          href="mailto:vijaymithari1996@gmail.com"
+                          href="mailto:saira.atham@gmail.com"
                           className="tl-def-btn-2"
                         >
-                          vijaymithari1996@gmail.com{" "}
+                          saira.atham@gmail.com{" "}
                           <i className="fa-regular fa-arrow-right"></i>
                         </a>
-                        <p>9028704949</p>
+                        <p>9884127780</p>
                       </td>
                     </tr>
-
                     <tr>
                       <td>
                         <p>3</p>
+                      </td>
+                      <td>
+                        <p>Dr. Rahul Ganpatrao Sonkamble</p>
+                      </td>
+                      <td>
+                        <p>Assistant Professor, CSE / IT Pimpri Chinchwad University, Pune</p>
+                      </td>
+                      <td>
+                        <p>Member (Expert Academician)</p>
+                      </td>
+                      <td>
+                        <a
+                          href="mailto:rahulgsonkamble@gmail.com"
+                          className="tl-def-btn-2"
+                        >
+                          rahulgsonkamble@gmail.com{" "}
+                          <i className="fa-regular fa-arrow-right"></i>
+                        </a>
+                        <p>7387427827</p>
+                      </td>
+                    </tr>
+                     <tr>
+                      <td>
+                        <p>4</p>
                       </td>
                       <td>
                         <p>Dr. Deepika Patil</p>
@@ -130,7 +152,7 @@ function AIandDSDeptBOS() {
 
                     <tr>
                       <td>
-                        <p>4</p>
+                        <p>5</p>
                       </td>
                       <td>
                         <p>Dr. Santaji Shinde</p>
@@ -154,7 +176,7 @@ function AIandDSDeptBOS() {
 
                     <tr>
                       <td>
-                        <p>5</p>
+                        <p>6</p>
                       </td>
                       <td>
                         <p>Mr. Sameer I. Tamboli</p>
@@ -179,7 +201,7 @@ function AIandDSDeptBOS() {
 
                     <tr>
                       <td>
-                        <p>6</p>
+                        <p>7</p>
                       </td>
                       <td>
                         <p>Mr. Anurag Fulare</p>
@@ -198,7 +220,31 @@ function AIandDSDeptBOS() {
                           anuragomprakash.fulare@nxtwave.co.in{" "}
                           <i className="fa-regular fa-arrow-right"></i>
                         </a>
-                        <p>9359651120</p>
+                       
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>8</p>
+                      </td>
+                      <td>
+                        <p>Mr. Vijay Mithari</p>
+                      </td>
+                      <td>
+                        <p>Program Manager</p>
+                      </td>
+                      <td>
+                        <p>Member Secretary</p>
+                      </td>
+                      <td>
+                        <a
+                          href="mailto: mithari.vijayrajkumar@nxtwave.co.in"
+                          className="tl-def-btn-2"
+                        >
+                         mithari.vijayrajkumar@nxtwave.co.in{" "}
+                          <i className="fa-regular fa-arrow-right"></i>
+                        </a>
+                       
                       </td>
                     </tr>
                   </tbody>
