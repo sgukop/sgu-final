@@ -339,12 +339,12 @@ const NewHeaderSection = () => {
 
                        <li className='whitespace-nowrap 2xl:text-xl hover:text-[#212f64] dropdown relative cursor-pointer py-4'>
                          Events
-                        <ul className="dropdown-menu absolute hidden mt-6 py-2 text-left rounded-none border-t-4 border-[#f4b826]">
+                       {/*<ul className="dropdown-menu absolute hidden mt-6 py-2 text-left rounded-none border-t-4 border-[#f4b826]">
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/icctvb2025">International Conference ICCTVB 2025</NavLink></li>
                                 <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/icsshfe2026">International Conference ICSHFSE 2026</NavLink></li>
                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/icsbp2026">International Conference ICSBP 2026</NavLink></li>
                                <li className="py-[3px] px-4 font-normal text-[15px] hover:text-[#f4b826]"><NavLink href="/scistar2026">Sci-STAR 2026</NavLink></li>
-                        </ul>
+                        </ul>*/}
                       </li>
 
                     <li className='whitespace-nowrap 2xl:text-xl hover:text-[#212f64] py-4'><NavLink href="/contact-us">Contact Us</NavLink></li>
