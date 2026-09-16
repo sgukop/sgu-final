@@ -10,6 +10,60 @@
 const blogPosts = [
   {
     id: 1,
+    title: " Interior Designing Colleges in Kolhapur: Turning Creative Passion into a Successful Profession",
+    excerpt:
+      "Explore the best interior designing colleges in Kolhapur and how they prepare students for successful careers in design.",
+    date: "July 23rd, 2026", // TODO: update to real publish date
+    image: "/assets/images/images/15.jpg", // place file in public/images/
+    slug: "interior-designing-colleges-in-kolhapur-turning-creative-passion-into-a-successful-profession",
+  },
+  {
+    id: 6,
+    title: " MCA Colleges in Kolhapur: From Coding Skills to Corporate Success",
+    excerpt:
+      "Discover how MCA colleges in Kolhapur help students turn coding skills into corporate-ready expertise through projects, emerging technologies and industry exposure",
+    date: "August 5th, 2026", // TODO: update to real publish date
+    image: "/assets/images/images/6.jpg", // place file in public/images/
+    slug: "mca-colleges-in-kolhapur-coding-skills-to-corporate-success",
+  },
+  {
+    id: 7,
+    title: " Why Are MBA Colleges in Kolhapur Becoming a Preferred Choice for Students",
+    excerpt:
+      "Discover why MBA colleges in Kolhapur are attracting students with practical learning, industry exposure, affordability, emerging specializations, and career-focused education.",
+    date: "August 5th, 2026", // TODO: update to real publish date
+    image: "/assets/images/images/7.jpg", // place file in public/images/
+    slug: "why-are-mba-colleges-in-kolhapur-becoming-a-preferred-choice-for-students",
+  },
+  {
+    id: 8,
+    title: " How Do Top BBA LLB Colleges Prepare Students for Modern Legal Careers",
+    excerpt:
+      "Discover how BBA LLB colleges in Kolhapur prepare students for modern legal careers through comprehensive curricula, practical training, and industry connections.",
+    date: "August 5th, 2026", // TODO: update to real publish date
+    image: "/assets/images/images/8.jpg", // place file in public/images/
+    slug: "how-do-top-bba-llb-colleges-prepare-students-for-modern-legal-careers",
+  },
+  {
+    id: 9,
+    title: " How Civil Engineering Students Turn Classroom Knowledge Into Real-World Skills",
+    excerpt:
+      "Discover how civil engineering students turn classroom concepts into practical skills through design, construction planning, problem-solving, field applications, and engineering projects.",
+    date: "August 5th, 2026", // TODO: update to real publish date
+    image: "/assets/images/images/9.jpg", // place file in public/images/
+    slug: "how-civil-engineering-students-turn-classroom-knowledge-into-real-world-skills",
+  },
+  {
+    id: 10,
+    title: " Fashion Designing Colleges in Kolhapur: Building a Career Beyond the Runway",
+    excerpt:
+      "Explore how fashion design colleges in Kolhapur prepare students for careers in design, fashion technology, sustainable fashion, styling, branding, merchandising, and entrepreneurship",
+    date: "August 5th, 2026", // TODO: update to real publish date
+    image: "/assets/images/images/10.jpg", // place file in public/images/
+    slug: "fashion-designing-colleges-in-kolhapur-building-a-career-beyond-the-runway",
+  },
+  {
+    id: 15,
     title: "Best MBA College in Kolhapur: How to Choose the Right Program for Career Growth",
     excerpt:
       "Choosing the right MBA program is one of the most important decisions for students aiming to build a strong business career.",
@@ -90,60 +144,7 @@ const blogPosts = [
     image: "/assets/images/images/14.jpg", // place file in public/images/
     slug: "bba-llb-colleges-in-kolhapur-a-complete-guide-for-students-after-class-12",
   },
-  {
-    id: 15,
-    title: " Interior Designing Colleges in Kolhapur: Turning Creative Passion into a Successful Profession",
-    excerpt:
-      "Explore the best interior designing colleges in Kolhapur and how they prepare students for successful careers in design.",
-    date: "July 23rd, 2026", // TODO: update to real publish date
-    image: "/assets/images/images/15.jpg", // place file in public/images/
-    slug: "interior-designing-colleges-in-kolhapur-turning-creative-passion-into-a-successful-profession",
-  },
-  {
-    id: 6,
-    title: " MCA Colleges in Kolhapur: From Coding Skills to Corporate Success",
-    excerpt:
-      "Discover how MCA colleges in Kolhapur help students turn coding skills into corporate-ready expertise through projects, emerging technologies and industry exposure",
-    date: "August 5th, 2026", // TODO: update to real publish date
-    image: "/assets/images/images/6.jpg", // place file in public/images/
-    slug: "mca-colleges-in-kolhapur-coding-skills-to-corporate-success",
-  },
-  {
-    id: 7,
-    title: " Why Are MBA Colleges in Kolhapur Becoming a Preferred Choice for Students",
-    excerpt:
-      "Discover why MBA colleges in Kolhapur are attracting students with practical learning, industry exposure, affordability, emerging specializations, and career-focused education.",
-    date: "August 5th, 2026", // TODO: update to real publish date
-    image: "/assets/images/images/7.jpg", // place file in public/images/
-    slug: "why-are-mba-colleges-in-kolhapur-becoming-a-preferred-choice-for-students",
-  },
-  {
-    id: 8,
-    title: " How Do Top BBA LLB Colleges Prepare Students for Modern Legal Careers",
-    excerpt:
-      "Discover how BBA LLB colleges in Kolhapur prepare students for modern legal careers through comprehensive curricula, practical training, and industry connections.",
-    date: "August 5th, 2026", // TODO: update to real publish date
-    image: "/assets/images/images/8.jpg", // place file in public/images/
-    slug: "how-do-top-bba-llb-colleges-prepare-students-for-modern-legal-careers",
-  },
-  {
-    id: 9,
-    title: " How Civil Engineering Students Turn Classroom Knowledge Into Real-World Skills",
-    excerpt:
-      "Discover how civil engineering students turn classroom concepts into practical skills through design, construction planning, problem-solving, field applications, and engineering projects.",
-    date: "August 5th, 2026", // TODO: update to real publish date
-    image: "/assets/images/images/9.jpg", // place file in public/images/
-    slug: "how-civil-engineering-students-turn-classroom-knowledge-into-real-world-skills",
-  },
-  {
-    id: 10,
-    title: " Fashion Designing Colleges in Kolhapur: Building a Career Beyond the Runway",
-    excerpt:
-      "Explore how fashion design colleges in Kolhapur prepare students for careers in design, fashion technology, sustainable fashion, styling, branding, merchandising, and entrepreneurship",
-    date: "August 5th, 2026", // TODO: update to real publish date
-    image: "/assets/images/images/10.jpg", // place file in public/images/
-    slug: "fashion-designing-colleges-in-kolhapur-building-a-career-beyond-the-runway",
-  },
+  
   // --- Hidden for now ---
   // The posts below are commented out so only the 5 real blogs above show.
   // Uncomment and update with real content/images whenever you're ready to
