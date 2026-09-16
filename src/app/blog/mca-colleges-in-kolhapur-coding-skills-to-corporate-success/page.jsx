@@ -29,7 +29,7 @@ export default function MCAPage() {
           </p>
 
           <Image
-            src="/assets/images/blog-mca-colleges-kolhapur.jpg"
+            src="/assets/images/images/6.jpg"
             alt="MCA colleges in kolhapur | SGU"
             width={1040}
             height={580}
