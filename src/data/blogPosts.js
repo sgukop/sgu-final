@@ -8,15 +8,7 @@
 // Dates below are placeholders — update to the real publish dates.
 
 const blogPosts = [
-  {
-    id: 1,
-    title: " Interior Designing Colleges in Kolhapur: Turning Creative Passion into a Successful Profession",
-    excerpt:
-      "Explore the best interior designing colleges in Kolhapur and how they prepare students for successful careers in design.",
-    date: "July 23rd, 2026", // TODO: update to real publish date
-    image: "/assets/images/images/15.jpg", // place file in public/images/
-    slug: "interior-designing-colleges-in-kolhapur-turning-creative-passion-into-a-successful-profession",
-  },
+  
   {
     id: 6,
     title: " MCA Colleges in Kolhapur: From Coding Skills to Corporate Success",
@@ -61,6 +53,15 @@ const blogPosts = [
     date: "August 5th, 2026", // TODO: update to real publish date
     image: "/assets/images/images/10.jpg", // place file in public/images/
     slug: "fashion-designing-colleges-in-kolhapur-building-a-career-beyond-the-runway",
+  },
+  {
+    id: 1,
+    title: " Interior Designing Colleges in Kolhapur: Turning Creative Passion into a Successful Profession",
+    excerpt:
+      "Explore the best interior designing colleges in Kolhapur and how they prepare students for successful careers in design.",
+    date: "July 23rd, 2026", // TODO: update to real publish date
+    image: "/assets/images/images/15.jpg", // place file in public/images/
+    slug: "interior-designing-colleges-in-kolhapur-turning-creative-passion-into-a-successful-profession",
   },
   {
     id: 15,
