@@ -25,7 +25,7 @@ const CivilDeptAbout = () => {
                 <div className="row gy-4 align-items-center">
                     <div className="col-lg-6">
                         <div className="tl-14-about-img">
-                            <img src="assets/images/faculty-profile-photos/civil/3. Dr. SACHIN PATIL.jpg" alt="Image" className="rounded-full"
+                            <img src="assets/images/faculty-profile-photos/civil/Dr.N.Vetrivel1.jpg" alt="Image" className="rounded-full"
                             style={{border:"10px solid #4f70b6", padding:"100px"}}/>
                         </div>
                     </div>
@@ -33,8 +33,13 @@ const CivilDeptAbout = () => {
                     <div className="col-lg-6">
                         <div className="tl-14-about-txt">
                             <h2 className="tl-14-section-title text-[#4f70b6]">HOD's Desk </h2>
-                            <p className="dark-mode-white-color text-justify">Welcome to the Civil Engineering Department! We are dedicated to delivering high-quality education and fostering innovation in civil engineering, with a strong focus on sustainability and social impact. Our mission is to prepare students for professional success, equipped with technical expertise, ethical values, and management skills to address both current and future challenges.<br/><br/>
-                            Our department offers a dynamic learning environment, backed by cutting-edge research and consultancy services, aimed at shaping the next generation of engineers and leaders in sustainable development. I invite you to explore our programs and join us in shaping a better tomorrow.
+                            <p className="dark-mode-white-color text-justify">Welcome to the Department of Civil Engineering at Sanjay Ghodawat University.
+
+Civil Engineering is a profession that transforms ideas into infrastructure that supports human progress and societal development. At our department, we are committed to creating a learning environment where students develop technical competence, innovative thinking, ethical values, and a passion for solving real-world engineering challenges.
+
+Through quality education, research, industry collaboration, and practical learning, we prepare future engineers to contribute towards resilient infrastructure, sustainable development, smart technologies, and environmentally responsible solutions. Our department encourages interdisciplinary learning and embraces emerging advancements to meet the evolving needs of society.
+
+Together, we aim to build engineers who can shape a safer, smarter, and sustainable future.
 
                             </p>
                             <span></span>
@@ -44,9 +49,9 @@ const CivilDeptAbout = () => {
                   >
                     {" "}
                     Sincerely,<br/> </span>
-<p style={{ fontWeight: "bold" }}>Dr. Sachin Popat Patil<br/>
-Head of Civil Engineering Department<br/>
-Sanjay Ghodawat University</p>
+                    <p style={{ fontWeight: "bold" }}>Dr.N.Vetrivel<br/>
+                        Head of Civil Engineering Department<br/>
+                        Sanjay Ghodawat University</p>
 
                  
                         </div>
