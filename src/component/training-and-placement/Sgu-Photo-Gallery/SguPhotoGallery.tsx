@@ -74,7 +74,7 @@ const SguPhotoGallery = () => {
             imgSrc: "assets/images/training-and-placement/photo-gallery/SGU Team visit to Vergo Chemicals.jpeg",
             title : "SGU Team visit to Vergo Chemicals"
         },
-        {
+      /*  {
             imgSrc: "assets/images/training-and-placement/photo-gallery/Sparkline Equipments Private Limited, Pune Ms.Yojana Kanhe Manager HR.jpg",
             title : "Sparkline Equipments Private Limited, Pune Ms.Yojana Kanhe Manager HR"
         },
@@ -121,7 +121,7 @@ const SguPhotoGallery = () => {
         {
             imgSrc: "assets/images/training-and-placement/photo-gallery/SGU team with Mr.Jayant Deshpande, Plant- Head, Will Mathar Platt,Pune.jpg",
             title : "SGU team with Mr.Jayant Deshpande, Plant- Head, Will Mathar Platt,Pune"
-        },
+        },*/
         {
             imgSrc: "assets/images/training-and-placement/photo-gallery/SGU Team visit to Doordarshan DD Kokan, Goa.jpg",
             title : "SGU Team visit to Doordarshan DD Kokan, Goa"
@@ -138,10 +138,10 @@ const SguPhotoGallery = () => {
             imgSrc: "assets/images/training-and-placement/photo-gallery/SGU Team visit to ABP Maza.jpg",
             title : "SGU Team visit to ABP Maza"
         },
-        {
+      /*  {
             imgSrc: "assets/images/training-and-placement/photo-gallery/Anka Publisher, Pvt, Ltd.Goa.jpg",
             title : "Anka Publisher, Pvt, Ltd.Goa"
-        },
+        },*/
         {
             imgSrc: "assets/images/training-and-placement/photo-gallery/SGU TEAM WITH SELECTED STUDENTS PHOTO.jpg",
             title : "SGU TEAM WITH SELECTED STUDENTS PHOTO"
@@ -186,7 +186,7 @@ const SguPhotoGallery = () => {
             imgSrc: "assets/images/training-and-placement/photo-gallery/SGU Team along with Centelon officials during the campus drive.jpg",
             title : "SGU Team along with Centelon officials during the campus drive"
         },
-        {
+        /*{
             imgSrc: "assets/images/training-and-placement/photo-gallery/SGU Team visit in Skoda Plant, Pune.jpg",
             title : "SGU Team visit in Skoda Plant, Pune"
         },
@@ -225,7 +225,7 @@ const SguPhotoGallery = () => {
         {
             imgSrc: "assets/images/training-and-placement/photo-gallery/SGU Team with ROSS Process Equipment,Pune.jpg",
             title : "SGU Team with ROSS Process Equipment,Pune"
-        },
+        },*/
         {
             imgSrc: "assets/images/training-and-placement/photo-gallery/Doshaheen Solutions Pvt Ltd. team with Selected students.jpg",
             title : "Doshaheen Solutions Pvt Ltd. team with Selected students"
@@ -250,7 +250,7 @@ const SguPhotoGallery = () => {
             imgSrc: "assets/images/training-and-placement/photo-gallery/CEO and Project Manager- BAIL.jpg",
             title : "CEO and Project Manager- BAIL"
         },
-        {
+       /* {
             imgSrc: "assets/images/training-and-placement/photo-gallery/Dr.Tengli EX.HAL MD, at Nitte Minakshi Institute.jpg",
             title : "Dr.Tengli EX.HAL MD, at Nitte Minakshi Institute"
         },
@@ -261,7 +261,7 @@ const SguPhotoGallery = () => {
         {
             imgSrc: "assets/images/training-and-placement/photo-gallery/HR- VP India for Cypress Semiconductors, USA.jpg",
             title : "HR- VP India for Cypress Semiconductors, USA."
-        },
+        },*/
         {
             imgSrc: "assets/images/training-and-placement/photo-gallery/Intern at Boltzmann.jpg",
             title : "Intern at Boltzmann."
