@@ -28,7 +28,7 @@ const ChemicalDeptTestimonials:React.FC<PaddingProps>  = ({padding}) => {
                 modules={[Autoplay,Pagination]}
                 >
                     <SwiperSlide className="tl-1-testimony">
-                        <img src="assets/images/management-dept/alumni/1.jpg" alt="Testimonial Student Image" className="tl-1-testimony-img"/>
+                        <img src="assets/images/management-dept/alumni/11.JPG" alt="Testimonial Student Image" className="tl-1-testimony-img"/>
 
                         <div className="tl-1-testimony-txt">
                            <p className="tl-1-testimony-review">This is Eureka, currently pursuing my B.Sc. in Chemistry at Sanjay Ghodawat University. My experience in the Department of Chemistry has been truly wonderful and enriching. The supportive faculty, dedicated staff, state-of-the-art laboratories, and positive academic environment have contributed immensely to my personal and professional growth.
