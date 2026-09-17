@@ -28,7 +28,7 @@ const CivilDeptFaculty = () => {
                             <div className="tl-1-course-txt">
                                 <h4 className="tl-1-course-title-new mt-30">Dr.N.Vetrivel</h4>
                                 <p className="tl-1-course-author-new dark-mode-white-color">Professor and Head</p>
-                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                                <Link href="https://manage-api.sguk.ac.in/api/assets/6aab77cc0ad61449f015095b" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
                         </div>
                     </div> 
