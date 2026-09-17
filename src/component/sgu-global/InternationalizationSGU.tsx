@@ -198,7 +198,7 @@ const InternationalizationSGU = () => {
                 <div className="slider-item" style={{ marginBottom: "10px" }}>
                     <div className="tl-7-about-info-card">
                         <img
-                            src="assets/images/SGU-global/1.jpeg"
+                            src="assets/images/SGU-global/1.JPEG"
                             alt="INTI University Malaysia"
                         />
                     </div>
@@ -207,7 +207,7 @@ const InternationalizationSGU = () => {
                 <div className="slider-item">
                     <div className="tl-7-about-info-card">
                         <img
-                            src="assets/images/SGU-global/2.jpeg"
+                            src="assets/images/SGU-global/2.JPEG"
                             alt="INTI University Malaysia"
                         />
                     </div>
@@ -216,7 +216,7 @@ const InternationalizationSGU = () => {
                 <div className="slider-item">
                     <div className="tl-7-about-info-card">
                         <img
-                            src="assets/images/SGU-global/3.jpeg"
+                            src="assets/images/SGU-global/3.JPEG"
                             alt="INTI University Malaysia"
                         />
                     </div>
@@ -224,7 +224,7 @@ const InternationalizationSGU = () => {
                 <div className="slider-item">
                     <div className="tl-7-about-info-card">
                         <img
-                            src="assets/images/SGU-global/4.jpeg"
+                            src="assets/images/SGU-global/4.JPEG"
                             alt="INTI University Malaysia"
                         />
                     </div>
@@ -232,7 +232,7 @@ const InternationalizationSGU = () => {
                 <div className="slider-item">
                     <div className="tl-7-about-info-card">
                         <img
-                            src="assets/images/SGU-global/5.jpeg"
+                            src="assets/images/SGU-global/5.JPEG"
                             alt="INTI University Malaysia"
                         />
                     </div>
@@ -240,7 +240,7 @@ const InternationalizationSGU = () => {
                 <div className="slider-item">
                     <div className="tl-7-about-info-card">
                         <img
-                            src="assets/images/SGU-global/6.jpeg"
+                            src="assets/images/SGU-global/6.JPEG"
                             alt="INTI University Malaysia"
                         />
                     </div>
@@ -248,7 +248,7 @@ const InternationalizationSGU = () => {
                 <div className="slider-item">
                     <div className="tl-7-about-info-card">
                         <img
-                            src="assets/images/SGU-global/7.jpeg"
+                            src="assets/images/SGU-global/7.JPEG"
                             alt="INTI University Malaysia"
                         />
                     </div>
@@ -256,7 +256,7 @@ const InternationalizationSGU = () => {
                 <div className="slider-item">
                     <div className="tl-7-about-info-card">
                         <img
-                            src="assets/images/SGU-global/8.jpeg"
+                            src="assets/images/SGU-global/8.JPEG"
                             alt="INTI University Malaysia"
                         />
                     </div>
@@ -264,7 +264,7 @@ const InternationalizationSGU = () => {
                 <div className="slider-item">
                     <div className="tl-7-about-info-card">
                         <img
-                            src="assets/images/SGU-global/9.jpeg"
+                            src="assets/images/SGU-global/9.JPEG"
                             alt="INTI University Malaysia"
                         />
                     </div>
@@ -272,7 +272,7 @@ const InternationalizationSGU = () => {
                 <div className="slider-item">
                     <div className="tl-7-about-info-card">
                         <img
-                            src="assets/images/SGU-global/10.jpeg"
+                            src="assets/images/SGU-global/10.JPEG"
                             alt="INTI University Malaysia"
                         />
                     </div>
