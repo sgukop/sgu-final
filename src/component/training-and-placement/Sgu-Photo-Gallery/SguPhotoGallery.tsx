@@ -121,15 +121,15 @@ const SguPhotoGallery = () => {
         {
             imgSrc: "assets/images/training-and-placement/photo-gallery/SGU team with Mr.Jayant Deshpande, Plant- Head, Will Mathar Platt,Pune.jpg",
             title : "SGU team with Mr.Jayant Deshpande, Plant- Head, Will Mathar Platt,Pune"
+        },
+        {
+            imgSrc: "assets/images/training-and-placement/photo-gallery/SGU Team visit to Doordarshan DD Kokan, Goa.jpg",
+            title : "SGU Team visit to Doordarshan DD Kokan, Goa"
+        },
+        {
+            imgSrc: "assets/images/training-and-placement/photo-gallery/SGU Team visit to Doordarshan DD Kokan, Goa.jpg",
+            title : "SGU Team visit to Doordarshan DD Kokan, Goa"
         },*/
-        {
-            imgSrc: "assets/images/training-and-placement/photo-gallery/SGU Team visit to Doordarshan DD Kokan, Goa.jpg",
-            title : "SGU Team visit to Doordarshan DD Kokan, Goa"
-        },
-        {
-            imgSrc: "assets/images/training-and-placement/photo-gallery/SGU Team visit to Doordarshan DD Kokan, Goa.jpg",
-            title : "SGU Team visit to Doordarshan DD Kokan, Goa"
-        },
         {
             imgSrc: "assets/images/training-and-placement/photo-gallery/SGU Team visit to ABP Maza.jpg",
             title : "SGU Team visit to ABP Maza"
