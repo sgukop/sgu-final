@@ -26,6 +26,31 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-12 col-lg-12">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-txt">
+                            <h4 className="achievements-title">The Department of Chemistry, School of Physical and Chemical Sciences, organized a one-day industrial visit for B.Sc. and M.Sc. students on 11th April 2026. Students visited Sona Chem Industries Pvt. Ltd. and Indo Count Industries Ltd. (Wastewater Treatment Plant, 5 Star MIDC, Kagal) to gain practical exposure to industrial processes and wastewater treatment operations.
+                        </h4>
+                        </div>
+                    </div>
+                </div>
+                <div className="col-xl-6 col-lg-10">
+                    <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+                        <div className="tl-8-course-img self-center">
+                            <img src="assets/images/chemical-sciences-dept/activities/new-activities/5.jpg" alt="Activity Image"/>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="col-xl-6 col-lg-10">
+                    <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+                        <div className="tl-8-course-img self-center">
+                            <img src="assets/images/chemical-sciences-dept/activities/new-activities/6.jpg" alt="Activity Image"/>
+                        </div>
+                    </div>
+                </div>
+                </div>
+                <div className="row g-xl-4 g-3 justify-content-center">
+                <div className="col-xl-12 col-lg-12">
+                    <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+                        <div className="tl-8-course-txt">
                             <h4 className="achievements-title">The Department of Chemistry, School of Physical and Chemical Sciences, Sanjay Ghodawat University organized a two-day industrial visit for B.Sc. and M.Sc. students to Sanofi, Monginis Bakery, Paul John Distillery, and Archie Brewery in Goa on 3rd-4th October 2025.
                         </h4>
                         </div>
