@@ -23,11 +23,11 @@ function ExamNotice() {
               </thead>
               <tbody>
                 <tr>
-                  <td><p>22-07-2026</p></td>
-                  <td><a href="https://manage-api.sguk.ac.in/api/assets/6a69c9bb14083fab0bce5221" rel="noopener noreferrer" target="_blank" className="table-link">Summer-2026 Make-Up Examination Form Submission.<i className="fa-regular fa-arrow-right"></i></a></td>
+                  <td><p>18-09-2026</p></td>
+                  <td><a href="https://manage-api.sguk.ac.in/api/assets/6ab0b7ef25925678ae8df8ec" rel="noopener noreferrer" target="_blank" className="table-link"> Schedule for Winter 2026 Examination form Submission.<i className="fa-regular fa-arrow-right"></i></a></td>
                   <td><p>NOTICE</p></td>
                 </tr>
-                <tr>
+               {/* <tr>
                   <td><p>04-05-2026</p></td>
                   <td><a href="https://manage-api.sguk.ac.in/api/assets/6a1e7f635b3f089b85a78a49" rel="noopener noreferrer" target="_blank" className="table-link">NPTL Time Table Summer-2026<i className="fa-regular fa-arrow-right"></i></a></td>
                   <td><p>NOTICE</p></td>
