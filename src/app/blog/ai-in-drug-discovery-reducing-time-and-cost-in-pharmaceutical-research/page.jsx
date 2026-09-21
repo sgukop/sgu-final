@@ -39,15 +39,12 @@ export default function AIDrugDiscoveryBlogPage() {
           />
 
           <p>
-            Artificial Intelligence (AI) is revolutionizing the pharmaceutical industry by making drug discovery faster, smarter, and more cost-effective[cite: 1]. Traditional drug development can take over a decade and require significant financial investment before a medicine reaches patients[cite: 1]. AI is changing this process by helping researchers identify promising drug candidates, predict outcomes, and streamline clinical research with greater accuracy[cite: 1].
+            Artificial Intelligence (AI) is revolutionizing the pharmaceutical industry by making drug discovery faster, smarter, and more cost-effective. Traditional drug development can take over a decade and require significant financial investment before a medicine reaches patients[cite: 1]. AI is changing this process by helping researchers identify promising drug candidates, predict outcomes, and streamline clinical research with greater accuracy.
           </p>
 
           <p>
-            As the pharmaceutical industry embraces digital innovation, students aspiring to join the healthcare sector should understand how AI is reshaping drug development[cite: 1]. This is why many{" "}
-            <a href="https://www.sguk.ac.in/blog/pharmacy-dept-programs" className={styles.link}>
-              B Pharmacy colleges in Kolhapur
-            </a>{" "}
-            and leading B Pharmacy colleges in Maharashtra are incorporating emerging technologies into their curriculum to prepare future pharmacists for the evolving pharmaceutical landscape[cite: 1].
+            As the pharmaceutical industry embraces digital innovation, students aspiring to join the healthcare sector should understand how AI is reshaping drug development. This is why many
+            and leading B Pharmacy colleges in Maharashtra are incorporating emerging technologies into their curriculum to prepare future pharmacists for the evolving pharmaceutical landscape
           </p>
 
           <h2 className={styles.h2}>Why Is AI Important in Drug Discovery?</h2>
@@ -59,7 +56,7 @@ export default function AIDrugDiscoveryBlogPage() {
 
           <h3 className={styles.h3}>1. Faster Identification of Drug Candidates</h3>
           <p>
-            AI algorithms can analyze millions of chemical compounds in a fraction of the time required through traditional research methods, helping scientists identify promising drug candidates more efficiently[cite: 1].
+            AI algorithms can analyze millions of chemical compounds in a fraction of the time required through traditional research methods, helping scientists identify promising drug candidates more efficiently
           </p>
           <p><strong>Benefits:</strong></p>
           <ul className={styles.list}>
@@ -76,7 +73,7 @@ export default function AIDrugDiscoveryBlogPage() {
 
           <h3 className={styles.h3}>3. Reducing Research and Development Costs</h3>
           <p>
-            Drug development is one of the most expensive processes in healthcare[cite: 1]. AI helps minimize unnecessary experiments by providing data-driven insights that optimize research efforts[cite: 1].
+            Drug development is one of the most expensive processes in healthcare. AI helps minimize unnecessary experiments by providing data-driven insights that optimize research efforts[cite: 1].
           </p>
           <p><strong>AI helps reduce costs by:</strong></p>
           <ul className={styles.list}>
@@ -101,7 +98,15 @@ export default function AIDrugDiscoveryBlogPage() {
             AI can predict potential side effects and safety risks before clinical testing, helping researchers develop safer medicines and reduce late-stage failures[cite: 1].
           </p>
           <p>
-            Students pursuing pharmacy education at a B.Pharmacy college in Kolhapur gain the research skills, scientific knowledge, and practical exposure needed to contribute to AI-driven drug discovery and the future of pharmaceutical innovation[cite: 1].
+            Students pursuing pharmacy education at a{" "}
+            <a
+              href="https://www.sguk.ac.in/pharmacy-dept-programs
+"
+              className={styles.link}
+            >
+               B.Pharmacy college in Kolhapur
+            </a>{" "}   
+             gain the research skills, scientific knowledge, and practical exposure needed to contribute to AI-driven drug discovery and the future of pharmaceutical innovation[cite: 1].
           </p>
 
           <h2 className={styles.h2}>Benefits of AI in Pharmaceutical Research</h2>

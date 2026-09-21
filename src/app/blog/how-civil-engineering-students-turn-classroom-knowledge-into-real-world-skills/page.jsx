@@ -49,7 +49,15 @@ export default function CivilEngineeringBlogPage() {
           </p>
 
           <p>
-            This is why modern civil engineering colleges in Kolhapur are
+            This is why modern {" "}
+            <a
+              href="https://www.sguk.ac.in/civil-dept-about
+"
+              className={styles.link}
+            >
+              civil engineering colleges in Kolhapur
+            </a>{" "}
+             civil engineering colleges in Kolhapur are
             increasingly focusing on application-based learning. Students are
             encouraged to move beyond textbooks and understand how engineering
             decisions influence actual construction projects. From interpreting

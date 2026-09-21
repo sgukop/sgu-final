@@ -44,7 +44,15 @@ export default function MBAPage() {
             question: What value will an MBA program add to my career?
           </p>
 
-          <p>This shift has increased interest in MBA colleges in Kolhapur, where students can access management education while benefiting from a growing regional business ecosystem, practical learning opportunities, and a comparatively accessible education environment.
+          <p>This shift has increased interest in{" "}
+            <a
+              href="https://www.sguk.ac.in/mba-program
+"
+              className={styles.link}
+            >
+              MBA colleges in Kolhapur,
+            </a>{" "} 
+             where students can access management education while benefiting from a growing regional business ecosystem, practical learning opportunities, and a comparatively accessible education environment.
            </p>
           <p>
             From entrepreneurship and manufacturing to finance, technology,

@@ -43,7 +43,15 @@ export default function BBALLBBlogPage() {
           </p>
 
           <p>
-            Today, many BBA LLB colleges in Kolhapur offer industry-oriented education, practical legal training, and modern learning facilities. Students looking for quality legal education also explore leading BBA LLB colleges in Maharashtra that focus on academic excellence, internships, moot courts, and skill development to prepare graduates for the evolving legal profession.
+            Today, many{" "}
+            <a
+              href="https://www.sguk.ac.in/law-dept-BBALLB
+"
+              className={styles.link}
+            >
+               BBA LLB colleges in Kolhapur
+            </a>{" "}   
+             offer industry-oriented education, practical legal training, and modern learning facilities. Students looking for quality legal education also explore leading BBA LLB colleges in Maharashtra that focus on academic excellence, internships, moot courts, and skill development to prepare graduates for the evolving legal profession.
           </p>
 
           <h2 className={styles.h2}>Why Choose BBA LLB After Class 12?</h2>

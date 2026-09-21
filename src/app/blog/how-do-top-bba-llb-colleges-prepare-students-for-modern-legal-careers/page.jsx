@@ -52,8 +52,16 @@ export default function BBALLBPage() {
             BBA LLB courses combine business management with legal studies,
             giving students an opportunity to understand how legal decisions
             influence organizations and how businesses operate within
-            regulatory frameworks. For students exploring BBA LLB colleges in
-            Kolhapur, the focus is increasingly shifting from theoretical
+            regulatory frameworks. For students exploring{" "}
+            <a
+              href="https://www.sguk.ac.in/law-dept-BBALLB
+"
+              className={styles.link}
+            >
+              BBA LLB colleges in
+            Kolhapur
+            </a>{" "} 
+            the focus is increasingly shifting from theoretical
             learning to practical skills, industry exposure, technology
             awareness, and professional development.
           </p>

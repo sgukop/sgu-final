@@ -42,8 +42,15 @@ export default function MCAPage() {
             computing, cybersecurity, and data-driven applications creating new
             career opportunities. Companies now seek professionals who can
             solve business problems, build practical solutions, and adapt to
-            emerging technologies. The right MCA colleges in Kolhapur help
-            students develop these skills through practical projects, industry
+            emerging technologies. The right{" "}
+            <a
+              href="https://www.sguk.ac.in/MCA-program
+"
+              className={styles.link}
+            >
+              MCA colleges in Kolhapur 
+            </a>{" "}  
+             help students develop these skills through practical projects, industry
             interaction, and technology-focused learning.
           </p>
 

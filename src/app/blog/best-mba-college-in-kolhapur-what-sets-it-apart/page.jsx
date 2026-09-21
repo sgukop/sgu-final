@@ -41,7 +41,14 @@ export default function MbaBlogPage() {
           <p>
             Choosing the right MBA institution is one of the most important
             decisions for students aspiring to build successful careers in
-            business and management. While many MBA colleges in Kolhapur offer
+            business and management. While many{" "}
+            <a
+              href="https://www.sguk.ac.in/mba-dept-programmes
+"
+              className={styles.link}
+            >
+              MBA colleges in Kolhapur
+            </a>{" "}  offer
             quality education, the best institutions distinguish themselves
             through industry-oriented learning, experienced faculty, practical
             exposure, and strong placement opportunities.

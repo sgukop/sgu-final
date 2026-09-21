@@ -41,7 +41,15 @@ export default function InteriorDesigningBlogPage() {
           </p>
 
           <p>
-            For students passionate about creativity, design, and problem-solving, enrolling in one of the leading interior designing colleges in Kolhapur can be the first step toward a rewarding career. A well-structured interior design course in Kolhapur combines artistic creativity with technical knowledge, helping students develop practical skills that meet the evolving needs of the design industry.
+            For students passionate about creativity, design, and problem-solving, enrolling in one of the leading interior designing colleges in Kolhapur can be the first step toward a rewarding career. A well-structured{" "}
+            <a
+              href="https://www.sguk.ac.in/design-dept-programmes
+"
+              className={styles.link}
+            >
+               interior design course in Kolhapur
+            </a>{" "}  
+             combines artistic creativity with technical knowledge, helping students develop practical skills that meet the evolving needs of the design industry.
           </p>
 
           <h2 className={styles.h2}>Why Choose an Interior Design Course After Class 12?</h2>

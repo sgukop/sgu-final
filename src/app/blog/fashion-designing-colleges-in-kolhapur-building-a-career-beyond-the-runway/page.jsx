@@ -52,10 +52,18 @@ export default function FashionDesignBlogPage() {
           </p>
 
           <p>
-            Fashion designing colleges in Kolhapur can provide a strong
+             fashion design colleges in Kolhapur can provide a strong
             foundation by combining design knowledge with practical skills,
             industry awareness, and creative experimentation. For aspiring
-            designers, choosing the fashion design colleges in Kolhapur is not
+            designers, choosing the {" "}
+            <a
+              href="https://www.sguk.ac.in/design-dept-programmes
+"
+              className={styles.link}
+            >
+              Fashion designing colleges in Kolhapur
+            </a>{" "}
+            fashion design colleges in Kolhapur is not
             simply about learning how to create garments. It is about
             developing the ability to understand consumers, identify trends,
             experiment with materials, create marketable designs, and build a
