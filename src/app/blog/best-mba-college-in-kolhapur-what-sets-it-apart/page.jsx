@@ -43,7 +43,7 @@ export default function MbaBlogPage() {
             decisions for students aspiring to build successful careers in
             business and management. While many{" "}
             <a
-              href="https://www.sguk.ac.in/mba-dept-programmes
+              href="https://www.sguk.ac.in/mba-program
 "
               className={styles.link}
             >
