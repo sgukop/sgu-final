@@ -45,7 +45,7 @@ export default function MBABlogPage() {
             career. With increasing demand for management professionals,
             many students are searching for{" "}
             <a
-              href="https://www.sguk.ac.in/blog/best-mba-college-in-kolhapur
+              href="https://www.sguk.ac.in/mba-program
 "
               className={styles.link}
             >

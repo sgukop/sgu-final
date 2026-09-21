@@ -44,7 +44,14 @@ export default function BBALLBBlogPage() {
           </p>
 
           <p>
-            For students looking to build a career in corporate law, choosing a reputed BBA LLB college in Kolhapur can provide the right blend of legal knowledge, management skills, and practical exposure. With quality education and growing career opportunities, Kolhapur is becoming a preferred destination for legal studies in Maharashtra.
+            For students looking to build a career in corporate law, choosing a reputed{" "}
+            <a
+              href="https://www.sguk.ac.in/law-dept-BBALLB"
+              className={styles.link}
+            >
+            BBA LLB college in Kolhapur
+            </a>{" "} 
+             can provide the right blend of legal knowledge, management skills, and practical exposure. With quality education and growing career opportunities, Kolhapur is becoming a preferred destination for legal studies in Maharashtra.
           </p>
 
           <h2 className={styles.h2}>Why is BBA LLB a Popular Choice Among Students?</h2>

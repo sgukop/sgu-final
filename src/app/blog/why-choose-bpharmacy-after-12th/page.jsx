@@ -54,7 +54,7 @@ export default function BPharmacyBlogPage() {
           <p>
             Today, many students are exploring{" "}
             <a
-              href="https://www.sguk.ac.in/blog/why-choose-bpharmacy-after-12th"
+              href="https://www.sguk.ac.in/bloghttps://www.sguk.ac.in/pharmacy-dept-programs"
               className={styles.link}
             >
               B Pharmacy colleges in Kolhapur

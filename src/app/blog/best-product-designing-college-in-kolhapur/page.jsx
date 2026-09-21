@@ -50,7 +50,7 @@ export default function ProductDesignBlogPage() {
           <p>
             For students seeking quality design education,{" "}
             <a
-              href="https://www.sguk.ac.in/blog/best-product-designing-college-in-kolhapur"
+              href="https://www.sguk.ac.in/design-dept-programmes"
               className={styles.link}
             >
               product designing colleges in Kolhapur

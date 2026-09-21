@@ -48,7 +48,8 @@ export default function MbaBlogPage() {
               className={styles.link}
             >
               MBA colleges in Kolhapur
-            </a>{" "}  offer
+            </a>{" "} 
+             offer
             quality education, the best institutions distinguish themselves
             through industry-oriented learning, experienced faculty, practical
             exposure, and strong placement opportunities.

@@ -46,7 +46,7 @@ export default function MCABlogPage() {
             computing, and emerging technologies. With the increasing
             demand for IT professionals, many students are exploring{" "}
             <a
-              href="https://www.sguk.ac.in/blog/mca-college-in-kolhapur-admission-guide-2026"
+              href="https://www.sguk.ac.in/MCA-program"
               className={styles.link}
             >
               MCA colleges in Kolhapur

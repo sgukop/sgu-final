@@ -45,8 +45,16 @@ export default function CivilEngineeringBlogPage() {
             just as important as theoretical understanding. While classroom
             concepts provide the foundation, real-world application enables
             students to solve engineering challenges with confidence. This is
-            why students and parents increasingly look for civil engineering
-            colleges in Kolhapur that emphasize experiential learning
+            why students and parents increasingly look for{" "}
+            <a
+              href="https://www.sguk.ac.in/civil-dept-about
+"
+              className={styles.link}
+            >
+              civil engineering
+            colleges in Kolhapur
+            </a>{" "}  
+             that emphasize experiential learning
             alongside academics.
           </p>
 
