@@ -22,16 +22,42 @@ const AerospaceDeptFaculty = () => {
                                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                                     <div className="tl-1-course-new">
                                         <div className="tl-1-course-img-new">
+                                            <img src="/assets/images/faculty-profile-photos/aeronautical/2.jpeg" alt="Faculty Image"/>
+                                        </div>
+
+                                        <div className="tl-1-course-txt">
+                                            <h4 className="tl-1-course-title-new mt-30">Dr. Bandi Eswara Kumar</h4>
+                                            <p className="tl-1-course-author-new dark-mode-white-color">Professor & HoD</p>
+                                            <Link href="https://manage-api.sguk.ac.in/api/assets/6ab36a7825925678ae8e0f14" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                                    <div className="tl-1-course-new">
+                                        <div className="tl-1-course-img-new">
                                             <img src="/assets/images/faculty-profile-photos/aeronautical/2. Mr. S. SULTAN.jpg" alt="Faculty Image"/>
                                         </div>
 
                                         <div className="tl-1-course-txt">
                                             <h4 className="tl-1-course-title-new mt-30">Mr.S.Sulthan</h4>
-                                            <p className="tl-1-course-author-new dark-mode-white-color">HOD/Assistant Professor</p>
+                                            <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
                                             <Link href="https://manage-api.sguk.ac.in/api/assets/674ebde54b17e19d8f361689" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                                         </div>
                                     </div>
                                 </div>
+                                <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                                    <div className="tl-1-course-new">
+                                        <div className="tl-1-course-img-new">
+                                            <img src="/assets/images/faculty-profile-photos/male.jpg" alt="Faculty Image"/>
+                                        </div>
+
+                                        <div className="tl-1-course-txt">
+                                            <h4 className="tl-1-course-title-new mt-30">Prof. Ajay Prabhakar Dhawan</h4>
+                                            <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
+                                            <Link href="https://manage-api.sguk.ac.in/api/assets/6ab36aa725925678ae8e0f1b" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                                        </div>
+                                    </div>
+                                </div>  
                                 <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                                     <div className="tl-1-course-new">
                                         <div className="tl-1-course-img-new">
@@ -45,12 +71,7 @@ const AerospaceDeptFaculty = () => {
                                         </div>
                                     </div>
                                 </div>  
-
-  
-
-                                
-
-                                 <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                                   <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                                     <div className="tl-1-course-new">
                                         <div className="tl-1-course-img-new">
                                             <img src="/assets/images/faculty-profile-photos/aeronautical/4. Mr. VADIVEL M.jpg" alt="Faculty Image"/>
@@ -81,7 +102,21 @@ const AerospaceDeptFaculty = () => {
                                 <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                                     <div className="tl-1-course-new">
                                         <div className="tl-1-course-img-new">
-                                            <img src="/assets/images/faculty-profile-photos/aeronautical/Shivtej Khot.JPG" alt="Faculty Image"/>
+                                            <img src="/assets/images/faculty-profile-photos/female.jpg" alt="Faculty Image"/>
+                                        </div>
+
+                                        <div className="tl-1-course-txt">
+                                            <h4 className="tl-1-course-title-new mt-30">Dr. Sakthipriya Balu</h4>
+                                            <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
+                                            <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                                        </div>
+                                    </div>
+                                </div> 
+                                
+                                <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                                    <div className="tl-1-course-new">
+                                        <div className="tl-1-course-img-new">
+                                            <img src="/assets/images/faculty-profile-photos/aeronautical/3.jpeg" alt="Faculty Image"/>
                                         </div>
 
                                         <div className="tl-1-course-txt">
@@ -91,6 +126,33 @@ const AerospaceDeptFaculty = () => {
                                         </div>
                                     </div>
                                 </div> 
+                                 <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                                    <div className="tl-1-course-new">
+                                        <div className="tl-1-course-img-new">
+                                            <img src="/assets/images/faculty-profile-photos/female.jpg" alt="Faculty Image"/>
+                                        </div>
+
+                                        <div className="tl-1-course-txt">
+                                            <h4 className="tl-1-course-title-new mt-30">Prof. Vaishnavi Vinayak Patil</h4>
+                                            <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
+                                            <Link href="https://manage-api.sguk.ac.in/api/assets/6ab36acb25925678ae8e0f22" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                                        </div>
+                                    </div>
+                                </div> 
+                                 <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                                    <div className="tl-1-course-new">
+                                        <div className="tl-1-course-img-new">
+                                            <img src="/assets/images/faculty-profile-photos/female.jpg" alt="Faculty Image"/>
+                                        </div>
+
+                                        <div className="tl-1-course-txt">
+                                            <h4 className="tl-1-course-title-new mt-30">Mrs. Monika Shinde</h4>
+                                            <p className="tl-1-course-author-new dark-mode-white-color">Teaching Assistant</p>
+                                            <Link href="https://manage-api.sguk.ac.in/api/assets/6ab36b1525925678ae8e0f37" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                                        </div>
+                                    </div>
+                                </div> 
+                                
 
                                  
                             </div>

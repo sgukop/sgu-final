@@ -28,11 +28,11 @@ function AerospaceDeptBOS() {
           <tbody>
                 <tr>
                   <td><p>1</p></td>
-                  <td><p>Mr.S.Sulthan</p></td>
+                  <td><p>Dr. Bandi Eswara Kumar</p></td>
                   <td><p>BOS Chairman</p></td>
                   <td>
                     <p>
-                      Head & Assistant Professor <br/>
+                      Professor & Head <br/>
                       Department of Aerospace Engineering <br/>
                       Sanjay Ghodawat University, Kolhapur
                     </p>
@@ -77,12 +77,9 @@ function AerospaceDeptBOS() {
                     </p>
                   </td>
                 </tr>
-
-                
-
-                <tr>
+                   <tr>
                   <td><p>5</p></td>
-                  <td><p>Dr.Muzeer.S</p></td>
+                  <td><p>Mr. Sulthan S</p></td>
                   <td><p>Member</p></td>
                   <td>
                     <p>
@@ -92,10 +89,9 @@ function AerospaceDeptBOS() {
                     </p>
                   </td>
                 </tr>
-
-                <tr>
+                 <tr>
                   <td><p>6</p></td>
-                  <td><p>Mr.Somava Palit</p></td>
+                  <td><p>Mr. Ajay Prabhakar Dhawan</p></td>
                   <td><p>Member</p></td>
                   <td>
                     <p>
@@ -108,7 +104,7 @@ function AerospaceDeptBOS() {
 
                 <tr>
                   <td><p>7</p></td>
-                  <td><p>Mr.Mari Prabhu</p></td>
+                  <td><p>Dr.Muzeer.S</p></td>
                   <td><p>Member</p></td>
                   <td>
                     <p>
@@ -118,8 +114,7 @@ function AerospaceDeptBOS() {
                     </p>
                   </td>
                 </tr>
-
-                <tr>
+                     <tr>
                   <td><p>8</p></td>
                   <td><p>Mr.Vadivel Muthu</p></td>
                   <td><p>Member</p></td>
@@ -134,7 +129,46 @@ function AerospaceDeptBOS() {
 
                 <tr>
                   <td><p>9</p></td>
+                  <td><p>Mr.Somava Palit</p></td>
+                  <td><p>Member</p></td>
+                  <td>
+                    <p>
+                      Assistant Professor <br/>
+                      Department of Aerospace Engineering <br/>
+                      Sanjay Ghodawat University, Kolhapur
+                    </p>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td><p>10</p></td>
+                  <td><p>Dr. Sakthipriya Balu</p></td>
+                  <td><p>Member</p></td>
+                  <td>
+                    <p>
+                      Assistant Professor <br/>
+                      Department of Aerospace Engineering <br/>
+                      Sanjay Ghodawat University, Kolhapur
+                    </p>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td><p>11</p></td>
                   <td><p>Mr.Shivtej Khot</p></td>
+                  <td><p>Member</p></td>
+                  <td>
+                    <p>
+                      Assistant Professor <br/>
+                      Department of Aerospace Engineering <br/>
+                      Sanjay Ghodawat University, Kolhapur
+                    </p>
+                  </td>
+                </tr>
+
+                <tr>
+                  <td><p>12</p></td>
+                  <td><p>Ms. Vaishnavi Vinayak Patil</p></td>
                   <td><p>Member</p></td>
                   <td>
                     <p>

@@ -31,7 +31,7 @@ const AerospaceDeptAbout = () => {
               <div className="col-lg-5">
                 <div className="tl-14-about-img">
                   <img
-                    src="assets/images/faculty-profile-photos/aeronautical/2. Mr. S. SULTAN.jpg"
+                    src="assets/images/faculty-profile-photos/aeronautical/11.jpeg"
                     alt="HOD Image"
                     className="rounded-full"
                     style={{border:"10px solid #4f70b6", padding:"100px"}}
@@ -43,25 +43,27 @@ const AerospaceDeptAbout = () => {
                 <div>
                   <h2 className="tl-14-section-title text-[#4f70b6] lg:mt-10 sm:mt-0">HOD's Desk</h2>
                   <p className="dark-mode-white-color text-justify">
-                    I am delighted to introduce and warmly welcome you to the
-                    Department of Aerospace Engineering, Sanjay Ghodawat
-                    University, Kolhapur, Maharashtra
+                    
+                    It gives me immense pleasure to welcome you to the Department of Aerospace Engineering at Sanjay Ghodawat University. Aerospace Engineering is a dynamic and multidisciplinary field that combines Science, Engineering, Technology, and Innovation to address the challenges of aviation, defence, and space exploration.
                     <br />
                     <br />
-                    Our mission is to mould Aerospace Engineering
-                    undergraduates through world class education, sustained
-                    research in aerospace technologies leading to patents and
-                    research publications, promoting entrepreneurship and
-                    enhance interactions with industry. The department boasts
-                    enthusiastic faculty and talented staff members who are
-                    experts in their areas of interest.
-                  </p>
+                    Our department is committed to providing students with strong fundamentals, practical knowledge, and industry-oriented skills. We encourage learning through classroom teaching, laboratory experiments, computational analysis, design projects, internships, workshops, and interaction with industry professionals.
+                  <br />
+                    Students are encouraged to explore important areas such as Aerodynamics, Computational Fluid Dynamics, Aircraft Structures, Propulsion, Flight Mechanics, UAVs, and emerging aerospace technologies. Research-oriented projects and hands-on learning help students develop creativity, analytical thinking, and problem-solving abilities.
+                    <br />
+                   The aerospace industry is continuously evolving, creating opportunities in aviation, defence, space, UAVs, simulation, design, manufacturing, and research. Our objective is to prepare students to confidently meet these changing requirements and pursue successful careers as well as higher education and research opportunities in India and abroad.
+                    <br />
+                   We strive to create an academic environment that encourages curiosity, innovation, teamwork, ethical values, and lifelong learning. Our vision is to develop the Department of Aerospace Engineering as a centre for quality education, research, innovation, and meaningful industry collaboration.
+                     Together, let us inspire young minds to explore the skies, push technological boundaries, and shape the future of Aerospace Engineering.
+
+                    </p>
                   <span
                     className="dark-mode-white-color mt-4"
                     style={{ fontWeight: "bold" }}
                   >
                     {" "}
-                    Mr. Sulthan S., <br /> Assistant Professor & Head{" "}
+                    Dr. Eswara Kumar Bandi <br /> Professor & Head Department of Aerospace Engineering Sanjay Ghodawat University
+                   {" "}
                   </span>
                 </div>
               </div>
@@ -158,21 +160,11 @@ const AerospaceDeptAbout = () => {
                    
                    
                     <p className="dark-mode-white-color text-justify">
-                    The Department of Aerospace Engineering was established in 2017. Department of Aerospace
-Engineering offered B. Tech Aeronautical Engineering (4 years) and M. Tech Aerospace Engineering
-(2 Years) , M.Tech Aerospace Engineering (1+1) Articulation Programme. The B. Tech Aeronautical
-Engineering program has been designed to provide quality education for undergraduate students
-through the blend of advanced laboratories and experienced faculty members in the fields of
-Aerodynamics, Aerospace Structures, Aerospace Propulsion, Space Mechanics, Aircraft Design,
-Aircraft Systems, Avionics, UAV, Satellite Technology and Advanced Materials. The syllabus is
-regularly revised to meet the industry demands in the Aviation, Space Exploration and Defence
-Sector.<br/><br/>
-The department encompasses various types of Aircraft, Aircraft Maintenance, Autonomous Systems
-and Satellite Technology, aircraft and helicopters hangers, advanced laboratories and experienced
-faculty members, Sanjay Ghodawat University offers myriad opportunities for real-time experience,
-practical learning and skill development in the Aerospace engineering domain.
-We take pride in generating the maximum number of Aeronautical and Aerospace Engineers in the
-country. Many of our alumni work as Engineers.
+                      The Department of Aerospace Engineering was established in 2017. The department offers B.Tech. in Aeronautical Engineering (4 years), M.Tech in Aerospace Engineering (2 years), and M.Tech in Aerospace Engineering (1+1) Articulation Programme. The B.Tech. Aeronautical Engineering programme is designed to provide quality education to undergraduate students through advanced laboratories and experienced faculty members specializing in the fields of Aerodynamics, Aerospace Structures, Aerospace Propulsion, Space Mechanics, Aircraft Design, Aircraft Systems, Avionics, UAVs, Satellite Technology, and Advanced Materials. The syllabus is regularly revised to meet the evolving demands of the aviation, space exploration, and defence sectors.
+                    <br/><br/>
+                       The department encompasses various types of aircraft, aircraft maintenance facilities, autonomous systems, satellite technology, aircraft and helicopter hangars, advanced laboratories, and experienced faculty members. Sanjay Ghodawat University provides students with numerous opportunities for real-time experience, practical learning, and skill development in the field of Aerospace Engineering. We take pride in nurturing and producing skilled Aeronautical and Aerospace engineers who contribute to the industry and society. Many of our alumni are successfully working as engineers in various organizations.
+
+
                     </p>
                 </div>
                 </div>
