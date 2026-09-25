@@ -109,6 +109,14 @@ const BtechAIMLSyllabus = () => {
                   <td><p>B. Tech. AIML Final Year Syllabus R23</p></td>
                   <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6ab6404ff7f7f18b129733a5">B.Tech AIML Final Year Syllabus R23 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
              </tr>
+             <tr>
+                  <td><p>OpenElective Offered By AIML Department</p></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6ab643b9f7f7f18b129733b8">OpenElective Offered By AIML Department<i className="fa-regular fa-arrow-right-long"></i></Link></td>
+             </tr>
+             <tr>
+                  <td><p>Multi-Disciplinary Minor Offered By AIML Department Track I And Track 2</p></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6ab643cef7f7f18b129733bd">Multi-Disciplinary Minor Offered By AIML Department Track I And Track 2 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+             </tr>
              
           </tbody>
       </Table>
