@@ -45,7 +45,7 @@ const AIMLDeptActivities = () => {
       <div className="tl-9-event-img">
         <figure>
           <img
-            src="assets/images/AIML/activities&achievements/1st Winner.jpeg"
+            src="assets/images/AIML/activities&achievements/2.jpeg"
             alt="Students participating in Capgemini Hackathon"
           />
         </figure>
@@ -58,7 +58,7 @@ const AIMLDeptActivities = () => {
       <div className="tl-9-event-img">
         <figure>
           <img
-            src="assets/images/AIML/activities&achievements/2nd Winner.jpeg"
+            src="assets/images/AIML/activities&achievements/3.jpeg"
             alt="Students participating in Capgemini Hackathon"
           />
         </figure>

@@ -192,7 +192,7 @@ const AIandMLDeptFaculty = () => {
                             <div className="tl-1-course-txt">
                                 <h4 className="tl-1-course-title-new mt-30">Ms.Vedika Vikas Phalle</h4>
                                 <p className="tl-1-course-author-new dark-mode-white-color">Teaching Assistant</p>
-                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                                <Link href="https://manage-api.sguk.ac.in/api/assets/6ab63aadf7f7f18b129732c4" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
                         </div>
                     </div>
@@ -218,12 +218,75 @@ const AIandMLDeptFaculty = () => {
                             <div className="tl-1-course-txt">
                                 <h4 className="tl-1-course-title-new mt-30">Ms. Pranali Jagannath Kamble</h4>
                                 <p className="tl-1-course-author-new dark-mode-white-color">Teaching Assistant</p>
-                                <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                                <Link href="https://manage-api.sguk.ac.in/api/assets/6ab63a33f7f7f18b129732a2" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
                         </div>
                     </div>
-                
-                    
+                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                        <div className="tl-1-course-new">
+                            <div className="tl-1-course-img-new">
+                                <img src="/assets/images/faculty-profile-photos/female.jpg" alt="Faculty Image"/>
+                            </div>
+
+                            <div className="tl-1-course-txt">
+                                <h4 className="tl-1-course-title-new mt-30">Ms. Amruta.S.Biradar</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Teaching Assistant </p>
+                                <Link href="https://manage-api.sguk.ac.in/api/assets/6ab638dff7f7f18b1297325e" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                            </div>
+                        </div>
+                    </div>
+                <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                        <div className="tl-1-course-new">
+                            <div className="tl-1-course-img-new">
+                                <img src="/assets/images/faculty-profile-photos/male.jpg" alt="Faculty Image"/>
+                            </div>
+
+                            <div className="tl-1-course-txt">
+                                <h4 className="tl-1-course-title-new mt-30">Mr.Vishal Devadas Harader</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant professor  </p>
+                                <Link href="https://manage-api.sguk.ac.in/api/assets/6ab639a3f7f7f18b12973283" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                        <div className="tl-1-course-new">
+                            <div className="tl-1-course-img-new">
+                                <img src="/assets/images/faculty-profile-photos/AIML/Vedika Palle.jpeg" alt="Faculty Image"/>
+                            </div>
+
+                            <div className="tl-1-course-txt">
+                                <h4 className="tl-1-course-title-new mt-30">Ms.Pooja Rajendra Mhetre</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
+                                <Link href="https://manage-api.sguk.ac.in/api/assets/6ab63accf7f7f18b129732cd" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                        <div className="tl-1-course-new">
+                            <div className="tl-1-course-img-new">
+                                <img src="/assets/images/faculty-profile-photos/AIML/Vedika Palle.jpeg" alt="Faculty Image"/>
+                            </div>
+
+                            <div className="tl-1-course-txt">
+                                <h4 className="tl-1-course-title-new mt-30">Ambaji Janardan Desai</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Teaching Assistant</p>
+                                <Link href="https://manage-api.sguk.ac.in/api/assets/6ab63b5df7f7f18b129732ec" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
+                        <div className="tl-1-course-new">
+                            <div className="tl-1-course-img-new">
+                                <img src="/assets/images/faculty-profile-photos/male.jpg" alt="Faculty Image"/>
+                            </div>
+
+                            <div className="tl-1-course-txt">
+                                <h4 className="tl-1-course-title-new mt-30">Mr. Sagar Bhimrao Magdum</h4>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant professor  </p>
+                                <Link href="https://manage-api.sguk.ac.in/api/assets/6ab63a55f7f7f18b129732af" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div> 
         </div>
