@@ -3,6 +3,7 @@ import React, { useEffect, useRef, useState } from "react";
 import Table from "react-bootstrap/Table";
 import NavLinks from "./Navlinks";
 import MenuList from "../Reusable-components/MenuList";
+
 import Slider from "react-slick";
 
 interface AboutProps{
@@ -116,6 +117,7 @@ const AIandMLDeptAlumni:React.FC<AboutProps> = ({margin}) => {
                                             </tr>
                                         </thead>
                                         <tbody>
+                                          
                                             <tr>
                                                 <td><p>1</p></td>
                                                 <td><p>2024-25</p></td>
@@ -125,6 +127,11 @@ const AIandMLDeptAlumni:React.FC<AboutProps> = ({margin}) => {
                                                 <td><p>2</p></td>
                                                 <td><p>2023-24</p></td>
                                                 <td><p>65</p></td>
+                                            </tr>
+                                             <tr>
+                                                <td><p>3</p></td>
+                                                <td><p>2025-26</p></td>
+                                                <td><p>122</p></td>
                                             </tr>
                                         </tbody>
                                     </Table>  

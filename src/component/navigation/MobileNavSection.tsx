@@ -1982,7 +1982,7 @@ const MobileNavSection = () => {
             <li className="mean-last">
               <NavLink href="/feedback">Feedback</NavLink>
             </li>
-          </ul>
+          </ul>f
         </li>  */}
       </ul>
     </nav>

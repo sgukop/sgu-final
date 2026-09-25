@@ -9,13 +9,63 @@ const AIMLDeptActivities = () => {
         <h2 className="tl-9-section-title mb-50">Activities & Achievements</h2>
         <div className="row">
             <MenuList dept="Artificial Intelligence and Machine Learning" subMenu={NavLinks} />
+            
           <div
             data-spy="scroll"
             className="scrollspy-example z-depth-1 mt-4 p-3 mb-4 col-lg-9 col-md-6 col-sm-12 dept-content"
             data-target="#menu-navbar"
             data-offset="0"
+            
           >
 
+               <h3 className="tl-event-details-area-title">
+                Students Achieve Historic Success at Capgemini Hackathon
+              </h3>
+
+            <p className="dark-mode-white-color text-justify">
+             The proudly congratulates its students for their outstanding achievement at the Capgemini Hackathon  Pune Zone Finale, securing 1st Prize, 2nd Prize and Runner-Up and achieving a historic clean sweep of all three top positions.
+                </p>
+
+              <div className="row g-3 g-lg-4 lift-content-center">
+            <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+              <div className="tl-9-blog">
+      <div className="tl-9-event-img">
+        <figure>
+          <img
+            src="assets/images/AIML/activities&achievements/1.jpeg"
+            alt="Students at Capgemini Hackathon"
+          />
+        </figure>
+      </div>
+    </div>
+  </div>
+
+  <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+    <div className="tl-9-blog">
+      <div className="tl-9-event-img">
+        <figure>
+          <img
+            src="assets/images/AIML/activities&achievements/1st Winner.jpeg"
+            alt="Students participating in Capgemini Hackathon"
+          />
+        </figure>
+      </div>
+    </div>
+  </div>
+            </div>
+<div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+    <div className="tl-9-blog">
+      <div className="tl-9-event-img">
+        <figure>
+          <img
+            src="assets/images/AIML/activities&achievements/2nd Winner.jpeg"
+            alt="Students participating in Capgemini Hackathon"
+          />
+        </figure>
+      </div>
+    </div>
+  </div>
+            
                 <h3 className="tl-event-details-area-title">F.Y. AIML Orientation</h3>  
                <div className="row g-3 g-lg-4 lift-content-center">
                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
@@ -36,7 +86,7 @@ const AIMLDeptActivities = () => {
                     </div>
                   </div>
                 </div>
-                  
+
                 <h3 className="tl-event-details-area-title">F.Y. AIML Industrial Visit</h3>
                   <div className="row g-3 g-lg-4 lift-content-center">
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
