@@ -88,7 +88,7 @@ const BtechAIMLSyllabus = () => {
              <tr>
                   <td><p>B.Tech First Year R25 Syllabus</p></td>
                   <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6966124d2707d1e5bb924227">B.Tech First Year R25 Syllabus <i className="fa-regular fa-arrow-right-long"></i></Link></td>
-             </tr>*/}
+             </tr>*/}fff
              <tr>
                   <td><p>B.Tech AIML Strucutre R25</p></td>
                   <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6ab63f92f7f7f18b12973391">B.Tech AIML Strucutre R25 <i className="fa-regular fa-arrow-right-long"></i></Link></td>

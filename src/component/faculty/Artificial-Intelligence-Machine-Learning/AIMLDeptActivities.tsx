@@ -18,19 +18,19 @@ const AIMLDeptActivities = () => {
             
           >
 
-               <h3 className="tl-event-details-area-title">
+                <h3 className="tl-event-details-area-title">
                 Students Achieve Historic Success at Capgemini Hackathon
               </h3>
 
-            <p className="dark-mode-white-color text-justify">
+               <p className="dark-mode-white-color text-justify">
              The proudly congratulates its students for their outstanding achievement at the Capgemini Hackathon  Pune Zone Finale, securing 1st Prize, 2nd Prize and Runner-Up and achieving a historic clean sweep of all three top positions.
                 </p>
 
               <div className="row g-3 g-lg-4 lift-content-center">
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
               <div className="tl-9-blog">
-      <div className="tl-9-event-img">
-        <figure>
+                <div className="tl-9-event-img">
+               <figure>
           <img
             src="assets/images/AIML/activities&achievements/1.jpeg"
             alt="Students at Capgemini Hackathon"
