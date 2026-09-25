@@ -1043,15 +1043,15 @@ const MobileNavSection = () => {
                     <li>
                       <NavLink href="/aerospace-engineering-about">Aerospace Engineering</NavLink>
                     </li>
-                    <li>
+                    {/* <li>
                       <NavLink href="/mechanical-dept-about">Mechanical Engineering</NavLink>
-                    </li>
+                    </li>*/}
                     <li>
                       <NavLink href="/civil-dept-about">Civil Engineering</NavLink>
                     </li>
-                    <li>
+                    {/* <li>
                       <NavLink href="/electrical-dept-about">Electrical and Electronics Engineering</NavLink>
-                    </li>
+                    </li>*/}
                     <li>
                       <NavLink href="/electronics-dept-about">Electronics and Communication Engineering</NavLink>
                     </li>
@@ -1061,9 +1061,9 @@ const MobileNavSection = () => {
                     <li>
                       <NavLink href="/AI-ML-dept-about">Artificial Intelligence and Machine Learning</NavLink>
                     </li>
-                    <li>
+                    {/* <li>
                       <NavLink href="/NIAT-AIML-Data-Science-dept-about">NIAT Corporate(AI/Ml, Data Science)</NavLink>
-                    </li>
+                    </li>*/}
                     <li>
                       <NavLink href="/AI-DS-dept-about">Artificial Intelligence and <br/> Data Science(AIDS)</NavLink>
                     </li>
@@ -1331,12 +1331,12 @@ const MobileNavSection = () => {
                       isDropdownOpen.socialsciences ? "d-block" : "d-none"
                     }`}
                   >
-                   <li>
+                   {/* <li>
                       <NavLink href="/english-dept-about">Department of English</NavLink>
                   </li>
                   <li>
                       <NavLink href="/geography-dept-about">Department of Geography</NavLink>
-                  </li>
+                  </li>*/}
                   </ul>
                 </li>
               </ul>
@@ -1427,9 +1427,9 @@ const MobileNavSection = () => {
                       isDropdownOpen.schoolofmedia ? "d-block" : "d-none"
                     }`}
                   >
-                    <li>
+                    {/* <li>
                         <NavLink href="/masscommunication-dept-about">B.A-Journalism & Mass Communication</NavLink>
-                    </li>
+                    </li>*/}
                   </ul>
                 </li>
               </ul>
@@ -1886,7 +1886,7 @@ const MobileNavSection = () => {
               isDropdownOpen.events ? "d-block" : "d-none"
             }`}
           >
-             <li>
+             {/* <li>
                   <NavLink href="/icctvb2025">International Conference on CCTVB2025</NavLink>
             </li>
              <li>
@@ -1897,7 +1897,7 @@ const MobileNavSection = () => {
             </li>
             <li>
                   <NavLink href="/scistar2026">Sci-STAR 2026e </NavLink>
-            </li>
+            </li>*/}
           </ul>
         </li>
 
