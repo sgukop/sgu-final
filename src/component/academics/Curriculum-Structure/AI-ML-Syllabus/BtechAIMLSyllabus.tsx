@@ -91,23 +91,23 @@ const BtechAIMLSyllabus = () => {
              </tr>*/}
              <tr>
                   <td><p>B.Tech AIML Strucutre R25</p></td>
-                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6a4f87510a3e8b9f2807dc44">B.Tech AIML Strucutre R25 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6ab63f92f7f7f18b12973391">B.Tech AIML Strucutre R25 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
              </tr>
              <tr>
                   <td><p>F. Y. B. Tech. AIML Syllabus R25</p></td>
-                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6a4f87610a3e8b9f2807dc49">F. Y. B. Tech. AIML Syllabus R25 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6ab63fccf7f7f18b12973396">F. Y. B. Tech. AIML Syllabus R25 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
              </tr>
              <tr>
                   <td><p>S. Y. B. Tech. AIML Syllabus R-25</p></td>
-                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6a4f87710a3e8b9f2807dc4e">S. Y. B. Tech. AIML Syllabus R-25 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6ab64003f7f7f18b1297339b">S. Y. B. Tech. AIML Syllabus R-25 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
              </tr>
              <tr>
                   <td><p>B.Tech AIML R23_Structure</p></td>
-                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6a4f877f0a3e8b9f2807dc53">B.Tech AIML R23_Structure <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6ab6402df7f7f18b129733a0">B.Tech AIML R23_Structure <i className="fa-regular fa-arrow-right-long"></i></Link></td>
              </tr>
              <tr>
                   <td><p>B. Tech. AIML Final Year Syllabus R23</p></td>
-                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6a4f878e0a3e8b9f2807dc58">B.Tech AIML Final Year Syllabus R23 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
+                  <td><Link rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6ab6404ff7f7f18b129733a5">B.Tech AIML Final Year Syllabus R23 <i className="fa-regular fa-arrow-right-long"></i></Link></td>
              </tr>
              
           </tbody>
