@@ -264,7 +264,7 @@ const AIandMLDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/AIML/Vedika Palle.jpeg" alt="Faculty Image"/>
+                                <img src="/assets/images/faculty-profile-photos/AIML/male.jpeg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
