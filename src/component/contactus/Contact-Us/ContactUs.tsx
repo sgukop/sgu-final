@@ -146,7 +146,7 @@ const ContactUs = () => {
                     <ul className="tl-event-details-infos pl-50">
                         <li className="tl-event-details-info">
                             <span className="key">
-                                <i className="fa-solid fa-user mr-3"></i><strong>Mr. Vikas Bhandari</strong><br/> <p className="ml-25">Technician - Hardware & Software</p>
+                                <i className="fa-solid fa-user mr-3"></i><strong>Mr. Vikas Bhandari</strong><br/> <p className="ml-25">System Administrator</p>
                             </span>
                         </li>
                         <li className="tl-event-details-info">
@@ -166,7 +166,7 @@ const ContactUs = () => {
                     </ul>
                 </div>
 
-                <div className="col-lg-6 mt-10">
+                {/*<div className="col-lg-6 mt-10">
                     <ul className="tl-event-details-infos pl-50">
                         <li className="tl-event-details-info">
                             <span className="key">
@@ -189,7 +189,7 @@ const ContactUs = () => {
                         </li>
                     </ul>
                 
-                </div>
+                </div>*/}
             </div>
 
             <div className="row align-items-center justify-content-center">
