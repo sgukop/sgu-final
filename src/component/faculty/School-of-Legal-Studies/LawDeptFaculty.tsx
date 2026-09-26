@@ -22,7 +22,7 @@ const LawDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/law/1. Adv. Dr. ANJALI PATIL.jpg" alt="Faculty Image"/>
+                                <img src="/assets/images/faculty-profile-photos/law/Adv. Dr. ANJALI PATIL.jpeg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -36,7 +36,7 @@ const LawDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/law/2. Adv. Ms. VANDANA BHOSALE.jpg" alt="Faculty Image"/>
+                                <img src="/assets/images/faculty-profile-photos/law/Vandana B..jpeg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -50,7 +50,7 @@ const LawDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/law/3. Mr. NIRAJ APTE.jpg" alt="Faculty Image"/>
+                                <img src="/assets/images/faculty-profile-photos/law/Niraj.jpeg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">

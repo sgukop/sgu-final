@@ -44,7 +44,40 @@ const LawDeptActivities = () => {
         <div className="tl-11-section-heading mt-50"><h2 className="tl-11-section-title">Latest Events</h2></div>
 
           <div className="row g-xl-4 g-3 justify-content-center">
-            
+             <div className="col-xl-6 col-lg-10">
+            <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+              <div className="tl-8-course-img">
+                <img
+                  src="assets/images/law-dept/activities&achievements/1.jpg"
+                  alt="Achievement Image"
+                />
+              </div>
+              <div className="tl-8-course-txt">
+                <p className="dark-mode-white-color">
+                <strong>Inauguration of the School of Legal Studies</strong><br/>
+                Adv. Dr. Ujwal Nikam and President Mr. Sanjay Ghodawat officially inaugurate the School of Legal Studies, marking a new milestone in legal education and excellence.
+
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="col-xl-6 col-lg-10">
+            <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+              <div className="tl-8-course-img">
+                <img
+                  src="assets/images/law-dept/activities&achievements/latest-events/1.png"
+                  alt="Achievement Image"
+                />
+              </div>
+              <div className="tl-8-course-txt">
+                <p className="dark-mode-white-color">
+                    Students won Runner up prize in 10th All India Shivaji University Moot Court and ADR Competition and Vidhi Mela 2025
+                </p>
+              </div>
+            </div>
+          </div>
+          
+          
             <div className="col-xl-6 col-lg-10">
             <div className="tl-8-course flex flex-col rounded-[20px] h-full">
               <div className="tl-8-course-img">
@@ -225,40 +258,9 @@ const LawDeptActivities = () => {
             </div>
           </div>
            
-          <div className="col-xl-6 col-lg-10">
-            <div className="tl-8-course flex flex-col rounded-[20px] h-full">
-              <div className="tl-8-course-img">
-                <img
-                  src="assets/images/law-dept/activities&achievements/1.jpg"
-                  alt="Achievement Image"
-                />
-              </div>
-              <div className="tl-8-course-txt">
-                <p className="dark-mode-white-color">
-                <strong>Inauguration of the School of Legal Studies</strong><br/>
-                Adv. Dr. Ujwal Nikam and President Mr. Sanjay Ghodawat officially inaugurate the School of Legal Studies, marking a new milestone in legal education and excellence.
-
-                </p>
-              </div>
-            </div>
-          </div>
           
 
-            <div className="col-xl-6 col-lg-10">
-            <div className="tl-8-course flex flex-col rounded-[20px] h-full">
-              <div className="tl-8-course-img">
-                <img
-                  src="assets/images/law-dept/activities&achievements/latest-events/1.png"
-                  alt="Achievement Image"
-                />
-              </div>
-              <div className="tl-8-course-txt">
-                <p className="dark-mode-white-color">
-                    Students won Runner up prize in 10th All India Shivaji University Moot Court and ADR Competition and Vidhi Mela 2025
-                </p>
-              </div>
-            </div>
-          </div>
+            
           <div className="col-xl-6 col-lg-10">
             <div className="tl-8-course flex flex-col rounded-[20px] h-full">
               <div className="tl-8-course-img">

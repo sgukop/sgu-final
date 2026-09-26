@@ -39,18 +39,38 @@ const BtechSyllabus = () => {
                   <td><p>LL.B-II 2nd Year</p></td>
                   <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/683fee7890b84f1a67c85a6c">LL.B-II 2nd Year <i className="fa-regular fa-arrow-right-long"></i></a></td>
              </tr>
-            {/* <tr>
-                  <td><p>Teaching and Evaluation Scheme FY BA LLB AnnexureXXXVIII</p></td>
-                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/67517a734b17e19d8f361f25">Teaching and Evaluation Scheme FY BA LLB AnnexureXXXVIII <i className="fa-regular fa-arrow-right-long"></i></a></td>
+             <tr>
+                  <td><p>LLB 3rd Year</p></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6ab7a339f7f7f18b12973794">LLB 3rd Year <i className="fa-regular fa-arrow-right-long"></i></a></td>
              </tr>
              <tr>
-                  <td><p>Teaching and Evaluation Scheme FY BBALLB Annexure XXXIXI</p></td>
-                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/67517a8b4b17e19d8f361f2a">Teaching and Evaluation Scheme FY BBALLB Annexure XXXIX <i className="fa-regular fa-arrow-right-long"></i></a></td>
+                  <td><p>BBA LLB 3rd Year</p></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6ab7a3d5f7f7f18b12973799">BBA LLB 3rd Year <i className="fa-regular fa-arrow-right-long"></i></a></td>
              </tr>
              <tr>
-                  <td><p>Teaching and Evaluation scheme FYLLB Annexure XXXVII</p></td>
-                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/67517a9e4b17e19d8f361f2f">Teaching and Evaluation scheme FYLLB Annexure XXXVII <i className="fa-regular fa-arrow-right-long"></i></a></td>
-             </tr>  */}
+                  <td><p>BA LLB 3rd Year</p></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6ab7a419f7f7f18b1297379e">BA LLB 3rd Year <i className="fa-regular fa-arrow-right-long"></i></a></td>
+             </tr>
+             <tr>
+                  <td><p>BA LLB 3rd Year</p></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6ab7a419f7f7f18b1297379e">BA LLB 3rd Year <i className="fa-regular fa-arrow-right-long"></i></a></td>
+             </tr> 
+             <tr>
+                  <td><p>IPR HONOURS GROUP</p></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6ab7a45df7f7f18b129737a5">IPR HONOURS GROUP <i className="fa-regular fa-arrow-right-long"></i></a></td>
+             </tr> 
+             <tr>
+                  <td><p>Honours- Group Constitution</p></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6ab7a48df7f7f18b129737aa">Honours- Group Constitution <i className="fa-regular fa-arrow-right-long"></i></a></td>
+             </tr> 
+             <tr>
+                  <td><p>Honors Criminal Law Group</p></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6ab7a4c7f7f7f18b129737af">Honors Criminal Law Group <i className="fa-regular fa-arrow-right-long"></i></a></td>
+             </tr>   
+             <tr>
+                  <td><p>Honors Business- Banking</p></td>
+                  <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6ab7a513f7f7f18b129737b4">Honors Business- Banking <i className="fa-regular fa-arrow-right-long"></i></a></td>
+             </tr>   
               
           </tbody>
       </Table>
