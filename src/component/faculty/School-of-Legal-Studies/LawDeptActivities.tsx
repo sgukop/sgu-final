@@ -44,7 +44,187 @@ const LawDeptActivities = () => {
         <div className="tl-11-section-heading mt-50"><h2 className="tl-11-section-title">Latest Events</h2></div>
 
           <div className="row g-xl-4 g-3 justify-content-center">
+            
+            <div className="col-xl-6 col-lg-10">
+            <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+              <div className="tl-8-course-img">
+                <img
+                  src="assets/images/law-dept/activities&achievements/latest-events/21.jpg"
+                  alt="Achievement Image"
+                />
+              </div>
+               <div className="tl-8-course-img">
+                <img
+                  src="assets/images/law-dept/activities&achievements/latest-events/22.jpg"
+                  alt="Achievement Image"
+                />
+              </div>
+               
+              <div className="tl-8-course-txt">
+                <p className="dark-mode-white-color">
+                <strong></strong><br/>
+                Democracy Day was celebrated with enthusiasm in School of Legal Studies on 15th September, 2025. Students participated in Poster Making and Extempore Competition. 
+                </p>
+              </div>
+            </div>
+          </div> 
 
+            
+             <div className="col-xl-6 col-lg-10">
+            <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+              <div className="tl-8-course-img">
+                <img
+                  src="assets/images/law-dept/activities&achievements/latest-events/18.jpg"
+                  alt="Achievement Image"
+                />
+              </div>
+               <div className="tl-8-course-img">
+                <img
+                  src="assets/images/law-dept/activities&achievements/latest-events/19.jpg"
+                  alt="Achievement Image"
+                />
+              </div>
+               
+              <div className="tl-8-course-txt">
+                <p className="dark-mode-white-color">
+                <strong></strong><br/>
+                Sanjay Ghodawat University, School of Legal Studies had organized a Legal Aid Clinic for Aganwadi and Ashatai workers in association with Taluka Vidhi Samiti, Ichalkaranji and Kolhapur. The ladies presented in huge numbers and were given information about about several Women centric laws. 
+                </p>
+              </div>
+            </div>
+          </div> 
+
+             <div className="col-xl-6 col-lg-10">
+            <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+              <div className="tl-8-course-img">
+                <img
+                  src="assets/images/law-dept/activities&achievements/latest-events/16.jpg"
+                  alt="Achievement Image"
+                />
+              </div>
+               <div className="tl-8-course-img">
+                <img
+                  src="assets/images/law-dept/activities&achievements/latest-events/17.jpg"
+                  alt="Achievement Image"
+                />
+              </div>
+               <div className="tl-8-course-img">
+                <img
+                  src="assets/images/law-dept/activities&achievements/latest-events/18.jpg"
+                  alt="Achievement Image"
+                />
+              </div>
+              <div className="tl-8-course-txt">
+                <p className="dark-mode-white-color">
+                <strong></strong><br/>
+                Students of School of Legal Studies, on 15th August,2025 Independence Day, performed a Street Play in Kameri Village, Dist- Sangli, in order to create awareness among the villagers regarding Cyber Crimes and Child Marriages. The Sarpanch of Kameri Grampanchayat encouraged the same and also provided the opportunity to visit the Grampanchayat
+                </p>
+              </div>
+            </div>
+          </div> 
+
+
+
+                 <div className="col-xl-6 col-lg-10">
+            <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+              <div className="tl-8-course-img">
+                <img
+                  src="assets/images/law-dept/activities&achievements/latest-events/13.jpg"
+                  alt="Achievement Image"
+                />
+              </div>
+               <div className="tl-8-course-img">
+                <img
+                  src="assets/images/law-dept/activities&achievements/latest-events/14.jpg"
+                  alt="Achievement Image"
+                />
+              </div>
+               <div className="tl-8-course-img">
+                <img
+                  src="assets/images/law-dept/activities&achievements/latest-events/15.jpg"
+                  alt="Achievement Image"
+                />
+              </div>
+              <div className="tl-8-course-txt">
+                <p className="dark-mode-white-color">
+                <strong></strong><br/>
+                The School of Legal Studies organized an expert session on Alternative Dispute Resolution (ADR) on 13th February 2026 with the objective of enhancing students’ understanding of amicable and efficient methods of dispute settlement. The programme was conducted in collaboration with the Taluka Vidhi Seva Samiti, Hatkanangale, and was graced by the presence of the Hon’ble Civil Judge Junior Division, Ichalkaranji Smt Monali S. Gawde as the Chief Guest, along with highly experienced, knowledgeable, and distinguished advocate members Adv Suraj G. Ogale, Adv Varsharani Chougule and Adv Archana kulkarni of the Samiti. The session commenced with a formal welcome and felicitation of the dignitaries, setting a professional and engaging tone for the event.
+
+                </p>
+              </div>
+            </div>
+          </div> 
+
+
+             <div className="col-xl-6 col-lg-10">
+            <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+              <div className="tl-8-course-img">
+                <img
+                  src="assets/images/law-dept/activities&achievements/latest-events/9.jpg"
+                  alt="Achievement Image"
+                />
+              </div>
+              <div className="tl-8-course-txt">
+                <p className="dark-mode-white-color">
+                <strong></strong><br/>
+                Award for the Best Written Submission  Petitioner in 11th B.M. Sreenivasaiah Memorial Moot Court Competition, 2026. B.M.S Law college, Bengaluru 
+
+                </p>
+              </div>
+            </div>
+          </div>
+            <div className="col-xl-6 col-lg-10">
+            <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+              <div className="tl-8-course-img">
+                <img
+                  src="assets/images/law-dept/activities&achievements/latest-events/10.jpg"
+                  alt="Achievement Image"
+                />
+              </div>
+              <div className="tl-8-course-txt">
+                <p className="dark-mode-white-color">
+                <strong></strong><br/>
+               Best Researcher Award to Ms. Kalyanee Udya Desai at 11th All India Shivaji University Moot Court, ADR Competition And Vidhi Mela 2026 Shivaji University Kolhapur.
+
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="col-xl-6 col-lg-10">
+            <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+              <div className="tl-8-course-img">
+                <img
+                  src="assets/images/law-dept/activities&achievements/latest-events/11.jpg"
+                  alt="Achievement Image"
+                />
+              </div>
+              <div className="tl-8-course-txt">
+                <p className="dark-mode-white-color">
+                <strong></strong><br/>
+                First runner-up in Moot Court Competition at 11th All India Shivaji University Moot Court, ADR Competition And Vidhi Mela 2026 Shivaji University Kolhapur
+
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="col-xl-6 col-lg-10">
+            <div className="tl-8-course flex flex-col rounded-[20px] h-full">
+              <div className="tl-8-course-img">
+                <img
+                  src="assets/images/law-dept/activities&achievements/latest-events/12.jpg"
+                  alt="Achievement Image"
+                />
+              </div>
+              <div className="tl-8-course-txt">
+                <p className="dark-mode-white-color">
+                <strong></strong><br/>
+                First runner-up in ADR Competition at 11th All India Shivaji University Moot Court, ADR Competition And Vidhi Mela 2026 Shivaji University Kolhapur.
+
+                </p>
+              </div>
+            </div>
+          </div>
+           
           <div className="col-xl-6 col-lg-10">
             <div className="tl-8-course flex flex-col rounded-[20px] h-full">
               <div className="tl-8-course-img">

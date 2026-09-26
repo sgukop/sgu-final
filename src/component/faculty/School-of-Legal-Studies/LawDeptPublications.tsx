@@ -39,21 +39,7 @@ const LawDeptPublications = () => {
                   </div>
                 </div>
             </div>
-            <div className="row tl-event-details-row g-0">
-                <div className="col-lg-12">
-                   <div className="tl-event-details-left">
-                       <div className="tl-event-details-key-content tl-event-details-area">
-                            <h6 className="text-[#4f70b6]"><strong>Name: - Adv. Dr. Vandana Bhosale </strong></h6>
-                            <h6 className="text-[#4f70b6]"><strong>Designation: - Assistant Professor, SGU.</strong></h6>
-                            <ul className="tl-event-details-key-content-list phd-container mt-30">
-                                    <li>Securing Cyberspace: Navigating the Challenges of Revenge Porn, Blackmail, and Internet Privacy in India with Reference to Young Generation", Technology, Media and the Youth: Exploring the Contest of Sustainable Development and Growth </li>
-                                    
-                            </ul>
-                        </div>
-                  </div>
-                </div>
-            </div>
-
+            
 
             <div className="row tl-event-details-row g-0">
                 <div className="col-lg-12">
@@ -119,6 +105,20 @@ const LawDeptPublications = () => {
         </div>
     </div>
 </div>
+<div className="row tl-event-details-row g-0">
+                <div className="col-lg-12">
+                   <div className="tl-event-details-left">
+                       <div className="tl-event-details-key-content tl-event-details-area">
+                            <h6 className="text-[#4f70b6]"><strong>Name: - Adv. Dr. Vandana Bhosale </strong></h6>
+                            <h6 className="text-[#4f70b6]"><strong>Designation: - Assistant Professor, SGU.</strong></h6>
+                            <ul className="tl-event-details-key-content-list phd-container mt-30">
+                                    <li>Securing Cyberspace: Navigating the Challenges of Revenge Porn, Blackmail, and Internet Privacy in India with Reference to Young Generation", Technology, Media and the Youth: Exploring the Contest of Sustainable Development and Growth </li>
+                                    
+                            </ul>
+                        </div>
+                  </div>
+                </div>
+            </div>
 </section>
     )
 }
