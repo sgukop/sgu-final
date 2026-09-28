@@ -31,7 +31,7 @@ const AerospaceDeptAbout = () => {
               <div className="col-lg-5">
                 <div className="tl-14-about-img">
                   <img
-                    src="assets/images/faculty-profile-photos/aeronautical/11.jpeg"
+                    src="assets/images/faculty-profile-photos/aeronautical/112.jpg"
                     alt="HOD Image"
                     className="rounded-full"
                     style={{border:"10px solid #4f70b6", padding:"100px"}}

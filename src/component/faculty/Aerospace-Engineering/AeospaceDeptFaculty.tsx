@@ -52,7 +52,7 @@ const AerospaceDeptFaculty = () => {
                                         </div>
 
                                         <div className="tl-1-course-txt">
-                                            <h4 className="tl-1-course-title-new mt-30">PMr. Ajay Prabhakar Dhawan</h4>
+                                            <h4 className="tl-1-course-title-new mt-30">Mr. Ajay Prabhakar Dhawan</h4>
                                             <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
                                             <Link href="https://manage-api.sguk.ac.in/api/assets/6ab36aa725925678ae8e0f1b" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                                         </div>
@@ -93,7 +93,7 @@ const AerospaceDeptFaculty = () => {
                                         </div>
 
                                         <div className="tl-1-course-txt">
-                                            <h4 className="tl-1-course-title-new mt-30">Mr. Somuva Palit</h4>
+                                            <h4 className="tl-1-course-title-new mt-30">Dr. Somuva Palit</h4>
                                             <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
                                             <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                                         </div>
@@ -106,7 +106,7 @@ const AerospaceDeptFaculty = () => {
                                         </div>
 
                                         <div className="tl-1-course-txt">
-                                            <h4 className="tl-1-course-title-new mt-30">Mrs. Sakthipriya Balu</h4>
+                                            <h4 className="tl-1-course-title-new mt-30">Dr. Sakthipriya Balu</h4>
                                             <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
                                             <Link href="#" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                                         </div>
