@@ -26,16 +26,20 @@ const AIandMLDeptAbout = () => {
             data-offset="0"
           >
             <div className="row g-4">
-              <div className="col-lg-5">
-                <div className="tl-14-about-img">
-                  <img
-                    src="/assets/images/faculty-profile-photos/AIML/aiml-hod.jpg"
-                    alt="HOD Image"
-                    className="rounded-full"
-                    style={{border:"10px solid #4f70b6", padding:"20px"}}
-                  />
-                </div>
+  <          div className="col-lg-5 d-flex justify-content-center align-items-center">
+             <div className="tl-14-about-img">
+              <img
+                    src="/assets/images/faculty-profile-photos/AIML/aiml-hod1.jpg"
+                  alt="HOD Image"
+                className="rounded-full"
+                 style={{
+                  border: "10px solid #4f70b6",
+                  padding: "20px",
+                    }}
+                   />
+               </div>
               </div>
+
 
               <div className="col-lg-7">
                 <div>

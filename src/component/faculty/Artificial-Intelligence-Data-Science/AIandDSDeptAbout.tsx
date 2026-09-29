@@ -25,15 +25,27 @@ const AIandDSDeptAbout = () => {
             data-target="#menu-navbar"
             data-offset="0"
           >
-            <div className="row gy-4 align-items-center">
-                <div className="col-lg-5">
-                    <div className="tl-14-about-img">
-                        <img src="assets/images/faculty-profile-photos/AIDS/aids-hod.png" alt="Image" className="rounded-full"
-                            style={{border:"10px solid #4f70b6", padding:"20px"}}/>
-                    </div>
-                </div>
+           <div className="row g-4">
+  <div className="col-lg-5 d-flex justify-content-center align-items-center">
+    <div className="tl-14-about-img">
+      <img
+        src="/assets/images/faculty-profile-photos/AIDS/aids-hod.png"
+        alt="HOD Image"
+        className="rounded-full"
+        style={{
+          width: "400px",
+          height: "400px",
+          objectFit: "cover",
+          border: "10px solid #4f70b6",
+          padding: "10px",
+        }}
+      />
+    </div>
+  </div>
 
-              <div className="col-lg-7">
+
+
+            <div className="col-lg-7">
                 <div>
                   <h2 className="tl-14-section-title text-[#4f70b6] lg:mt-10 sm:mt-0">HOD's Desk</h2>
                   <p className="dark-mode-white-color text-justify">
