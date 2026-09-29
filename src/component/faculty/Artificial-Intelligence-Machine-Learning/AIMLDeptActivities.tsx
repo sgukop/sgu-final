@@ -17,6 +17,27 @@ const AIMLDeptActivities = () => {
             data-offset="0"
             
           >
+             <h3 className="tl-event-details-area-title">
+  Student Achievement
+</h3>
+
+<div className="row g-3 g-lg-4 lift-content-center">
+
+  <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
+    <div className="tl-9-blog">
+      <div className="tl-9-event-img">
+        <figure>
+          <img
+            src="assets/images/AIML/activities&achievements/5.png"
+            alt="Students at Capgemini Hackathon"
+          />
+        </figure>
+      </div>
+    </div>
+  </div>
+
+  
+</div>
 
                 <h3 className="tl-event-details-area-title">
   Students Achieve Historic Success at Capgemini Hackathon

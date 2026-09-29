@@ -217,7 +217,7 @@ const AIandMLDeptFaculty = () => {
 
                             <div className="tl-1-course-txt">
                                 <h4 className="tl-1-course-title-new mt-30">Ms. Pranali Jagannath Kamble</h4>
-                                <p className="tl-1-course-author-new dark-mode-white-color">Teaching Assistant</p>
+                                <p className="tl-1-course-author-new dark-mode-white-color">Assistant Professor</p>
                                 <Link href="https://manage-api.sguk.ac.in/api/assets/6ab63a33f7f7f18b129732a2" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
                         </div>
@@ -242,7 +242,7 @@ const AIandMLDeptFaculty = () => {
                             </div>
 
                             <div className="tl-1-course-txt">
-                                <h4 className="tl-1-course-title-new mt-30">Mr.Vishal Devadas Harader</h4>
+                                <h4 className="tl-1-course-title-new mt-30">Mr.Vishal Devadas Harade</h4>
                                 <p className="tl-1-course-author-new dark-mode-white-color">Assistant professor  </p>
                                 <Link href="https://manage-api.sguk.ac.in/api/assets/6ab639a3f7f7f18b12973283" rel="noopener noreferrer" target="_blank" className="tl-3-def-btn"> Profile </Link>
                             </div>
