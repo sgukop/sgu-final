@@ -26,22 +26,22 @@ const AIandDSDeptAbout = () => {
             data-offset="0"
           >
            <div className="row g-4">
-  <div className="col-lg-5 d-flex justify-content-center align-items-center">
-    <div className="tl-14-about-img">
-      <img
-        src="/assets/images/faculty-profile-photos/AIDS/aids-hod.png"
-        alt="HOD Image"
-        className="rounded-full"
-        style={{
+            <div className="col-lg-5 d-flex justify-content-center align-items-center">
+             <div className="tl-14-about-img">
+               <img
+              src="/assets/images/faculty-profile-photos/AIDS/aids-hod.png"
+                 alt="HOD Image"
+                className="rounded-full"
+                 style={{
           width: "400px",
           height: "400px",
           objectFit: "cover",
           border: "10px solid #4f70b6",
           padding: "10px",
-        }}
-      />
-    </div>
-  </div>
+                  }}
+              />
+            </div>
+             </div>
 
 
 

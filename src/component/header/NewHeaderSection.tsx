@@ -370,6 +370,9 @@ const NewHeaderSection = () => {
      <sup><img src="assets/images/new-icon-image.gif"/></sup>
       <a href="assets/images/admission-open/01.jpeg" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Brand Of Kolhapur </a>
     
+    <sup><img src="assets/images/new-icon-image.gif"/></sup>
+      <a href="https://forms.gle/AJnMtZPy1PaJgKtX6" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">SGUPET Registration form for A.Y.-2026-27 </a>
+    
     
     
     </Marquee>

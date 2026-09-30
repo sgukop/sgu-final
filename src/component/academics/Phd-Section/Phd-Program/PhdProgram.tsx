@@ -58,7 +58,7 @@ const PhdProgram = () => {
           <span className="bg-blue-100 text-blue-600 px-2 py-1 rounded text-xs">DOCX</span>
         </td>
         <td>
-          <a href="https://manage-api.sguk.ac.in/api/assets/6756cc169173bf9f471abeae" target="_blank" rel="noopener noreferrer">
+          <a href="https://manage-api.sguk.ac.in/api/assets/6abce19ef7f7f18b12974a51" target="_blank" rel="noopener noreferrer">
             <i className="fa-solid fa-file-word text-blue-500"></i>
           </a>
         </td>
@@ -78,6 +78,70 @@ const PhdProgram = () => {
           </a>
         </td>
       </tr>
+       <tr>
+        <td>05</td>
+        <td> Ph.D. Admission Notification 2026-27</td>
+        <td>
+          <span className="bg-green-100 text-green-600 px-2 py-1 rounded text-xs">PDF</span>
+        </td>
+        <td>
+          <a href="https://manage-api.sguk.ac.in/api/assets/6abce491f7f7f18b12974a97" target="_blank" rel="noopener noreferrer">
+            <i className="fa-solid fa-file-pdf text-red-500"></i>
+          </a>
+        </td>
+      </tr>
+       <tr>
+        <td>06</td>
+        <td>Instructions for SGUPET 2026</td>
+        <td>
+          <span className="bg-green-100 text-green-600 px-2 py-1 rounded text-xs">PDF</span>
+        </td>
+        <td>
+          <a href="https://manage-api.sguk.ac.in/api/assets/6abce22bf7f7f18b12974a62" target="_blank" rel="noopener noreferrer">
+            <i className="fa-solid fa-file-pdf text-red-500"></i>
+          </a>
+        </td>
+      </tr>
+       <tr>
+        <td>07</td>
+        <td> Link for Application Form</td>
+        <td>
+          <span className="bg-green-100 text-green-600 px-2 py-1 rounded text-xs">PDF</span>
+        </td>
+        <td>
+          <a href="https://forms.gle/AJnMtZPy1PaJgKtX6" target="_blank" rel="noopener noreferrer">
+            <i className="fa-solid fa-file-pdf text-red-500"></i>
+          </a>
+        </td>
+      </tr>
+       <tr>
+        <td>08</td>
+        <td>SGU Ph.D Admission Information Brochure</td>
+        <td>
+          <span className="bg-green-100 text-green-600 px-2 py-1 rounded text-xs">PDF</span>
+        </td>
+        <td>
+          <a href="https://manage-api.sguk.ac.in/api/assets/6abce35cf7f7f18b12974a77" target="_blank" rel="noopener noreferrer">
+            <i className="fa-solid fa-file-pdf text-red-500"></i>
+          </a>
+        </td>
+      </tr>
+       <tr>
+        <td>09</td>
+        <td> SGUPET Syllabus-2026</td>
+        <td>
+          <span className="bg-green-100 text-green-600 px-2 py-1 rounded text-xs">PDF</span>
+        </td>
+        <td>
+          <a href="https://manage-api.sguk.ac.in/api/assets/6abce3d7f7f7f18b12974a7c" target="_blank" rel="noopener noreferrer">
+            <i className="fa-solid fa-file-pdf text-red-500"></i>
+          </a>
+        </td>
+      </tr>
+       
+       
+        
+
 
     </tbody>
   </table>
