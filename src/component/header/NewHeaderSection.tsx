@@ -53,7 +53,7 @@ const NewHeaderSection = () => {
 
                         {/* Popup Image */}
                        <img
-                          src="assets/images/admission-open/admission-popup.jpeg"
+                          src="assets/images/admission-open/2.jpeg"
                           alt="Popup Banner"
                             className="rounded-lg max-h-[80vh] w-auto object-contain"
                                />
