@@ -1474,6 +1474,7 @@ const MobileNavSection = () => {
                 <li>
                     <a href="https://manage-api.sguk.ac.in/api/assets/6746d2a40566aa1186e16aa5" target="_blank">Credit Transfer Policy</a>
                 </li>
+                <li className="px-4 font-normal text-[15px] py-[3px] hover:text-[#f4b826]"><NavLink href="/swayam-Certificate">Achievements</NavLink></li>
               </ul>
             </li>
 

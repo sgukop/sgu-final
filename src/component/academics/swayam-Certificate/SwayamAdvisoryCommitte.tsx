@@ -24,8 +24,8 @@ const PhdProgram = () => {
                           alt="Admission Open 1"
                           className="img-fluid"
                           style={{
-                            width: "100%",
-                            maxWidth: "500px",
+                            width: "200%",
+                            maxWidth: "1000px",
                             height: "auto",
                             cursor: "pointer",
                           }}
@@ -47,8 +47,8 @@ const PhdProgram = () => {
                           alt="Admission Open 2"
                           className="img-fluid"
                           style={{
-                            width: "100%",
-                            maxWidth: "500px",
+                            width: "200%",
+                            maxWidth: "1000px",
                             height: "auto",
                             cursor: "pointer",
                           }}
