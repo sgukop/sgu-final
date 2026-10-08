@@ -254,7 +254,7 @@ const NewHeaderSection = () => {
                                  <ul className="dropdown-menu1 hidden absolute left-[100%] bg-white top-[10px] py-2 border-t-4 border-[#f4b826]">
                                         <li className="px-4 font-normal text-[15px] py-[3px] hover:text-[#f4b826]"><NavLink href="/swayam-advisory-committee">Swayam Advisory committee</NavLink></li>
                                         <li className="px-4 font-normal text-[15px] py-[3px] hover:text-[#f4b826]"><NavLink href="https://manage-api.sguk.ac.in/api/assets/6746d2a40566aa1186e16aa5">Credit Transfer Policy</NavLink></li>
-                                        <li className="px-4 font-normal text-[15px] py-[3px] hover:text-[#f4b826]"><NavLink href="https://manage-api.sguk.ac.in/api/assets/6ac746773d727bdcc4ca36bc">Achievements</NavLink></li>
+                                        <li className="px-4 font-normal text-[15px] py-[3px] hover:text-[#f4b826]"><NavLink href="/swayam-Certificate">Achievements</NavLink></li>
                                     </ul>
                             </li>
 
