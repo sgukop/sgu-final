@@ -39,21 +39,70 @@ const AIandMLDeptAbout = () => {
                    />
                </div>
               </div>
-
-
-              <div className="col-lg-7">
+                  <div className="col-lg-7">
                 <div>
-                  <h2 className="tl-14-section-title text-[#4f70b6] lg:mt-10 sm:mt-0">HOD's Desk</h2>
+                  <h2 className="tl-14-section-title text-[#4f70b6] lg:mt-10 sm:mt-0">Director’s Desk</h2>
                   <p className="dark-mode-white-color text-justify">
-                  We feel elated to Well-Come and introduce you to our Department of Artificial Intelligence & Machine Learning.ArtificialIntelligence (AI) is now one of the fastest-growing technologies in the job market. Our AIML program aims to provide students with a solid foundation in the principles and techniques of AIML, as well as hands-on experience in applying these technologies to real-world problems. The curriculum of the AIML program is designed with specialized knowledge and skills in Artificial Intelligence, Machine Learning, Deep Learning, Reinforcement learning, Natural Language Processing (NLP), Data Science, Computer Vision, Business Intelligence, Robotics and other interdisciplinary areas. The students will study algorithms and techniques for machine learning and gain practical experience through laboratory work and projects.The department is equipped itself with well qualified teaching faculty with rich teaching, research and industrial experience. The department committed to impart rigorous training to students to generate knowledge through the state-of-the-art concepts and technologies in AI & ML, and transform the Department as a leader in imparting AI & ML education and research. The department offers Bachelor of Technology in AIML and Master of Technology in AIDS.
-                  </p>
-                  <p className="text-center mt-2"><strong>“WISH YOU ALL THE BEST”</strong></p>
+                    Engineering and technology are transforming rapidly, creating new opportunities as well as challenges for the next generation of engineers. At the School of Engineering & Technology, Sanjay Ghodawat University, our endeavour is to complement the University’s vision by creating an academic environment that promotes excellence, innovation, research, industry readiness and holistic development.
+We believe that engineering education must go beyond theoretical knowledge. Our focus is on Outcome-Based Education, experiential and project-based learning, emerging technologies, internships, industry interaction and skill development, enabling students to apply knowledge to real-world problems.
+Research and innovation are integral to our academic culture. We encourage students and faculty to pursue research, patents, consultancy, interdisciplinary projects, entrepreneurship and technology-driven solutions that create meaningful societal impact.
+We are equally committed to developing engineers with professional competence, leadership, communication skills, ethical values and social responsibility. Through mentoring, technical activities, co-curricular initiatives and industry exposure, we strive to prepare our students for successful careers and lifelong learning.
+Our vision is to develop the School of Engineering & Technology as a centre of excellence in engineering education, research and innovation, contributing to the technological and socio-economic development of the nation.
+I invite our students, faculty, industry partners, alumni and all stakeholders to join us in this journey of continuous improvement and excellence.
+
+
+                 </p>
+                  <p className="text-center mt-2"><strong>“Educate to Innovate. Innovate to Lead. Lead to Transform..”</strong></p>
                   <span
                     className="dark-mode-white-color mt-4"
                     style={{ fontWeight: "bold" }}
                   >
                     {" "}
-                    Dr.Santaji Shinde <br /> Head of Department{" "}
+                    Prof. Dr. Santaji K. Shinde <br /> Director
+                                                         School of Engineering & Technology
+                                                        Sanjay Ghodawat University, Kolhapur
+
+                                                {" "}
+                  </span>
+                </div>
+              </div>
+            
+                
+  <          div className="col-lg-5 d-flex justify-content-center align-items-center">
+             <div className="tl-14-about-img">
+              <img
+                    src="/assets/images/faculty-profile-photos/AIML/i.png"
+                  alt="HOD Image"
+                className="rounded-full"
+                 style={{
+                  border: "0px solid #4f70b6",
+                  padding: "0px",
+                    }}
+                   />
+               </div>
+              </div>
+              <div className="col-lg-7">
+                <div>
+                  <h2 className="tl-14-section-title text-[#4f70b6] lg:mt-10 sm:mt-0">HOD's Desk</h2>
+                  <p className="dark-mode-white-color text-justify">
+                    It gives me immense pleasure to welcome you to the Department of Artificial Intelligence & Machine Learning (AIML) at Sanjay Ghodawat University.
+                  The future belongs to those who are willing to learn, adapt, innovate and create. AI and Machine Learning are transforming every sector, and our responsibility is to prepare our students to become confident professionals and innovators who can shape this transformation.
+                  At the Department of AIML, we focus on student-centric, outcome-based and experiential learning, combining strong fundamentals with hands-on experience in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Generative AI, Natural Language Processing, Computer Vision, Robotics and emerging technologies.
+                  We encourage every student to question, explore, experiment and learn beyond the classroom through projects, internships, industry interaction, technical activities, research and innovation. Our faculty members are committed to mentoring students and providing the guidance and opportunities needed to discover and develop their individual potential.
+                      More importantly, we want our students to develop not only technical competence, but also creativity, communication, leadership, ethical values, teamwork and the confidence to face real-world challenges.
+                    Every student who enters our department brings a unique dream and potential. Our commitment is to provide the knowledge, mentorship, opportunities and environment that help transform those aspirations into achievement.
+                   I encourage our students to embrace every opportunity, learn continuously, take calculated risks, learn from failures and never stop improving.
+
+                 </p>
+                  <p className="text-center mt-2"><strong>“Learn. Explore. Innovate. Lead.”</strong></p>
+                  <span
+                    className="dark-mode-white-color mt-4"
+                    style={{ fontWeight: "bold" }}
+                  >
+                    {" "}
+                    Dr.Santaji Shinde <br /> Head of Department of Artificial Intelligence & Machine Learning
+                                               Sanjay Ghodawat University, Kolhapur
+                                                {" "}
                   </span>
                 </div>
               </div>
