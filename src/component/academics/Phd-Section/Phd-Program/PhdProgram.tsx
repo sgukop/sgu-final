@@ -220,7 +220,7 @@ const PhdProgram = () => {
                     ["05"," PG Dissertation Internal & External Evaluation Guidelines Research Track","05_RP PG Dissertation Internal"],
                     ["06"," PG Dissertation Internal & External Evaluation Guidlines Industry Track","06_IIP PG Dissertation Internal"],
                     ["07","Dissertation Internal & External Evaluation Guidelines Research Track Pharmacy","07_RP Dissertation Internal"],
-                    ["08"," Dissertation Internal & External Evaluation PG Industry Track Pharmacy","08_IIP Dissertation Internal ",],
+                    ["08"," Dissertation Internal & External Evaluation PG Industry Track Pharmacy","08_IIP Dissertation Internal"],
                   ].map(([no, name, pdfFile, wordFile]) => (
                     <tr key={no}>
                       <td>{no}</td>
