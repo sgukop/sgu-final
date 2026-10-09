@@ -207,7 +207,7 @@ const PhdProgram = () => {
                     <th>No</th>
                     <th>Document Name</th>
                     <th>PDF</th>
-                    <th>Word.</th>
+                   
                   </tr>
                 </thead>
                 <tbody>
@@ -216,11 +216,11 @@ const PhdProgram = () => {
                     ["01","PG Dissertation Guidelines","01_Approved Guidelines for PG Dissertation","01_Approved Guidelines for Peparation of PhD Thesis"],
                     ["02","PG Dissertation Template","02_Approved PG Dissertation Template","02_Approved PG Dissertation Template"],
                     ["03","PG Remuneration Bill","03_Approved PG Examination Remulneration Bill","03_Approved PG Examination Remulneration Bill"],
-                    ["04","B.Tech. Project Evaluation Guidelines","04_B.Tech. Project Evaluation Guidelines","04_B.Tech. Project Evaluation Guidelines"],
-                    ["05"," PG Dissertation Internal & External Evaluation Guidelines Research Track","05_RP PG Dissertation Internal & External Evaluation Guidelines Research Track","05_RP PG Dissertation Internal & External Evaluation Guidelines Research Track"],
-                    ["06"," PG Dissertation Internal & External Evaluation Guidlines Industry Track","06_IIP PG Dissertation Internal & External Evaluation Guidlines Industry Track","06_IIP PG Dissertation Internal & External Evaluation Guidlines Industry Track"],
-                    ["07","Dissertation Internal & External Evaluation Guidelines Research Track Pharmacy","07_RP Dissertation Internal & External Evaluation Guidelines Research Track Pharmacy","07_RP Dissertation Internal & External Evaluation Guidelines Research Track Pharmacy"],
-                    ["08"," Dissertation Internal & External Evaluation PG Industry Track Pharmacy","08_IIP Dissertation Internal & External Evaluation PG Industry Track Pharmacy","08_IIP Dissertation Internal & External Evaluation PG Industry Track Pharmacy"],
+                    ["04","B.Tech. Project Evaluation Guidelines","04_B.Tech. Project Evaluation Guidelines"],
+                    ["05"," PG Dissertation Internal & External Evaluation Guidelines Research Track","05_RP PG Dissertation Internal & External Evaluation Guidelines Research Track"],
+                    ["06"," PG Dissertation Internal & External Evaluation Guidlines Industry Track","06_IIP PG Dissertation Internal & External Evaluation Guidlines Industry Track"],
+                    ["07","Dissertation Internal & External Evaluation Guidelines Research Track Pharmacy","07_RP Dissertation Internal & External Evaluation Guidelines Research Track Pharmacy"],
+                    ["08"," Dissertation Internal & External Evaluation PG Industry Track Pharmacy","08_IIP Dissertation Internal & External Evaluation PG Industry Track Pharmacy",],
                   ].map(([no, name, pdfFile, wordFile]) => (
                     <tr key={no}>
                       <td>{no}</td>
@@ -231,9 +231,7 @@ const PhdProgram = () => {
                         </a>
                       </td>
                       <td>
-                        <a href={`/assets/files/pg/${wordFile}.docx`} target="_blank" rel="noopener noreferrer">
-                          <i className="fa-solid fa-file-word text-blue-500"></i>
-                        </a>
+                        
                       </td>
                     </tr>
                   ))}
