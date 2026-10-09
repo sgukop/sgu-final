@@ -23,9 +23,9 @@ function ExamConvocation() {
               </thead>
               <tbody>
                 <tr>
-                    <td>18-09-2026</td>
+                    <td>09-10-2026</td>
                     <td>
-                      <a href="https://manage-api.sguk.ac.in/api/assets/6ab2647925925678ae8e04d6" target="_blank">8th Convocation Notification on SGU</a>
+                      <a href="https://manage-api.sguk.ac.in/api/assets/6ac87fa43d727bdcc4ca389e" target="_blank">8th Convocation Notification on SGU</a>
                     </td>
                     <td>NOTICE</td>
                   </tr>
