@@ -207,7 +207,7 @@ const PhdProgram = () => {
                     <th>No</th>
                     <th>Document Name</th>
                     <th>PDF</th>
-                    <th>Word</th>
+                    <th>Word.</th>
                   </tr>
                 </thead>
                 <tbody>
