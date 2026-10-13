@@ -53,7 +53,7 @@ const NewHeaderSection = () => {
 
                         {/* Popup Image */}
                      
-                  <div className="fixed inset-0 z-[9999] bg-black flex items-center justify-center">
+                  <div className="fixed inset-0 z-[9999] flex items-center justify-center  bg-opacity-60 backdrop-blur-sm">
                    <iframe
                src="https://www.youtube.com/embed/HVNLKj14lSA?autoplay=1"
                 title="YouTube Live"
