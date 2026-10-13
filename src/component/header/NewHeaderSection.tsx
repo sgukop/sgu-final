@@ -53,11 +53,12 @@ const NewHeaderSection = () => {
 
                         {/* Popup Image */}
                        
-                <div className="flex justify-center items-center w-full">
+               <div className="w-full flex justify-center items-center">
   <iframe
     src="https://www.youtube.com/embed/HVNLKj14lSA"
     title="YouTube Video"
-    className="w-full max-w-7xl h-[600px] md:h-[750px] border-0"
+    className="w-full max-w-7xl h-[750px] border-0"
+    style={{ background: "transparent" }}
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowFullScreen
   ></iframe>
