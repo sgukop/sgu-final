@@ -58,7 +58,7 @@ const NewHeaderSection = () => {
   <iframe
     src="https://www.youtube.com/embed/HVNLKj14lSA?autoplay=1"
     title="YouTube Live"
-    className="w-full h-full border-0"
+      className="rounded-lg w-full max-w-6x2 aspect-video"
     allow="autoplay; encrypted-media; picture-in-picture; fullscreen"
     allowFullScreen
   ></iframe>
