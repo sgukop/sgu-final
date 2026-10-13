@@ -56,7 +56,7 @@ const NewHeaderSection = () => {
                       <iframe
                          src="https://www.youtube.com/embed/HVNLKj14lSA"
                           title="YouTube Video"
-                          className="w-[1150px] h-[750px] max-w-full border-0"
+                          className="w-[1250px] h-[750px] max-w-full border-0"
                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                            allowFullScreen
                        ></iframe>
