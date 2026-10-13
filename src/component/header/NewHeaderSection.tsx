@@ -52,15 +52,17 @@ const NewHeaderSection = () => {
                         </button>
 
                         {/* Popup Image */}
-                     <div className="flex justify-center items-center w-full">
-                        <iframe
-                            src="https://www.youtube.com/embed/HVNLKj14lSA"
-                            title="YouTube Live Video"
-                           className="rounded-lg w-full max-w-4xl aspect-video"
-                          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                             allowFullScreen
-                               ></iframe>
-                               </div>
+                     
+                  <div className="fixed inset-0 z-[9999] bg-black flex items-center justify-center">
+                   <iframe
+               src="https://www.youtube.com/embed/HVNLKj14lSA?autoplay=1"
+                title="YouTube Live"
+                 className="w-screen h-screen"
+                   allow="autoplay; encrypted-media; picture-in-picture; fullscreen"
+                 allowFullScreen
+             ></iframe>
+                  </div>
+
                                  </div>
                               </div>
             )}
