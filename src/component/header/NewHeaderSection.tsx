@@ -39,7 +39,7 @@ const NewHeaderSection = () => {
       <meta name="google-site-verification" content="GxwsG06HAefi2nLkir4k_hQ7JpXzX1qf7bhtGnhWCEk" />
                 {/* --- POPUP MODAL START --- */}
             {pathname === "/" && isPopupOpen && (
-                <div className="fixed inset-0 z-[9999] flex items-center justify-center bg-black bg-opacity-60 backdrop-blur-sm">
+                <div className="fixed inset-0 z-[9999] flex items-center justify-center  bg-opacity-60 backdrop-blur-sm">
 
                     <div className="relative max-w-[90%] max-h-[90vh] bg-white p-2 rounded-lg shadow-2xl"> 
 
