@@ -8,9 +8,9 @@ const StudentCouncil = () => {
         <div className="container">
             <h2 className="tl-9-section-title py-4 rounded-tl-[40px] rounded-br-[40px] w-fit px-8 bg-[#4f70b6] font-bold text-white mx-auto mb-50">Student Council</h2>
             <div className="tl-11-section-heading">
-	                <h2 className="tl-11-section-title">Student Council Coordinators (AY 2023-24)</h2>
+	                <h2 className="tl-11-section-title">Student Council Coordinators (AY 2026-27)</h2>
                 </div>
-            <div className="row g-3 g-lg-4">
+            {/*<div className="row g-3 g-lg-4">
                
                 <div className="col-lg-4 col-md-6 col-12 col-xxs-12">
                     <div className="tl-1-teacher tl-14-teacher">
@@ -232,7 +232,7 @@ const StudentCouncil = () => {
                         </Link>
                     </div>
                 </div>
-            </div>
+            </div>*/}
         </div>
     </section>
   )
