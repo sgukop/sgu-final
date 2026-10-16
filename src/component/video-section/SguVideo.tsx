@@ -15,7 +15,7 @@ const SguVideo = () => {
               <iframe className="rounded-tl-[40px] rounded-br-[40px]" width="100%" height="740" src="https://www.youtube.com/embed/nZw7F0WmiEQ" title="SGUniversity Video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
             </Tab.Pane>
             <Tab.Pane eventKey="tl-7-cat-3-tab">
-              <iframe className="rounded-tl-[40px] rounded-br-[40px]" width="100%" height="740" src="https://www.youtube.com/watch?v=HVNLKj14lSA" title="Invitation for 8th Convocation Ceremony" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+              <iframe className="rounded-tl-[40px] rounded-br-[40px]" width="100%" height="740" src="https://www.youtube.com/embed/HVNLKj14lSA" title="Invitation for 8th Convocation Ceremony" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
             </Tab.Pane>
             <Tab.Pane eventKey="tl-7-cat-4-tab">
               <iframe className="rounded-tl-[40px] rounded-br-[40px]" width="100%" height="740" src="https://www.youtube.com/embed/RfUSqU5Efhg" title="Chairman Sanjay Ghodawat Birthday Massage for Student" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
