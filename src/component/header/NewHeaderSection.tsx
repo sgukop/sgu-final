@@ -38,21 +38,21 @@ const NewHeaderSection = () => {
       </Script>
       <meta name="google-site-verification" content="GxwsG06HAefi2nLkir4k_hQ7JpXzX1qf7bhtGnhWCEk" />
                 {/* --- POPUP MODAL START --- */}
-            {pathname === "/" && isPopupOpen && (
+            {/*{pathname === "/" && isPopupOpen && (
                 <div className="fixed inset-0 z-[9999] flex items-center justify-center  bg-opacity-60 backdrop-blur-sm">
 
-                    <div className="relative max-w-[90%] max-h-[90vh] bg-white p-2 rounded-lg shadow-2xl"> 
+                    <div className="relative max-w-[90%] max-h-[90vh] bg-white p-2 rounded-lg shadow-2xl"> */}
 
                         {/* Close Button */}
-                     <button
+                     {/*<button
                             onClick={() => setIsPopupOpen(false)}
                             className="absolute -top-4 -right-4 bg-[#f26122] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold hover:bg-[#212f64] transition-colors shadow-md z-[10000]"
                         >
                             ✕
-                        </button>
+                        </button>*/}
 
                         {/* Popup Image */}
-                      <div className="flex justify-center items-center w-full">
+                      {/*<div className="flex justify-center items-center w-full">
                       <iframe
                          src="https://www.youtube.com/embed/HVNLKj14lSA"
                          
@@ -63,7 +63,7 @@ const NewHeaderSection = () => {
                      </div>
                     </div>
                 </div>
-            )}
+            )}*/}
             {/* --- POPUP MODAL END --- */} 
             
         
