@@ -15,7 +15,7 @@ const events = [
         image: "assets/images/photo-gallery/academics/8th Convocation Ceremony/3.jpeg",
         title: "8th Convocation Ceremony - 2026",
         description: "Congratulations..!! Sanjay Ghodawat University became first University in India...",
-        slug : "#"
+        slug : "/photo-gallery-eightconvocation"
     },
         
     {
