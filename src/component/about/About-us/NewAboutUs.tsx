@@ -12,8 +12,8 @@ const events = [
         slug : "/photo-gallery-54-birthday"
     },
     {
-        image: "assets/images/latest-news/3.jpg",
-        title: "7th Convocation Ceremony - 2025",
+        image: "assets/images/photo-gallery/academics/8th Convocation Ceremony/3.jpeg",
+        title: "8th Convocation Ceremony - 2026",
         description: "Congratulations..!! Sanjay Ghodawat University became first University in India...",
         slug : "#"
     },
