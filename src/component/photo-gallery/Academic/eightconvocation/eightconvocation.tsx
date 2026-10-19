@@ -11,6 +11,17 @@ const EightConvocation = () => {
     {
         imgSrc: "assets/images/photo-gallery/academics/8th Convocation Ceremony/3.jpeg",
     },
+     {
+        imgSrc: "assets/images/photo-gallery/academics/8th Convocation Ceremony/4.jpeg",
+    },
+{
+        imgSrc: "assets/images/photo-gallery/academics/8th Convocation Ceremony/5.jpeg",
+    },
+    {
+        imgSrc: "assets/images/photo-gallery/academics/8th Convocation Ceremony/6.jpeg",
+    },
+    
+
     
  ];
 
