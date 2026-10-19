@@ -1,7 +1,7 @@
 import React from "react";
 
-const EightConvocation = () => {
-  const EightConvocation = [
+const eightconvocation = () => {
+  const eightconvocation = [
     {
         imgSrc: "assets/images/photo-gallery/academics/8th Convocation Ceremony/1.jpeg",
     },
@@ -32,7 +32,7 @@ return (
         
         <div className="row tl-7-classes-row">
         <h6 className="tl-8-feature-title">8th Convocation Ceremony</h6>
-          {EightConvocation.map((Items, index) => (
+          {eightconvocation.map((Items, index) => (
             <div className="col-lg-4 col-sm-6 rounded-[20px]" key={index}>
               <div className="tl-7-class">
                 <div className="tl-7-class-img">
@@ -48,4 +48,4 @@ return (
   );
 };
 
-export default EightConvocation;
+export default eightconvocation;
