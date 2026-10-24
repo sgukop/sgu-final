@@ -30,7 +30,7 @@ const OfficersOfUniversity = () => {
                     </div>
 
                     <div className='w-[380px] p-3 xl:p-3 rounded-[10%] shadow-[0_0_60px_-10px_#c3c2c2]'>
-                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='/assets/images/officers-in-university/cfo.jpg' />
+                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='/assets/images/officers-in-university/cfo.png' />
                         <p className='text-center text-[#231f20] my-2 font-semibold text-xl justify-center items-center flex'>Mr. P. A. Desai</p>
                         <p className='text-[#231f20] font-medium text-lg text-center'>Chief Finance & Account Officer</p>
                        
