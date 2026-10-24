@@ -20,12 +20,12 @@ const OfficersOfUniversity = () => {
                     </div>
 
                     <div className='w-[380px] p-3 xl:p-3 rounded-[10%] shadow-[0_0_60px_-10px_#c3c2c2]'>
-                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='/assets/images/officers-in-university/ceo.jpg' />
-                        <p className='text-center text-[#231f20] my-2 font-semibold text-xl justify-center items-center flex'>Dr. N.K Patil</p>
+                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='/assets/images/male.jpg' />
+                        <p className='text-center text-[#231f20] my-2 font-semibold text-xl justify-center items-center flex'>Dr. Sanjaykumar M. Ingale</p>
                         <p className='text-[#231f20] font-medium text-lg text-center'>Controller of Examination</p>
                        
                         <div className='my-1 flex gap-2 items-center justify-center'>
-                              <a href="https://manage-api.sguk.ac.in/api/assets/6756bfc99173bf9f471abe13" target="_blank" className="px-6 py-3.5 mt-2 text-[14px] xl:text-xl rounded-tl-[20px] rounded-br-[20px] bg-[#4f70b6] hover:text-[#ffcb04] text-[#ffffff] transition ease-in-out hover:-translate-y-2 hover:scale-105 duration-300">Profile</a>
+                              <a href="#" target="_blank" className="px-6 py-3.5 mt-2 text-[14px] xl:text-xl rounded-tl-[20px] rounded-br-[20px] bg-[#4f70b6] hover:text-[#ffcb04] text-[#ffffff] transition ease-in-out hover:-translate-y-2 hover:scale-105 duration-300">Profile</a>
                         </div>
                     </div>
 
