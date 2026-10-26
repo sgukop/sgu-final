@@ -33,7 +33,7 @@ const BCADeptAbout = () => {
                 <div className="col-lg-6">
                     <div className="tl-14-about-img">
                         <img src="/assets/images/faculty-profile-photos/computer-applications/3. Ms. SWATI PATIL.jpg" alt="About Department" className="rounded-full"
-                          style={{border:"10px solid #4f70b6", padding:"20px"}} />
+                          style={{border:"10px solid #4f70b6", padding:"100px"}} />
                     </div>
                 </div>
 
