@@ -32,7 +32,7 @@ const BCADeptAbout = () => {
             </p>
                 <div className="col-lg-6">
                     <div className="tl-14-about-img">
-                        <img src="assets/images/BCA-dept/about/about-dept.png" alt="About Department" className="rounded-full"
+                        <img src="/assets/images/faculty-profile-photos/computer-applications/3. Ms. SWATI PATIL.jpg" alt="About Department" className="rounded-full"
                           style={{border:"10px solid #4f70b6", padding:"20px"}} />
                     </div>
                 </div>
@@ -41,7 +41,7 @@ const BCADeptAbout = () => {
                     <div className="tl-14-about-txt">
                         <h2 className="tl-14-section-title">HOD's Desk</h2>
                         <p className="dark-mode-white-color text-justify">Department of Computer Applications is established with an aim of building creative IT professionals to acquire core knowledge and skills required by IT industry or research institutes to meet global challenges. The courses are taught by the experienced, qualified faculty, industry experts and the global researchers. <br/><br/> The laboratories are well equipped with advanced software, high configuration computer systems for technical training and research work. Knowledge sharing sessions are conducted by experts and alumni to keep up with the rapidly evolving technology on regular basis.</p>
-                         <span style={{fontWeight:"bold"}} className="dark-mode-white-color mt-6"> Head of Department <br/> Dr. Chetan Arage   </span>
+                         <span style={{fontWeight:"bold"}} className="dark-mode-white-color mt-6"> Head of Department <br/> Ms. SWATI PATIL  </span>
                     </div>
                 </div>
             </div>
