@@ -12,7 +12,7 @@ const EightConvocationPage = () => {
   return (
     <Layout5>
       <BreadcrumbSection
-        title="8th Convocation Ceremony 2024-2025"
+        title="8th Convocation Ceremony 2026-2027"
         style=""
       />
       <EightConvocation />
