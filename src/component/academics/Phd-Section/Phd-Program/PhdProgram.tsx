@@ -85,7 +85,7 @@ const PhdProgram = () => {
           <span className="bg-green-100 text-green-600 px-2 py-1 rounded text-xs">PDF</span>
         </td>
         <td>
-          <a href="https://manage-api.sguk.ac.in/api/assets/6abce491f7f7f18b12974a97" target="_blank" rel="noopener noreferrer">
+          <a href="https://manage-api.sguk.ac.in/api/assets/6ae581c42d42368e9996e98b" target="_blank" rel="noopener noreferrer">
             <i className="fa-solid fa-file-pdf text-red-500"></i>
           </a>
         </td>
