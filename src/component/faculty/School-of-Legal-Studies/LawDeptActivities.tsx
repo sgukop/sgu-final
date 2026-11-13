@@ -406,7 +406,7 @@ const LawDeptActivities = () => {
             <div className="tl-8-course flex flex-col rounded-[20px] h-full">
               <div className="tl-8-course-img">
                 <img
-                  src="assets/images/law-dept/activities&achievements/Guest Lecture on ENV Law.jpg"
+                  src="assets/images/law-dept/activities&achievements/Guest Lecture on ENV Law.png"
                   alt="Achievement Image"
                 />
               </div>
@@ -423,7 +423,7 @@ const LawDeptActivities = () => {
                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <img src="assets/images/law-dept/activities&achievements/debate-competation-award.jpg" alt="Events Image"/>
+                            <img src="assets/images/law-dept/activities&achievements/debate-competation-award.png" alt="Events Image"/>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Debate competation Award</h3>
                     </div>
@@ -432,7 +432,7 @@ const LawDeptActivities = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <img src="assets/images/law-dept/activities&achievements/Moot Court Photo.jpg" alt="Events Image"/>
+                            <img src="assets/images/law-dept/activities&achievements/Moot Court Photo.png" alt="Events Image"/>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Moot Court Photo</h3>
                     </div>
