@@ -322,7 +322,7 @@ const LawDeptActivities = () => {
             </div>
             </div>
 
-            <div className="col-xl-6 col-lg-10">
+            {/*<div className="col-xl-6 col-lg-10">
             <div className="tl-8-course flex flex-col rounded-[20px] h-full">
               <div className="tl-8-course-img">
                 <img
@@ -336,7 +336,7 @@ const LawDeptActivities = () => {
                 </p>
               </div>
             </div>
-            </div>
+            </div>*/}
 
             <div className="col-xl-6 col-lg-10">
             <div className="tl-8-course flex flex-col rounded-[20px] h-full">
