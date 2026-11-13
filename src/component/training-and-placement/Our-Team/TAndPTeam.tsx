@@ -4,7 +4,7 @@ import React from 'react'
 
 const TAndPTeam = () => {
   return (
-    <section className="tl-inner-courses pb-100 pt-100">
+    {/*<section className="tl-inner-courses pb-100 pt-100">
         <div className="container">
         <h2 className="tl-9-section-title py-4 rounded-tl-[40px] rounded-br-[40px] w-fit px-8 bg-[#4f70b6] font-bold text-white mx-auto mb-50">Training & Placement Team</h2>
             <div className="row g-3 g-xl-4">
@@ -69,7 +69,7 @@ const TAndPTeam = () => {
                 </div>   
             </div>
         </div>
-    </section>
+    </section>*/}
   )
 }
 
