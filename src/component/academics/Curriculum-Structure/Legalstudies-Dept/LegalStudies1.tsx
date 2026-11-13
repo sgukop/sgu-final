@@ -39,7 +39,7 @@ const BtechSyllabus = () => {
                   <td><p>LL.B-II 2nd Year</p></td>
                   <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/683fee7890b84f1a67c85a6c">LL.B-II 2nd Year <i className="fa-regular fa-arrow-right-long"></i></a></td>
              </tr>
-             <tr>
+             {/*<tr>
                   <td><p>LLB 3rd Year</p></td>
                   <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6ab7a339f7f7f18b12973794">LLB 3rd Year <i className="fa-regular fa-arrow-right-long"></i></a></td>
              </tr>
@@ -70,7 +70,7 @@ const BtechSyllabus = () => {
              <tr>
                   <td><p>Honors Business- Banking</p></td>
                   <td><a rel="noopener noreferrer" className="tl-def-btn-2" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/6ab7a513f7f7f18b129737b4">Honors Business- Banking <i className="fa-regular fa-arrow-right-long"></i></a></td>
-             </tr>   
+             </tr>   */}
               
           </tbody>
       </Table>
