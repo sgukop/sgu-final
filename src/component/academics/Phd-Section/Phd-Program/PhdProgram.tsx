@@ -102,7 +102,7 @@ const PhdProgram = () => {
           </a>
         </td>
       </tr>
-       <tr>
+       {/* <tr>
         <td>07</td>
         <td> Link for Application Form</td>
         <td>
@@ -113,7 +113,7 @@ const PhdProgram = () => {
             <i className="fa-solid fa-file-pdf text-red-500"></i>
           </a>
         </td>
-      </tr>
+      </tr>*/}
        <tr>
         <td>08</td>
         <td>SGU Ph.D Admission Information Brochure</td>
