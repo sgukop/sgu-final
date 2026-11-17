@@ -11,7 +11,7 @@ const OfficersOfUniversity = () => {
                 <div className='w-full flex flex-wrap justify-center gap-8 mt-10 pb-10'>
                   
                     <div className='w-[380px] p-3 xl:p-3 rounded-[10%] shadow-[0_0_60px_-10px_#c3c2c2]'>
-                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='/assets/images/officers-in-university/registrar.jpg' />
+                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/officers-in-university/registrar.jpg' />
                         <p className='text-center text-[#231f20] my-2 font-semibold text-xl justify-center items-center flex]'>Dr. Vivek M. Kayande</p>
                         <p className='text-[#231f20] font-medium text-lg text-center'>Registrar</p>
                         <div className='my-1 flex gap-2 items-center justify-center'>
@@ -20,7 +20,7 @@ const OfficersOfUniversity = () => {
                     </div>
 
                     <div className='w-[380px] p-3 xl:p-3 rounded-[10%] shadow-[0_0_60px_-10px_#c3c2c2]'>
-                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='/assets/images/officers-in-university/ceo.jpeg' />
+                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/officers-in-university/ceo.jpeg' />
                         <p className='text-center text-[#231f20] my-2 font-semibold text-xl justify-center items-center flex'>Dr. Sanjaykumar M. Ingale</p>
                         <p className='text-[#231f20] font-medium text-lg text-center'>Controller of Examination</p>
                        
@@ -30,7 +30,7 @@ const OfficersOfUniversity = () => {
                     </div>
 
                     <div className='w-[380px] p-3 xl:p-3 rounded-[10%] shadow-[0_0_60px_-10px_#c3c2c2]'>
-                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='/assets/images/officers-in-university/cfo.png' />
+                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/officers-in-university/cfo.png' />
                         <p className='text-center text-[#231f20] my-2 font-semibold text-xl justify-center items-center flex'>Mr. P. A. Desai</p>
                         <p className='text-[#231f20] font-medium text-lg text-center'>Chief Finance & Account Officer</p>
                        
@@ -40,7 +40,7 @@ const OfficersOfUniversity = () => {
                     </div>
 
                     <div className='w-[380px] p-3 xl:p-3 rounded-[10%] shadow-[0_0_60px_-10px_#c3c2c2]'>
-                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='/assets/images/officers-in-university/3.jpg' />
+                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/officers-in-university/3.jpg' />
                         <p className='text-center text-[#231f20] my-2 font-semibold text-xl justify-center items-center flex'>Prof. Dr.V. V. Kulkarni</p>
                         <p className='text-[#231f20] font-medium text-lg text-center'>Dean,Faculty of Science & Technology <br/> Director (Add. Charge)-School of Design</p>
                        
@@ -52,7 +52,7 @@ const OfficersOfUniversity = () => {
 
 
                     <div className='w-[380px] p-3 xl:p-3 rounded-[10%] shadow-[0_0_60px_-10px_#c3c2c2]'>
-                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='/assets/images/officers-in-university/1.jpg' />
+                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/officers-in-university/1.jpg' />
                         <p className='text-center text-[#231f20] my-2 font-semibold text-xl justify-center items-center flex'>Dr. A.D.Sawant</p>
                         <p className='text-[#231f20] font-medium text-lg text-center'>Associate Dean, Physical & Chemical Science</p>
                        
@@ -62,7 +62,7 @@ const OfficersOfUniversity = () => {
                     </div>
 
                     <div className='w-[380px] p-3 xl:p-3 rounded-[10%] shadow-[0_0_60px_-10px_#c3c2c2]'>
-                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='/assets/images/officers-in-university/2.jpg' />
+                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/officers-in-university/2.jpg' />
                         <p className='text-center text-[#231f20] my-2 font-semibold text-xl justify-center items-center flex'>Dr. U. P.Jadhav</p>
                         <p className='text-[#231f20] font-medium text-lg text-center'>I/C Dean,Faculty of Humanities & Social Science <br/> BOS Chairman of Faculty of Liberal Arts. <br/> Director-Knowledge Resource Center Director-School of Social Sciences</p>
                        

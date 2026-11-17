@@ -67,7 +67,7 @@ const PharmacyDeptactivities = () => {
         
               <div className="tl-8-course mb-30 flex flex-col h-full rounded-[20px]">
                   <div className="tl-8-course-img">
-                      <img src="assets/images/pharmacy-dept/activities&achievements/activity-1.jpg" alt="Activity and Achievement Image"/>
+                      <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/pharmacy-dept/activities&achievements/activity-1.jpg" alt="Activity and Achievement Image"/>
                   </div>
                   <div className="tl-8-course-txt">
                       <p className="dark-mode-white-color">Field Visit at Srinivas Pharma, Sangli and Bharati Hospital, Sangli for course Hospital and Clinical Pharmacy and Community Pharmacy & Management Dt. 29-08-2024</p>
@@ -78,7 +78,7 @@ const PharmacyDeptactivities = () => {
             <div className="col-xl-6 col-lg-10">
               <div className="tl-8-course mb-30 flex flex-col h-full rounded-[20px]">
                   <div className="tl-8-course-img">
-                      <img src="assets/images/pharmacy-dept/activities&achievements/activity-2.jpg" alt="Activity and Achievement Image"/>
+                      <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/pharmacy-dept/activities&achievements/activity-2.jpg" alt="Activity and Achievement Image"/>
                   </div>
                   <div className="tl-8-course-txt">
                       <p className="dark-mode-white-color">Guest Lecture by Dr. Sameer Nadaf on Quality by Design (QbD) Dt. 06-09-2024 </p>
@@ -89,7 +89,7 @@ const PharmacyDeptactivities = () => {
             <div className="col-xl-6 col-lg-10">
               <div className="tl-8-course mb-30 flex flex-col h-full rounded-[20px]">
                   <div className="tl-8-course-img">
-                      <img src="assets/images/pharmacy-dept/activities&achievements/activity-3.jpg" alt="Activity and Achievement Image"/>
+                      <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/pharmacy-dept/activities&achievements/activity-3.jpg" alt="Activity and Achievement Image"/>
                   </div>
                   <div className="tl-8-course-txt">
                       <p className="dark-mode-white-color">Tree Plantation: Ek Ped Maan ke Naam (Plant 4 mother) Dt. 17-09-2024</p>
@@ -100,7 +100,7 @@ const PharmacyDeptactivities = () => {
             <div className="col-xl-6 col-lg-10">
               <div className="tl-8-course mb-30 flex flex-col h-full rounded-[20px]">
                   <div className="tl-8-course-img">
-                      <img src="assets/images/pharmacy-dept/activities&achievements/activity-4.jpg" alt="Activity and Achievement Image"/>
+                      <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/pharmacy-dept/activities&achievements/activity-4.jpg" alt="Activity and Achievement Image"/>
                   </div>
                   <div className="tl-8-course-txt">
                       <p className="dark-mode-white-color">Pharma Exert Guest Lecture by Prof. Sachin Lokapure, Director, SAGLO Research Centre on IPR and Entrepreneurship development through IPR Dt. 18-09-2024</p>
@@ -111,7 +111,7 @@ const PharmacyDeptactivities = () => {
             <div className="col-xl-6 col-lg-10">
               <div className="tl-8-course mb-30 flex flex-col h-full rounded-[20px]">
                   <div className="tl-8-course-img">
-                      <img src="assets/images/pharmacy-dept/activities&achievements/activity-5.jpg" alt="Activity and Achievement Image"/>
+                      <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/pharmacy-dept/activities&achievements/activity-5.jpg" alt="Activity and Achievement Image"/>
                   </div>
                   <div className="tl-8-course-txt">
                       <p className="dark-mode-white-color">NPTEL Awareness Workshop on Course enrolment, exam registration & credit transfer policy Dt. 19-09-2024 & 23-09-2024</p>
@@ -124,7 +124,7 @@ const PharmacyDeptactivities = () => {
               <div className="col-xl-6 col-lg-10">
               <div className="tl-8-course mb-30 flex flex-col h-full rounded-[20px]">
                   <div className="tl-8-course-img">
-                      <img src="assets/images/pharmacy-dept/activities&achievements/activity-7.jpg" alt="Activity and Achievement Image"/>
+                      <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/pharmacy-dept/activities&achievements/activity-7.jpg" alt="Activity and Achievement Image"/>
                   </div>
                   <div className="tl-8-course-txt">
                       <p className="dark-mode-white-color">Guest Lecture by Prof. V. N. Raje on Diploma Pharmacy Exit Exam 2024 Dt. 19-09-2024</p>
@@ -135,7 +135,7 @@ const PharmacyDeptactivities = () => {
             <div className="col-xl-6 col-lg-10">
               <div className="tl-8-course mb-30 flex flex-col h-full rounded-[20px]">
                   <div className="tl-8-course-img">
-                      <img src="assets/images/pharmacy-dept/activities&achievements/activity-8.jpg" alt="Activity and Achievement Image"/>
+                      <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/pharmacy-dept/activities&achievements/activity-8.jpg" alt="Activity and Achievement Image"/>
                   </div>
                   <div className="tl-8-course-txt">
                       <p className="dark-mode-white-color">World Pharmacist Day Celebration: Debate & Skit Competition on 25-09-2024</p>
@@ -145,7 +145,7 @@ const PharmacyDeptactivities = () => {
               <div className="col-xl-6 col-lg-10">
               <div className="tl-8-course mb-30 flex flex-col h-full rounded-[20px]">
                   <div className="tl-8-course-img">
-                      <img src="assets/images/pharmacy-dept/activities&achievements/activity-9.jpg" alt="Activity and Achievement Image"/>
+                      <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/pharmacy-dept/activities&achievements/activity-9.jpg" alt="Activity and Achievement Image"/>
                   </div>
                   <div className="tl-8-course-txt">
                       <p className="dark-mode-white-color">Workshop on Artificial Intelligence in Pharma organised by SGU in association with Makein-tern and IIT Hyderabad</p>
@@ -156,7 +156,7 @@ const PharmacyDeptactivities = () => {
             <div className="col-xl-6 col-lg-10">
               <div className="tl-8-course mb-30 flex flex-col h-full rounded-[20px]">
                   <div className="tl-8-course-img">
-                      <img src="assets/images/pharmacy-dept/activities&achievements/activity-10.jpg" alt="Activity and Achievement Image"/>
+                      <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/pharmacy-dept/activities&achievements/activity-10.jpg" alt="Activity and Achievement Image"/>
                   </div>
                   <div className="tl-8-course-txt">
                       <p className="dark-mode-white-color">Guest Lecture by Dr. Bhutkar on Recent trends in NDDS Dt. 10-10-2024</p>
@@ -167,7 +167,7 @@ const PharmacyDeptactivities = () => {
             <div className="col-xl-6 col-lg-10">
                 <div className="tl-8-course mb-30 flex flex-col h-full rounded-[20px]">
                   <div className="tl-8-course-img">
-                      <img src="assets/images/pharmacy-dept/activities&achievements/activity-11.jpg" alt="Activity and Achievement Image"/>
+                      <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/pharmacy-dept/activities&achievements/activity-11.jpg" alt="Activity and Achievement Image"/>
                   </div>
                   <div className="tl-8-course-txt">
                       <p className="dark-mode-white-color">National cGMP Day Dt. 10-10-2024</p>
@@ -178,7 +178,7 @@ const PharmacyDeptactivities = () => {
             <div className="col-xl-6 col-lg-10">
               <div className="tl-8-course mb-30 flex flex-col h-full rounded-[20px]">
                   <div className="tl-8-course-img">
-                      <img src="assets/images/pharmacy-dept/activities&achievements/activity-12.jpg" alt="Activity and Achievement Image"/>
+                      <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/pharmacy-dept/activities&achievements/activity-12.jpg" alt="Activity and Achievement Image"/>
                   </div>
                   <div className="tl-8-course-txt">
                       <p className="dark-mode-white-color">Field Visit at Sushil LLP, Ichalkaranji Dt. 10-10-2024</p>
@@ -189,7 +189,7 @@ const PharmacyDeptactivities = () => {
             <div className="col-xl-6 col-lg-10">
               <div className="tl-8-course mb-30 flex flex-col h-full rounded-[20px]">
                   <div className="tl-8-course-img">
-                      <img src="assets/images/pharmacy-dept/activities&achievements/activity-13.jpg" alt="Activity and Achievement Image"/>
+                      <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/pharmacy-dept/activities&achievements/activity-13.jpg" alt="Activity and Achievement Image"/>
                   </div>
                   <div className="tl-8-course-txt">
                       <p className="dark-mode-white-color">Inauguration of M. Pharm Program Dt. 14-10-2024</p>
@@ -200,7 +200,7 @@ const PharmacyDeptactivities = () => {
             <div className="col-xl-6 col-lg-10">
               <div className="tl-8-course mb-30 flex flex-col h-full rounded-[20px]">
                   <div className="tl-8-course-img">
-                      <img src="assets/images/pharmacy-dept/activities&achievements/activity-14.jpg" alt="Activity and Achievement Image"/>
+                      <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/pharmacy-dept/activities&achievements/activity-14.jpg" alt="Activity and Achievement Image"/>
                   </div>
                   <div className="tl-8-course-txt">
                       <p className="dark-mode-white-color">Parents meet Dt. 18-10-2024</p>

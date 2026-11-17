@@ -41,7 +41,7 @@ const TAndPAbout = () => {
                
             <div className="tl-8-course mb-30">
                 <div className="tl-8-course-img">
-                    <img src="assets/images/training-and-placement/about/Tata_Tech_MoU.jpg" alt="Achievement Image"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/training-and-placement/about/Tata_Tech_MoU.jpg" alt="Achievement Image"/>
                 </div>
                 <div className="tl-8-course-txt">
                     <p className="dark-mode-white-color"><strong>Sanjay Ghodawat University has signed up an MOU with TATA Technologies for an alliance to bring excellence in academic practices in proximity with industrial practices that will benefit Engg & MBA students and make them industry ready.</strong></p>
@@ -50,7 +50,7 @@ const TAndPAbout = () => {
 
             <div className="tl-8-course mb-30">
                 <div className="tl-8-course-img">
-                    <img src="assets/images/training-and-placement/about/PARI_MoU.jpg" alt="Achievement Image"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/training-and-placement/about/PARI_MoU.jpg" alt="Achievement Image"/>
                 </div>
                 <div className="tl-8-course-txt">
                     <p className="dark-mode-white-color"><strong>Sanjay Ghodawat University has signed MoU with Precision Automation & Robotics India (PARI) in presence of Dr. Uday Bhosale, HR Director PARI, Dean Dr. M. T. Telsang, Director Dr. V. V. Kulkarni & Head T& P Mr. A.R.Sarkar on 14th February 2019</strong></p>
@@ -59,7 +59,7 @@ const TAndPAbout = () => {
 
             <div className="tl-8-course mb-30">
                 <div className="tl-8-course-img">
-                    <img src="assets/images/training-and-placement/about/KOEL-MoU.jpg" alt="Achievement Image"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/training-and-placement/about/KOEL-MoU.jpg" alt="Achievement Image"/>
                 </div>
                 <div className="tl-8-course-txt">
                     <p className="dark-mode-white-color"><strong>Sanjay Ghodawat University has signed MoU with Kirloskar Oil Engines Ltd. In presence of Hon. Vice Chancellor Dr. V. A. Raikar , Mr. R. R. Deshpande, Joint Managing Director, Mr. C. G. Ranade AVP and Kagal Plant Head and Mr. Krishna Gavade, AVP KOEL on 20th July 2018</strong></p>
@@ -68,7 +68,7 @@ const TAndPAbout = () => {
 
             <div className="tl-8-course mb-30">
                 <div className="tl-8-course-img">
-                    <img src="assets/images/training-and-placement/about/Wipro-appreciation.jpg" alt="Achievement Image"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/training-and-placement/about/Wipro-appreciation.jpg" alt="Achievement Image"/>
                 </div>
                 <div className="tl-8-course-txt">
                     <p className="dark-mode-white-color"><strong>Certificate of Appreciation from Wipro Company</strong></p>
@@ -77,7 +77,7 @@ const TAndPAbout = () => {
 
             <div className="tl-8-course mb-30">
                 <div className="tl-8-course-img">
-                    <img src="assets/images/training-and-placement/about/Navy-appreciation.jpg" alt="Achievement Image"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/training-and-placement/about/Navy-appreciation.jpg" alt="Achievement Image"/>
                 </div>
                 <div className="tl-8-course-txt">
                     <p className="dark-mode-white-color"><strong>Certificate of Appreciation from Indian Navy</strong></p>

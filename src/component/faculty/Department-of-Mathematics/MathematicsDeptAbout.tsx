@@ -9,7 +9,7 @@ import POs from './Program-Educational-Objectives/POs';
 
 const MathematicsDeptAbout = () => {
    return (
-    <section className="tl-14-about pt-100 pb-100" data-background="assets/images/tl-14/cta-bg.png">
+    <section className="tl-14-about pt-100 pb-100" data-background="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-14/cta-bg.png">
         <div className="container-fluid">
         <h2 className="tl-9-section-title mb-50">About Mathematics Department</h2>
         <div className="row">
@@ -23,7 +23,7 @@ const MathematicsDeptAbout = () => {
             <div className="row gy-4 align-items-center">
                 <div className="col-lg-6">
                     <div className="tl-14-about-img">
-                        <img src="assets/images/department-of-mathematics/about-department/about-dept-image.png" alt="About Department" className="rounded-full"
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/about-department/about-dept-image.png" alt="About Department" className="rounded-full"
                           style={{border:"10px solid #4f70b6", padding:"20px"}} />
                     </div>
                 </div>

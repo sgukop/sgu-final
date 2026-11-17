@@ -31,7 +31,7 @@ const MathematicsDeptEvents = () => {
                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/department-of-mathematics/events/womens-day/wd1.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/events/womens-day/wd1.jpg" alt="Events Image"/></figure>
                         </div>
                     </div>
                   </div>
@@ -39,7 +39,7 @@ const MathematicsDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/department-of-mathematics/events/womens-day/wd2.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/events/womens-day/wd2.jpg" alt="Events Image"/></figure>
                         </div>
                     </div>
                   </div>
@@ -47,7 +47,7 @@ const MathematicsDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/department-of-mathematics/events/womens-day/wd3.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/events/womens-day/wd3.jpg" alt="Events Image"/></figure>
                         </div>
                     </div>
                   </div>
@@ -55,7 +55,7 @@ const MathematicsDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/department-of-mathematics/events/womens-day/wd4.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/events/womens-day/wd4.jpg" alt="Events Image"/></figure>
                         </div>
                     </div>
                   </div>
@@ -63,7 +63,7 @@ const MathematicsDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/department-of-mathematics/events/womens-day/wd5.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/events/womens-day/wd5.jpg" alt="Events Image"/></figure>
                         </div>
                     </div>
                   </div>
@@ -71,7 +71,7 @@ const MathematicsDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/department-of-mathematics/events/womens-day/wd6.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/events/womens-day/wd6.jpg" alt="Events Image"/></figure>
                         </div>
                     </div>
                   </div>
@@ -82,7 +82,7 @@ const MathematicsDeptEvents = () => {
                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/department-of-mathematics/events/scistar-2019/ss2019-1.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/events/scistar-2019/ss2019-1.jpg" alt="Events Image"/></figure>
                         </div>
                     </div>
                   </div>
@@ -90,7 +90,7 @@ const MathematicsDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/department-of-mathematics/events/scistar-2019/ss2019-2.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/events/scistar-2019/ss2019-2.jpg" alt="Events Image"/></figure>
                         </div>
                     </div>
                   </div>
@@ -98,7 +98,7 @@ const MathematicsDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/department-of-mathematics/events/scistar-2019/ss2019-3.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/events/scistar-2019/ss2019-3.jpg" alt="Events Image"/></figure>
                         </div>
                     </div>
                   </div>
@@ -106,7 +106,7 @@ const MathematicsDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/department-of-mathematics/events/scistar-2019/ss2019-4.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/events/scistar-2019/ss2019-4.jpg" alt="Events Image"/></figure>
                         </div>
                     </div>
                   </div>
@@ -114,7 +114,7 @@ const MathematicsDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/department-of-mathematics/events/scistar-2019/ss2019-5.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/events/scistar-2019/ss2019-5.jpg" alt="Events Image"/></figure>
                         </div>
                     </div>
                   </div>
@@ -122,7 +122,7 @@ const MathematicsDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/department-of-mathematics/events/scistar-2019/ss2019-6.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/events/scistar-2019/ss2019-6.jpg" alt="Events Image"/></figure>
                         </div>
                     </div>
                   </div>
@@ -135,7 +135,7 @@ const MathematicsDeptEvents = () => {
                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/department-of-mathematics/events/scistar-2018/ss2018-1.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/events/scistar-2018/ss2018-1.jpg" alt="Events Image"/></figure>
                         </div>
                     </div>
                   </div>
@@ -143,7 +143,7 @@ const MathematicsDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/department-of-mathematics/events/scistar-2018/ss2018-2.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/events/scistar-2018/ss2018-2.jpg" alt="Events Image"/></figure>
                         </div>
                     </div>
                   </div>
@@ -151,7 +151,7 @@ const MathematicsDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/department-of-mathematics/events/scistar-2018/ss2018-3.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/events/scistar-2018/ss2018-3.jpg" alt="Events Image"/></figure>
                         </div>
                     </div>
                   </div>
@@ -159,7 +159,7 @@ const MathematicsDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/department-of-mathematics/events/scistar-2018/ss2018-4.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/events/scistar-2018/ss2018-4.jpg" alt="Events Image"/></figure>
                         </div>
                     </div>
                   </div>
@@ -167,7 +167,7 @@ const MathematicsDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/department-of-mathematics/events/scistar-2018/ss2018-5.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/events/scistar-2018/ss2018-5.jpg" alt="Events Image"/></figure>
                         </div>
                     </div>
                   </div>
@@ -175,7 +175,7 @@ const MathematicsDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/department-of-mathematics/events/scistar-2018/ss2018-6.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/events/scistar-2018/ss2018-6.jpg" alt="Events Image"/></figure>
                         </div>
                     </div>
                   </div>
@@ -188,7 +188,7 @@ const MathematicsDeptEvents = () => {
                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/department-of-mathematics/events/scilab-2019/sl2019-12.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/events/scilab-2019/sl2019-12.jpg" alt="Events Image"/></figure>
                         </div>
                     </div>
                   </div>

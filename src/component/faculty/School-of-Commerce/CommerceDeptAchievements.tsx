@@ -22,7 +22,7 @@ const CommerceDeptAchievements = () => {
                                     <div className="col-xl-6 col-lg-10">
                                         <div className="tl-8-course mb-30 flex flex-col rounded-[20px] h-full">
                                             <div className="tl-8-course-img">
-                                                <img src="assets/images/commerce-dept/achievements/achievement1.png" alt="Achievement Image"/>
+                                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/achievements/achievement1.png" alt="Achievement Image"/>
                                             </div>
                                             <div className="tl-8-course-txt">
                                                 <p className="dark-mode-white-color"><strong>Student Name:- Shirish Padulkar,</strong></p>
@@ -35,7 +35,7 @@ const CommerceDeptAchievements = () => {
                                     <div className="col-xl-6 col-lg-10">
                                         <div className="tl-8-course mb-30 flex flex-col rounded-[20px] h-full">
                                             <div className="tl-8-course-img">
-                                                <img src="assets/images/commerce-dept/achievements/achievement2.png" alt="Achievement Image"/>
+                                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/achievements/achievement2.png" alt="Achievement Image"/>
                                             </div>
                                             <div className="tl-8-course-txt">
                                                 <p className="dark-mode-white-color"><strong>Student Name : Smriti Mandhana</strong></p>
@@ -61,7 +61,7 @@ const CommerceDeptAchievements = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                            <img src="assets/images/commerce-dept/activities/activity1.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/activities/activity1.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -79,7 +79,7 @@ const CommerceDeptAchievements = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                        <img src="assets/images/commerce-dept/activities/activity2.png" alt="Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/activities/activity2.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -87,7 +87,7 @@ const CommerceDeptAchievements = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                        <img src="assets/images/commerce-dept/activities/activity3.png" alt="Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/activities/activity3.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -105,7 +105,7 @@ const CommerceDeptAchievements = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                        <img src="assets/images/commerce-dept/activities/activity4.png" alt="Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/activities/activity4.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -113,7 +113,7 @@ const CommerceDeptAchievements = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                        <img src="assets/images/commerce-dept/activities/activity5.png" alt="Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/activities/activity5.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -124,7 +124,7 @@ const CommerceDeptAchievements = () => {
                 <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/commerce-dept/activities/sports/sport1.jpeg" alt="Academic Infrastructure Image" /></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/activities/sports/sport1.jpeg" alt="Academic Infrastructure Image" /></figure>
                         </div>
                       
                     </div>
@@ -133,7 +133,7 @@ const CommerceDeptAchievements = () => {
                 <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/commerce-dept/activities/sports/sport2.jpeg" alt="Academic Infrastructure Image" /></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/activities/sports/sport2.jpeg" alt="Academic Infrastructure Image" /></figure>
                         </div>
                       
                     </div>
@@ -142,7 +142,7 @@ const CommerceDeptAchievements = () => {
                 <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/commerce-dept/activities/sports/sport7.jpeg" alt="Academic Infrastructure Image" /></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/activities/sports/sport7.jpeg" alt="Academic Infrastructure Image" /></figure>
                         </div>
                        
                     </div>
@@ -151,7 +151,7 @@ const CommerceDeptAchievements = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/commerce-dept/activities/sports/sport8.jpeg" alt="Academic Infrastructure Image" /></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/activities/sports/sport8.jpeg" alt="Academic Infrastructure Image" /></figure>
                         </div>
                        
                     </div>
@@ -160,7 +160,7 @@ const CommerceDeptAchievements = () => {
                    <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/commerce-dept/activities/sports/sport9.jpeg" alt="Academic Infrastructure Image" /></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/activities/sports/sport9.jpeg" alt="Academic Infrastructure Image" /></figure>
                         </div>
                        
                     </div>
@@ -169,7 +169,7 @@ const CommerceDeptAchievements = () => {
                 <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/commerce-dept/activities/sports/sport11.jpeg" alt="Academic Infrastructure Image" /></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/activities/sports/sport11.jpeg" alt="Academic Infrastructure Image" /></figure>
                         </div>
                        
                     </div>
@@ -178,7 +178,7 @@ const CommerceDeptAchievements = () => {
                 <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/commerce-dept/activities/sports/sport12.jpeg" alt="Academic Infrastructure Image" /></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/activities/sports/sport12.jpeg" alt="Academic Infrastructure Image" /></figure>
                         </div>
                        
                     </div>
@@ -187,7 +187,7 @@ const CommerceDeptAchievements = () => {
                 <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/commerce-dept/activities/sports/sport13.jpeg" alt="Academic Infrastructure Image" /></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/activities/sports/sport13.jpeg" alt="Academic Infrastructure Image" /></figure>
                         </div>
                        
                     </div>
@@ -195,7 +195,7 @@ const CommerceDeptAchievements = () => {
                 <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/commerce-dept/activities/sports/sport14.jpeg" alt="Academic Infrastructure Image" /></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/activities/sports/sport14.jpeg" alt="Academic Infrastructure Image" /></figure>
                         </div>
                 </div>
                 </div>

@@ -3,7 +3,7 @@ import React from "react";
 const Vibrant2018 = () => {
   const vibrant2018photoes = [
     {
-        imgSrc: "assets/images/photo-gallery/events/cover-photoes/3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/cover-photoes/3.jpg",
     },
 ];
 

@@ -5,36 +5,36 @@ const RecreationalFacilities = () => {
  
     const recreational = [
     {
-        imgSrc: "assets/images/recreational-facilities/image1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recreational-facilities/image1.jpg",
     },
     {
-        imgSrc: "assets/images/recreational-facilities/image2.jpg",
-    },
-   
-    {
-        imgSrc: "assets/images/recreational-facilities/image4.jpg",
-    },
-    {
-        imgSrc: "assets/images/recreational-facilities/image5.jpg",
-    },
-    {
-        imgSrc: "assets/images/recreational-facilities/image6.jpg",
-    },
-    {
-        imgSrc: "assets/images/recreational-facilities/image7.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recreational-facilities/image2.jpg",
     },
    
     {
-        imgSrc: "assets/images/recreational-facilities/image9.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recreational-facilities/image4.jpg",
     },
     {
-        imgSrc: "assets/images/recreational-facilities/image10.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recreational-facilities/image5.jpg",
     },
     {
-      imgSrc: "assets/images/recreational-facilities/image3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recreational-facilities/image6.jpg",
     },
     {
-      imgSrc: "assets/images/recreational-facilities/image8.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recreational-facilities/image7.jpg",
+    },
+   
+    {
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recreational-facilities/image9.jpg",
+    },
+    {
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recreational-facilities/image10.jpg",
+    },
+    {
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recreational-facilities/image3.jpg",
+    },
+    {
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recreational-facilities/image8.jpg",
     },
  ]
  return (

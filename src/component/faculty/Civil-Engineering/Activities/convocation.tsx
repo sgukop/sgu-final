@@ -9,7 +9,7 @@ const convocation = () => {
                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/civil-engineering-dept/convocation/4.jpeg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/convocation/4.jpeg" alt="Events Image"/></figure>
                         </div>
                         
                     </div>
@@ -18,7 +18,7 @@ const convocation = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/civil-engineering-dept/convocation/2.jpeg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/convocation/2.jpeg" alt="Events Image"/></figure>
                         </div>
                        
                     </div>
@@ -27,7 +27,7 @@ const convocation = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/civil-engineering-dept/convocation/3.jpeg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/convocation/3.jpeg" alt="Events Image"/></figure>
                         </div>
                         
                     </div>
@@ -36,7 +36,7 @@ const convocation = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/civil-engineering-dept/convocation/1.jpeg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/convocation/1.jpeg" alt="Events Image"/></figure>
                         </div>
                        
                     </div>
@@ -44,7 +44,7 @@ const convocation = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/civil-engineering-dept/convocation/5.jpeg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/convocation/5.jpeg" alt="Events Image"/></figure>
                         </div>
                        
                     </div>
@@ -53,7 +53,7 @@ const convocation = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/civil-engineering-dept/convocation/7.jpeg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/convocation/7.jpeg" alt="Events Image"/></figure>
                         </div>
                        
                     </div>
@@ -62,7 +62,7 @@ const convocation = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/civil-engineering-dept/convocation/8.jpeg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/convocation/8.jpeg" alt="Events Image"/></figure>
                         </div>
                         
                     </div>

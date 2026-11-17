@@ -16,7 +16,7 @@ const blogPosts = [
     excerpt:
       "Explore how fashion design colleges in Kolhapur prepare students for careers in design, fashion technology, sustainable fashion, styling, branding, merchandising, and entrepreneurship",
     date: "August 20th, 2026", // TODO: update to real publish date
-    image: "/assets/images/images/10.jpg", // place file in public/images/
+    image: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/images/10.jpg", // place file in public/images/
     slug: "fashion-designing-colleges-in-kolhapur-building-a-career-beyond-the-runway",
   },
   {
@@ -25,7 +25,7 @@ const blogPosts = [
     excerpt:
       "Discover how civil engineering students turn classroom concepts into practical skills through design, construction planning, problem-solving, field applications, and engineering projects.",
     date: "August 17th, 2026", // TODO: update to real publish date
-    image: "/assets/images/images/9.jpg", // place file in public/images/
+    image: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/images/9.jpg", // place file in public/images/
     slug: "how-civil-engineering-students-turn-classroom-knowledge-into-real-world-skills",
   },
    {
@@ -34,7 +34,7 @@ const blogPosts = [
     excerpt:
       "Discover how BBA LLB colleges in Kolhapur prepare students for modern legal careers through comprehensive curricula, practical training, and industry connections.",
     date: "August 13th, 2026", // TODO: update to real publish date
-    image: "/assets/images/images/8.jpg", // place file in public/images/
+    image: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/images/8.jpg", // place file in public/images/
     slug: "how-do-top-bba-llb-colleges-prepare-students-for-modern-legal-careers",
   },
   {
@@ -43,7 +43,7 @@ const blogPosts = [
     excerpt:
       "Discover why MBA colleges in Kolhapur are attracting students with practical learning, industry exposure, affordability, emerging specializations, and career-focused education.",
     date: "August 10th, 2026", // TODO: update to real publish date
-    image: "/assets/images/images/7.jpg", // place file in public/images/
+    image: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/images/7.jpg", // place file in public/images/
     slug: "why-are-mba-colleges-in-kolhapur-becoming-a-preferred-choice-for-students",
   },
    {
@@ -52,7 +52,7 @@ const blogPosts = [
     excerpt:
       "Discover how MCA colleges in Kolhapur help students turn coding skills into corporate-ready expertise through projects, emerging technologies and industry exposure",
     date: "August 5th, 2026", // TODO: update to real publish date
-    image: "/assets/images/images/6.jpg", // place file in public/images/
+    image: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/images/6.jpg", // place file in public/images/
     slug: "mca-colleges-in-kolhapur-coding-skills-to-corporate-success",
   },
   
@@ -62,7 +62,7 @@ const blogPosts = [
     excerpt:
       "Explore the best interior designing colleges in Kolhapur and how they prepare students for successful careers in design.",
     date: "July 23rd, 2026", // TODO: update to real publish date
-    image: "/assets/images/images/15.jpg", // place file in public/images/
+    image: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/images/15.jpg", // place file in public/images/
     slug: "interior-designing-colleges-in-kolhapur-turning-creative-passion-into-a-successful-profession",
   },
   {
@@ -71,7 +71,7 @@ const blogPosts = [
     excerpt:
       "Explore the best BBA LLB colleges in Kolhapur and how they prepare students for successful legal careers.",
     date: "July 17th, 2026", // TODO: update to real publish date
-    image: "/assets/images/images/14.jpg", // place file in public/images/
+    image: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/images/14.jpg", // place file in public/images/
     slug: "bba-llb-colleges-in-kolhapur-a-complete-guide-for-students-after-class-12",
   },
   {
@@ -80,7 +80,7 @@ const blogPosts = [
     excerpt:
       "Discover how AI in drug discovery is reducing research time, lowering costs, and accelerating pharmaceutical innovation. Learn how future pharmacists can benefit from AI-driven advancements.",
     date: "July 13th, 2026", // TODO: update to real publish date
-    image: "/assets/images/images/13.jpg", // place file in public/images/
+    image: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/images/13.jpg", // place file in public/images/
     slug: "ai-in-drug-discovery-reducing-time-and-cost-in-pharmaceutical-research",
   },
    {
@@ -89,7 +89,7 @@ const blogPosts = [
     excerpt:
       "Discover what makes the best MBA college in Kolhapur unique. Learn about industry-focused learning, placements, faculty, and career opportunities at leading MBA colleges in Maharashtra.",
     date: "July 6th, 2026", // TODO: update to real publish date
-    image: "/assets/images/images/12.jpg", // place file in public/images/
+    image: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/images/12.jpg", // place file in public/images/
     slug: "best-mba-college-in-kolhapur-what-sets-it-apart",
   },
    {
@@ -98,7 +98,7 @@ const blogPosts = [
     excerpt:
       "Explore how civil engineering colleges in Kolhapur prepare students for careers in design, construction planning, problem-solving, field applications, and engineering projects.",
     date: "July 3rd, 2026", // TODO: update to real publish date
-    image: "/assets/images/images/11.jpg", // place file in public/images/
+    image: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/images/11.jpg", // place file in public/images/
     slug: "how-do-civil-engineering-colleges-in-kolhapur-bridge-the-gap-between-theory-and-practice",
   },
    {
@@ -107,7 +107,7 @@ const blogPosts = [
     excerpt:
       "The healthcare and pharmaceutical industries are among the fastest-growing sectors worldwide, creating a rising demand for skilled pharmacy professionals.",
     date: "June 24th, 2026", // TODO: update to real publish date
-    image: "/assets/images/images/5.jpeg", // place file in public/images/
+    image: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/images/5.jpeg", // place file in public/images/
     slug: "why-choose-bpharmacy-after-12th",
   },
    {
@@ -116,7 +116,7 @@ const blogPosts = [
     excerpt:
       "The legal profession is evolving rapidly, and corporate law has emerged as one of the most sought-after career paths for aspiring lawyers.",
     date: "June 17th, 2026", // TODO: update to real publish date
-    image: "/assets/images/images/4.jpeg", // place file in public/images/
+    image: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/images/4.jpeg", // place file in public/images/
     slug: "bba-llb-college-in-kolhapur-corporate-lawyers",
   },
   {
@@ -125,7 +125,7 @@ const blogPosts = [
     excerpt:
       "With innovation and user-centric design becoming the driving force behind modern industries, product design has emerged as one of the most exciting career paths for creative minds.",
     date: "June 12th, 2026", // TODO: update to real publish date
-    image: "/assets/images/images/3.jpeg", // place file in public/images/
+    image: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/images/3.jpeg", // place file in public/images/
     slug: "best-product-designing-college-in-kolhapur",
   },
    {
@@ -134,7 +134,7 @@ const blogPosts = [
     excerpt:
       "Pursuing a Master of Computer Applications (MCA) is an excellent choice for students looking to build a successful career in software development, data analytics, cloud computing, and more.",
     date: "June 8th, 2026", // TODO: update to real publish date
-    image: "/assets/images/images/2.jpeg", // place file in public/images/
+    image: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/images/2.jpeg", // place file in public/images/
     slug: "mca-college-in-kolhapur-admission-guide-2026"
   },
   {
@@ -143,7 +143,7 @@ const blogPosts = [
     excerpt:
       "Choosing the right MBA program is one of the most important decisions for students aiming to build a strong business career.",
     date: "June 3th, 2026", // TODO: update to real publish date
-    image: "/assets/images/images/1.jpeg", // place file in public/images/
+    image: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/images/1.jpeg", // place file in public/images/
     slug: "best-mba-college-in-kolhapur",
   },
   

@@ -3,136 +3,136 @@ import React from "react";
 const CampusImages = () => {
   const campusData = [
     {
-      imgSrc: "assets/images/campus-images/campus-image1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/campus-images/campus-image1.jpg",
     },
     {
-      imgSrc: "assets/images/campus-images/campus-image2.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/campus-images/campus-image2.jpg",
     },
     {
-      imgSrc: "assets/images/campus-images/campus-image3.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/campus-images/campus-image3.jpg",
     },
     {
-      imgSrc: "assets/images/campus-images/campus-image4.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/campus-images/campus-image4.jpg",
     },
     {
-      imgSrc: "assets/images/campus-images/campus-image5.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/campus-images/campus-image5.jpg",
     },
     {
-      imgSrc: "assets/images/campus-images/campus-image6.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/campus-images/campus-image6.jpg",
     },
     {
-      imgSrc: "assets/images/campus-images/campus-image7.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/campus-images/campus-image7.jpg",
     },
     {
-      imgSrc: "assets/images/campus-images/campus-image8.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/campus-images/campus-image8.jpg",
     },
     {
-      imgSrc: "assets/images/campus-images/campus-image9.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/campus-images/campus-image9.jpg",
     },
     {
-      imgSrc: "assets/images/campus-images/campus-image10.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/campus-images/campus-image10.jpg",
     },
     {
-      imgSrc: "assets/images/campus-images/campus-image12.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/campus-images/campus-image12.jpg",
     },
     {
-      imgSrc: "assets/images/campus-images/campus-image13.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/campus-images/campus-image13.jpg",
     },
   ];
 
   const classRooms = [
     {
-      imgSrc: "assets/images/classrooms/classroom1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/classrooms/classroom1.jpg",
     },
     {
-      imgSrc: "assets/images/classrooms/classroom2.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/classrooms/classroom2.jpg",
     },
     {
-      imgSrc: "assets/images/classrooms/classroom3.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/classrooms/classroom3.jpg",
     }
   ]
 
   const amphitheater = [
     {
-      imgSrc: "assets/images/amphi-theater/amphitheater1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/amphi-theater/amphitheater1.jpg",
     },
     {
-      imgSrc: "assets/images/amphi-theater/amphitheater2.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/amphi-theater/amphitheater2.jpg",
     },
     {
-      imgSrc: "assets/images/amphi-theater/amphitheater3.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/amphi-theater/amphitheater3.jpg",
     },
   ]
 
   const foodcourt = [
     {
-      imgSrc: "assets/images/food-court/foodcourt1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/food-court/foodcourt1.jpg",
     },
     {
-      imgSrc: "assets/images/food-court/foodcourt2.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/food-court/foodcourt2.jpg",
     },
     {
-      imgSrc: "assets/images/food-court/foodcourt3.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/food-court/foodcourt3.jpg",
     },
   ]
 
   const auditorium = [
     {
-      imgSrc: "assets/images/auditorium/Auditorium1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/auditorium/Auditorium1.jpg",
     },
     {
-      imgSrc: "assets/images/auditorium/Auditorium2.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/auditorium/Auditorium2.jpg",
     },
     {
-      imgSrc: "assets/images/auditorium/Auditorium3.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/auditorium/Auditorium3.jpg",
     },
     {
-      imgSrc: "assets/images/auditorium/Auditorium4.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/auditorium/Auditorium4.jpg",
     },
     {
-      imgSrc: "assets/images/auditorium/Auditorium5.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/auditorium/Auditorium5.jpg",
     },
     {
-      imgSrc: "assets/images/auditorium/Auditorium6.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/auditorium/Auditorium6.jpg",
     },
     {
-      imgSrc: "assets/images/auditorium/Auditorium7.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/auditorium/Auditorium7.jpg",
     },
     {
-      imgSrc: "assets/images/auditorium/Auditorium8.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/auditorium/Auditorium8.jpg",
     },
     {
-      imgSrc: "assets/images/auditorium/Auditorium9.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/auditorium/Auditorium9.jpg",
     },
   ]
 
   const conferencehall = [
     {
-      imgSrc: "assets/images/conference-hall/Conference1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/conference-hall/Conference1.jpg",
     },
     {
-      imgSrc: "assets/images/conference-hall/Conference2.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/conference-hall/Conference2.jpg",
     },
     {
-      imgSrc: "assets/images/conference-hall/Conference3.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/conference-hall/Conference3.jpg",
     },
     {
-      imgSrc: "assets/images/conference-hall/Conference4.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/conference-hall/Conference4.jpg",
     },
     {
-      imgSrc: "assets/images/conference-hall/Conference5.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/conference-hall/Conference5.jpg",
     },
     {
-      imgSrc: "assets/images/conference-hall/Conference6.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/conference-hall/Conference6.jpg",
     },
     {
-      imgSrc: "assets/images/conference-hall/Conference7.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/conference-hall/Conference7.jpg",
     },
     {
-      imgSrc: "assets/images/conference-hall/Conference8.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/conference-hall/Conference8.jpg",
     },
     {
-      imgSrc: "assets/images/conference-hall/Conference9.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/conference-hall/Conference9.jpg",
     }
   ]
 

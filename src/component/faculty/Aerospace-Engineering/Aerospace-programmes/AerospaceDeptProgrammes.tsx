@@ -20,7 +20,7 @@ const AerospaceDeptProgrammes = () => {
             <div className="row">
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/aerospace-engineering-dept/programs/ug-image1.png" alt="Aerospace UG Image" className="tl-1-blog-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/programs/ug-image1.png" alt="Aerospace UG Image" className="tl-1-blog-img"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/aerospace-program-UG">UG</Link></h4>
                                     <Link href="/aerospace-program-UG" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
@@ -30,7 +30,7 @@ const AerospaceDeptProgrammes = () => {
 
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/about-all-dept-images/aerospace-about2.jpg" alt="Aeropsace PG Image" className="tl-1-blog-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-all-dept-images/aerospace-about2.jpg" alt="Aeropsace PG Image" className="tl-1-blog-img"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/aerospace-program-PG">PG</Link></h4>
                                     <Link href="/aerospace-program-PG" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
@@ -40,7 +40,7 @@ const AerospaceDeptProgrammes = () => {
 
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/aerospace-engineering-dept/programs/about-aerospace-image.jpg" alt="Aeropsace PHD Image" className="tl-1-blog-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/programs/about-aerospace-image.jpg" alt="Aeropsace PHD Image" className="tl-1-blog-img"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="#">Ph.D.</Link></h4>
                                     <Link href="#" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>

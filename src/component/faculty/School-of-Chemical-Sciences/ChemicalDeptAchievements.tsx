@@ -64,7 +64,7 @@ const ChemicalDeptAchievements = () => {
 
     <div className="tl-8-course mt-10 mb-30">
         <div className="tl-8-course-img">
-            <img src="assets/images/chemical-sciences-dept/achievements/image9.jpeg" alt="Achievement Image"/>
+            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/achievements/image9.jpeg" alt="Achievement Image"/>
         </div>
     </div>
 

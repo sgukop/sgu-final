@@ -5,38 +5,38 @@ import MenuList from "../Reusable-components/MenuList";
 const BCADeptActivities = () => {
   const guestlectureorangeit = [
     {
-      imgSrc: "assets/images/BCA-dept/activities/guest-lecture-orangeIT/image1.jpeg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/guest-lecture-orangeIT/image1.jpeg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/guest-lecture-orangeIT/image2.jpeg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/guest-lecture-orangeIT/image2.jpeg",
     },
 ]
 const OrangeITech = [
     {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/25.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/25.jpg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/26.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/26.jpg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/27.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/27.jpg",
     },
     
     
 ]
 const PanhalaTourImages = [
     {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/28.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/28.jpg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/30.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/30.jpg",
     },
     
     
   ]
 const BalodyanOrphanageImages = [
     {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/31.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/31.jpg",
     },
     
     
@@ -44,237 +44,237 @@ const BalodyanOrphanageImages = [
   ]
 const FireFlinkPvt = [
     {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/1.jpg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/3.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/3.jpg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/2.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/2.jpg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/4.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/4.jpg",
     },
     
 ]
 const Yantra = [
     {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/5.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/5.jpg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/6.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/6.jpg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/7.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/7.jpg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/8.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/8.jpg",
     },
     
 ]
 const QSpiders = [
     {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/9.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/9.jpg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/10.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/10.jpg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/11.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/11.jpg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/12.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/12.jpg",
     },
     
 ]
 const Virtual  = [
     {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/13.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/13.jpg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/14.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/14.jpg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/15.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/15.jpg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/16.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/16.jpg",
     },
      {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/17.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/17.jpg",
     },
      {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/18.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/18.jpg",
     },
 ]
 const Mysore = [
     {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/19.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/19.jpg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/20.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/20.jpg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/21.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/21.jpg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/22.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/22.jpg",
     },
      {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/23.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/23.jpg",
     },
      {
-      imgSrc: "assets/images/BCA-dept/activities/Industrial Visits/24.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/Industrial Visits/24.jpg",
     },
 ]
 const guestlecturesandipsutar = [
   {
-    imgSrc: "assets/images/BCA-dept/activities/guest-lecture-sandip-sutar/image1.jpeg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/guest-lecture-sandip-sutar/image1.jpeg",
   },
 ]
 
 const expertsessioncybersicurity = [
   {
-    imgSrc: "assets/images/BCA-dept/activities/expert-session-abhishek-hawale/image1.jpeg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/expert-session-abhishek-hawale/image1.jpeg",
   },
 ]
   const convocation = [
     {
-      imgSrc: "assets/images/BCA-dept/activities/convocation-ceremony/1.JPG",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/convocation-ceremony/1.JPG",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/convocation-ceremony/2.JPG",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/convocation-ceremony/2.JPG",
     },
     
 ]
   const codeCrackers = [
     {
-      imgSrc: "assets/images/BCA-dept/activities/code-cracker/1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/code-cracker/1.jpg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/code-cracker/2.png",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/code-cracker/2.png",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/code-cracker/3.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/code-cracker/3.jpg",
     },
 ]
   const artofliving = [
     {
-      imgSrc: "assets/images/BCA-dept/activities/art-of-writing/activity-image1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/art-of-writing/activity-image1.jpg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/art-of-writing/image2.jpeg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/art-of-writing/image2.jpeg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/art-of-writing/image3.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/art-of-writing/image3.jpg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/art-of-writing/image4.jpeg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/art-of-writing/image4.jpeg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/art-of-writing/image5.jpeg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/art-of-writing/image5.jpeg",
     },
 ];
 
   const harnessing = [
     {
-      imgSrc: "assets/images/BCA-dept/activities/harnessing/image1.jpeg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/harnessing/image1.jpeg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/harnessing/image2.jpeg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/harnessing/image2.jpeg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/harnessing/image3.jpeg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/harnessing/image3.jpeg",
     },
     {
-        imgSrc: "assets/images/BCA-dept/activities/harnessing/image4.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/harnessing/image4.jpeg",
     }
   ]
 
   const inductionprogram = [
     {
-      imgSrc: "assets/images/BCA-dept/activities/induction-program/image1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/induction-program/image1.jpg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/induction-program/image2.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/induction-program/image2.jpg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/induction-program/image3.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/induction-program/image3.jpg",
     },
     {
-       imgSrc: "assets/images/BCA-dept/activities/induction-program/image4.jpg",
+       imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/induction-program/image4.jpg",
     },
     {
-        imgSrc: "assets/images/BCA-dept/activities/induction-program/image5.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/induction-program/image5.jpg",
     },
     {
-        imgSrc: "assets/images/BCA-dept/activities/induction-program/image7.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/induction-program/image7.jpg",
     },
     {
-        imgSrc: "assets/images/BCA-dept/activities/induction-program/image8.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/induction-program/image8.jpg",
     },
     {
-        imgSrc: "assets/images/BCA-dept/activities/induction-program/image9.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/induction-program/image9.jpg",
     },
     {
-        imgSrc: "assets/images/BCA-dept/activities/induction-program/image6.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/induction-program/image6.jpg",
     },
   ]
 
   const kickstart = [
     {
-      imgSrc: "assets/images/BCA-dept/activities/kick-start-springboot/1.jpeg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/kick-start-springboot/1.jpeg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/kick-start-springboot/2.jpeg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/kick-start-springboot/2.jpeg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/kick-start-springboot/3.jpeg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/kick-start-springboot/3.jpeg",
     },
     {
-        imgSrc: "assets/images/BCA-dept/activities/kick-start-springboot/4.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/kick-start-springboot/4.jpeg",
     },
   ]
 
   const nationallevel = [
     {
-      imgSrc: "assets/images/BCA-dept/activities/national-level-hackathon/image1.JPG",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/national-level-hackathon/image1.JPG",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/national-level-hackathon/image2.JPG",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/national-level-hackathon/image2.JPG",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/national-level-hackathon/image3.JPG",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/national-level-hackathon/image3.JPG",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/national-level-hackathon/image4.JPG",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/national-level-hackathon/image4.JPG",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/national-level-hackathon/image5.jpeg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/national-level-hackathon/image5.jpeg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/national-level-hackathon/image6.jpeg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/national-level-hackathon/image6.jpeg",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/national-level-hackathon/image7.png",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/national-level-hackathon/image7.png",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/national-level-hackathon/image8.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/national-level-hackathon/image8.jpg",
     },
 ]
 
 const parentmeet = [
     {
-      imgSrc: "assets/images/BCA-dept/activities/parent-meet/1.png",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/parent-meet/1.png",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/parent-meet/2.png",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/parent-meet/2.png",
     },
     {
-      imgSrc: "assets/images/BCA-dept/activities/parent-meet/3.png",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/parent-meet/3.png",
     },
     {
-        imgSrc: "assets/images/BCA-dept/activities/parent-meet/4.png",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/activities/parent-meet/4.png",
     },
   ]
   

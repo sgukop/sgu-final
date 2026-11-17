@@ -34,7 +34,7 @@ const MechanicalDeptSTTP = () => {
                         </Link>
                     </div>
                     <div className="col-lg-6 col-md-12 col-12 col-xxs-12">
-                        <Link href="assets/images/mechanical-engineering-dept/sttp-ftp/Webinar PBG.png" className="tl-3-single-program-new" target="_blank">
+                        <Link href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mechanical-engineering-dept/sttp-ftp/Webinar PBG.png" className="tl-3-single-program-new" target="_blank">
                             <h5 className="tl-3-single-program-title-new">Webinar PBG <i className="fa-regular fa-arrow-right-long"></i></h5>
                         </Link>
                     </div>

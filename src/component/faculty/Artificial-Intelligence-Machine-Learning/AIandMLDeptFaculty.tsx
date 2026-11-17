@@ -23,7 +23,7 @@ const AIandMLDeptFaculty = () => {
                 <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/AIML/aiml-hod.jpg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/AIML/aiml-hod.jpg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -36,7 +36,7 @@ const AIandMLDeptFaculty = () => {
                 <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/AIML/Priyanka More.jpeg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/AIML/Priyanka More.jpeg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -51,7 +51,7 @@ const AIandMLDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/AIML/4. Ms. PALLVAI MAJGAVE.jpg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/AIML/4. Ms. PALLVAI MAJGAVE.jpg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -65,7 +65,7 @@ const AIandMLDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/AIML/5. Mr. AMRISH PATIL.jpg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/AIML/5. Mr. AMRISH PATIL.jpg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -79,7 +79,7 @@ const AIandMLDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/AIML/6. Ms. VARSHA KASOTE.jpg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/AIML/6. Ms. VARSHA KASOTE.jpg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -93,7 +93,7 @@ const AIandMLDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/AIML/7. Ms. SHWETA SHETE.jpg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/AIML/7. Ms. SHWETA SHETE.jpg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -108,7 +108,7 @@ const AIandMLDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/AIML/Mr.Najim Abdul Naik.jpeg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/AIML/Mr.Najim Abdul Naik.jpeg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -121,7 +121,7 @@ const AIandMLDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/AIML/9. Ms. SAVITA CHARANE.jpg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/AIML/9. Ms. SAVITA CHARANE.jpg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -134,7 +134,7 @@ const AIandMLDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/male.jpg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/male.jpg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -147,7 +147,7 @@ const AIandMLDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/male.jpg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/male.jpg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -160,7 +160,7 @@ const AIandMLDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/AIML/Mr.Kamble Siyang.jpeg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/AIML/Mr.Kamble Siyang.jpeg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -173,7 +173,7 @@ const AIandMLDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/AIML/Reshma Pasale.jpeg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/AIML/Reshma Pasale.jpeg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -186,7 +186,7 @@ const AIandMLDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/AIML/Vedika Palle.jpeg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/AIML/Vedika Palle.jpeg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -199,7 +199,7 @@ const AIandMLDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/AIML/Radika Jadhav.jpeg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/AIML/Radika Jadhav.jpeg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -212,7 +212,7 @@ const AIandMLDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/AIML/Kamble Pranali.jpeg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/AIML/Kamble Pranali.jpeg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -225,7 +225,7 @@ const AIandMLDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/female.jpg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/female.jpg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -238,7 +238,7 @@ const AIandMLDeptFaculty = () => {
                 <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/male.jpg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/male.jpg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -251,7 +251,7 @@ const AIandMLDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/female.jpg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/female.jpg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -264,7 +264,7 @@ const AIandMLDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/male.jpg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/male.jpg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -277,7 +277,7 @@ const AIandMLDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/male.jpg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/male.jpg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">

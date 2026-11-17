@@ -3,43 +3,43 @@ import React from "react";
 const ScienceAcademies = () => {
   const academiesphotoes = [
     {
-        imgSrc: "assets/images/photo-gallery/academics/science-academies/1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/science-academies/1.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/science-academies/2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/science-academies/2.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/science-academies/3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/science-academies/3.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/science-academies/4.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/science-academies/4.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/science-academies/5.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/science-academies/5.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/science-academies/6.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/science-academies/6.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/science-academies/7.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/science-academies/7.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/science-academies/8.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/science-academies/8.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/science-academies/9.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/science-academies/9.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/science-academies/10.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/science-academies/10.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/science-academies/11.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/science-academies/11.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/science-academies/13.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/science-academies/13.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/science-academies/14.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/science-academies/14.jpg",
     },
  ];
 

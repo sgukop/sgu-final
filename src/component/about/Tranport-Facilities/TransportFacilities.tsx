@@ -4,13 +4,13 @@ const TransportFacilities = () => {
  
     const transportation = [
     {
-        imgSrc: "assets/images/transportation/Bus1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/transportation/Bus1.jpg",
     },
     {
-        imgSrc: "assets/images/transportation/Bus2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/transportation/Bus2.jpg",
     },
     {
-        imgSrc: "assets/images/transportation/Bus3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/transportation/Bus3.jpg",
     },
  ]
  return (

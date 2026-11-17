@@ -18,8 +18,8 @@ const AerospaceDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <a data-fslightbox href="assets/images/aerospace-engineering-dept/events/latest-events/3.png" target="_blank">
-                                <figure><img src="assets/images/aerospace-engineering-dept/events/latest-events/3.png" alt="Events Image"/></figure>
+                            <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/latest-events/3.png" target="_blank">
+                                <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/latest-events/3.png" alt="Events Image"/></figure>
                             </a>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Hydro Rocketry Challenge, Paper Plane, Poster presentation and seminar are conducted on
@@ -30,8 +30,8 @@ const AerospaceDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <a data-fslightbox href="assets/images/aerospace-engineering-dept/events/latest-events/4.png" target="_blank">
-                                <figure><img src="assets/images/aerospace-engineering-dept/events/latest-events/4.png" alt="Events Image"/></figure>
+                            <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/latest-events/4.png" target="_blank">
+                                <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/latest-events/4.png" alt="Events Image"/></figure>
                             </a>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Glider Competition</h3>
@@ -41,8 +41,8 @@ const AerospaceDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <a data-fslightbox href="assets/images/aerospace-engineering-dept/events/latest-events/5.png" target="_blank">
-                                <figure><img src="assets/images/aerospace-engineering-dept/events/latest-events/5.png" alt="Events Image"/></figure>
+                            <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/latest-events/5.png" target="_blank">
+                                <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/latest-events/5.png" alt="Events Image"/></figure>
                             </a>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Poster Presentation</h3>
@@ -52,8 +52,8 @@ const AerospaceDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <a data-fslightbox href="assets/images/aerospace-engineering-dept/events/latest-events/6.png" target="_blank">
-                                <figure><img src="assets/images/aerospace-engineering-dept/events/latest-events/6.png" alt="Events Image"/></figure>
+                            <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/latest-events/6.png" target="_blank">
+                                <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/latest-events/6.png" alt="Events Image"/></figure>
                             </a>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Hydro Rocketry</h3>
@@ -63,8 +63,8 @@ const AerospaceDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <a data-fslightbox href="assets/images/aerospace-engineering-dept/events/latest-events/7.png" target="_blank">
-                                <figure><img src="assets/images/aerospace-engineering-dept/events/latest-events/7.png" alt="Events Image"/></figure>
+                            <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/latest-events/7.png" target="_blank">
+                                <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/latest-events/7.png" alt="Events Image"/></figure>
                             </a>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">On the day of Sci-Star event, Department has conducted Drone show Exhibition on 24/01/2024</h3>
@@ -73,8 +73,8 @@ const AerospaceDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <a data-fslightbox href="assets/images/aerospace-engineering-dept/events/latest-events/1.png" target="_blank">
-                                <figure><img src="assets/images/aerospace-engineering-dept/events/latest-events/1.png" alt="Events Image"/></figure>
+                            <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/latest-events/1.png" target="_blank">
+                                <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/latest-events/1.png" alt="Events Image"/></figure>
                             </a>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Quiz and Poster presentation Conducted on 13/08/2024</h3>
@@ -84,8 +84,8 @@ const AerospaceDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <a data-fslightbox href="assets/images/aerospace-engineering-dept/events/latest-events/2.png" target="_blank">
-                                <figure><img src="assets/images/aerospace-engineering-dept/events/latest-events/2.png" alt="Events Image"/></figure>
+                            <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/latest-events/2.png" target="_blank">
+                                <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/latest-events/2.png" alt="Events Image"/></figure>
                             </a>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">On National Space Day, Seminar, quiz and Movie Screening on India’s Space History are
@@ -197,7 +197,7 @@ const AerospaceDeptEvents = () => {
                <div className="col-lg-4 col-md-12 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                          <figure><img src="assets/images/aerospace-engineering-dept/sports/sport1.jpg" alt="Events Image"/></figure>
+                          <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/sports/sport1.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">BOYS SPORTS TEAM FROM AERONAUTICAL ENGINEERING</h3>
                     </div>
@@ -206,7 +206,7 @@ const AerospaceDeptEvents = () => {
                   <div className="col-lg-4 col-md-12 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                          <figure><img src="assets/images/aerospace-engineering-dept/sports/sport2.jpg" alt="Events Image"/></figure>
+                          <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/sports/sport2.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">GIRLS SPORTS TEAM FROM AERONAUTICAL ENGINEERING</h3>
                     </div>
@@ -215,7 +215,7 @@ const AerospaceDeptEvents = () => {
                   <div className="col-lg-4 col-md-12 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                          <figure><img src="assets/images/aerospace-engineering-dept/sports/sport3.jpg" alt="Events Image"/></figure>
+                          <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/sports/sport3.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">WINNERS AT NATIONAL LEVEL VOLLEYBALL COMPETITION</h3>
                     </div>
@@ -224,7 +224,7 @@ const AerospaceDeptEvents = () => {
                   <div className="col-lg-4 col-md-12 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                          <figure><img src="assets/images/aerospace-engineering-dept/sports/sport4.jpg" alt="Events Image"/></figure>
+                          <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/sports/sport4.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">WINNERS FELICITATION BY HOD</h3>
                     </div>
@@ -233,7 +233,7 @@ const AerospaceDeptEvents = () => {
                   <div className="col-lg-4 col-md-12 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                          <figure><img src="assets/images/aerospace-engineering-dept/sports/sport5.jpg" alt="Events Image"/></figure>
+                          <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/sports/sport5.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">NATIONAL WINNERS WITH DEPARTMENT FACULTIES</h3>
                     </div>
@@ -242,7 +242,7 @@ const AerospaceDeptEvents = () => {
                   <div className="col-lg-4 col-md-12 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                          <figure><img src="assets/images/aerospace-engineering-dept/sports/sport6.jpg" alt="Events Image"/></figure>
+                          <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/sports/sport6.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">DEPARTMENT SPORTS ACTIVITY 2023-2024</h3>
                     </div>
@@ -256,8 +256,8 @@ const AerospaceDeptEvents = () => {
                 <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <a data-fslightbox href="assets/images/aerospace-engineering-dept/events/vibrant-2023/vibrant1.jpeg" target="_blank">
-                                <figure><img src="assets/images/aerospace-engineering-dept/events/vibrant-2023/vibrant1.jpeg" alt="Events Image"/></figure>
+                            <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/vibrant-2023/vibrant1.jpeg" target="_blank">
+                                <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/vibrant-2023/vibrant1.jpeg" alt="Events Image"/></figure>
                             </a>
                         </div>
                         
@@ -269,8 +269,8 @@ const AerospaceDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <a data-fslightbox href="assets/images/aerospace-engineering-dept/events/vibrant-2023/vibrant2.jpeg" target="_blank">
-                                <figure><img src="assets/images/aerospace-engineering-dept/events/vibrant-2023/vibrant2.jpeg" alt="Events Image"/></figure>
+                            <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/vibrant-2023/vibrant2.jpeg" target="_blank">
+                                <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/vibrant-2023/vibrant2.jpeg" alt="Events Image"/></figure>
                             </a>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">VIBRANT 2K23 DRONE RUSH - 2</h3>
@@ -280,8 +280,8 @@ const AerospaceDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <a data-fslightbox href="assets/images/aerospace-engineering-dept/events/vibrant-2023/vibrant3.jpeg" target="_blank">
-                                <figure><img src="assets/images/aerospace-engineering-dept/events/vibrant-2023/vibrant3.jpeg" alt="Events Image"/></figure>
+                            <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/vibrant-2023/vibrant3.jpeg" target="_blank">
+                                <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/vibrant-2023/vibrant3.jpeg" alt="Events Image"/></figure>
                             </a>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">VIBRANT 2K23 DRONE RUSH -3</h3>
@@ -297,8 +297,8 @@ const AerospaceDeptEvents = () => {
              <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <a data-fslightbox href="assets/images/aerospace-engineering-dept/events/poster-presentation/poster-presentation1.jpeg" target="_blank">
-                                <figure><img src="assets/images/aerospace-engineering-dept/events/poster-presentation/poster-presentation1.jpeg" alt="Events Image"/></figure>
+                            <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/poster-presentation/poster-presentation1.jpeg" target="_blank">
+                                <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/poster-presentation/poster-presentation1.jpeg" alt="Events Image"/></figure>
                             </a>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">POSTER PRESENTATION - 1</h3>
@@ -308,8 +308,8 @@ const AerospaceDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <a data-fslightbox href="assets/images/aerospace-engineering-dept/events/poster-presentation/poster-presentation2.jpeg" target="_blank">
-                                <figure><img src="assets/images/aerospace-engineering-dept/events/poster-presentation/poster-presentation2.jpeg" alt="Events Image"/></figure>
+                            <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/poster-presentation/poster-presentation2.jpeg" target="_blank">
+                                <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/poster-presentation/poster-presentation2.jpeg" alt="Events Image"/></figure>
                             </a>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">POSTER PRESENTATION - 2</h3>
@@ -325,8 +325,8 @@ const AerospaceDeptEvents = () => {
                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <a data-fslightbox href="assets/images/aerospace-engineering-dept/events/photography/photography1.jpg" target="_blank">
-                                <figure><img src="assets/images/aerospace-engineering-dept/events/photography/photography1.jpg" alt="Events Image"/></figure>
+                            <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/photography/photography1.jpg" target="_blank">
+                                <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/photography/photography1.jpg" alt="Events Image"/></figure>
                             </a>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">PHOTOGRAPHY EVENT 2021 WINNERS - 1</h3>
@@ -336,8 +336,8 @@ const AerospaceDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <a data-fslightbox href="assets/images/aerospace-engineering-dept/events/photography/photography2.jpg" target="_blank">
-                                <figure><img src="assets/images/aerospace-engineering-dept/events/photography/photography2.jpg" alt="Events Image"/></figure>
+                            <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/photography/photography2.jpg" target="_blank">
+                                <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/photography/photography2.jpg" alt="Events Image"/></figure>
                             </a>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">PHOTOGRAPHY EVENT 2021 WINNERS - 22</h3>
@@ -346,8 +346,8 @@ const AerospaceDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <a data-fslightbox href="assets/images/aerospace-engineering-dept/events/photography/photography3.jpg" target="_blank">
-                                <figure><img src="assets/images/aerospace-engineering-dept/events/photography/photography3.jpg" alt="Events Image"/></figure>
+                            <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/photography/photography3.jpg" target="_blank">
+                                <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/photography/photography3.jpg" alt="Events Image"/></figure>
                             </a>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">PHOTOGRAPHY EVENT 2021 WINNERS</h3>
@@ -363,8 +363,8 @@ const AerospaceDeptEvents = () => {
                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <a data-fslightbox href="assets/images/aerospace-engineering-dept/events/womens-day/womens-day1.jpg" target="_blank">
-                                <figure><img src="assets/images/aerospace-engineering-dept/events/womens-day/womens-day1.jpg" alt="Events Image"/></figure>
+                            <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/womens-day/womens-day1.jpg" target="_blank">
+                                <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/womens-day/womens-day1.jpg" alt="Events Image"/></figure>
                             </a>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">WOMENS DAY CELEBRATION</h3>
@@ -374,8 +374,8 @@ const AerospaceDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <a data-fslightbox href="assets/images/aerospace-engineering-dept/events/womens-day/womens-day2.jpg" target="_blank">
-                                <figure><img src="assets/images/aerospace-engineering-dept/events/womens-day/womens-day2.jpg" alt="Events Image"/></figure>
+                            <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/womens-day/womens-day2.jpg" target="_blank">
+                                <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/womens-day/womens-day2.jpg" alt="Events Image"/></figure>
                             </a>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">WOMENS DAY CELEBRATION</h3>
@@ -391,8 +391,8 @@ const AerospaceDeptEvents = () => {
                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <a data-fslightbox href="assets/images/aerospace-engineering-dept/events/freshers-party/freshers-party1.jpg" target="_blank">
-                                <figure><img src="assets/images/aerospace-engineering-dept/events/freshers-party/freshers-party1.jpg" alt="Events Image"/></figure>
+                            <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/freshers-party/freshers-party1.jpg" target="_blank">
+                                <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/freshers-party/freshers-party1.jpg" alt="Events Image"/></figure>
                             </a>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">FRESHERS PARTY</h3>
@@ -402,8 +402,8 @@ const AerospaceDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <a data-fslightbox href="assets/images/aerospace-engineering-dept/events/freshers-party/freshers-party2.jpg" target="_blank">
-                                <figure><img src="assets/images/aerospace-engineering-dept/events/freshers-party/freshers-party2.jpg" alt="Events Image"/></figure>
+                            <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/freshers-party/freshers-party2.jpg" target="_blank">
+                                <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/freshers-party/freshers-party2.jpg" alt="Events Image"/></figure>
                             </a>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">FRESHERS PARTY</h3>
@@ -413,8 +413,8 @@ const AerospaceDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <a data-fslightbox href="assets/images/aerospace-engineering-dept/events/freshers-party/freshers-party3.jpg" target="_blank">
-                                <figure><img src="assets/images/aerospace-engineering-dept/events/freshers-party/freshers-party3.jpg" alt="Events Image"/></figure>
+                            <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/freshers-party/freshers-party3.jpg" target="_blank">
+                                <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/freshers-party/freshers-party3.jpg" alt="Events Image"/></figure>
                             </a>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">FRESHERS PARTY</h3>
@@ -424,8 +424,8 @@ const AerospaceDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <a data-fslightbox href="assets/images/aerospace-engineering-dept/events/freshers-party/freshers-party4.jpg" target="_blank">
-                                <figure><img src="assets/images/aerospace-engineering-dept/events/freshers-party/freshers-party4.jpg" alt="Events Image"/></figure>
+                            <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/freshers-party/freshers-party4.jpg" target="_blank">
+                                <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/freshers-party/freshers-party4.jpg" alt="Events Image"/></figure>
                             </a>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">FRESHERS PARTY</h3>
@@ -441,8 +441,8 @@ const AerospaceDeptEvents = () => {
               <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <a data-fslightbox href="assets/images/aerospace-engineering-dept/events/game-of-drones/game-of-drones1.jpg" target="_blank">
-                                <figure><img src="assets/images/aerospace-engineering-dept/events/game-of-drones/game-of-drones1.jpg" alt="Events Image"/></figure>
+                            <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/game-of-drones/game-of-drones1.jpg" target="_blank">
+                                <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/game-of-drones/game-of-drones1.jpg" alt="Events Image"/></figure>
                             </a>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">GAME OF DRONES COMPETITION</h3>
@@ -452,8 +452,8 @@ const AerospaceDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <a data-fslightbox href="assets/images/aerospace-engineering-dept/events/game-of-drones/game-of-drones2.jpg" target="_blank">
-                                <figure><img src="assets/images/aerospace-engineering-dept/events/game-of-drones/game-of-drones2.jpg" alt="Events Image"/></figure>
+                            <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/game-of-drones/game-of-drones2.jpg" target="_blank">
+                                <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/game-of-drones/game-of-drones2.jpg" alt="Events Image"/></figure>
                             </a>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">GAME OF DRONES COMPETITION</h3>
@@ -463,8 +463,8 @@ const AerospaceDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <a data-fslightbox href="assets/images/aerospace-engineering-dept/events/game-of-drones/game-of-drones3.jpg" target="_blank">
-                                <figure><img src="assets/images/aerospace-engineering-dept/events/game-of-drones/game-of-drones3.jpg" alt="Events Image"/></figure>
+                            <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/game-of-drones/game-of-drones3.jpg" target="_blank">
+                                <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/game-of-drones/game-of-drones3.jpg" alt="Events Image"/></figure>
                             </a>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">GAME OF DRONES COMPETITION RUNNERS</h3>
@@ -474,8 +474,8 @@ const AerospaceDeptEvents = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <a data-fslightbox href="assets/images/aerospace-engineering-dept/events/game-of-drones/game-of-drones4.jpg" target="_blank">
-                                <figure><img src="assets/images/aerospace-engineering-dept/events/game-of-drones/game-of-drones4.jpg" alt="Events Image"/></figure>
+                            <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/game-of-drones/game-of-drones4.jpg" target="_blank">
+                                <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/events/game-of-drones/game-of-drones4.jpg" alt="Events Image"/></figure>
                             </a>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">VIBRANT 2K20 GAME OF GUIDE AND GLIDE COMPETITION</h3>

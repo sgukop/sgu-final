@@ -5,19 +5,19 @@ const ResidentialFacilities = () => {
  
     const residential = [
     {
-        imgSrc: "assets/images/hostel/hostel1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/hostel/hostel1.jpg",
     },
     {
-        imgSrc: "assets/images/hostel/hostel2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/hostel/hostel2.jpg",
     },
     {
-        imgSrc: "assets/images/hostel/hostel3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/hostel/hostel3.jpg",
     },
     {
-        imgSrc: "assets/images/hostel/hostel4.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/hostel/hostel4.jpg",
     },
     {
-        imgSrc: "assets/images/hostel/hostel5.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/hostel/hostel5.jpg",
     },
 ]
  return (

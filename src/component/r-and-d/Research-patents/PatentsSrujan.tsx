@@ -41,7 +41,7 @@ const PatentsSrujan = () =>  {
 	            <div className="col-lg-4 col-sm-6">
 	 	            <div className="tl-1-course">
 			            <div className="tl-1-course-img">
-				            <img src="assets/images/r&d/srujan-images/product-developed1.jpeg" alt="Product Image" />
+				            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/r&d/srujan-images/product-developed1.jpeg" alt="Product Image" />
 					        <span className="tl-1-course-price">₹ 3050</span>			
                         </div>
                         <div className="tl-1-course-txt">
@@ -53,7 +53,7 @@ const PatentsSrujan = () =>  {
                 <div className="col-lg-4 col-sm-6">
 	 	            <div className="tl-1-course">
 			            <div className="tl-1-course-img">
-				            <img src="assets/images/r&d/srujan-images/product-developed2.jpeg" alt="Product Image" />
+				            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/r&d/srujan-images/product-developed2.jpeg" alt="Product Image" />
 					        <span className="tl-1-course-price">₹ 4500</span>			
                         </div>
                         <div className="tl-1-course-txt">
@@ -65,7 +65,7 @@ const PatentsSrujan = () =>  {
                 <div className="col-lg-4 col-sm-6">
 	 	            <div className="tl-1-course">
 			            <div className="tl-1-course-img">
-				            <img src="assets/images/r&d/srujan-images/product-developed3.jpeg" alt="Product Image" />
+				            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/r&d/srujan-images/product-developed3.jpeg" alt="Product Image" />
 					        <span className="tl-1-course-price">₹ 11250</span>			
                         </div>
                         <div className="tl-1-course-txt">
@@ -77,7 +77,7 @@ const PatentsSrujan = () =>  {
                 <div className="col-lg-4 col-sm-6">
 	 	            <div className="tl-1-course">
 			            <div className="tl-1-course-img">
-				            <img src="assets/images/r&d/srujan-images/product-developed4.jpeg" alt="Product Image" />
+				            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/r&d/srujan-images/product-developed4.jpeg" alt="Product Image" />
 					        <span className="tl-1-course-price">₹ 3500</span>			
                         </div>
                         <div className="tl-1-course-txt">
@@ -89,7 +89,7 @@ const PatentsSrujan = () =>  {
                 <div className="col-lg-4 col-sm-6">
 	 	            <div className="tl-1-course">
 			            <div className="tl-1-course-img">
-				            <img src="assets/images/r&d/srujan-images/product-developed5.jpeg" alt="Product Image" />
+				            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/r&d/srujan-images/product-developed5.jpeg" alt="Product Image" />
 					        <span className="tl-1-course-price">₹ ------</span>			
                         </div>
                         <div className="tl-1-course-txt">

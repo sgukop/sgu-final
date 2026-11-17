@@ -3,22 +3,22 @@ import React from "react";
 const IEEE = () => {
   const ieeephotoes = [
     {
-        imgSrc: "assets/images/photo-gallery/academics/7th Convocation Ceremony/1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/7th Convocation Ceremony/1.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/7th Convocation Ceremony/2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/7th Convocation Ceremony/2.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/7th Convocation Ceremony/3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/7th Convocation Ceremony/3.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/7th Convocation Ceremony/4.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/7th Convocation Ceremony/4.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/7th Convocation Ceremony/5.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/7th Convocation Ceremony/5.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/7th Convocation Ceremony/6.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/7th Convocation Ceremony/6.jpg",
     },
     
  ];

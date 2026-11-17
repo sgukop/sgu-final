@@ -22,7 +22,7 @@ const GeographyDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/social-science/1. Dr. UTTAM JADHAV.jpg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/social-science/1. Dr. UTTAM JADHAV.jpg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -36,7 +36,7 @@ const GeographyDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/social-science/2. Dr. INDRAJEET KAMBLE.jpg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/social-science/2. Dr. INDRAJEET KAMBLE.jpg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -50,7 +50,7 @@ const GeographyDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/social-science/4. Dr. KAPIL PATIL.jpg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/social-science/4. Dr. KAPIL PATIL.jpg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -64,7 +64,7 @@ const GeographyDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/social-science/5. Mr. VISHAL JADHAV.jpg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/social-science/5. Mr. VISHAL JADHAV.jpg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">

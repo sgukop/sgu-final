@@ -10,7 +10,7 @@ const SwinburneUniversity = () => {
      <div className="tl-11-section-heading"><h2 className="tl-11-section-title">Study Abroad Program Melbourne</h2></div>
         <div className="tl-8-course mb-30">
             <div className="tl-8-course-img">
-                    <img src="assets/images/photo-gallery/events/swinburne-university-visit/Swinburne2.jpeg" alt="University Visit Image"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/swinburne-university-visit/Swinburne2.jpeg" alt="University Visit Image"/>
             </div>
             <div className="tl-8-course-txt">
                     <p className="dark-mode-white-color">SGU students with Eminent Researcher Dr.Amrish Kulkarni at Industry 4.0 ARVR lab</p>
@@ -19,7 +19,7 @@ const SwinburneUniversity = () => {
 
         <div className="tl-8-course mb-30">
             <div className="tl-8-course-img">
-                    <img src="assets/images/photo-gallery/events/swinburne-university-visit/Swinburne3.jpeg" alt="University Visit Image"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/swinburne-university-visit/Swinburne3.jpeg" alt="University Visit Image"/>
             </div>
             <div className="tl-8-course-txt">
                     <p className="dark-mode-white-color">SGU students at the Mechatronics workshop with F1 car</p>
@@ -28,7 +28,7 @@ const SwinburneUniversity = () => {
 
         <div className="tl-8-course mb-30">
             <div className="tl-8-course-img">
-                    <img src="assets/images/photo-gallery/events/swinburne-university-visit/Swinburne-University.jpeg" alt="University Visit Image"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/swinburne-university-visit/Swinburne-University.jpeg" alt="University Visit Image"/>
             </div>
             <div className="tl-8-course-txt">
                     <p className="dark-mode-white-color">SGU students at Swinburne University of Technology with Deputy chair school of Engineering Dr. Jaideep Chandran</p>

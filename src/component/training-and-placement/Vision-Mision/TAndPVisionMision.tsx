@@ -8,7 +8,7 @@ const TAndPVisionMision = () => {
           <div className="col-lg-5">
             <div className="tl-10-fees-txt">
                 <h2 className="tl-section-title tl-10-fees-title">Vision and <span className="last-word">Mission</span></h2>
-                <img src="assets/images/electrical-electronics-engineering/vision-mission/vision-mission.png" alt="vision and mision image" />
+                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electrical-electronics-engineering/vision-mission/vision-mission.png" alt="vision and mision image" />
             </div>
           </div>
 

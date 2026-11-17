@@ -22,7 +22,7 @@ const LawDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/law/Adv. Dr. ANJALI PATIL.jpeg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/law/Adv. Dr. ANJALI PATIL.jpeg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -36,7 +36,7 @@ const LawDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/law/Vandana B..jpeg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/law/Vandana B..jpeg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -50,7 +50,7 @@ const LawDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/law/Niraj.jpeg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/law/Niraj.jpeg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -67,7 +67,7 @@ const LawDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/law/Adv. Neha Amar Salunkhe.jpeg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/law/Adv. Neha Amar Salunkhe.jpeg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -80,7 +80,7 @@ const LawDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/law/Adv Anagha Vinayak Sutar.jpeg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/law/Adv Anagha Vinayak Sutar.jpeg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -93,7 +93,7 @@ const LawDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/law/Adv. Priyanka Ramchandra Mane.jpeg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/law/Adv. Priyanka Ramchandra Mane.jpeg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -108,7 +108,7 @@ const LawDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/law/2.png" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/law/2.png" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -121,7 +121,7 @@ const LawDeptFaculty = () => {
 <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/law/Rutuja Kulkarni.jpeg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/law/Rutuja Kulkarni.jpeg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">
@@ -134,7 +134,7 @@ const LawDeptFaculty = () => {
                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                         <div className="tl-1-course-new">
                             <div className="tl-1-course-img-new">
-                                <img src="/assets/images/faculty-profile-photos/law/Revati Vichare.jpeg" alt="Faculty Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/law/Revati Vichare.jpeg" alt="Faculty Image"/>
                             </div>
 
                             <div className="tl-1-course-txt">

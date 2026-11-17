@@ -9,7 +9,7 @@ const StudentsAchievements = () => {
     <div className="col-xl-6 col-lg-10">
         <div className="tl-8-course flex flex-col rounded-[20px]">
           <div className="tl-8-course-img">
-              <img src="assets/images/civil-engineering-dept/achievements/student-achievement1.jpg" alt="Achievement Image"/>
+              <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/achievements/student-achievement1.jpg" alt="Achievement Image"/>
           </div>
           <div className="tl-8-course-txt">
               <p className="dark-mode-white-color">Mr. Akshay Chougale achieved 1st Position in IC-ACI Students Essay Competition - 2018 organized by ICACI, Mumbai</p>
@@ -20,7 +20,7 @@ const StudentsAchievements = () => {
       <div className="col-xl-6 col-lg-10">
       <div className="tl-8-course flex flex-col rounded-[20px]">
           <div className="tl-8-course-img">
-              <img src="assets/images/civil-engineering-dept/achievements/student-achievement2.jpg" alt="Achievement Image"/>
+              <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/achievements/student-achievement2.jpg" alt="Achievement Image"/>
           </div>
           <div className="tl-8-course-txt">
               <p className="dark-mode-white-color">Final year student achieved 2nd Position in Concrete Cube Test Competition – 2018 organized by ICACI, Mumbai</p>
@@ -31,7 +31,7 @@ const StudentsAchievements = () => {
       <div className="col-xl-6 col-lg-10">
       <div className="tl-8-course flex flex-col rounded-[20px]">
           <div className="tl-8-course-img">
-              <img src="assets/images/civil-engineering-dept/achievements/student-achievement3.jpg" alt="Achievement Image"/>
+              <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/achievements/student-achievement3.jpg" alt="Achievement Image"/>
           </div>
           <div className="tl-8-course-txt">
               <p className="dark-mode-white-color">Mr. Yash K. Lohana achieved 3rd Position in IC-ACI Students Essay Competition- 2018 organized by ICACI, Mumbai</p>
@@ -42,7 +42,7 @@ const StudentsAchievements = () => {
       <div className="col-xl-6 col-lg-10">
       <div className="tl-8-course flex flex-col rounded-[20px]">
           <div className="tl-8-course-img">
-              <img src="assets/images/civil-engineering-dept/achievements/student-achievement4.jpg" alt="Achievement Image"/>
+              <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/achievements/student-achievement4.jpg" alt="Achievement Image"/>
           </div>
           <div className="tl-8-course-txt">
               <p className="dark-mode-white-color">Ms. Vaishnavi V. Deshinge achieved 2nd Position in IC-ACI Students' Essay Competition- 2018 organized by ICACI, Mumbai.</p>

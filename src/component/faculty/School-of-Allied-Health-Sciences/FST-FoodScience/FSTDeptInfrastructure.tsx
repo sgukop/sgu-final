@@ -24,7 +24,7 @@ const FSTDeptInfrastructure = () => {
                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex-flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <img src="assets/images/allied-health-sciences/FST/academic-infra/1.png" alt="Events Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/FST/academic-infra/1.png" alt="Events Image"/>
                         </div>
                     </div>
                   </div>
@@ -32,7 +32,7 @@ const FSTDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex-flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <img src="assets/images/allied-health-sciences/FST/academic-infra/2.png" alt="Events Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/FST/academic-infra/2.png" alt="Events Image"/>
                         </div>
                     </div>
                   </div>
@@ -40,7 +40,7 @@ const FSTDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex-flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <img src="assets/images/allied-health-sciences/FST/academic-infra/3.png" alt="Events Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/FST/academic-infra/3.png" alt="Events Image"/>
                         </div>
                     </div>
                   </div>
@@ -48,7 +48,7 @@ const FSTDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex-flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <img src="assets/images/allied-health-sciences/FST/academic-infra/4.png" alt="Events Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/FST/academic-infra/4.png" alt="Events Image"/>
                         </div>
                     </div>
                   </div>
@@ -56,7 +56,7 @@ const FSTDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex-flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <img src="assets/images/allied-health-sciences/FST/academic-infra/5.png" alt="Events Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/FST/academic-infra/5.png" alt="Events Image"/>
                         </div>
                     </div>
                   </div>
@@ -64,7 +64,7 @@ const FSTDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex-flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <img src="assets/images/allied-health-sciences/FST/academic-infra/6.png" alt="Events Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/FST/academic-infra/6.png" alt="Events Image"/>
                         </div>
                     </div>
                   </div>

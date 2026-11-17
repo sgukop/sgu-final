@@ -20,7 +20,7 @@ const MechanicalDeptProgrammes = () => {
                 <div className="row gy-4 gy-sm-5 tl-1-blogs-row justify-content-center">
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/mechanical-engineering-dept/programmes/about-btech.png" alt="Mechanical UG Image" className="tl-1-blog-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mechanical-engineering-dept/programmes/about-btech.png" alt="Mechanical UG Image" className="tl-1-blog-img"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/mechanical-UG-program">UG</Link></h4>
                                     <Link href="/mechanical-UG-program" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
@@ -30,7 +30,7 @@ const MechanicalDeptProgrammes = () => {
 
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/mechanical-engineering-dept/programmes/about-mtech.png" alt="Mechanical PG Image" className="tl-1-blog-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mechanical-engineering-dept/programmes/about-mtech.png" alt="Mechanical PG Image" className="tl-1-blog-img"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/mechanical-PG-program">PG</Link></h4>
                                     <Link href="/mechanical-PG-program" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>

@@ -28,7 +28,7 @@ const AIMLDeptActivities = () => {
       <div className="tl-9-event-img">
         <figure>
           <img
-            src="assets/images/AIML/activities&achievements/5.png"
+            src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/activities&achievements/5.png"
             alt="Students at Capgemini Hackathon"
           />
         </figure>
@@ -57,7 +57,7 @@ const AIMLDeptActivities = () => {
       <div className="tl-9-event-img">
         <figure>
           <img
-            src="assets/images/AIML/activities&achievements/1.jpeg"
+            src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/activities&achievements/1.jpeg"
             alt="Students at Capgemini Hackathon"
           />
         </figure>
@@ -70,7 +70,7 @@ const AIMLDeptActivities = () => {
       <div className="tl-9-event-img">
         <figure>
           <img
-            src="assets/images/AIML/activities&achievements/2.jpeg"
+            src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/activities&achievements/2.jpeg"
             alt="Students participating in Capgemini Hackathon"
           />
         </figure>
@@ -83,7 +83,7 @@ const AIMLDeptActivities = () => {
       <div className="tl-9-event-img">
         <figure>
           <img
-            src="assets/images/AIML/activities&achievements/3.jpeg"
+            src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/activities&achievements/3.jpeg"
             alt="Students participating in Capgemini Hackathon"
           />
         </figure>
@@ -98,7 +98,7 @@ const AIMLDeptActivities = () => {
                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/AIML/activities&achievements/AIML01.jpeg" alt="Activities & Achievements Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/activities&achievements/AIML01.jpeg" alt="Activities & Achievements Image"/></figure>
                         </div>
                         
                     </div>
@@ -107,7 +107,7 @@ const AIMLDeptActivities = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                        <figure><img src="assets/images/AIML/activities&achievements/AIML02.jpg" alt="Activities & Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/activities&achievements/AIML02.jpg" alt="Activities & Achievements Image"/></figure>
                         </div>
                         
                     </div>
@@ -119,7 +119,7 @@ const AIMLDeptActivities = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                        <figure><img src="assets/images/AIML/activities&achievements/AIML05.jpg" alt="Activities & Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/activities&achievements/AIML05.jpg" alt="Activities & Achievements Image"/></figure>
                         </div>
                         
                     </div>
@@ -128,7 +128,7 @@ const AIMLDeptActivities = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                        <figure><img src="assets/images/AIML/activities&achievements/AIML06.jpg" alt="Activities & Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/activities&achievements/AIML06.jpg" alt="Activities & Achievements Image"/></figure>
                         </div>
                         
                     </div>
@@ -139,7 +139,7 @@ const AIMLDeptActivities = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                        <figure><img src="assets/images/AIML/activities&achievements/AIML07.jpg" alt="Activities & Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/activities&achievements/AIML07.jpg" alt="Activities & Achievements Image"/></figure>
                         </div>
                        
                     </div>
@@ -148,7 +148,7 @@ const AIMLDeptActivities = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                        <figure><img src="assets/images/AIML/activities&achievements/AIML08.jpg" alt="Activities & Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/activities&achievements/AIML08.jpg" alt="Activities & Achievements Image"/></figure>
                         </div>
                         
                     </div>
@@ -156,7 +156,7 @@ const AIMLDeptActivities = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                        <figure><img src="assets/images/AIML/activities&achievements/AIML26.jpg" alt="Activities & Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/activities&achievements/AIML26.jpg" alt="Activities & Achievements Image"/></figure>
                         </div>
                         
                     </div>
@@ -170,7 +170,7 @@ const AIMLDeptActivities = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                        <figure><img src="assets/images/AIML/activities&achievements/AIML12.jpg" alt="Activities & Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/activities&achievements/AIML12.jpg" alt="Activities & Achievements Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Code Wave Inauguration</h3>
                     </div>
@@ -180,7 +180,7 @@ const AIMLDeptActivities = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                        <figure><img src="assets/images/AIML/activities&achievements/AIML14.jpg" alt="Activities & Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/activities&achievements/AIML14.jpg" alt="Activities & Achievements Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">BOS Meeting</h3>
                     </div>
@@ -191,7 +191,7 @@ const AIMLDeptActivities = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                        <figure><img src="assets/images/AIML/activities&achievements/AIML15.jpg" alt="Activities & Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/activities&achievements/AIML15.jpg" alt="Activities & Achievements Image"/></figure>
                         </div>
                         
                     </div>
@@ -200,7 +200,7 @@ const AIMLDeptActivities = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                        <figure><img src="assets/images/AIML/activities&achievements/AIML16.jpg" alt="Activities & Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/activities&achievements/AIML16.jpg" alt="Activities & Achievements Image"/></figure>
                         </div>
                         
                     </div>
@@ -209,7 +209,7 @@ const AIMLDeptActivities = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                        <figure><img src="assets/images/AIML/activities&achievements/AIML17 (1).jpg" alt="Activities & Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/activities&achievements/AIML17 (1).jpg" alt="Activities & Achievements Image"/></figure>
                         </div>
                        
                     </div>
@@ -218,7 +218,7 @@ const AIMLDeptActivities = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                        <figure><img src="assets/images/AIML/activities&achievements/AIML18.jpg" alt="Activities & Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/activities&achievements/AIML18.jpg" alt="Activities & Achievements Image"/></figure>
                         </div>
                         
                     </div>
@@ -229,7 +229,7 @@ const AIMLDeptActivities = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                        <figure><img src="assets/images/AIML/activities&achievements/AIML19.jpg" alt="Activities & Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/activities&achievements/AIML19.jpg" alt="Activities & Achievements Image"/></figure>
                         </div>
                         
                     </div>
@@ -238,7 +238,7 @@ const AIMLDeptActivities = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                        <figure><img src="assets/images/AIML/activities&achievements/AIML20.jpg" alt="Activities & Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/activities&achievements/AIML20.jpg" alt="Activities & Achievements Image"/></figure>
                         </div>
                         
                     </div>
@@ -247,14 +247,14 @@ const AIMLDeptActivities = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                        <figure><img src="assets/images/AIML/activities&achievements/AIML21.jpg" alt="Activities & Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/activities&achievements/AIML21.jpg" alt="Activities & Achievements Image"/></figure>
                         </div>
                           </div>
                   </div>
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                        <figure><img src="assets/images/AIML/activities&achievements/AIML22.jpg" alt="Activities & Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/activities&achievements/AIML22.jpg" alt="Activities & Achievements Image"/></figure>
                         </div>
                                 </div>
                   </div>
@@ -262,7 +262,7 @@ const AIMLDeptActivities = () => {
                                     <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                        <figure><img src="assets/images/AIML/activities&achievements/AIML23.jpg" alt="Activities & Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/activities&achievements/AIML23.jpg" alt="Activities & Achievements Image"/></figure>
                         </div>
                         
                     </div>
@@ -272,7 +272,7 @@ const AIMLDeptActivities = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                        <figure><img src="assets/images/AIML/activities&achievements/AIML24.jpg" alt="Activities & Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/activities&achievements/AIML24.jpg" alt="Activities & Achievements Image"/></figure>
                         </div>
                             </div>
                   </div>
@@ -280,7 +280,7 @@ const AIMLDeptActivities = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                        <figure><img src="assets/images/AIML/activities&achievements/AIML25.jpg" alt="Activities & Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/activities&achievements/AIML25.jpg" alt="Activities & Achievements Image"/></figure>
                         </div>
                          </div>
                   </div>
@@ -290,7 +290,7 @@ const AIMLDeptActivities = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                        <figure><img src="assets/images/AIML/activities&achievements/AIML09.jpg" alt="Activities & Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/activities&achievements/AIML09.jpg" alt="Activities & Achievements Image"/></figure>
                         </div>
                         
                     </div>

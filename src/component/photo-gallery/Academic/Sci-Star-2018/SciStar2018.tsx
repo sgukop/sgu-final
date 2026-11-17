@@ -3,112 +3,112 @@ import React from "react";
 const SciStar2018 = () => {
   const scistar2018 = [
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/1.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/2.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/3.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/4.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/4.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/5.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/5.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/6.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/6.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/7.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/7.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/8.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/8.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/9.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/9.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/10.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/10.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/11.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/11.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/13.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/13.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/14.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/14.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/15.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/15.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/16.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/16.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/17.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/17.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/18.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/18.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/19.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/19.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/20.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/20.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/21.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/21.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/22.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/22.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/23.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/23.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/24.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/24.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/25.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/25.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/26.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/26.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/27.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/27.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/28.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/28.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/29.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/29.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/30.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/30.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/31.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/31.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/32.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/32.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/33.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/33.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/34.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/34.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/35.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/35.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/36.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/36.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2018/37.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2018/37.jpeg",
     },
  ];
 

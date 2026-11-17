@@ -7,7 +7,7 @@ const LibraryStaffMembers = () => {
         <div className="col-lg-4 col-sm-6">
        <div className="tl-2-blog tl-2-course">
            <div className="tl-2-course-img">
-               <img src="assets/images/faculty-profile-photos/female.jpg" alt="Faculty Profile Image"/>
+               <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/female.jpg" alt="Faculty Profile Image"/>
            </div>
 
            <div className="tl-2-course-txt">
@@ -40,7 +40,7 @@ const LibraryStaffMembers = () => {
     <div className="col-lg-4 col-sm-6">
     <div className="tl-2-blog tl-2-course">
         <div className="tl-2-course-img">
-            <img src="assets/images/faculty-profile-photos/library/profile1.jpg" alt="Faculty Profile Image"/>
+            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/library/profile1.jpg" alt="Faculty Profile Image"/>
         </div>
 
         <div className="tl-2-course-txt">
@@ -80,7 +80,7 @@ const LibraryStaffMembers = () => {
   {/*  <div className="col-lg-4 col-sm-6">
        <div className="tl-2-blog tl-2-course">
            <div className="tl-2-course-img">
-               <img src="assets/images/faculty-profile-photos/library/profile2.png" alt="Faculty Profile Image"/>
+               <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/library/profile2.png" alt="Faculty Profile Image"/>
            </div>
 
            <div className="tl-2-course-txt">
@@ -115,7 +115,7 @@ const LibraryStaffMembers = () => {
    <div className="col-lg-4 col-sm-6">
        <div className="tl-2-blog tl-2-course">
            <div className="tl-2-course-img">
-               <img src="assets/images/faculty-profile-photos/library/profile3.jpg" alt="Faculty Profile Image"/>
+               <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/library/profile3.jpg" alt="Faculty Profile Image"/>
            </div>
 
            <div className="tl-2-course-txt">
@@ -148,7 +148,7 @@ const LibraryStaffMembers = () => {
    <div className="col-lg-4 col-sm-6">
        <div className="tl-2-blog tl-2-course">
            <div className="tl-2-course-img">
-               <img src="assets/images/faculty-profile-photos/library/profile4.jpg" alt="Faculty Profile Image"/>
+               <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/library/profile4.jpg" alt="Faculty Profile Image"/>
            </div>
 
            <div className="tl-2-course-txt">
@@ -181,7 +181,7 @@ const LibraryStaffMembers = () => {
    <div className="col-lg-4 col-sm-6">
        <div className="tl-2-blog tl-2-course">
            <div className="tl-2-course-img">
-               <img src="assets/images/faculty-profile-photos/library/profile5.png" alt="Faculty Profile Image"/>
+               <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/library/profile5.png" alt="Faculty Profile Image"/>
            </div>
 
            <div className="tl-2-course-txt">

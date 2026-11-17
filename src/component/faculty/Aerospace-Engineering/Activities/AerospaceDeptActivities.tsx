@@ -11,7 +11,7 @@ import AerospaceDeptAchievements from '../AerospaceDeptAchievements';
 
 const AerospaceDeptActivities = () => {
     return (
-      <section className="tl-14-blogs tl-3-section-spacing" data-background="assets/images/tl-14/cta-bg.png">
+      <section className="tl-14-blogs tl-3-section-spacing" data-background="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-14/cta-bg.png">
         <div className="container-fluid">
         <div className="d-flex justify-content-center mb-50"><h2 className="tl-2-section-title py-4 rounded-tl-[40px] rounded-br-[40px] w-fit px-8 bg-[#4f70b6] font-bold text-white mx-auto">Events, Activities & Achievements</h2></div>
         <div className="row">
@@ -263,7 +263,7 @@ const AerospaceDeptActivities = () => {
         <div className="col-xl-4 col-lg-10">
             <div className="tl-8-course mb-30 flex flex-col rounded-[20px] h-full">
                 <div className="tl-8-course-img">
-                    <img src="assets/images/aerospace-engineering-dept/industrial-visit/mohite-visit.png" alt="Industrial Visit Image"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/industrial-visit/mohite-visit.png" alt="Industrial Visit Image"/>
                 </div>
                 <div className="tl-8-course-txt">
                     <h3>Mohite Hydro Power Station, Radhanagari on 28th September 2024. </h3>
@@ -274,7 +274,7 @@ const AerospaceDeptActivities = () => {
         <div className="col-xl-4 col-lg-10">
             <div className="tl-8-course mb-30 flex flex-col rounded-[20px] h-full">
                 <div className="tl-8-course-img">
-                    <img src="assets/images/aerospace-engineering-dept/industrial-visit/star-air.png" alt="Industrial Visit Image"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/industrial-visit/star-air.png" alt="Industrial Visit Image"/>
                 </div>
                 <div className="tl-8-course-txt">
                     <h3>Star Air Helicopter Division at Majlae 30th August 2024</h3>
@@ -285,7 +285,7 @@ const AerospaceDeptActivities = () => {
         <div className="col-xl-4 col-lg-10">
             <div className="tl-8-course mb-30 flex flex-col rounded-[20px] h-full">
                 <div className="tl-8-course-img">
-                    <img src="assets/images/aerospace-engineering-dept/industrial-visit/vsvesvaraya -industrial.png" alt="Industrial Visit Image"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/industrial-visit/vsvesvaraya -industrial.png" alt="Industrial Visit Image"/>
                 </div>
                 <div className="tl-8-course-txt">
                     <h3>Visvesvaraya Industrial and Technological Museum Bangalore 22nd August 2024. </h3>
@@ -296,7 +296,7 @@ const AerospaceDeptActivities = () => {
         <div className="col-xl-4 col-lg-10">
             <div className="tl-8-course mb-30 flex flex-col rounded-[20px] h-full">
                 <div className="tl-8-course-img">
-                    <img src="assets/images/aerospace-engineering-dept/industrial-visit/HAL-meum.png" alt="Industrial Visit Image"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/industrial-visit/HAL-meum.png" alt="Industrial Visit Image"/>
                 </div>
                 <div className="tl-8-course-txt">
                     <h3>HAL Musem  Bangalore 21st August 2024.</h3>
@@ -307,7 +307,7 @@ const AerospaceDeptActivities = () => {
         <div className="col-xl-4 col-lg-10">
             <div className="tl-8-course mb-30 flex flex-col rounded-[20px] h-full">
                 <div className="tl-8-course-img">
-                    <img src="assets/images/aerospace-engineering-dept/industrial-visit/UR-rao.png" alt="Industrial Visit Image"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/industrial-visit/UR-rao.png" alt="Industrial Visit Image"/>
                 </div>
                 <div className="tl-8-course-txt">
                     <h3>U R Rao Satellite Centre  Bangalore 20th August 2024.</h3>
@@ -318,7 +318,7 @@ const AerospaceDeptActivities = () => {
         <div className="col-xl-4 col-lg-10">
             <div className="tl-8-course mb-30 flex flex-col rounded-[20px] h-full">
                 <div className="tl-8-course-img">
-                    <img src="assets/images/aerospace-engineering-dept/industrial-visit/aditi.png" alt="Industrial Visit Image"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/industrial-visit/aditi.png" alt="Industrial Visit Image"/>
                 </div>
                 <div className="tl-8-course-txt">
                     <h3>Aiditi Industries MIDC Shiroli Kolhapur 10th September 2023</h3>
@@ -329,7 +329,7 @@ const AerospaceDeptActivities = () => {
         <div className="col-xl-4 col-lg-10">
             <div className="tl-8-course mb-30 flex flex-col rounded-[20px] h-full">
                 <div className="tl-8-course-img">
-                    <img src="assets/images/aerospace-engineering-dept/industrial-visit/vssc.png" alt="Industrial Visit Image"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/industrial-visit/vssc.png" alt="Industrial Visit Image"/>
                 </div>
                 <div className="tl-8-course-txt">
                     <h3>VSSC (ISRO) at Trivandrum 18th May 2023</h3>
@@ -340,7 +340,7 @@ const AerospaceDeptActivities = () => {
         <div className="col-xl-4 col-lg-10">
             <div className="tl-8-course mb-30 flex flex-col rounded-[20px] h-full">
                 <div className="tl-8-course-img">
-                    <img src="assets/images/aerospace-engineering-dept/industrial-visit/star-air-22-1.png" alt="Industrial Visit Image"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/industrial-visit/star-air-22-1.png" alt="Industrial Visit Image"/>
                 </div>
                 <div className="tl-8-course-txt">
                     <h3>Star Air Helicopter Division at Majlae 5th August 2022</h3>
@@ -351,7 +351,7 @@ const AerospaceDeptActivities = () => {
         <div className="col-xl-4 col-lg-10">
             <div className="tl-8-course mb-30 flex flex-col rounded-[20px] h-full">
                 <div className="tl-8-course-img">
-                    <img src="assets/images/aerospace-engineering-dept/industrial-visit/star-air-22-2.png" alt="Industrial Visit Image"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/industrial-visit/star-air-22-2.png" alt="Industrial Visit Image"/>
                 </div>
                 <div className="tl-8-course-txt">
                     <h3>Star Air Helicopter Division at Majlae 26th July 2022</h3>
@@ -362,7 +362,7 @@ const AerospaceDeptActivities = () => {
         <div className="col-xl-4 col-lg-10">
             <div className="tl-8-course mb-30 flex flex-col rounded-[20px] h-full">
                 <div className="tl-8-course-img">
-                    <img src="assets/images/aerospace-engineering-dept/industrial-visit/HAL-22.png" alt="Industrial Visit Image"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/industrial-visit/HAL-22.png" alt="Industrial Visit Image"/>
                 </div>
                 <div className="tl-8-course-txt">
                     <h3>HAL Museum at Bangalore  28th May 2022</h3>
@@ -373,7 +373,7 @@ const AerospaceDeptActivities = () => {
         <div className="col-xl-4 col-lg-10">
             <div className="tl-8-course mb-30 flex flex-col rounded-[20px] h-full">
                 <div className="tl-8-course-img">
-                    <img src="assets/images/aerospace-engineering-dept/industrial-visit/UR-rao-22.png" alt="Industrial Visit Image"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/industrial-visit/UR-rao-22.png" alt="Industrial Visit Image"/>
                 </div>
                 <div className="tl-8-course-txt">
                     <h3>U R RAO SATELLITE CENTRE (ISRO) 27th May 2022</h3>

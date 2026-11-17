@@ -52,7 +52,7 @@ const InternationalizationSGU = () => {
           ]
       };
    return (
-    <section className="tl-14-about pt-100 pb-100" data-background="assets/images/tl-14/cta-bg.png">
+    <section className="tl-14-about pt-100 pb-100" data-background="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-14/cta-bg.png">
         <div className="container">
         <h2 className="tl-9-section-title py-4 rounded-tl-[40px] rounded-br-[40px] w-fit px-8 bg-[#4f70b6] font-bold text-white mx-auto mb-50">Internationalization @SGU</h2>
           <div className="row tl-event-details-row g-2 mt-30">
@@ -79,7 +79,7 @@ const InternationalizationSGU = () => {
                 <div className="row gy-4 align-items-center">
                     <div className="col-lg-6">
                         <div>
-                            <img src="assets/images/about-university/image2.jpg" alt="vision and mision image" className="rounded-full w-full h-[600px] w-fit" style={{border: "10px solid rgb(79, 112, 182)", padding: "20px"}}/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-university/image2.jpg" alt="vision and mision image" className="rounded-full w-full h-[600px] w-fit" style={{border: "10px solid rgb(79, 112, 182)", padding: "20px"}}/>
                         </div>
                     </div>
 
@@ -106,8 +106,8 @@ const InternationalizationSGU = () => {
                     </div>
                     <div className="col-lg-6 tl-10-about-section">
                         <div className="tl-14-about-img">
-                            {/*   <img src="assets/images/SGU-global/teesside-university.jpg" alt="Teesside University" />  */}
-                            <img src="assets/images/SGU-global/teesside-university.png" alt="vision and mision image" className="rounded-full w-full h-full w-fit" style={{border: "10px solid rgb(79, 112, 182)", padding: "20px"}}/>
+                            {/*   <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/teesside-university.jpg" alt="Teesside University" />  */}
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/teesside-university.png" alt="vision and mision image" className="rounded-full w-full h-full w-fit" style={{border: "10px solid rgb(79, 112, 182)", padding: "20px"}}/>
                         </div>
                     </div>
                 </div>
@@ -122,18 +122,18 @@ const InternationalizationSGU = () => {
                             >
                                 <div className="slider-item" style={{marginBottom:"10px"}}>
                                     <div className="tl-7-about-info-card">
-                                        <img src="assets/images/SGU-global/internationalization/teesside-university/image1.jpg" alt="Teesside University Images"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/internationalization/teesside-university/image1.jpg" alt="Teesside University Images"/>
                                     </div>
                                 </div>
                                 <div className="slider-item">
                                 <div className="tl-7-about-info-card">
-                                <img src="assets/images/SGU-global/internationalization/teesside-university/image2.jpg" alt="Teesside University Images"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/internationalization/teesside-university/image2.jpg" alt="Teesside University Images"/>
                                     </div>
                                 </div>
 
                                 <div className="slider-item">
                                     <div className="tl-7-about-info-card">
-                                    <img src="assets/images/SGU-global/internationalization/teesside-university/image3.jpg" alt="Teesside University Images"/>
+                                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/internationalization/teesside-university/image3.jpg" alt="Teesside University Images"/>
                                     </div>
                                 </div>
                             </Slider>
@@ -198,7 +198,7 @@ const InternationalizationSGU = () => {
                 <div className="slider-item" style={{ marginBottom: "10px" }}>
                     <div className="tl-7-about-info-card">
                         <img
-                            src="assets/images/SGU-global/1.JPEG"
+                            src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/1.jpeg"
                             alt="INTI University Malaysia"
                         />
                     </div>
@@ -207,7 +207,7 @@ const InternationalizationSGU = () => {
                 <div className="slider-item">
                     <div className="tl-7-about-info-card">
                         <img
-                            src="assets/images/SGU-global/2.JPEG"
+                            src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/2.jpeg"
                             alt="INTI University Malaysia"
                         />
                     </div>
@@ -216,7 +216,7 @@ const InternationalizationSGU = () => {
                 <div className="slider-item">
                     <div className="tl-7-about-info-card">
                         <img
-                            src="assets/images/SGU-global/3.JPEG"
+                            src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/3.jpeg"
                             alt="INTI University Malaysia"
                         />
                     </div>
@@ -224,7 +224,7 @@ const InternationalizationSGU = () => {
                 <div className="slider-item">
                     <div className="tl-7-about-info-card">
                         <img
-                            src="assets/images/SGU-global/4.JPEG"
+                            src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/4.jpeg"
                             alt="INTI University Malaysia"
                         />
                     </div>
@@ -232,7 +232,7 @@ const InternationalizationSGU = () => {
                 <div className="slider-item">
                     <div className="tl-7-about-info-card">
                         <img
-                            src="assets/images/SGU-global/5.JPEG"
+                            src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/5.jpeg"
                             alt="INTI University Malaysia"
                         />
                     </div>
@@ -240,7 +240,7 @@ const InternationalizationSGU = () => {
                 <div className="slider-item">
                     <div className="tl-7-about-info-card">
                         <img
-                            src="assets/images/SGU-global/6.JPEG"
+                            src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/6.jpeg"
                             alt="INTI University Malaysia"
                         />
                     </div>
@@ -248,7 +248,7 @@ const InternationalizationSGU = () => {
                 <div className="slider-item">
                     <div className="tl-7-about-info-card">
                         <img
-                            src="assets/images/SGU-global/7.JPEG"
+                            src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/7.jpeg"
                             alt="INTI University Malaysia"
                         />
                     </div>
@@ -256,7 +256,7 @@ const InternationalizationSGU = () => {
                 <div className="slider-item">
                     <div className="tl-7-about-info-card">
                         <img
-                            src="assets/images/SGU-global/8.JPEG"
+                            src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/8.jpeg"
                             alt="INTI University Malaysia"
                         />
                     </div>
@@ -264,7 +264,7 @@ const InternationalizationSGU = () => {
                 <div className="slider-item">
                     <div className="tl-7-about-info-card">
                         <img
-                            src="assets/images/SGU-global/9.JPEG"
+                            src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/9.jpeg"
                             alt="INTI University Malaysia"
                         />
                     </div>
@@ -272,7 +272,7 @@ const InternationalizationSGU = () => {
                 <div className="slider-item">
                     <div className="tl-7-about-info-card">
                         <img
-                            src="assets/images/SGU-global/10.JPEG"
+                            src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/10.jpeg"
                             alt="INTI University Malaysia"
                         />
                     </div>
@@ -280,7 +280,7 @@ const InternationalizationSGU = () => {
                 <div className="slider-item">
                     <div className="tl-7-about-info-card">
                         <img
-                            src="assets/images/SGU-global/11.jpeg"
+                            src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/11.jpeg"
                             alt="INTI University Malaysia"
                         />
                     </div>
@@ -354,7 +354,7 @@ const InternationalizationSGU = () => {
                             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                                 <div className="tl-9-blog"> 
                                     <div className="tl-9-event-img">
-                                        <figure><img src="assets/images/SGU-global/internationalization/singapore-malaysia-2024/image1.jpg" alt="Singapore-Malaysia Immersion Program 2024 Image"/></figure>
+                                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/internationalization/singapore-malaysia-2024/image1.jpg" alt="Singapore-Malaysia Immersion Program 2024 Image"/></figure>
                                     </div>
                                 </div>
                             </div>
@@ -362,7 +362,7 @@ const InternationalizationSGU = () => {
                             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                                 <div className="tl-9-blog"> 
                                     <div className="tl-9-event-img">
-                                    <figure><img src="assets/images/SGU-global/internationalization/singapore-malaysia-2024/image2.jpg" alt="Singapore-Malaysia Immersion Program 2024 Image"/></figure>
+                                    <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/internationalization/singapore-malaysia-2024/image2.jpg" alt="Singapore-Malaysia Immersion Program 2024 Image"/></figure>
                                     </div>
                                 </div>
                             </div>
@@ -387,35 +387,35 @@ const InternationalizationSGU = () => {
                                 >
                                     <div className="slider-item" style={{marginBottom:"10px"}}>
                                         <div className="tl-7-about-info-card">
-                                            <img src="assets/images/SGU-global/internationalization/dubai-2023/image1.jpg" alt="Dubai 2023 Images"/>
+                                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/internationalization/dubai-2023/image1.jpg" alt="Dubai 2023 Images"/>
                                         </div>
                                     </div>
                                     <div className="slider-item">
                                         <div className="tl-7-about-info-card">
-                                            <img src="assets/images/SGU-global/internationalization/dubai-2023/image2.jpg" alt="Dubai 2023 Images"/>
+                                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/internationalization/dubai-2023/image2.jpg" alt="Dubai 2023 Images"/>
                                         </div>
                                     </div>
                                     <div className="slider-item">
                                         <div className="tl-7-about-info-card">
-                                            <img src="assets/images/SGU-global/internationalization/dubai-2023/image3.jpg" alt="Dubai 2023 Images"/>
-                                        </div>
-                                    </div>
-
-                                    <div className="slider-item">
-                                        <div className="tl-7-about-info-card">
-                                        <img src="assets/images/SGU-global/internationalization/dubai-2023/image4.jpg" alt="Dubai 2023 Images"/>
+                                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/internationalization/dubai-2023/image3.jpg" alt="Dubai 2023 Images"/>
                                         </div>
                                     </div>
 
                                     <div className="slider-item">
                                         <div className="tl-7-about-info-card">
-                                        <img src="assets/images/SGU-global/internationalization/dubai-2023/image5.jpg" alt="Dubai 2023 Images"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/internationalization/dubai-2023/image4.jpg" alt="Dubai 2023 Images"/>
                                         </div>
                                     </div>
 
                                     <div className="slider-item">
                                         <div className="tl-7-about-info-card">
-                                        <img src="assets/images/SGU-global/internationalization/dubai-2023/image6.jpg" alt="Dubai 2023 Images"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/internationalization/dubai-2023/image5.jpg" alt="Dubai 2023 Images"/>
+                                        </div>
+                                    </div>
+
+                                    <div className="slider-item">
+                                        <div className="tl-7-about-info-card">
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/internationalization/dubai-2023/image6.jpg" alt="Dubai 2023 Images"/>
                                         </div>
                                     </div>
                                 </Slider>
@@ -442,7 +442,7 @@ const InternationalizationSGU = () => {
                         <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                             <div className="tl-9-blog"> 
                                 <div className="tl-9-event-img">
-                                    <figure><img src="assets/images/SGU-global/internationalization/melbourne-2022/image1.jpg" alt="Melbourne 2022 Image"/></figure>
+                                    <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/internationalization/melbourne-2022/image1.jpg" alt="Melbourne 2022 Image"/></figure>
                                 </div>
                                 
                             </div>
@@ -451,7 +451,7 @@ const InternationalizationSGU = () => {
                         <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                             <div className="tl-9-blog"> 
                                 <div className="tl-9-event-img">
-                                <figure><img src="assets/images/SGU-global/internationalization/melbourne-2022/image2.jpg" alt="Melbourne 2022 Image"/></figure>
+                                <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/internationalization/melbourne-2022/image2.jpg" alt="Melbourne 2022 Image"/></figure>
                                 </div>
                             </div>
                         </div>

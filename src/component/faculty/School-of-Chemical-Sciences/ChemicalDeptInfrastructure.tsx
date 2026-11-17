@@ -21,7 +21,7 @@ const ChemicalDeptInfrastructure = () => {
                 <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/chemical-sciences-dept/academic-infrastructure/lab-1.jpg" alt="Infrastructure Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/academic-infrastructure/lab-1.jpg" alt="Infrastructure Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Analytical Chemistry Lab</h3>
                     </div>
@@ -29,7 +29,7 @@ const ChemicalDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/chemical-sciences-dept/academic-infrastructure/lab-2.jpg" alt="Infrastructure Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/academic-infrastructure/lab-2.jpg" alt="Infrastructure Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Organic Chemistry Lab</h3>
                       </div>
@@ -37,7 +37,7 @@ const ChemicalDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/chemical-sciences-dept/academic-infrastructure/lab-3.jpg" alt="Infrastructure Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/academic-infrastructure/lab-3.jpg" alt="Infrastructure Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Research Lab</h3>
                       </div>
@@ -45,7 +45,7 @@ const ChemicalDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/chemical-sciences-dept/academic-infrastructure/lab-4.jpg" alt="Infrastructure Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/academic-infrastructure/lab-4.jpg" alt="Infrastructure Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Engineering Chemistry Lab</h3>
                       </div>
@@ -53,7 +53,7 @@ const ChemicalDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/chemical-sciences-dept/academic-infrastructure/lab-5.jpg" alt="Infrastructure Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/academic-infrastructure/lab-5.jpg" alt="Infrastructure Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Classroom</h3>
                     </div>

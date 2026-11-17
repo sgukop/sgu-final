@@ -5,7 +5,7 @@ import MenuList from '../Reusable-components/MenuList';
 
 const LawDeptPublications = () => {
    return (
-    <section className="tl-14-about pt-100 pb-100" data-background="assets/images/tl-14/cta-bg.png">
+    <section className="tl-14-about pt-100 pb-100" data-background="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-14/cta-bg.png">
         <div className="container-fluid">
         <h2 className="tl-9-section-title mb-50">Research And Publications</h2>
         <div className="row">

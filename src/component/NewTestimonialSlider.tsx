@@ -7,7 +7,7 @@ import { Carousel } from "react-responsive-carousel";
 
 const testimonials = [
   {
-    image: "/assets/images/home/event-3.png",
+    image: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/event-3.png",
     message:
       "I had an amazing time at SGU University. The diverse community and engaging courses helped me develop both academically and personally. I had a great time. Highly recommended!",
     name: "Abhishek Patil",
@@ -15,7 +15,7 @@ const testimonials = [
     bgColor: "#2e3867",
   },
   {
-    image: "/assets/images/home/testimonials/testimonial4.png",
+    image: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/testimonials/testimonial4.png",
     message:
       "The curriculum was exceptional, and the faculty truly cared about our success. The experiences I gained will stay with me forever.",
     name: "Rohan Gupta",
@@ -23,7 +23,7 @@ const testimonials = [
     bgColor: "#4f70b6",
   },
   {
-    image: "/assets/images/home/testimonial.png",
+    image: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/testimonial.png",
     message:
       "SGU University offered me countless opportunities to grow professionally and personally. I couldn't have asked for a better experience.",
     name: "Neha Sharma",
@@ -31,7 +31,7 @@ const testimonials = [
     bgColor: "#3e4a8e",
   },
   {
-    image: "/assets/images/home/testimonials/testimonial2.png",
+    image: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/testimonials/testimonial2.png",
     message:
       "It was my immense luck and fortune to be a part of SGU University where I can grow. The entire faculty & department leaves no stone unturned to shape one's future in my four years.",
     name: "Rohan Gupta",
@@ -39,7 +39,7 @@ const testimonials = [
     bgColor: "#3e4a8e",
   },
   {
-    image: "/assets/images/home/testimonials/testimonial5.png",
+    image: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/testimonials/testimonial5.png",
     message:
       "SGU University provided me with a nurturing environment to pursue my passion for technology. The support from professors and the cutting-edge facilities made my journey unforgettable.",
     name: "Neha Sharma",

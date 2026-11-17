@@ -3,22 +3,22 @@ import React from "react";
 const OneDayWorkshop = () => {
   const workshop = [
     {
-        imgSrc: "assets/images/photo-gallery/academics/one-day-workshop/1.jfif",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/one-day-workshop/1.jfif",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/one-day-workshop/2.jfif",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/one-day-workshop/2.jfif",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/one-day-workshop/3.jfif",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/one-day-workshop/3.jfif",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/one-day-workshop/4.jfif",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/one-day-workshop/4.jfif",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/one-day-workshop/5.jfif",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/one-day-workshop/5.jfif",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/one-day-workshop/6.jfif",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/one-day-workshop/6.jfif",
     },
 ];
 

@@ -17,7 +17,7 @@ const AerospaceDeptBrochure = () => {
         <div className="row g-5 align-items-center">
             <div className="col-lg-5">
                 <div className="tl-13-banner-img text-center text-lg-end">
-                    <img src="assets/images/aerospace-engineering-dept/download-brochure-image.jpg" className="rounded-full"
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/download-brochure-image.jpg" className="rounded-full"
                     style={{border:"10px solid #4f70b6", padding:"20px"}} alt="Banner Image"/>
                 </div>
             </div>

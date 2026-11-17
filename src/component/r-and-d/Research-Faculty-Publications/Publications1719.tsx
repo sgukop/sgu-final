@@ -21,15 +21,15 @@ const Publications1719 = () => {
                     modules={[Autoplay,Navigation]}
                     className="tl-8-testimonial-slider owl-carousel">
                         <SwiperSlide className="placement-image">
-                                <img src="assets/images/r&d/faculty-publications/2017-19/17-19 PAGE1.jpg" alt="Faculty Publication for 2017-19"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/r&d/faculty-publications/2017-19/17-19 PAGE1.jpg" alt="Faculty Publication for 2017-19"/>
                         </SwiperSlide>
 
                         <SwiperSlide className="placement-image">
-                                <img src="assets/images/r&d/faculty-publications/2017-19/17-19 PAGE2.jpg" alt="Faculty Publication for 2017-19"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/r&d/faculty-publications/2017-19/17-19 PAGE2.jpg" alt="Faculty Publication for 2017-19"/>
                         </SwiperSlide>
 
                         <SwiperSlide className="placement-image">
-                                <img src="assets/images/r&d/faculty-publications/2017-19/17-19 PAGE3.jpg" alt="Faculty Publication for 2017-19"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/r&d/faculty-publications/2017-19/17-19 PAGE3.jpg" alt="Faculty Publication for 2017-19"/>
                         </SwiperSlide>
                     </Swiper>
                 </div>

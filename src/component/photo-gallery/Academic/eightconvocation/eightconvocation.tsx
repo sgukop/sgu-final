@@ -3,22 +3,22 @@ import React from "react";
 const eightconvocation = () => {
   const eightconvocation = [
     {
-        imgSrc: "assets/images/photo-gallery/academics/8th Convocation Ceremony/1.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/8th Convocation Ceremony/1.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/8th Convocation Ceremony/2.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/8th Convocation Ceremony/2.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/8th Convocation Ceremony/3.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/8th Convocation Ceremony/3.jpeg",
     },
      {
-        imgSrc: "assets/images/photo-gallery/academics/8th Convocation Ceremony/4.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/8th Convocation Ceremony/4.jpeg",
     },
 {
-        imgSrc: "assets/images/photo-gallery/academics/8th Convocation Ceremony/5.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/8th Convocation Ceremony/5.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/8th Convocation Ceremony/6.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/8th Convocation Ceremony/6.jpeg",
     },
     
 

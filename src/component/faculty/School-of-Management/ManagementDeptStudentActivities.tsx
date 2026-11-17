@@ -44,7 +44,7 @@ const ManagementDeptStudentActivities = () => {
             <div className="tl-11-section-heading"><h2 className="tl-11-section-title">Malaysia immersion program 2024</h2></div>
                <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/management-dept/new-activity/immersion-program-png.png" alt="Student Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/new-activity/immersion-program-png.png" alt="Student Activity Image"/>
                     </div>
                     <div className="tl-8-course-txt">
                       <p className="text-justify">A group of 26 students from Sanjay Gowdawat University recently completed a successful study tour to Singapore and Malaysia focusing on business research. During the tour, students visited UCSI University in Malaysia, Where they received up-to-date, technical information on business research and a certificate course on data analytics. Additionally, they visited Bursa Malaysia, the Malaysia Stock exchange, where an educational session covered Stock exchange operations, financial products and securities. In Singapore, the group explored Marina South Pier where they gained in-depth knowledge about international Maritime import and export processes. The tour also includes visits to several notable locations, allowing students to experience the culture and lifestyle of the region. This global immersion program was coordinated by Professor Pooja Khopkar from the Management department. </p>
@@ -54,7 +54,7 @@ const ManagementDeptStudentActivities = () => {
             <div className="tl-11-section-heading"><h2 className="tl-11-section-title">UdhyogExpo 2025—Kolhapur's</h2></div>
                <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/management-dept/new-activity/UdyogExpo 2025.jpg" alt="Student Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/new-activity/UdyogExpo 2025.jpg" alt="Student Activity Image"/>
                     </div>
                     <div className="tl-8-course-txt">
                        <a href="https://manage-api.sguk.ac.in/api/assets/67dbb7154f56d3a0bcfba1cc" target="_blank" rel="noopener noreferrer" className="tl-7-def-btn mt-4">View Report</a>
@@ -64,7 +64,7 @@ const ManagementDeptStudentActivities = () => {
             <div className="tl-11-section-heading"><h2 className="tl-11-section-title">ADWITIYA 2024</h2></div>
                <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/management-dept/new-activity/adwitiya-2024.png" alt="Student Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/new-activity/adwitiya-2024.png" alt="Student Activity Image"/>
                     </div>
                     <div className="tl-8-course-txt">
                         <p className="dark-mode-white-color"><strong>ADWITYA 2024</strong> was an all-encompassing, multidisciplinary student competition aimed at fostering excellence in intellect, creativity, and physical endurance. It served as a platform where participants could challenge themselves across a range of activities designed to test their cognitive abilities, teamwork, artistic expression, and physical stamina.</p>
@@ -75,7 +75,7 @@ const ManagementDeptStudentActivities = () => {
                 <div className="tl-11-section-heading"><h2 className="tl-11-section-title">Biz Bazaar</h2></div>
                 <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/management-dept/new-activity/biz-bazaar.png" alt="Student Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/new-activity/biz-bazaar.png" alt="Student Activity Image"/>
                     </div>
                     <div className="tl-8-course-txt">
                         <p className="dark-mode-white-color">The Star BizBazaar event was held on October 17th and 18th, 2024 at the food court on the campus of Sanjay Ghodawat University (SGU). This innovative initiative was organized by the Faculty of Commerce and Management and mainly sponsored by GS Tea, Chakote Bakers, Nandani and Girish Sales, Kolhapur at SGU to provide students with a platform to explore entrepreneurial opportunities and gain practical experience in diverse business activities. The total sponsorship for the event was approx 1,50,000/-. By combining business activities with cultural performances, the event created an engaging and well rounded experience for all participants.</p>
@@ -86,7 +86,7 @@ const ManagementDeptStudentActivities = () => {
                 <div className="tl-11-section-heading"><h2 className="tl-11-section-title">Global Immersion Program: Dubai Visit Report</h2></div>
                 <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/management-dept/new-activity/dubai-visit.png" alt="Student Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/new-activity/dubai-visit.png" alt="Student Activity Image"/>
                     </div>
                     <div className="tl-8-course-txt">
                         <p className="dark-mode-white-color">As part of Sanjay Ghodawat University's Global Immersion Program, 18 students travelled to Dubai from October 29 to November 4, 2023. This program aimed to provide students with international exposure, enhance their understanding of global business practices, and offer hands-on learning experiences. The program included a certification course on "Data Analytics" and visits to various significant places in Dubai. The global immersion program was coordinated by Professor Sagar Kurane from the MBA Department.</p>
@@ -96,7 +96,7 @@ const ManagementDeptStudentActivities = () => {
                 <div className="tl-11-section-heading"><h2 className="tl-11-section-title">ANANTKALA 2024</h2></div>
                 <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/management-dept/new-activity/anantkala- 2024.png" alt="Student Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/new-activity/anantkala- 2024.png" alt="Student Activity Image"/>
                     </div>
                     <div className="tl-8-course-txt">
                         <p className="dark-mode-white-color"><strong>Anant Kala 2024,</strong> a grand celebration of the Ganpati festival, was successfully conducted on 5th September 2024. The event brought together people from different walks of life to celebrate the spirit of unity, devotion, and creativity through various cultural and religious activities centered around Lord Ganesha.</p>
@@ -107,7 +107,7 @@ const ManagementDeptStudentActivities = () => {
                 <div className="tl-11-section-heading"><h2 className="tl-11-section-title">Shark Hunt - Business Plan Competition</h2></div>
                 <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/management-dept/new-activity/shark-hunt.png" alt="Student Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/new-activity/shark-hunt.png" alt="Student Activity Image"/>
                     </div>
                     <div className="tl-8-course-txt">
                         <p className="dark-mode-white-color">On 19th March 2024, Sanjay Ghodawat University organized an exciting event titled "Shark Hunt - Business Plan Competition" in the MBA Auditorium. This competition provided a platform for undergraduate and postgraduate students to showcase their entrepreneurial skills and innovative business ideas. The event was a resounding success, with 21 teams from various colleges participating and competing for the top prizes.The competition attracted 21 teams from different colleges, all eager to present their unique business plans to a panel of esteemed judges. Each team had the opportunity to pitch their ideas, which were evaluated based on innovation, feasibility, market potential, and overall presentation.</p>
@@ -118,7 +118,7 @@ const ManagementDeptStudentActivities = () => {
                 <div className="tl-11-section-heading"><h2 className="tl-11-section-title">CPBFI Course Conducted by Bajaj Finserv</h2></div>
                 <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/management-dept/new-activity/bajaj-finserv.png" alt="Student Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/new-activity/bajaj-finserv.png" alt="Student Activity Image"/>
                     </div>
                     <div className="tl-8-course-txt">
                         <p className="dark-mode-white-color">The Certificate Programme in Banking, Finance, and Insurance (CPBFI) was organized by Bajaj Finserv for second-year MBA students from July 8th to July 24th , 2024. The Certificate Programme in Banking, Finance & Insurance (CPBFI) commenced with a well-structured curriculum aimed at providing in-depth knowledge and practical skills in the fields of banking, finance, and insurance. The programme was divided into distinct modules, each focusing on a specific area and conducted by expert instructor.</p>
@@ -137,7 +137,7 @@ const ManagementDeptStudentActivities = () => {
                 <div className="tl-11-section-heading"><h2 className="tl-11-section-title">Discovering Business Mastery at Warana Dairy (Industrial Visit)</h2></div>
                 <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/management-dept/new-activity/warana-dairy.png" alt="Student Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/new-activity/warana-dairy.png" alt="Student Activity Image"/>
                     </div>
                     <div className="tl-8-course-txt">
                         <p className="dark-mode-white-color">On September 20 th , 2024, the management students of Sanjay Ghodawat University (SGU) embarked on an industrial visit to Warana Dairy a cooperative society Manufacturer of milk products in Kolhapur, Maharashtra. Shree Warana Sahakary Dudh Utpadack Prakriva Sangh Ltd. Kolhapur, this visit offered students a chance to witness real-world business operations firsthand. Warana dairy was established in the year 1968, by Late Shri. Tatyasaheb Kore with the financial assistance provided by shareholders and State Government. The objective of establishing this dairy was to improve the milk producer's economical, social and educational leave and to provide the employment.</p>
@@ -147,7 +147,7 @@ const ManagementDeptStudentActivities = () => {
                 <div className="tl-11-section-heading"><h2 className="tl-11-section-title">Guest Lecture on "Awareness on Financial Literacy and Career Opportunities in the Financial Industry"</h2></div>
                 <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/management-dept/new-activity/awarness.png" alt="Student Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/new-activity/awarness.png" alt="Student Activity Image"/>
                     </div>
                     <div className="tl-8-course-txt">
                         <p className="dark-mode-white-color">On 30th April 2024, Sanjay Ghodawat University had the privilege of hosting a guest lecture by Mr. Suhas Rajput, a distinguished financial expert, on the topic "Awareness on Financial Literacy and Career Opportunities in the Financial Industry." The event saw enthusiastic participation from both undergraduate and postgraduate students, eager to gain insights into the financial sector.</p>
@@ -157,7 +157,7 @@ const ManagementDeptStudentActivities = () => {
                 <div className="tl-11-section-heading"><h2 className="tl-11-section-title">Personal Selling Activity Conducted by MBA Students at SGU's School of Management</h2></div>
                 <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/management-dept/new-activity/personal-selling-activity.png" alt="Student Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/new-activity/personal-selling-activity.png" alt="Student Activity Image"/>
                     </div>
                     <div className="tl-8-course-txt">
                         <p className="dark-mode-white-color">This report provides an overview of a personal selling activity conducted by MBA students at the School of Management, SGU. The exercise was designed to give students hands-on experience in personal selling, enhance their understanding of sales techniques, and develop their interpersonal and negotiation skills.</p>
@@ -167,7 +167,7 @@ const ManagementDeptStudentActivities = () => {
                 <div className="tl-11-section-heading"><h2 className="tl-11-section-title">"Bharat Ki Jhalak" Organized by BBA Students at SGU's School of Management</h2></div>
                 <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/management-dept/new-activity/bharat-ki-jalak.png" alt="Student Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/new-activity/bharat-ki-jalak.png" alt="Student Activity Image"/>
                     </div>
                     <div className="tl-8-course-txt">
                         <p className="dark-mode-white-color">On March 14, 2024, the BBA students of SGU's School of Management organized an event titled "Bharat Ki Jhalak" to celebrate and showcase the rich cultural heritage of India. The event aimed to provide students and faculty with an immersive experience of India's diverse traditions, cuisines, and artistic expressions.</p>
@@ -177,7 +177,7 @@ const ManagementDeptStudentActivities = () => {
                 <div className="tl-11-section-heading"><h2 className="tl-11-section-title">Discovering Business Mastery at Salgar Amrutatulya- (Industrial visit)</h2></div>
                 <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/management-dept/new-activity/amrutatulya.png" alt="Student Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/new-activity/amrutatulya.png" alt="Student Activity Image"/>
                     </div>
                     <div className="tl-8-course-txt">
                         <p className="dark-mode-white-color">On August 2, 2024, the management students of Sanjay Ghodawat University (SGU) embarked on an industrial visit to Salgar Amrutatulya, a medium-scale manufacturer of tea, coffee, and masala packets in Kolhapur, Maharashtra. Located in the Gur market on Chandran Menon Road, Shahu Market yard, this visit offered students a chance to witness real-world business operations firsthand. Salgar Amrutatulya, founded by Dadu Salgar, has grown from humble beginnings to become a respected name in the local beverage and spice market. The company is known for its quality products that cater to regional tastes, offering a range of tea blends, coffee mixes, and spice packets. What distinguishes Salgar Amrutatulya is its successful balance of traditional flavors with modern manufacturing techniques.</p>
@@ -187,7 +187,7 @@ const ManagementDeptStudentActivities = () => {
                 <div className="tl-11-section-heading"><h2 className="tl-11-section-title">“Hingmire Group (Trust, Quality, Group)” (Industrial Visit)</h2></div>
                 <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/management-dept/new-activity/hingmire.png" alt="Student Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/new-activity/hingmire.png" alt="Student Activity Image"/>
                     </div>
                     <div className="tl-8-course-txt">
                         <p className="dark-mode-white-color">On 4th October, 2024, the management students of Sanjay Ghodawat University (SGU) embarked on an industrial visit to M/s. Hingmire Trading Company , traders of raisins in Tasgaon, Maharashtra, this visit offered students a chance to witness real-world business operations firsthand. M/s. Hingmire Trading Company was the firm founded by Revan Kaka & Maharudra Nana Hingmire in 1987 . Now it's running successfully in hands of their third generation. We source these Raisins from the renowned vendors of industry, who process these at par with the hygiene standards followed in food industry, maintaining their nutritive value.The visit was designed to give students insight into various aspects of business operations, from production and quality control to marketing and distribution, aligning theoretical knowledge with practical applications.</p>
@@ -199,7 +199,7 @@ const ManagementDeptStudentActivities = () => {
                 <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/commerce-dept/activities/sports/sport1.jpeg" alt="Academic Infrastructure Image" /></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/activities/sports/sport1.jpeg" alt="Academic Infrastructure Image" /></figure>
                         </div>
                       
                     </div>
@@ -208,7 +208,7 @@ const ManagementDeptStudentActivities = () => {
                 <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/commerce-dept/activities/sports/sport2.jpeg" alt="Academic Infrastructure Image" /></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/activities/sports/sport2.jpeg" alt="Academic Infrastructure Image" /></figure>
                         </div>
                       
                     </div>
@@ -217,7 +217,7 @@ const ManagementDeptStudentActivities = () => {
                 <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/commerce-dept/activities/sports/sport7.jpeg" alt="Academic Infrastructure Image" /></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/activities/sports/sport7.jpeg" alt="Academic Infrastructure Image" /></figure>
                         </div>
                        
                     </div>
@@ -226,7 +226,7 @@ const ManagementDeptStudentActivities = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/commerce-dept/activities/sports/sport8.jpeg" alt="Academic Infrastructure Image" /></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/activities/sports/sport8.jpeg" alt="Academic Infrastructure Image" /></figure>
                         </div>
                        
                     </div>
@@ -235,7 +235,7 @@ const ManagementDeptStudentActivities = () => {
                    <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/commerce-dept/activities/sports/sport9.jpeg" alt="Academic Infrastructure Image" /></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/activities/sports/sport9.jpeg" alt="Academic Infrastructure Image" /></figure>
                         </div>
                        
                     </div>
@@ -244,7 +244,7 @@ const ManagementDeptStudentActivities = () => {
                 <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/commerce-dept/activities/sports/sport11.jpeg" alt="Academic Infrastructure Image" /></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/activities/sports/sport11.jpeg" alt="Academic Infrastructure Image" /></figure>
                         </div>
                        
                     </div>
@@ -253,7 +253,7 @@ const ManagementDeptStudentActivities = () => {
                 <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/commerce-dept/activities/sports/sport12.jpeg" alt="Academic Infrastructure Image" /></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/activities/sports/sport12.jpeg" alt="Academic Infrastructure Image" /></figure>
                         </div>
                        
                     </div>
@@ -262,7 +262,7 @@ const ManagementDeptStudentActivities = () => {
                 <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/commerce-dept/activities/sports/sport13.jpeg" alt="Academic Infrastructure Image" /></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/activities/sports/sport13.jpeg" alt="Academic Infrastructure Image" /></figure>
                         </div>
                        
                     </div>
@@ -270,7 +270,7 @@ const ManagementDeptStudentActivities = () => {
                 <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/commerce-dept/activities/sports/sport14.jpeg" alt="Academic Infrastructure Image" /></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/activities/sports/sport14.jpeg" alt="Academic Infrastructure Image" /></figure>
                         </div>
                 </div>
                 </div>

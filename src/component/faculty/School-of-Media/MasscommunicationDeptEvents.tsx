@@ -6,78 +6,78 @@ const MasscommunicationDeptEvents = () => {
 
   const inaugurationEvent = [
     {
-      imgSrc: "assets/images/mass-communication-dept/events/inauguration1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/events/inauguration1.jpg",
     },
     {
-        imgSrc: "assets/images/mass-communication-dept/events/inauguration2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/events/inauguration2.jpg",
     },
     {
-        imgSrc: "assets/images/mass-communication-dept/events/inauguration3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/events/inauguration3.jpg",
     },
 ];
 
 const LatestEvents = [
   {
-    imgSrc: "assets/images/mass-communication-dept/events/new-event/01.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/events/new-event/01.JPG",
   },
   
   {
-      imgSrc: "assets/images/mass-communication-dept/events/new-event/03.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/events/new-event/03.JPG",
   },
   {
-    imgSrc: "assets/images/mass-communication-dept/events/new-event/06.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/events/new-event/06.jpg",
   },
   {
-    imgSrc: "assets/images/mass-communication-dept/events/new-event/07.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/events/new-event/07.jpg",
   },
   {
-    imgSrc: "assets/images/mass-communication-dept/events/new-event/08.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/events/new-event/08.jpg",
   },
   {
-    imgSrc: "assets/images/mass-communication-dept/events/new-event/09.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/events/new-event/09.jpg",
   },
   {
-    imgSrc: "assets/images/mass-communication-dept/events/new-event/10.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/events/new-event/10.jpg",
   },
 
   {
-    imgSrc: "assets/images/mass-communication-dept/events/new-events1/image1.jpeg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/events/new-events1/image1.jpeg",
   },
   {
-    imgSrc: "assets/images/mass-communication-dept/events/new-events1/image2.jpeg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/events/new-events1/image2.jpeg",
   },
   {
-    imgSrc: "assets/images/mass-communication-dept/events/new-events1/image3.jpeg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/events/new-events1/image3.jpeg",
   },
   {
-    imgSrc: "assets/images/mass-communication-dept/events/new-events1/image4.jpeg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/events/new-events1/image4.jpeg",
   },
   {
-    imgSrc: "assets/images/mass-communication-dept/events/new-events1/image5.jpeg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/events/new-events1/image5.jpeg",
   },
   {
-    imgSrc: "assets/images/mass-communication-dept/events/new-events1/image6.jpeg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/events/new-events1/image6.jpeg",
   },
   {
-    imgSrc: "assets/images/mass-communication-dept/events/new-events1/image7.jpeg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/events/new-events1/image7.jpeg",
   },
 ];
 
 const journalismEvent = [
     {
-      imgSrc: "assets/images/mass-communication-dept/events/event-SoJ1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/events/event-SoJ1.jpg",
     },
     {
-        imgSrc: "assets/images/mass-communication-dept/events/event-SoJ2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/events/event-SoJ2.jpg",
     },
 ];
 
 const filmFestival = [
     {
-      imgSrc: "assets/images/mass-communication-dept/events/bioscope1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/events/bioscope1.jpg",
     },
     {
-        imgSrc: "assets/images/mass-communication-dept/events/bioscope2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/events/bioscope2.jpg",
     },
 ];
 return (

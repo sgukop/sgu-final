@@ -13,7 +13,7 @@ const TAndPStatisticalAnalysis = () => {
                     <h2 className="tl-11-section-title">Graphical Presentation of Students Placed</h2>
                 </div>
                     <div className="tl-8-about-img">
-                        <img src="assets/images/training-and-placement/statistics-analysis/TP1.png" alt="Student Selected Graph Image" className="tl-8-about-main-img"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/training-and-placement/statistics-analysis/TP1.png" alt="Student Selected Graph Image" className="tl-8-about-main-img"/>
                     </div>
                 </div>
 
@@ -23,7 +23,7 @@ const TAndPStatisticalAnalysis = () => {
                     <h2 className="tl-11-section-title">Graphical Presentation of Students Internship</h2>
                 </div>
                     <div className="tl-8-about-img">
-                        <img src="assets/images/training-and-placement/statistics-analysis/tp2.png" alt="Companies Visited Graph Image" className="tl-8-about-main-img"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/training-and-placement/statistics-analysis/tp2.png" alt="Companies Visited Graph Image" className="tl-8-about-main-img"/>
                     </div>
                 </div>
             </div>

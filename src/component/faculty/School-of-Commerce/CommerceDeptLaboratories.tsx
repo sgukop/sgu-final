@@ -27,7 +27,7 @@ const CommerceDeptLaboratories = () => {
                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/commerce-dept/laboratories/computer-lab1.png" alt="Academic Infrastructure Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/laboratories/computer-lab1.png" alt="Academic Infrastructure Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Computer Lab No. 1</h3>
                     </div>
@@ -36,7 +36,7 @@ const CommerceDeptLaboratories = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/commerce-dept/laboratories/computer-lab2.png" alt="Academic Infrastructure Image" /></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/laboratories/computer-lab2.png" alt="Academic Infrastructure Image" /></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Computer Lab No. 2</h3>
                     </div>
@@ -45,7 +45,7 @@ const CommerceDeptLaboratories = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/commerce-dept/laboratories/classroom1.png" alt="Academic Infrastructure Image" /></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/laboratories/classroom1.png" alt="Academic Infrastructure Image" /></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">ICT Enable Classroom</h3>
                     </div>
@@ -54,7 +54,7 @@ const CommerceDeptLaboratories = () => {
                  {/* <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/commerce-dept/laboratories/classroom2.png" alt="Academic Infrastructure Image" /></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/laboratories/classroom2.png" alt="Academic Infrastructure Image" /></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Classrooms</h3>
                     </div>
@@ -63,7 +63,7 @@ const CommerceDeptLaboratories = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/commerce-dept/laboratories/smartroom.png" alt="Academic Infrastructure Image" /></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/laboratories/smartroom.png" alt="Academic Infrastructure Image" /></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Smart Classrooms</h3>
                     </div>
@@ -72,7 +72,7 @@ const CommerceDeptLaboratories = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/commerce-dept/laboratories/auditorium.png" alt="Academic Infrastructure Image" /></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/laboratories/auditorium.png" alt="Academic Infrastructure Image" /></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Auditorium</h3>
                     </div>
@@ -81,7 +81,7 @@ const CommerceDeptLaboratories = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/commerce-dept/laboratories/financeclub1.png" alt="Academic Infrastructure Image" /></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/laboratories/financeclub1.png" alt="Academic Infrastructure Image" /></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Finance Club</h3>
                     </div>
@@ -90,7 +90,7 @@ const CommerceDeptLaboratories = () => {
                  {/* <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/commerce-dept/laboratories/financeclub2.png" alt="Academic Infrastructure Image" /></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/laboratories/financeclub2.png" alt="Academic Infrastructure Image" /></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Finance Club</h3>
                     </div>

@@ -14,7 +14,7 @@ const StudentsSportsHouses = () => {
                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <Link href="#"><figure><img src="assets/images/student/sports/houses/1.jpg" alt="Sports Houses Image"/></figure></Link>
+                            <Link href="#"><figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/sports/houses/1.jpg" alt="Sports Houses Image"/></figure></Link>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">HOUSE 1</h3>
                     </div>
@@ -23,7 +23,7 @@ const StudentsSportsHouses = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <Link href="#"><figure><img src="assets/images/student/sports/houses/2.jpg" alt="Sports Houses Image"/></figure></Link>
+                            <Link href="#"><figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/sports/houses/2.jpg" alt="Sports Houses Image"/></figure></Link>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">HOUSE 2</h3>
                     </div>
@@ -32,7 +32,7 @@ const StudentsSportsHouses = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <Link href="#"><figure><img src="assets/images/student/sports/houses/3.jpg" alt="Sports Houses Image"/></figure></Link>
+                            <Link href="#"><figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/sports/houses/3.jpg" alt="Sports Houses Image"/></figure></Link>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">HOUSE 3</h3>
                     </div>
@@ -41,7 +41,7 @@ const StudentsSportsHouses = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <Link href="#"><figure><img src="assets/images/student/sports/houses/4.jpg" alt="Sports Houses Image"/></figure></Link>
+                            <Link href="#"><figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/sports/houses/4.jpg" alt="Sports Houses Image"/></figure></Link>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">HOUSE 4</h3>
                     </div>
@@ -50,7 +50,7 @@ const StudentsSportsHouses = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <Link href="#"><figure><img src="assets/images/student/sports/houses/5.jpg" alt="Sports Houses Image"/></figure></Link>
+                            <Link href="#"><figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/sports/houses/5.jpg" alt="Sports Houses Image"/></figure></Link>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">HOUSE 5</h3>
                     </div>
@@ -59,7 +59,7 @@ const StudentsSportsHouses = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <Link href="#"><figure><img src="assets/images/student/sports/houses/6.jpg" alt="Sports Houses Image"/></figure></Link>
+                            <Link href="#"><figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/sports/houses/6.jpg" alt="Sports Houses Image"/></figure></Link>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">HOUSE 6</h3>
                     </div>
@@ -68,7 +68,7 @@ const StudentsSportsHouses = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <Link href="#"><figure><img src="assets/images/student/sports/houses/7.jpg" alt="Sports Houses Image"/></figure></Link>
+                            <Link href="#"><figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/sports/houses/7.jpg" alt="Sports Houses Image"/></figure></Link>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">HOUSE 7</h3>
                     </div>
@@ -77,7 +77,7 @@ const StudentsSportsHouses = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <Link href="#"><figure><img src="assets/images/student/sports/houses/8.jpg" alt="Sports Houses Image"/></figure></Link>
+                            <Link href="#"><figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/sports/houses/8.jpg" alt="Sports Houses Image"/></figure></Link>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">HOUSE 8</h3>
                     </div>
@@ -86,7 +86,7 @@ const StudentsSportsHouses = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <Link href="#"><figure><img src="assets/images/student/sports/houses/9.jpg" alt="Sports Houses Image"/></figure></Link>
+                            <Link href="#"><figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/sports/houses/9.jpg" alt="Sports Houses Image"/></figure></Link>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">HOUSE 9</h3>
                     </div>

@@ -3,142 +3,142 @@ import React from "react";
 const Facilities = () => {
   const laboratoriesData = [
     {
-        imgSrc: "/assets/images/laboratories/lab1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/laboratories/lab1.jpg",
     },
     {
-        imgSrc: "/assets/images/laboratories/lab2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/laboratories/lab2.jpg",
     },
     {
-        imgSrc: "/assets/images/laboratories/lab3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/laboratories/lab3.jpg",
     },
     {
-        imgSrc: "/assets/images/laboratories/lab4.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/laboratories/lab4.jpg",
     },
     {
-        imgSrc: "/assets/images/laboratories/lab5.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/laboratories/lab5.jpg",
     },
  ];
  const hostel = [
     {
-        imgSrc: "assets/images/hostel/hostel1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/hostel/hostel1.jpg",
     },
     {
-        imgSrc: "assets/images/hostel/hostel2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/hostel/hostel2.jpg",
     },
     {
-        imgSrc: "assets/images/hostel/hostel3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/hostel/hostel3.jpg",
     },
     {
-        imgSrc: "assets/images/hostel/hostel4.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/hostel/hostel4.jpg",
     },
     {
-        imgSrc: "assets/images/hostel/hostel5.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/hostel/hostel5.jpg",
     },
     {
-        imgSrc: "assets/images/hostel/hostel6.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/hostel/hostel6.jpg",
     },
  ]
  const cafeteria = [
     {
-        imgSrc: "assets/images/cafeteria/foodcourt1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/cafeteria/foodcourt1.jpg",
     },
     {
-        imgSrc: "assets/images/cafeteria/foodcourt2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/cafeteria/foodcourt2.jpg",
     },
     {
-        imgSrc: "assets/images/cafeteria/foodcourt3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/cafeteria/foodcourt3.jpg",
     },
  ]
 
  const sports = [
     {
-        imgSrc: "assets/images/sports/sport1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sports/sport1.jpg",
     },
     {
-        imgSrc: "assets/images/sports/sport2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sports/sport2.jpg",
     },
     {
-        imgSrc: "assets/images/sports/sport3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sports/sport3.jpg",
     },
     {
-        imgSrc: "assets/images/sports/sport4.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sports/sport4.jpg",
     },
     {
-        imgSrc: "assets/images/sports/sport5.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sports/sport5.jpg",
     },
     {
-        imgSrc: "assets/images/sports/sport6.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sports/sport6.jpg",
     },
     {
-        imgSrc: "assets/images/sports/sport7.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sports/sport7.jpg",
     },
     {
-        imgSrc: "assets/images/sports/sport8.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sports/sport8.jpg",
     },
  ]
 
  const transportation = [
     {
-        imgSrc: "assets/images/transportation/Bus1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/transportation/Bus1.jpg",
     },
     {
-        imgSrc: "assets/images/transportation/Bus2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/transportation/Bus2.jpg",
     },
     {
-        imgSrc: "assets/images/transportation/Bus3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/transportation/Bus3.jpg",
     },
  ]
  const gymnasium = [
     {
-        imgSrc: "assets/images/gymnasium/Gym1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/gymnasium/Gym1.jpg",
     },
     {
-        imgSrc: "assets/images/gymnasium/Gym2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/gymnasium/Gym2.jpg",
     },
     {
-        imgSrc: "assets/images/gymnasium/Gym3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/gymnasium/Gym3.jpg",
     },
 ]
 
 const supermarket = [
     {
-        imgSrc: "assets/images/supermarket/SuperMarket1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/supermarket/SuperMarket1.jpg",
     },
     {
-        imgSrc: "assets/images/supermarket/SuperMarket2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/supermarket/SuperMarket2.jpg",
     },
     {
-        imgSrc: "assets/images/supermarket/SuperMarket3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/supermarket/SuperMarket3.jpg",
     },
     {
-        imgSrc: "assets/images/supermarket/SuperMarket4.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/supermarket/SuperMarket4.jpg",
     },
     {
-        imgSrc: "assets/images/supermarket/SuperMarket5.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/supermarket/SuperMarket5.jpg",
     },
     {
-        imgSrc: "assets/images/supermarket/SuperMarket6.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/supermarket/SuperMarket6.jpg",
     },
 ]
 
 const staffquarters = [
     {
-        imgSrc: "assets/images/staffquarters/StaffQuarters1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/staffquarters/StaffQuarters1.jpg",
     },
     {
-        imgSrc: "assets/images/staffquarters/StaffQuarters2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/staffquarters/StaffQuarters2.jpg",
     },
     {
-        imgSrc: "assets/images/staffquarters/StaffQuarters3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/staffquarters/StaffQuarters3.jpg",
     },
 ]
 
 const bankatm  = [
     {
-        imgSrc: "assets/images/bank-atm/Bank1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/bank-atm/Bank1.jpg",
     },
     {
-        imgSrc: "assets/images/bank-atm/Bank2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/bank-atm/Bank2.jpg",
     },
     
 ]

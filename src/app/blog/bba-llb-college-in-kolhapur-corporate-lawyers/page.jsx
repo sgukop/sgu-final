@@ -31,7 +31,7 @@ export default function BBALLBBlogPage() {
           <p className={styles.publishedDate}>Published: 17th June 2026</p>
 
           <Image
-            src="/assets/images/blog-bba-llb-college-kolhapur.jpg"
+            src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-bba-llb-college-kolhapur.jpg"
             alt="BBA LLB college in kolhapur | SGU"
             width={1040}
             height={580}

@@ -3,88 +3,88 @@ import React from "react";
 const TataTechnology = () => {
   const tatatechnology = [
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/1.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/2.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/3.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/4.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/4.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/5.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/5.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/6.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/6.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/7.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/7.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/8.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/8.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/9.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/9.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/10.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/10.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/11.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/11.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/12.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/12.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/13.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/13.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/14.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/14.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/15.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/15.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/16.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/16.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/17.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/17.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/18.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/18.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/19.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/19.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/20.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/20.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/21.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/21.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/22.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/22.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/23.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/23.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/24.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/24.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/25.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/25.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/26.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/26.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/27.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/27.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/inauguration-tata-technology/28.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/inauguration-tata-technology/28.jpg",
     },
 ];
 

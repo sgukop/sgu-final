@@ -28,7 +28,7 @@ export default function InteriorDesigningBlogPage() {
           <p className={styles.publishedDate}>Published: 23rd Jul’26</p>
 
           <Image
-            src="/assets/images/images/15.jpg"
+            src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/images/15.jpg"
             alt="Interior Designing Colleges in Kolhapur | SGU"
             width={1040}
             height={580}

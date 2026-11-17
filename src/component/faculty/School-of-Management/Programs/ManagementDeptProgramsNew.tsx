@@ -20,15 +20,15 @@ const ManagementDeptProgramsNew = () => {
          
          <div className="flex">
                 <h3 className="tl-event-details-area-title mr-4">Powered by</h3>
-                <img src="assets/images/management-dept/programs/logo1.png" className="mr-4"/> <span className="tl-event-details-area-title">& </span>
-                <img src="assets/images/management-dept/programs/logo2.png" className="ml-4"/>
+                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/programs/logo1.png" className="mr-4"/> <span className="tl-event-details-area-title">& </span>
+                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/programs/logo2.png" className="ml-4"/>
         
         </div>
 
         <div className="row mt-10 g-4">
                 <div className="col-lg-4">
                     <div className="tl-1-blog">
-                        <img src="assets/images/management-dept/programs/used34.jpg" alt="Management Program Image" className="tl-1-blog-img"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/programs/used34.jpg" alt="Management Program Image" className="tl-1-blog-img"/>
                             <div className="tl-1-blog-txt">
                                 <h4 className="tl-1-blog-title"><Link href="/bba-program">Bachelor of Business Administration (BBA) (Hons.)</Link></h4>
                                 <Link href="/bba-program" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
@@ -38,7 +38,7 @@ const ManagementDeptProgramsNew = () => {
                
                 <div className="col-lg-4">
                     <div className="tl-1-blog">
-                        <img src="assets/images/management-dept/programs/used37.jpg" alt="Management Program Image" className="tl-1-blog-img"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/programs/used37.jpg" alt="Management Program Image" className="tl-1-blog-img"/>
                             <div className="tl-1-blog-txt">
                                 <h4 className="tl-1-blog-title"><Link href="/mba-program">Master of Business Administration (MBA)</Link></h4>
                                 <Link href="/mba-program" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
@@ -47,7 +47,7 @@ const ManagementDeptProgramsNew = () => {
                 </div>
                 <div className="col-lg-4">
                     <div className="tl-1-blog">
-                        <img src="assets/images/management-dept/programs/used36.jpg" alt="Management Program Image" className="tl-1-blog-img"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/programs/used36.jpg" alt="Management Program Image" className="tl-1-blog-img"/>
                             <div className="tl-1-blog-txt">
                                 <h4 className="tl-1-blog-title"><Link href="/management-phd-program">Doctor of Philosophy (Ph.D.) in Management</Link></h4>
                                 <Link href="/management-phd-program" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
@@ -57,7 +57,7 @@ const ManagementDeptProgramsNew = () => {
 
                 <div className="col-lg-4">
                     <div className="tl-1-blog">
-                        <img src="assets/images/management-dept/programs/diasaster.jpg" alt="Management Program Image" className="tl-1-blog-img"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/programs/diasaster.jpg" alt="Management Program Image" className="tl-1-blog-img"/>
                             <div className="tl-1-blog-txt">
                                 <h4 className="tl-1-blog-title"><Link href="#">MBA (Disaster Management)</Link></h4>
                                 <Link href="#" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>

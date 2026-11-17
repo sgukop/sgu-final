@@ -11,7 +11,7 @@ const NewBanner = () => {
   return (
     <section className="">
       <div className="banner-image">
-          <figure><img src='/assets/images/banner-image/new-banner-image1.png' className="w-full z-0"/></figure>
+          <figure><img src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/banner-image/new-banner-image1.png' className="w-full z-0"/></figure>
       </div>
      
       <div className='w-full bg-[#ffd300] py-8 px-2 sm:px-6 md:px-8 lg:px-10 xl:px-14 2xl:px-16 flex flex-col justify-center items-center gap-y-4 pb-0 text-[#221f1f] relative'>
@@ -23,7 +23,7 @@ const NewBanner = () => {
         <div className='w-full flex justify-center gap-3 flex-wrap gap-y-5 px-20'>
           <div className='w-[320px] xl:w-[300px] 2xl:w-[20%] p-6 bg-[#4f70b6] text-white rounded-tl-[140px] flex flex-col justify-center items-center rounded-br-[140px] px-8 z-30 shadow-xl transition-all ease-in hover:-translate-y-5 hover:scale-105 duration-200'>
             <div className='w-fit flex justify-center items-center'>
-              <img src='/assets/images/home/notebook.png' width={80} alt='Notebook'/>
+              <img src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/notebook.png' width={80} alt='Notebook'/>
             </div>
             <a href="/admission-open" target="_blank" className='text-center text-3xl font-semibold tracking-wide mb-2.5 uppercase mt-3'>
               Admission Enquiry
@@ -33,7 +33,7 @@ const NewBanner = () => {
           
           <div className='w-[320px] xl:w-[300px] 2xl:w-[20%] p-6 bg-[#286f83] text-white rounded-tl-[140px] flex flex-col justify-center items-center rounded-br-[140px] px-8 z-30 shadow-xl transition-all ease-in hover:-translate-y-5 hover:scale-105 duration-200'>
           <div className='w-fit flex justify-center items-center'>
-              <img src='/assets/images/home/download-catalogue.png' width={80} alt='Notebook'/>
+              <img src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/download-catalogue.png' width={80} alt='Notebook'/>
             </div>
             
             <h3 className='text-center text-3xl font-semibold tracking-wide mb-2.5 uppercase mt-3'>
@@ -43,7 +43,7 @@ const NewBanner = () => {
           </div>
           <div className='w-[320px] xl:w-[300px] 2xl:w-[20%] p-6 bg-[#ec008c] text-white rounded-tl-[140px] flex flex-col justify-center items-center rounded-br-[140px] px-8 z-30 shadow-xl transition-all ease-in hover:-translate-y-5 hover:scale-105 duration-200'>
           <div className='w-fit flex justify-center items-center'>
-              <img src='/assets/images/home/read-more.png' width={80} alt='Notebook'/>
+              <img src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/read-more.png' width={80} alt='Notebook'/>
             </div>
             <h3 className='text-center text-3xl font-semibold tracking-wide mb-2.5 uppercase mt-3'>
               More About SGU

@@ -10,7 +10,7 @@ const IndustryCollaborations = () => {
         <div className="row g-0 justify-content-between align-items-center">
             <div className="col-xl-6 col-lg-5">
                 <div className="tl-8-about-img">
-                    <img src="assets/images/academic-excellence/academic-collaborations.jpg" className="rounded-full w-full h-full" style={{border: "15px solid rgb(79, 112, 182)", padding:"20px"}} alt="Industry Collaborations"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/academic-excellence/academic-collaborations.jpg" className="rounded-full w-full h-full" style={{border: "15px solid rgb(79, 112, 182)", padding:"20px"}} alt="Industry Collaborations"/>
                 </div>
             </div>
 

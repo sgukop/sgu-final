@@ -5,79 +5,79 @@ import MenuList from "../Reusable-components/MenuList";
 const LibraryGallery = () => {
   const libraryGallery = [
     {
-      imgSrc: "assets/images/sgu-library/photo-gallery/library1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-library/photo-gallery/library1.jpg",
     },
     {
-      imgSrc: "assets/images/sgu-library/photo-gallery/library2.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-library/photo-gallery/library2.jpg",
     },
     {
-      imgSrc: "assets/images/sgu-library/photo-gallery/library3.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-library/photo-gallery/library3.jpg",
     },
     {
-      imgSrc: "assets/images/sgu-library/photo-gallery/library4.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-library/photo-gallery/library4.jpg",
     },
     {
-      imgSrc: "assets/images/sgu-library/photo-gallery/library5.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-library/photo-gallery/library5.jpg",
     },
     {
-      imgSrc: "assets/images/sgu-library/photo-gallery/library6.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-library/photo-gallery/library6.jpg",
     },
     {
-      imgSrc: "assets/images/sgu-library/photo-gallery/library7.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-library/photo-gallery/library7.jpg",
     },
     {
-      imgSrc: "assets/images/sgu-library/photo-gallery/library8.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-library/photo-gallery/library8.jpg",
     },
     {
-      imgSrc: "assets/images/sgu-library/photo-gallery/library9.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-library/photo-gallery/library9.jpg",
     },
     {
-      imgSrc: "assets/images/sgu-library/photo-gallery/library10.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-library/photo-gallery/library10.jpg",
     },
     {
-      imgSrc: "assets/images/sgu-library/photo-gallery/library11.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-library/photo-gallery/library11.jpg",
     },
     {
-      imgSrc: "assets/images/sgu-library/photo-gallery/library12.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-library/photo-gallery/library12.jpg",
     },
     {
-      imgSrc: "assets/images/sgu-library/photo-gallery/library13.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-library/photo-gallery/library13.jpg",
     },
     {
-      imgSrc: "assets/images/sgu-library/photo-gallery/library14.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-library/photo-gallery/library14.jpg",
     },
     {
-      imgSrc: "assets/images/sgu-library/photo-gallery/library15.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-library/photo-gallery/library15.jpg",
     },
     {
-      imgSrc: "assets/images/sgu-library/photo-gallery/library16.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-library/photo-gallery/library16.jpg",
     },
     {
-      imgSrc: "assets/images/sgu-library/photo-gallery/library17.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-library/photo-gallery/library17.jpg",
     },
     {
-      imgSrc: "assets/images/sgu-library/photo-gallery/library18.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-library/photo-gallery/library18.jpg",
     },
     {
-      imgSrc: "assets/images/sgu-library/photo-gallery/library19.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-library/photo-gallery/library19.jpg",
     },
     {
-      imgSrc: "assets/images/sgu-library/photo-gallery/library20.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-library/photo-gallery/library20.jpg",
     },
     {
-      imgSrc: "assets/images/sgu-library/photo-gallery/library21.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-library/photo-gallery/library21.jpg",
     },
     /* {
-      imgSrc: "assets/images/sgu-library/photo-gallery/library22.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-library/photo-gallery/library22.jpg",
     },
     {
-      imgSrc: "assets/images/sgu-library/photo-gallery/library23.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-library/photo-gallery/library23.jpg",
     },
     {
-      imgSrc: "assets/images/sgu-library/photo-gallery/library24.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-library/photo-gallery/library24.jpg",
     },
     {
-      imgSrc: "assets/images/sgu-library/photo-gallery/library25.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-library/photo-gallery/library25.jpg",
     },  */
   ];
 

@@ -54,7 +54,7 @@ const CommerceDeptEventsNew = () => {
           ]
       };
    return (
-    <section className="tl-14-about pt-100 pb-100" data-background="assets/images/tl-14/cta-bg.png">
+    <section className="tl-14-about pt-100 pb-100" data-background="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-14/cta-bg.png">
         <div className="container-fluid">
         <h2 className="tl-9-section-title mb-50">Events</h2>
         <div className="row">
@@ -76,23 +76,23 @@ const CommerceDeptEventsNew = () => {
                             >
                                  <div className="slider-item">
                                     <div className="tl-7-about-info-card-new">
-                                        <img src="assets/images/commerce-dept/events/adwitiya-2024/event-image1.png" alt="Event Image" style={{padding:"10px"}}/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/events/adwitiya-2024/event-image1.png" alt="Event Image" style={{padding:"10px"}}/>
                                     </div>
                                 </div>
                                 <div className="slider-item">
                                     <div className="tl-7-about-info-card-new">
-                                        <img src="assets/images/commerce-dept/events/adwitiya-2024/event-image2.png" alt="Event Image" style={{padding:"10px"}}/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/events/adwitiya-2024/event-image2.png" alt="Event Image" style={{padding:"10px"}}/>
                                     </div>
                                 </div>
 
                                 <div className="slider-item">
                                     <div className="tl-7-about-info-card-new">
-                                        <img src="assets/images/commerce-dept/events/adwitiya-2024/event-image3.png" alt="Event Image" style={{padding:"10px"}}/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/events/adwitiya-2024/event-image3.png" alt="Event Image" style={{padding:"10px"}}/>
                                     </div>
                                 </div>
                                 <div className="slider-item">
                                     <div className="tl-7-about-info-card-new">
-                                        <img src="assets/images/commerce-dept/events/adwitiya-2024/event-image4.png" alt="Event Image" style={{padding:"10px"}}/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/events/adwitiya-2024/event-image4.png" alt="Event Image" style={{padding:"10px"}}/>
                                     </div>
                                 </div>
                             </Slider>
@@ -113,7 +113,7 @@ const CommerceDeptEventsNew = () => {
                 <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/commerce-dept/events/biz-bazaar/event-image1.png" alt="Event Image" /></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/events/biz-bazaar/event-image1.png" alt="Event Image" /></figure>
                         </div>
                     </div>
                 </div>
@@ -121,7 +121,7 @@ const CommerceDeptEventsNew = () => {
                 <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                        <figure><img src="assets/images/commerce-dept/events/biz-bazaar/event-image2.png" alt="Event Image" /></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/events/biz-bazaar/event-image2.png" alt="Event Image" /></figure>
                         </div>
                     </div>
                 </div>
@@ -138,18 +138,18 @@ const CommerceDeptEventsNew = () => {
                          >
                             <div className="slider-item" style={{marginBottom:"10px"}}>
                                 <div className="tl-7-about-info-card">
-                                    <img src="assets/images/commerce-dept/events/anantkala-2024/event-image1.png" alt="Event image"/>
+                                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/events/anantkala-2024/event-image1.png" alt="Event image"/>
                                 </div>
                             </div>
                             <div className="slider-item">
                                 <div className="tl-7-about-info-card">
-                                    <img src="assets/images/commerce-dept/events/anantkala-2024/event-image2.png" alt="Event image"/>
+                                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/events/anantkala-2024/event-image2.png" alt="Event image"/>
                                 </div>
                             </div>
 
                             <div className="slider-item">
                                  <div className="tl-7-about-info-card">
-                                    <img src="assets/images/commerce-dept/events/anantkala-2024/event-image3.png" alt="Event image"/>
+                                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/events/anantkala-2024/event-image3.png" alt="Event image"/>
                                 </div>
                             </div>
                         </Slider>
@@ -170,7 +170,7 @@ const CommerceDeptEventsNew = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog flex flex-col h-full"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/commerce-dept/events/ERP-SAP/event-image1.png" alt="Event image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/events/ERP-SAP/event-image1.png" alt="Event image"/></figure>
                     </div>
                 </div>
             </div>
@@ -178,7 +178,7 @@ const CommerceDeptEventsNew = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog flex flex-col h-full"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/commerce-dept/events/ERP-SAP/event-image2.jpg" alt="Event image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/events/ERP-SAP/event-image2.jpg" alt="Event image"/></figure>
                     </div>
                 </div>
             </div>

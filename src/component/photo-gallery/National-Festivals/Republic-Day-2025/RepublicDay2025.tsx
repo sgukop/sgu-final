@@ -3,43 +3,43 @@ import React from "react";
 const RepublicDay2018 = () => {
   const republicday = [
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2025/1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2025/1.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2025/2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2025/2.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2025/3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2025/3.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2025/4.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2025/4.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2025/5.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2025/5.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2025/6.JPEG",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2025/6.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2025/7.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2025/7.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2025/8.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2025/8.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2025/9.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2025/9.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2025/10.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2025/10.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2025/11.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2025/11.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2025/12.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2025/12.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2025/13.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2025/13.jpg",
     },
     
   ]

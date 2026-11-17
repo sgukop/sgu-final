@@ -22,7 +22,7 @@ const AerospaceDeptFaculty = () => {
                                     <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                                     <div className="tl-1-course-new">
                                         <div className="tl-1-course-img-new">
-                                            <img src="/assets/images/faculty-profile-photos/aeronautical/1.png" alt="Faculty Image"/>
+                                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/aeronautical/1.png" alt="Faculty Image"/>
                                         </div>
 
                                         <div className="tl-1-course-txt">
@@ -35,7 +35,7 @@ const AerospaceDeptFaculty = () => {
                                 <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                                     <div className="tl-1-course-new">
                                         <div className="tl-1-course-img-new">
-                                            <img src="/assets/images/faculty-profile-photos/aeronautical/2. Mr. S. SULTAN.jpg" alt="Faculty Image"/>
+                                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/aeronautical/2. Mr. S. SULTAN.jpg" alt="Faculty Image"/>
                                         </div>
 
                                         <div className="tl-1-course-txt">
@@ -48,7 +48,7 @@ const AerospaceDeptFaculty = () => {
                                 <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                                     <div className="tl-1-course-new">
                                         <div className="tl-1-course-img-new">
-                                            <img src="/assets/images/faculty-profile-photos/male.jpg" alt="Faculty Image"/>
+                                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/male.jpg" alt="Faculty Image"/>
                                         </div>
 
                                         <div className="tl-1-course-txt">
@@ -61,7 +61,7 @@ const AerospaceDeptFaculty = () => {
                                 <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                                     <div className="tl-1-course-new">
                                         <div className="tl-1-course-img-new">
-                                            <img src="/assets/images/faculty-profile-photos/aeronautical/1. Dr. MUZEER S.jpg" alt="Faculty Image"/>
+                                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/aeronautical/1. Dr. MUZEER S.jpg" alt="Faculty Image"/>
                                         </div>
 
                                         <div className="tl-1-course-txt">
@@ -74,7 +74,7 @@ const AerospaceDeptFaculty = () => {
                                    <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                                     <div className="tl-1-course-new">
                                         <div className="tl-1-course-img-new">
-                                            <img src="/assets/images/faculty-profile-photos/aeronautical/4. Mr. VADIVEL M.jpg" alt="Faculty Image"/>
+                                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/aeronautical/4. Mr. VADIVEL M.jpg" alt="Faculty Image"/>
                                         </div>
 
                                         <div className="tl-1-course-txt">
@@ -89,7 +89,7 @@ const AerospaceDeptFaculty = () => {
                                 <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                                     <div className="tl-1-course-new">
                                         <div className="tl-1-course-img-new">
-                                            <img src="/assets/images/faculty-profile-photos/male.jpg" alt="Faculty Image"/>
+                                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/male.jpg" alt="Faculty Image"/>
                                         </div>
 
                                         <div className="tl-1-course-txt">
@@ -102,7 +102,7 @@ const AerospaceDeptFaculty = () => {
                                 <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                                     <div className="tl-1-course-new">
                                         <div className="tl-1-course-img-new">
-                                            <img src="/assets/images/faculty-profile-photos/female.jpg" alt="Faculty Image"/>
+                                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/female.jpg" alt="Faculty Image"/>
                                         </div>
 
                                         <div className="tl-1-course-txt">
@@ -116,7 +116,7 @@ const AerospaceDeptFaculty = () => {
                                 <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                                     <div className="tl-1-course-new">
                                         <div className="tl-1-course-img-new">
-                                            <img src="/assets/images/faculty-profile-photos/aeronautical/3.png" alt="Faculty Image"/>
+                                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/aeronautical/3.png" alt="Faculty Image"/>
                                         </div>
 
                                         <div className="tl-1-course-txt">
@@ -129,7 +129,7 @@ const AerospaceDeptFaculty = () => {
                                  <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                                     <div className="tl-1-course-new">
                                         <div className="tl-1-course-img-new">
-                                            <img src="/assets/images/faculty-profile-photos/female.jpg" alt="Faculty Image"/>
+                                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/female.jpg" alt="Faculty Image"/>
                                         </div>
 
                                         <div className="tl-1-course-txt">
@@ -142,7 +142,7 @@ const AerospaceDeptFaculty = () => {
                                  <div className="col-md-12 col-lg-4 col-xxs-12 col-10">
                                     <div className="tl-1-course-new">
                                         <div className="tl-1-course-img-new">
-                                            <img src="/assets/images/faculty-profile-photos/female.jpg" alt="Faculty Image"/>
+                                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/female.jpg" alt="Faculty Image"/>
                                         </div>
 
                                         <div className="tl-1-course-txt">

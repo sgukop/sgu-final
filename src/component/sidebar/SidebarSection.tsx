@@ -37,7 +37,7 @@ const SidebarSection = () => {
             <div className="kidba-menu-sidebar-bottom">
               <div className="logo mb-10 d-flex justify-content-center">
                 <Link href="/">
-                  <img src="assets/images/home/logo/SGU-original-logo.png" width={90} alt="logo" />
+                  <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/logo/SGU-original-logo.png" width={90} alt="logo" />
                 </Link>
               </div>
               <Tab.Content>

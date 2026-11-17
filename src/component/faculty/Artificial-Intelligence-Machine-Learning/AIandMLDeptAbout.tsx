@@ -13,7 +13,7 @@ const AIandMLDeptAbout = () => {
   return (
     <section
       className="pt-100 pb-100"
-      data-background="assets/images/tl-14/cta-bg.png"
+      data-background="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-14/cta-bg.png"
     >
       <div className="container-fluid">
 
@@ -48,7 +48,7 @@ const AIandMLDeptAbout = () => {
               <div className="col-lg-5 d-flex justify-content-center align-items-center">
                 <div className="tl-14-about-img">
                   <img
-                    src="/assets/images/faculty-profile-photos/AIML/aiml-hod1.jpg"
+                    src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/AIML/aiml-hod1.jpg"
                     alt="Director Image"
                     className="rounded-full"
                     style={{

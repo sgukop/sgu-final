@@ -19,7 +19,7 @@ const CommerceDeptProgramsNew = () => {
         <div className="row g-4 align-items-center">
             <div className="col-xl-6 col-lg-5">
                 <div className="tl-8-about-img">
-                    <img src="assets/images/commerce-dept/programs/program-image.png" alt="About Schools Programmes" className="rounded-full"
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/programs/program-image.png" alt="About Schools Programmes" className="rounded-full"
                     style={{border:"10px solid #4f70b6", padding:"20px"}} />
                 </div>
             </div>

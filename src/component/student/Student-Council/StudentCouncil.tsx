@@ -14,7 +14,7 @@ const StudentCouncil = () => {
                
                 <div className="col-lg-4 col-md-6 col-12 col-xxs-12">
                     <div className="tl-1-teacher tl-14-teacher">
-                            <img src="assets/images/student/student-council-coordinators/Shivtej Khot.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/student-council-coordinators/Shivtej Khot.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
                             <div className="tl-1-teacher-info tl-14-teacher-info">
                                 <h5 className="tl-14-teacher-title">President</h5>
                                 <h6 className="tl-14-teacher-sub-title">Mr. Khot Shivtej Shahaji</h6>
@@ -24,7 +24,7 @@ const StudentCouncil = () => {
 
                 <div className="col-lg-4 col-md-6 col-12 col-xxs-12">
                     <div className="tl-1-teacher tl-14-teacher">
-                            <img src="assets/images/student/student-council-coordinators/Vijay Patil.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/student-council-coordinators/Vijay Patil.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
                             <div className="tl-1-teacher-info tl-14-teacher-info">
                                 <h5 className="tl-14-teacher-title">Vice-President</h5>
                                 <h6 className="tl-14-teacher-sub-title">Mr. Patil Vijay Parshuram</h6>
@@ -34,7 +34,7 @@ const StudentCouncil = () => {
 
                 <div className="col-lg-4 col-md-6 col-12 col-xxs-12">
                     <div className="tl-1-teacher tl-14-teacher">
-                            <img src="assets/images/student/student-council-coordinators/Abhishek Patil.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/student-council-coordinators/Abhishek Patil.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
                             <div className="tl-1-teacher-info tl-14-teacher-info">
                                 <h5 className="tl-14-teacher-title">Secretory</h5>
                                 <h6 className="tl-14-teacher-sub-title">Mr. Patil Abhishek Dilip</h6>
@@ -44,7 +44,7 @@ const StudentCouncil = () => {
           
                 <div className="col-lg-4 col-md-6 col-12 col-xxs-12">
                     <div className="tl-1-teacher tl-14-teacher">
-                            <img src="assets/images/student/student-council-coordinators/Pranav Varute.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/student-council-coordinators/Pranav Varute.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
                             <div className="tl-1-teacher-info tl-14-teacher-info">
                                 <h5 className="tl-14-teacher-title">Sport Representative</h5>
                                 <h6 className="tl-14-teacher-sub-title">Mr. Varute Pranav Tanaji</h6>
@@ -54,7 +54,7 @@ const StudentCouncil = () => {
 
                 <div className="col-lg-4 col-md-6 col-12 col-xxs-12">
                     <div className="tl-1-teacher tl-14-teacher">
-                            <img src="assets/images/student/student-council-coordinators/Mausam Singh.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/student-council-coordinators/Mausam Singh.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
                             <div className="tl-1-teacher-info tl-14-teacher-info">
                                 <h5 className="tl-14-teacher-title">Cultural Representative</h5>
                                 <h6 className="tl-14-teacher-sub-title">Ms. Singh Mausam Yogendra</h6>
@@ -64,7 +64,7 @@ const StudentCouncil = () => {
 
                 <div className="col-lg-4 col-md-6 col-12 col-xxs-12">
                     <div className="tl-1-teacher tl-14-teacher">
-                            <img src="assets/images/student/student-council-coordinators/Rohan Patil.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/student-council-coordinators/Rohan Patil.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
                             <div className="tl-1-teacher-info tl-14-teacher-info">
                                 <h5 className="tl-14-teacher-title">NSS Representative</h5>
                                 <h6 className="tl-14-teacher-sub-title">Mr. Patil Rohan Raosaheb</h6>
@@ -74,7 +74,7 @@ const StudentCouncil = () => {
           
                 <div className="col-lg-4 col-md-6 col-12 col-xxs-12">
                     <div className="tl-1-teacher tl-14-teacher">
-                            <img src="assets/images/student/student-council-coordinators/Vaibhavi More.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/student-council-coordinators/Vaibhavi More.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
                             <div className="tl-1-teacher-info tl-14-teacher-info">
                                 <h5 className="tl-14-teacher-title">RC Students Representative</h5>
                                 <h6 className="tl-14-teacher-sub-title">Ms. More Vaibhavi Mahesh</h6>
@@ -84,7 +84,7 @@ const StudentCouncil = () => {
 
                 <div className="col-lg-4 col-md-6 col-12 col-xxs-12">
                     <div className="tl-1-teacher tl-14-teacher">
-                            <img src="assets/images/student/student-council-coordinators/Sankriti Bhokare.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/student-council-coordinators/Sankriti Bhokare.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
                             <div className="tl-1-teacher-info tl-14-teacher-info">
                                 <h5 className="tl-14-teacher-title">Girl Representative</h5>
                                 <h6 className="tl-14-teacher-sub-title">Ms. Bhokare Sanskriti Sudhir</h6>
@@ -94,7 +94,7 @@ const StudentCouncil = () => {
 
                 <div className="col-lg-4 col-md-6 col-12 col-xxs-12">
                     <div className="tl-1-teacher tl-14-teacher">
-                            <img src="assets/images/student/student-council-coordinators/Atharva Patil.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/student-council-coordinators/Atharva Patil.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
                             <div className="tl-1-teacher-info tl-14-teacher-info">
                                 <h5 className="tl-14-teacher-title">Hostel Representative (M)</h5>
                                 <h6 className="tl-14-teacher-sub-title">Mr. Patil Atharva Manojkumar</h6>
@@ -104,7 +104,7 @@ const StudentCouncil = () => {
            
                 <div className="col-lg-4 col-md-6 col-12 col-xxs-12 mt-30">
                     <div className="tl-1-teacher tl-14-teacher">
-                            <img src="assets/images/student/student-council-coordinators/Anushree Gharat.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/student-council-coordinators/Anushree Gharat.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
                             <div className="tl-1-teacher-info tl-14-teacher-info">
                                 <h5 className="tl-14-teacher-title">Hostel Representative (F)</h5>
                                 <h6 className="tl-14-teacher-sub-title">Ms. Gharat Anushree Jaylesh</h6>
@@ -120,7 +120,7 @@ const StudentCouncil = () => {
             <div className="row g-3 g-lg-4">
                <div className="col-lg-4 col-md-6 col-12 col-xxs-12">
                     <div className="tl-1-teacher tl-14-teacher">
-                            <img src="assets/images/student/student-council-coordinators/Vaishnavi Patil.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/student-council-coordinators/Vaishnavi Patil.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
                             <div className="tl-1-teacher-info tl-14-teacher-info">
                                 <h5 className="tl-14-teacher-title">Management Representative</h5>
                                 <h6 className="tl-14-teacher-sub-title">Mr. Patil Vaishnavi Prakash</h6>
@@ -130,7 +130,7 @@ const StudentCouncil = () => {
 
                 <div className="col-lg-4 col-md-6 col-12 col-xxs-12">
                     <div className="tl-1-teacher tl-14-teacher">
-                            <img src="assets/images/student/student-council-coordinators/Vinayak Narute.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/student-council-coordinators/Vinayak Narute.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
                             <div className="tl-1-teacher-info tl-14-teacher-info">
                                 <h5 className="tl-14-teacher-title">School of Pharmaceutical Sciences</h5>
                                 <h6 className="tl-14-teacher-sub-title">Mr. Narute Vinayak Sidram</h6>
@@ -140,7 +140,7 @@ const StudentCouncil = () => {
           
                 <div className="col-lg-4 col-md-6 col-12 col-xxs-12">
                     <div className="tl-1-teacher tl-14-teacher">
-                            <img src="assets/images/student/student-council-coordinators/Aditi Desai.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/student-council-coordinators/Aditi Desai.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
                             <div className="tl-1-teacher-info tl-14-teacher-info">
                                 <h5 className="tl-14-teacher-title">School of Design</h5>
                                 <h6 className="tl-14-teacher-sub-title">Ms. Desai Aaditi</h6>
@@ -150,7 +150,7 @@ const StudentCouncil = () => {
 
                 <div className="col-lg-4 col-md-6 col-12 col-xxs-12">
                     <div className="tl-1-teacher tl-14-teacher">
-                            <img src="assets/images/student/student-council-coordinators/Aafiya Odam.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/student-council-coordinators/Aafiya Odam.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
                             <div className="tl-1-teacher-info tl-14-teacher-info">
                                 <h5 className="tl-14-teacher-title">School of Chemical Sciences</h5>
                                 <h6 className="tl-14-teacher-sub-title">Mr. Odam Aafiya Javid</h6>
@@ -160,7 +160,7 @@ const StudentCouncil = () => {
           
                 <div className="col-lg-4 col-md-6 col-12 col-xxs-12">
                     <div className="tl-1-teacher tl-14-teacher">
-                            <img src="assets/images/student/student-council-coordinators/Suyash Narade.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/student-council-coordinators/Suyash Narade.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
                             <div className="tl-1-teacher-info tl-14-teacher-info">
                                 <h5 className="tl-14-teacher-title">Student Club Head (4)</h5>
                                 <h6 className="tl-14-teacher-sub-title">Mr. Narade Suyash Sunil</h6>
@@ -170,7 +170,7 @@ const StudentCouncil = () => {
 
                 <div className="col-lg-4 col-md-6 col-12 col-xxs-12">
                     <div className="tl-1-teacher tl-14-teacher">
-                            <img src="assets/images/student/student-council-coordinators/Suraj Shipekar.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/student-council-coordinators/Suraj Shipekar.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
                             <div className="tl-1-teacher-info tl-14-teacher-info">
                                 <h5 className="tl-14-teacher-title">Student Club Head (4)</h5>
                                 <h6 className="tl-14-teacher-sub-title">Mr. Shipekar Suraj Krishnat</h6>
@@ -179,7 +179,7 @@ const StudentCouncil = () => {
                 </div>
                 <div className="col-lg-4 col-md-6 col-12 col-xxs-12">
                     <div className="tl-1-teacher tl-14-teacher">
-                            <img src="assets/images/student/student-council-coordinators/male1.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/student-council-coordinators/male1.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
                             <div className="tl-1-teacher-info tl-14-teacher-info">
                                 <h5 className="tl-14-teacher-title">Management Representative</h5>
                                 <h6 className="tl-14-teacher-sub-title">Mr. Gaiban Naqeeb Ridwan</h6>
@@ -188,7 +188,7 @@ const StudentCouncil = () => {
                 </div>
                 <div className="col-lg-4 col-md-6 col-12 col-xxs-12">
                     <div className="tl-1-teacher tl-14-teacher">
-                            <img src="assets/images/student/student-council-coordinators/male1.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/student-council-coordinators/male1.jpg" alt="Student Council Coordinator" className="tl-1-teacher-img"/>
                             <div className="tl-1-teacher-info tl-14-teacher-info">
                                 <h5 className="tl-14-teacher-title">Faculty of Labral Arts</h5>
                                 <h6 className="tl-14-teacher-sub-title">Mr. Kolekar Sarthak Sandeep</h6>

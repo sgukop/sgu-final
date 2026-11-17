@@ -37,50 +37,50 @@ const AerospaceDeptPlacements = () => {
                     className="tl-8-testimonial-slider owl-carousel">
                          <SwiperSlide className="placement-image">
                             <h3>2021-2025</h3>
-                                <img src="assets/images/aerospace-engineering-dept/placements/2021-2025 Placement.jpg" alt="Placement image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/placements/2021-2025 Placement.jpg" alt="Placement image"/>
                         </SwiperSlide>
                         <SwiperSlide className="placement-image">
-                                <img src="assets/images/aerospace-engineering-dept/placements/placement1.jpg" alt="Placement image"/>
-                        </SwiperSlide>
-
-                        <SwiperSlide className="placement-image">
-                        <img src="assets/images/aerospace-engineering-dept/placements/placement2.jpg" alt="Placement image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/placements/placement1.jpg" alt="Placement image"/>
                         </SwiperSlide>
 
                         <SwiperSlide className="placement-image">
-                        <img src="assets/images/aerospace-engineering-dept/placements/placement3.jpg" alt="Placement image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/placements/placement2.jpg" alt="Placement image"/>
                         </SwiperSlide>
 
                         <SwiperSlide className="placement-image">
-                        <img src="assets/images/aerospace-engineering-dept/placements/placement4.jpg" alt="Placement image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/placements/placement3.jpg" alt="Placement image"/>
                         </SwiperSlide>
 
                         <SwiperSlide className="placement-image">
-                        <img src="assets/images/aerospace-engineering-dept/placements/placement5.jpg" alt="Placement image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/placements/placement4.jpg" alt="Placement image"/>
                         </SwiperSlide>
 
                         <SwiperSlide className="placement-image">
-                        <img src="assets/images/aerospace-engineering-dept/placements/placement6.jpg" alt="Placement image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/placements/placement5.jpg" alt="Placement image"/>
                         </SwiperSlide>
 
                         <SwiperSlide className="placement-image">
-                        <img src="assets/images/aerospace-engineering-dept/placements/placement7.jpg" alt="Placement image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/placements/placement6.jpg" alt="Placement image"/>
                         </SwiperSlide>
 
                         <SwiperSlide className="placement-image">
-                        <img src="assets/images/aerospace-engineering-dept/placements/placement8.jpg" alt="Placement image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/placements/placement7.jpg" alt="Placement image"/>
                         </SwiperSlide>
 
                         <SwiperSlide className="placement-image">
-                        <img src="assets/images/aerospace-engineering-dept/placements/placement9.jpg" alt="Placement image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/placements/placement8.jpg" alt="Placement image"/>
                         </SwiperSlide>
 
                         <SwiperSlide className="placement-image">
-                        <img src="assets/images/aerospace-engineering-dept/placements/placement10.jpg" alt="Placement image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/placements/placement9.jpg" alt="Placement image"/>
                         </SwiperSlide>
 
                         <SwiperSlide className="placement-image">
-                        <img src="assets/images/aerospace-engineering-dept/placements/placement11.jpg" alt="Placement image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/placements/placement10.jpg" alt="Placement image"/>
+                        </SwiperSlide>
+
+                        <SwiperSlide className="placement-image">
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/placements/placement11.jpg" alt="Placement image"/>
                         </SwiperSlide>
                     </Swiper>
                 </div>

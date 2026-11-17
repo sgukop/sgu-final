@@ -9,7 +9,7 @@ const EducationalVisits = () => {
                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/civil-engineering-dept/industrialvisit/7oct19.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/industrialvisit/7oct19.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Industrial Visit of TY Civil students at Water Treatment Plant of Miraj, Sangli on 7th Oct 2019.</h3>
                     </div>
@@ -18,7 +18,7 @@ const EducationalVisits = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/civil-engineering-dept/industrialvisit/26sep19.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/industrialvisit/26sep19.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Industrial Visit of TY students To Meteorological station, Warnali, Sangli on 26th September 2019.</h3>
                     </div>
@@ -27,7 +27,7 @@ const EducationalVisits = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/civil-engineering-dept/industrialvisit/7oct19_2.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/industrialvisit/7oct19_2.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Academic Visitof S.Y.Civil students to Building Materials and Construction at Pharmacy building, SGU, Atigre on 7th Oct 2019</h3>
                     </div>
@@ -36,7 +36,7 @@ const EducationalVisits = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/civil-engineering-dept/industrialvisit/15oct19.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/industrialvisit/15oct19.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Academic Visit of Building Materials and Construction at Under Construction Site at Vijaynagar, Sanglion 15th October 2019.</h3>
                     </div>
@@ -45,7 +45,7 @@ const EducationalVisits = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/civil-engineering-dept/industrialvisit/rcc.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/industrialvisit/rcc.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Academic Visit of Design of R.C.C. Structure To Pharmacy Building SGU,Kolhapur.</h3>
                     </div>

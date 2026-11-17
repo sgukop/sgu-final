@@ -31,7 +31,7 @@ const GameRealmClub = () => {
                             <div className="col-lg-4 col-sm-6">
                                 <div className="tl-2-blog tl-2-course">
                                     <div className="tl-2-course-img">
-                                        <img src="assets/images/student/officer/game-realm-club-officer.jpg" alt="Profile Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/officer/game-realm-club-officer.jpg" alt="Profile Image"/>
                                     </div>
 
                                     <div className="tl-2-course-txt">
@@ -44,7 +44,7 @@ const GameRealmClub = () => {
                             <div className="col-lg-4 col-sm-6">
                                 <div className="tl-2-blog tl-2-course">
                                     <div className="tl-2-course-img">
-                                        <img src="assets/images/student/officer/male.jpg" alt="Profile Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/officer/male.jpg" alt="Profile Image"/>
                                     </div>
 
                                     <div className="tl-2-course-txt">
@@ -57,7 +57,7 @@ const GameRealmClub = () => {
                             <div className="col-lg-4 col-sm-6">
                                 <div className="tl-2-blog tl-2-course">
                                     <div className="tl-2-course-img">
-                                        <img src="assets/images/student/officer/male.jpg" alt="Profile Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/officer/male.jpg" alt="Profile Image"/>
                                     </div>
 
                                     <div className="tl-2-course-txt">
@@ -117,21 +117,21 @@ const GameRealmClub = () => {
                             <div className="col-lg-3 col-md-6 col-xxs-6">
                                 <div className="tl-9-blog"> 
                                     <div className="tl-9-event-img">
-                                        <figure><img src="assets/images/student/student-photo-gallery/photo-gallery1.jpg" alt="Workshop Image"/></figure>
+                                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/student-photo-gallery/photo-gallery1.jpg" alt="Workshop Image"/></figure>
                                     </div>
                                 </div>
                             </div>
                             <div className="col-lg-3 col-md-6 col-xxs-6">
                                 <div className="tl-9-blog"> 
                                     <div className="tl-9-event-img">
-                                        <figure><img src="assets/images/student/student-photo-gallery/photo-gallery2.png" alt="Workshop Image"/></figure>
+                                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/student-photo-gallery/photo-gallery2.png" alt="Workshop Image"/></figure>
                                     </div>
                                 </div>
                             </div>
                             <div className="col-lg-3 col-md-6 col-xxs-6">
                                 <div className="tl-9-blog"> 
                                     <div className="tl-9-event-img">
-                                        <figure><img src="assets/images/student/student-photo-gallery/photo-gallery3.png" alt="Workshop Image"/></figure>
+                                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/student-photo-gallery/photo-gallery3.png" alt="Workshop Image"/></figure>
                                     </div>
                                 </div>
                             </div>

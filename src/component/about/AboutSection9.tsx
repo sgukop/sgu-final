@@ -7,7 +7,7 @@ const AboutSection9 = () => {
         <div className="row gy-5 align-items-center">
           <div className="col-lg-6">
             <div className="tl-10-about-img">
-              <img src="assets/images/about-us/about-universityy.jpg" alt="university" />
+              <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-us/about-universityy.jpg" alt="university" />
 
            
             </div>

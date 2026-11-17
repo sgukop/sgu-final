@@ -9,7 +9,7 @@ const CivilUGProgram = () => {
         <div className="row g-0 justify-content-between align-items-center">
             <div className="col-xl-6 col-lg-5">
                 <div className="tl-8-about-img">
-                    <img src="assets/images/civil-engineering-dept/programmes/Civil-Btech.png" alt="About Civil Engineering" className="rounded-full"
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/programmes/Civil-Btech.png" alt="About Civil Engineering" className="rounded-full"
                     style={{border:"10px solid #4f70b6", padding:"20px"}}/>
                 </div>
             </div>

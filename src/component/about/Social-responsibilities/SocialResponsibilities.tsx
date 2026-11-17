@@ -7,7 +7,7 @@ const SocialResponsibility = () => {
             <div className="row g-0 justify-content-between align-items-center">
                 <div className="col-xl-6 col-lg-5">
                     <div className="tl-8-about-img">
-                    <img src="assets/images/social-responsibilities/social-responsibility.jpg" alt="Social Responsibilities" className="social-image"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/social-responsibilities/social-responsibility.jpg" alt="Social Responsibilities" className="social-image"/>
                       
                     </div>
                 </div>

@@ -6,10 +6,8 @@ const nextConfig = {
 
   images: {
     remotePatterns: [
-      {
-        protocol: "https",
-        hostname: "**",
-      },
+      { protocol: "https", hostname: "sgukopbucket.s3.ap-south-1.amazonaws.com" },
+      { protocol: "https", hostname: "manage-api.sguk.ac.in" },
     ],
   },
 

@@ -33,8 +33,8 @@ const Home10 = () => {
 
         <HeaderSection8
           style='tl-10-header'
-          darkLogo="assets/images/sguu-logoo.png"
-          lightLogo="assets/images/sgulogo-white.jpg"
+          darkLogo="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sguu-logoo.png"
+          lightLogo="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgulogo-white.jpg"
           headerStyle=''
           btnStyle='tl-def-btn'
           loginBtn={true}
@@ -51,7 +51,7 @@ const Home10 = () => {
         <TestimonialSection2 />
         <AboutSection6 padding='pt-120' margin='mt-0' />
          <SguVideo />   
-        <FooterSection7 style='' logo='assets/images/logos/sgulogo.jpg' descStyle='tl-footer-descr' socialStyle='tl-footer-socials' />
+        <FooterSection7 style='' logo='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/logos/sgulogo.jpg' descStyle='tl-footer-descr' socialStyle='tl-footer-socials' />
         <VideoModal />
        
 

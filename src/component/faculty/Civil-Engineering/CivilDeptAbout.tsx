@@ -11,7 +11,7 @@ import MtechStructural from "./PEO-PO-PSO/MtechStructural";
 const CivilDeptAbout = () => {
    return (
     <>
-        <section className="tl-14-about pt-50" data-background="assets/images/tl-14/cta-bg.png">
+        <section className="tl-14-about pt-50" data-background="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-14/cta-bg.png">
             <div className="container-fluid">
             <h2 className="tl-9-section-title py-4 rounded-tl-[40px] rounded-br-[40px] w-fit px-8 bg-[#4f70b6] font-bold text-white mx-auto mb-50">Civil Engineering</h2>
             <div className="row">
@@ -25,7 +25,7 @@ const CivilDeptAbout = () => {
                 <div className="row gy-4 align-items-center">
                     <div className="col-lg-6">
                         <div className="tl-14-about-img">
-                            <img src="assets/images/faculty-profile-photos/civil/Dr.N.Vetrivel1.jpeg" alt="Image" className="rounded-full"
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/civil/Dr.N.Vetrivel1.jpeg" alt="Image" className="rounded-full"
                             style={{border:"10px solid #4f70b6", padding:"100px"}}/>
                         </div>
                     </div>

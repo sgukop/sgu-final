@@ -3,43 +3,43 @@ import React from "react";
 const IEEE = () => {
   const ieeephotoes = [
     {
-        imgSrc: "assets/images/photo-gallery/academics/IEEE/1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/IEEE/1.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/IEEE/2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/IEEE/2.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/IEEE/3.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/IEEE/3.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/IEEE/4.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/IEEE/4.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/IEEE/5.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/IEEE/5.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/IEEE/6.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/IEEE/6.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/IEEE/7.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/IEEE/7.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/IEEE/8.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/IEEE/8.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/IEEE/9.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/IEEE/9.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/IEEE/10.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/IEEE/10.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/IEEE/11.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/IEEE/11.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/IEEE/12.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/IEEE/12.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/IEEE/13.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/IEEE/13.jpeg",
     },
  ];
 

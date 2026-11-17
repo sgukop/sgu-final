@@ -6,8 +6,8 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from "react-responsive-carousel";
 
 const logos: string[] = [
-  "/assets/images/recruiters/mba16.jpg",
-  "/assets/images/recruiters/mba18.jpg",
+  "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/mba16.jpg",
+  "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/mba18.jpg",
 ];
 
 const chunkArray = <T,>(array: T[], size: number): T[][] => {

@@ -22,7 +22,7 @@ const EnglishDeptLaboratories = () => {
                             </div>
                             <div className="tl-8-course flex flex-col h-full rounded-[20px]">
                                 <div className="tl-8-course-img">
-                                    <img src="assets/images/english-dept/laboratories/LL1.jpg" alt="Laboratories and Infrastructure Image"/>
+                                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/english-dept/laboratories/LL1.jpg" alt="Laboratories and Infrastructure Image"/>
                                 </div>
                                 <div className="tl-8-course-txt">
                                     <p className="dark-mode-white-color">English Language Laboratory is equipped with the Digital Language Lab Software of thirty plus one teacher user strength which gives immense exposure at various levels of English Language by availing means of improving pronunciation, speech, grammar and syntax. It also provides actual situation of English usage that helps students to get acquainted with English language rapidly<br/><br/>
@@ -37,7 +37,7 @@ const EnglishDeptLaboratories = () => {
                             </div>
                             <div className="tl-8-course mb-30 flex flex-col h-full rounded-[20px]">
                                 <div className="tl-8-course-img">
-                                    <img src="assets/images/english-dept/laboratories/LL2.jpg" alt="Laboratories and Infrastructure Image"/>
+                                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/english-dept/laboratories/LL2.jpg" alt="Laboratories and Infrastructure Image"/>
                                 </div>
                                 <div className="tl-8-course-txt">
                                     <p className="dark-mode-white-color">Second Language Lab is also equipped with the Digital Language Lab Software of twenty plus one teacher user strength. Students are provided practice in an entertaining and interactive way to acquire four main language skills: listening, speaking, reading, and writing. Students learn more comprehensively through a language lab using more class time. <br/> Practice sessions of Group Discussion, Public Speaking, Interview skills, (Mock Interview Sessions) Technical and non-technical Presentations, Debate are conducted in the Language lab.</p>

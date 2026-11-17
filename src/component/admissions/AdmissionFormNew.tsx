@@ -24,7 +24,7 @@ const AdmissionFormNew:React.FC<Props> = ({style}) => {
                     <AdmissionOpenForm style=''/>
               </div>
               {/* <div className="col-lg-6 col-12 tl-5-consult-img" style={{marginTop:'60px'}}> 
-                    <img src="assets/images/admission-open/admission-open-image1.jpg" alt="Students"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/admission-open/admission-open-image1.jpg" alt="Students"/>
                </div>  */}
             </div>
         </div>

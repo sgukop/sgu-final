@@ -3,154 +3,154 @@ import React from "react";
 const SocialGathering2018 = () => {
   const gatheringphotoes = [
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/1.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/2.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/3.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/4.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/4.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/5.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/5.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/6.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/6.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/7.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/7.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/8.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/8.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/9.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/9.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/10.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/10.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/11.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/11.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/12.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/12.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/13.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/13.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/14.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/14.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/15.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/15.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/16.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/16.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/17.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/17.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/18.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/18.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/19.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/19.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/20.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/20.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/21.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/21.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/22.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/22.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/23.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/23.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/24.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/24.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/25.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/25.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/26.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/26.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/27.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/27.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/28.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/28.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/29.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/29.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/30.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/30.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/31.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/31.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/32.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/32.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/33.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/33.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/34.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/34.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/35.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/35.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/36.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/36.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/37.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/37.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/38.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/38.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/39.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/39.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/40.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/40.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/41.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/41.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/42.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/42.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/43.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/43.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/44.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/44.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/45.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/45.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/46.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/46.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/47.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/47.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/48.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/48.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/49.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/49.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2018/50.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2018/50.jpg",
     },
 ];
 

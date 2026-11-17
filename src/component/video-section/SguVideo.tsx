@@ -65,7 +65,7 @@ const SguVideo = () => {
       <div
         className="w-full -pt-32 relative h-[750px] z-10"
         style={{
-          backgroundImage: "url('/assets/images/home/footer-img.jpg')",
+          backgroundImage: "url('https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/footer-img.jpg')",
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat",

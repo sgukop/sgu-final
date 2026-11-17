@@ -3,122 +3,122 @@ import React from "react";
 const SciStar2025 = () => {
   const scistar2025 = [
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/1.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/2.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/3.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/4.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/4.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/5.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/5.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/6.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/6.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/7.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/7.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/8.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/8.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/9.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/9.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/10.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/10.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/11.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/11.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/12.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/12.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/13.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/13.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/14.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/14.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/15.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/15.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/16.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/16.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/17.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/17.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/18.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/18.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/19.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/19.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/20.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/20.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/21.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/21.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/22.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/22.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/23.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/23.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/24.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/24.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/25.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/25.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/26.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/26.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/27.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/27.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/28.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/28.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/29.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/29.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/30.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/30.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/31.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/31.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/32.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/32.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/33.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/33.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/34.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/34.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/35.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/35.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/36.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/36.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/37.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/37.jpg",
     },
     
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/39.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/39.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/sci-star-2025/40.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/sci-star-2025/40.jpg",
     },
 
     

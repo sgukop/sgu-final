@@ -7,8 +7,8 @@ const AboutSection7 = () => {
             <div className="row g-0 justify-content-between align-items-center">
                 <div className="col-xl-5 col-lg-5">
                     <div className="tl-8-about-img">
-                        <img src="assets/images/tl-8/aboutus-image.jpg" alt="Driving Image" className="tl-8-about-main-img"/>
-                        <img src="assets/images/tl-8/sticker.png" alt="sticker" className="tl-8-about-sticker"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-8/aboutus-image.jpg" alt="Driving Image" className="tl-8-about-main-img"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-8/sticker.png" alt="sticker" className="tl-8-about-sticker"/>
                     </div>
                 </div>
 

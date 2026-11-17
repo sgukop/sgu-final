@@ -762,7 +762,7 @@ const ICSBP = () => {
                     rel="noopener noreferrer"
                   >
                     <img
-                      src="/assets/images/ICSBP-2026.jpg"
+                      src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/ICSBP-2026.jpg"
                       alt="Conference in India"
                       className="rounded-xl shadow-lg"
                     />

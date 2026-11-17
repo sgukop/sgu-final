@@ -3,85 +3,85 @@ import React from "react";
 const RepublicDay2018 = () => {
   const republicday = [
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2018/1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2018/1.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2018/2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2018/2.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2018/3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2018/3.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2018/4.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2018/4.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2018/5.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2018/5.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2018/6.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2018/6.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2018/7.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2018/7.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2018/8.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2018/8.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2018/9.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2018/9.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2018/10.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2018/10.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2018/11.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2018/11.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2018/12.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2018/12.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2018/13.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2018/13.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2018/14.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2018/14.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2018/15.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2018/15.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2018/16.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2018/16.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2018/17.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2018/17.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2018/18.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2018/18.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2018/19.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2018/19.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2018/20.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2018/20.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2018/21.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2018/21.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2018/22.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2018/22.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2018/23.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2018/23.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2018/24.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2018/24.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2018/25.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2018/25.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2018/26.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2018/26.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/republic-day-2018/27.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/republic-day-2018/27.jpg",
     },
   ]
 

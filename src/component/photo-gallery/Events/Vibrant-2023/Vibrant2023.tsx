@@ -3,34 +3,34 @@ import React from "react";
 const Vibrant2023 = () => {
   const vibrant2023photoes = [
     {
-        imgSrc: "assets/images/photo-gallery/events/vibrant-2023/1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/vibrant-2023/1.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/vibrant-2023/2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/vibrant-2023/2.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/vibrant-2023/3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/vibrant-2023/3.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/vibrant-2023/4.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/vibrant-2023/4.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/vibrant-2023/5.jfif",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/vibrant-2023/5.jfif",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/vibrant-2023/6.jfif",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/vibrant-2023/6.jfif",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/vibrant-2023/7.jfif",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/vibrant-2023/7.jfif",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/vibrant-2023/8.jfif",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/vibrant-2023/8.jfif",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/vibrant-2023/9.jfif",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/vibrant-2023/9.jfif",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/vibrant-2023/10.jfif",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/vibrant-2023/10.jfif",
     },
 ];
 

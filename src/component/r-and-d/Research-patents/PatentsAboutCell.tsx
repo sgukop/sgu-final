@@ -8,7 +8,7 @@ const PatentsAboutCell = () => {
         <div className="row g-0 justify-content-between align-items-center">
             <div className="col-xl-6 col-lg-5">
                 <div className="tl-8-about-img">
-                    <img src="assets/images/r&d/patents/about-cell.png" alt="About Cell Image" className="tl-8-about-main-img rounded-full border-[10px] p-4 border-[#4f70b6]"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/r&d/patents/about-cell.png" alt="About Cell Image" className="tl-8-about-main-img rounded-full border-[10px] p-4 border-[#4f70b6]"/>
                 </div>
             </div>
 

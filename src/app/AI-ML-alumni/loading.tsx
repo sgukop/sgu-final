@@ -9,7 +9,7 @@ const loading = () => {
                 <div className="loading-content">
                     <Image 
                     className="loading-logo-text" 
-                    src="/assets/images/logo/logo-text1.jpg" 
+                    src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/logo/logo-text1.jpg" 
                     alt="SGU"
                     height={80}
                     width={242}
@@ -17,7 +17,7 @@ const loading = () => {
                     <div className="loading-stroke">
                         <Image 
                         className="loading-logo-icon" 
-                        src="/assets/images/logo/logo-icon.png" 
+                        src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/logo/logo-icon.png" 
                         alt="Pen"
                         height={104}
                         width={104}

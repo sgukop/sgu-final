@@ -10,7 +10,7 @@ import MenuList from '../Reusable-components/MenuList'
 
 const MechanicalDeptAbout = () => {
    return (
-        <section className="tl-14-about pt-100 pb-100" data-background="assets/images/tl-14/cta-bg.png">
+        <section className="tl-14-about pt-100 pb-100" data-background="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-14/cta-bg.png">
             <div className="container-fluid">
             <div className="row">
           <MenuList dept="" subMenu={NavLinks} />
@@ -23,7 +23,7 @@ const MechanicalDeptAbout = () => {
                 <div className="row align-items-center">
                     <div className="col-lg-5">
                         <div className="tl-14-about-img">
-                            <img src="assets/images/mechanical-engineering-dept/about-dept/about-dept.jpg" className="rounded-full"
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mechanical-engineering-dept/about-dept/about-dept.jpg" className="rounded-full"
                               style={{border:"10px solid #4f70b6", padding:"20px"}} alt="Image" />
                         </div>
                     </div>

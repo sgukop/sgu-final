@@ -7,34 +7,34 @@ const ManagementDeptLaboratories = () => {
 
   const managementlaboratories = [
     {
-      imgSrc: "assets/images/commerce-dept/laboratories/MBA-1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/laboratories/MBA-1.jpg",
     },
     {
-        imgSrc: "assets/images/commerce-dept/laboratories/MBA-2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/laboratories/MBA-2.jpg",
     },
     {
-        imgSrc: "assets/images/commerce-dept/laboratories/MBA-3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/laboratories/MBA-3.jpg",
     },
     {
-        imgSrc: "assets/images/commerce-dept/laboratories/MBA-4.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/laboratories/MBA-4.jpg",
     },
     {
-        imgSrc: "assets/images/commerce-dept/laboratories/MBA-5.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/laboratories/MBA-5.jpg",
     },
     {
-        imgSrc: "assets/images/commerce-dept/laboratories/MBA-6.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/laboratories/MBA-6.jpg",
     },
     {
-        imgSrc: "assets/images/commerce-dept/laboratories/MBA-9.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/laboratories/MBA-9.jpg",
     },
     {
-        imgSrc: "assets/images/commerce-dept/laboratories/MBA-10.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/laboratories/MBA-10.jpg",
     },
     {
-        imgSrc: "assets/images/commerce-dept/laboratories/MBA-11.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/laboratories/MBA-11.jpg",
     },
     {
-        imgSrc: "assets/images/commerce-dept/laboratories/MBA-12.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/laboratories/MBA-12.jpg",
     },
 ];
 return (

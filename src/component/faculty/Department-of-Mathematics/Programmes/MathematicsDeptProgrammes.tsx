@@ -20,7 +20,7 @@ const MathematicsDeptProgrammes = () => {
                 <div className="row gy-4 gy-sm-5 tl-1-blogs-row justify-content-center">
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/department-of-mathematics/programmes/Bsc-Math.png" alt="Mathematics UG Image" className="tl-1-blog-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/programmes/Bsc-Math.png" alt="Mathematics UG Image" className="tl-1-blog-img"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/mathematics-UG-program">UG</Link></h4>
                                     <Link href="/mathematics-UG-program" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
@@ -30,7 +30,7 @@ const MathematicsDeptProgrammes = () => {
 
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/department-of-mathematics/programmes/Msc-Math.png" alt="Mathematics PG Image" className="tl-1-blog-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/programmes/Msc-Math.png" alt="Mathematics PG Image" className="tl-1-blog-img"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/mathematics-PG-program">PG</Link></h4>
                                     <Link href="/mathematics-PG-program" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
@@ -40,7 +40,7 @@ const MathematicsDeptProgrammes = () => {
 
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/department-of-mathematics/programmes/Phd-Math.png" alt="Mathematics PHD Image" className="tl-1-blog-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/programmes/Phd-Math.png" alt="Mathematics PHD Image" className="tl-1-blog-img"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/mathematics-PHD-program">Ph.D.</Link></h4>
                                     <Link href="/mathematics-PHD-program" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>

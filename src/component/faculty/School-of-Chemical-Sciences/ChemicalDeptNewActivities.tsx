@@ -34,7 +34,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/new-activities/5.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/5.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -42,7 +42,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/new-activities/6.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/6.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -59,7 +59,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/new-activities/1.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/1.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -67,7 +67,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/new-activities/2.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/2.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -85,7 +85,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/new-activities/3.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/3.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -93,7 +93,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/new-activities/4.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/4.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -114,7 +114,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/science-club/ingugation/image3.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/science-club/ingugation/image3.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -122,7 +122,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/science-club/ingugation/image4.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/science-club/ingugation/image4.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -142,7 +142,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/science-club/environment-day/Watering and School visit 1.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/science-club/environment-day/Watering and School visit 1.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -150,7 +150,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/science-club/environment-day/Watering and School visit 2.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/science-club/environment-day/Watering and School visit 2.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -169,7 +169,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/science-club/tree-plantation/Watering and Sarpanch meet 1.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/science-club/tree-plantation/Watering and Sarpanch meet 1.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -177,7 +177,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/science-club/tree-plantation/Watering and Sarpanch meet 3.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/science-club/tree-plantation/Watering and Sarpanch meet 3.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -185,7 +185,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/science-club/tree-plantation/Watering and sarpanch mmet 2.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/science-club/tree-plantation/Watering and sarpanch mmet 2.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -205,7 +205,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/science-club/environment-day1/Envi. day celebration 3.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/science-club/environment-day1/Envi. day celebration 3.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -213,7 +213,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/science-club/environment-day1/Envi. day celebration 4.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/science-club/environment-day1/Envi. day celebration 4.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -221,7 +221,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/science-club/environment-day1/Envi. day celebration 5.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/science-club/environment-day1/Envi. day celebration 5.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -229,7 +229,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/science-club/environment-day1/Envi. day celebration 6.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/science-club/environment-day1/Envi. day celebration 6.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -266,7 +266,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/standard-club/quiz/Quiz competition 1.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/standard-club/quiz/Quiz competition 1.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -274,7 +274,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/standard-club/quiz/Quiz competition 2.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/standard-club/quiz/Quiz competition 2.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -293,7 +293,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/standard-club/noida/training at noida 1.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/standard-club/noida/training at noida 1.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -301,7 +301,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/standard-club/noida/Training at noida 2.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/standard-club/noida/Training at noida 2.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -324,7 +324,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/standard-club/youth-to-youth/youth to youth connect 1.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/standard-club/youth-to-youth/youth to youth connect 1.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -332,7 +332,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/standard-club/youth-to-youth/youth to youth connect  2.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/standard-club/youth-to-youth/youth to youth connect  2.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -353,7 +353,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/standard-club/poster/Poster competition 1.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/standard-club/poster/Poster competition 1.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -361,7 +361,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/standard-club/poster/Poster competition 3.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/standard-club/poster/Poster competition 3.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -382,7 +382,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/standard-club/standard-writing/Stadard writing 1.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/standard-club/standard-writing/Stadard writing 1.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -390,7 +390,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/standard-club/standard-writing/standard writing 2.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/standard-club/standard-writing/standard writing 2.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -410,7 +410,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/standard-club/kirloskar-visit/KOEL viit 3.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/standard-club/kirloskar-visit/KOEL viit 3.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -418,7 +418,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/standard-club/kirloskar-visit/KOEL visit 1.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/standard-club/kirloskar-visit/KOEL visit 1.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -426,7 +426,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/standard-club/kirloskar-visit/KOEL visit 2.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/standard-club/kirloskar-visit/KOEL visit 2.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -434,7 +434,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/standard-club/kirloskar-visit/image4.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/standard-club/kirloskar-visit/image4.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -453,7 +453,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/seminar/image1.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/seminar/image1.JPG" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -461,7 +461,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/seminar/image2.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/seminar/image2.JPG" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -469,7 +469,7 @@ const ChemicalDeptNewActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/chemical-sciences-dept/activities/seminar/image3.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/seminar/image3.JPG" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -477,7 +477,7 @@ const ChemicalDeptNewActivities = () => {
 
                   <div className="tl-8-course mb-30 mt-50">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/chemical-sciences-dept/activities/new-activities/career-guidance.jpg" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/career-guidance.jpg" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                     <div className="tl-8-course-txt">
                        <ul className="tl-event-details-key-content-list phd-container">
@@ -488,7 +488,7 @@ const ChemicalDeptNewActivities = () => {
 
                 <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/chemical-sciences-dept/activities/new-activities/industrial-visit.jpg" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/industrial-visit.jpg" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                     <div className="tl-8-course-txt">
                        <ul className="tl-event-details-key-content-list phd-container">
@@ -499,7 +499,7 @@ const ChemicalDeptNewActivities = () => {
 
                 <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/chemical-sciences-dept/activities/new-activities/science-day-celebrations.jpg" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/science-day-celebrations.jpg" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                     <div className="tl-8-course-txt">
                        <ul className="tl-event-details-key-content-list phd-container">
@@ -510,7 +510,7 @@ const ChemicalDeptNewActivities = () => {
 
                {/*  <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/chemical-sciences-dept/activities/new-activities/poster-competition.jpg" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/poster-competition.jpg" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                     <div className="tl-8-course-txt">
                        <ul className="tl-event-details-key-content-list phd-container">
@@ -522,7 +522,7 @@ const ChemicalDeptNewActivities = () => {
 
                <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/chemical-sciences-dept/activities/new-activities/tree-plantation.jpg" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/tree-plantation.jpg" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                     <div className="tl-8-course-txt">
                        <ul className="tl-event-details-key-content-list phd-container">
@@ -534,7 +534,7 @@ const ChemicalDeptNewActivities = () => {
 
                 <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/chemical-sciences-dept/activities/new-activities/youth-to-youth.jpg" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/youth-to-youth.jpg" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                     <div className="tl-8-course-txt">
                        <ul className="tl-event-details-key-content-list phd-container">
@@ -558,7 +558,7 @@ const ChemicalDeptNewActivities = () => {
 
                 <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/chemical-sciences-dept/activities/new-activities/dr-somnathan.jpg" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/dr-somnathan.jpg" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                     <div className="tl-8-course-txt">
                        <ul className="tl-event-details-key-content-list phd-container">
@@ -577,13 +577,13 @@ const ChemicalDeptNewActivities = () => {
 
              {/*   <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/chemical-sciences-dept/activities/new-activities/science-club-1.jpg" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/science-club-1.jpg" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                     <div className="tl-8-course-img">
-                        <img src="assets/images/chemical-sciences-dept/activities/new-activities/science-club-2.jpg" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/science-club-2.jpg" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                     <div className="tl-8-course-img">
-                        <img src="assets/images/chemical-sciences-dept/activities/new-activities/science-club-3.jpg" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/science-club-3.jpg" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                     <div className="tl-8-course-txt">
                        <ul className="tl-event-details-key-content-list phd-container">
@@ -594,10 +594,10 @@ const ChemicalDeptNewActivities = () => {
 
                 <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/chemical-sciences-dept/activities/new-activities/value-added-course-1.jpg" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/value-added-course-1.jpg" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                     <div className="tl-8-course-img">
-                        <img src="assets/images/chemical-sciences-dept/activities/new-activities/value-added-course-2.jpg" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/value-added-course-2.jpg" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                     <div className="tl-8-course-txt">
                        <ul className="tl-event-details-key-content-list phd-container">
@@ -609,7 +609,7 @@ const ChemicalDeptNewActivities = () => {
                 
                 <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/chemical-sciences-dept/activities/new-activities/artificial-intelligence-1.jpg" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/artificial-intelligence-1.jpg" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                    
                     <div className="tl-8-course-txt">
@@ -621,7 +621,7 @@ const ChemicalDeptNewActivities = () => {
 
                 <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/chemical-sciences-dept/activities/new-activities/how-to-write-research-papers.jpg" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/how-to-write-research-papers.jpg" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                     <div className="tl-8-course-txt">
                        <ul className="tl-event-details-key-content-list phd-container">
@@ -641,10 +641,10 @@ const ChemicalDeptNewActivities = () => {
                 
                 <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/chemical-sciences-dept/activities/new-activities/world-cancer-day-1.jpg" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/world-cancer-day-1.jpg" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                     <div className="tl-8-course-img">
-                        <img src="assets/images/chemical-sciences-dept/activities/new-activities/world-cancer-day-2.jpg" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/world-cancer-day-2.jpg" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                      <div className="tl-8-course-txt">
                        <ul className="tl-event-details-key-content-list phd-container">
@@ -655,10 +655,10 @@ const ChemicalDeptNewActivities = () => {
 
                 <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/chemical-sciences-dept/activities/new-activities/sci-star-2020-1.jpg" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/sci-star-2020-1.jpg" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                     <div className="tl-8-course-img">
-                        <img src="assets/images/chemical-sciences-dept/activities/new-activities/sci-star-2020-2.jpg" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/sci-star-2020-2.jpg" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                      <div className="tl-8-course-txt">
                        <ul className="tl-event-details-key-content-list phd-container">
@@ -669,10 +669,10 @@ const ChemicalDeptNewActivities = () => {
 
                 <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/chemical-sciences-dept/activities/new-activities/sci-star-2018-1.jpg" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/sci-star-2018-1.jpg" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                     <div className="tl-8-course-img">
-                        <img src="assets/images/chemical-sciences-dept/activities/new-activities/sci-star-2018-2.jpg" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/sci-star-2018-2.jpg" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                      <div className="tl-8-course-txt">
                        <ul className="tl-event-details-key-content-list phd-container">
@@ -686,7 +686,7 @@ const ChemicalDeptNewActivities = () => {
 
                 <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/chemical-sciences-dept/activities/new-activities/ozone-day.jpg" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/ozone-day.jpg" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                      <div className="tl-8-course-txt">
                        <ul className="tl-event-details-key-content-list phd-container">
@@ -697,10 +697,10 @@ const ChemicalDeptNewActivities = () => {
 
                 <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/chemical-sciences-dept/activities/new-activities/activity5.jpg" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/activity5.jpg" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                     <div className="tl-8-course-img">
-                        <img src="assets/images/chemical-sciences-dept/activities/new-activities/activity6.jpg" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/activity6.jpg" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                     <div className="tl-8-course-txt">
                        <ul className="tl-event-details-key-content-list phd-container">
@@ -714,10 +714,10 @@ const ChemicalDeptNewActivities = () => {
                 
                 <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/chemical-sciences-dept/activities/new-activities/activity4.jpg" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/activity4.jpg" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                     <div className="tl-8-course-img">
-                        <img src="assets/images/chemical-sciences-dept/activities/new-activities/activity3.jpg" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/activity3.jpg" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                     <div className="tl-8-course-txt">
                        <ul className="tl-event-details-key-content-list phd-container">
@@ -729,10 +729,10 @@ const ChemicalDeptNewActivities = () => {
 
                <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/chemical-sciences-dept/activities/new-activities/activity1.jpg" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/activity1.jpg" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                     <div className="tl-8-course-img">
-                        <img src="assets/images/chemical-sciences-dept/activities/new-activities/activity2.jpg" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/activities/new-activities/activity2.jpg" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                     <div className="tl-8-course-txt">
                         <p className="dark-mode-white-color" style={{textAlign:"justify"}}>A two day Science Academies Lecture Workshop on <strong>“Recent advance in Catalysis Sciences”</strong> was held in The Sanjay Ghodawat University, Atigre, Kolhapur (MS) on 23rd and 24th February, 2018. <br/> The Lecture workshop was sponsored by the Science Academies, Indian Academy of Science (IASc) Bengaluru, <strong>(Sanctioned grant of Rs. 1,65,000/-).</strong> The Lecture workshop was organized by the Department of Chemistry, Sanjay Ghodawat University, Kolhapur. Dr. C. S. Gopinath, Senior Principal Scientist, FASc, National Chemical Laboratory, Pune was the Convener and Dr. P. D. Bhange, Assistant Professor of Sanjay Ghodawat University was the Coordinator of this programme.</p>

@@ -14,7 +14,7 @@ const AerospaceDeptAbout = () => {
   return (
     <section
       className="tl-14-about tl-8-pricing pt-100 pb-100"
-      data-background="assets/images/tl-14/cta-bg.png"
+      data-background="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-14/cta-bg.png"
     >
       <div className="container-fluid">
         <h2 className="tl-9-section-title py-4 rounded-tl-[40px] rounded-br-[40px] w-fit px-8 bg-[#4f70b6] font-bold text-white mx-auto mb-50">About Department</h2>
@@ -31,7 +31,7 @@ const AerospaceDeptAbout = () => {
               <div className="col-lg-5">
                 <div className="tl-14-about-img">
                   <img
-                    src="assets/images/faculty-profile-photos/aeronautical/112.jpg"
+                    src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/aeronautical/112.jpg"
                     alt="HOD Image"
                     className="rounded-full"
                     style={{border:"10px solid #4f70b6", padding:"100px"}}

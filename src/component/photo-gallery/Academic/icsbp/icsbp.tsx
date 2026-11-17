@@ -3,28 +3,28 @@ import React from "react";
 const icsbp = () => {
   const icsbp = [
     {
-        imgSrc: "assets/images/photo-gallery/academics/icsbp/1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/icsbp/1.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/icsbp/2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/icsbp/2.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/icsbp/3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/icsbp/3.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/icsbp/4.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/icsbp/4.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/icsbp/5.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/icsbp/5.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/icsbp/6.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/icsbp/6.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/icsbp/7.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/icsbp/7.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/icsbp/8.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/icsbp/8.jpg",
     },
 
  ];

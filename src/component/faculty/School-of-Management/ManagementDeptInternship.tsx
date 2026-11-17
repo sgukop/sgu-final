@@ -36,76 +36,76 @@ const ManagementDeptInternship:React.FC<AboutProps> = ({margin}) => {
       };
       const recruiters = [
         {
-          imgSrc: "assets/images/management-dept/our-recruiters/company1.png",
+          imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/our-recruiters/company1.png",
         },
         {
-          imgSrc: "assets/images/management-dept/our-recruiters/company2.png",
+          imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/our-recruiters/company2.png",
         },
         {
-          imgSrc: "assets/images/management-dept/our-recruiters/company3.png",
+          imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/our-recruiters/company3.png",
         },
         {
-            imgSrc: "assets/images/management-dept/our-recruiters/company4.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/our-recruiters/company4.png",
         },
         {
-          imgSrc: "assets/images/management-dept/our-recruiters/company5.png",
+          imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/our-recruiters/company5.png",
         },
         {
-          imgSrc: "assets/images/management-dept/our-recruiters/company6.png",
+          imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/our-recruiters/company6.png",
         },
         {
-          imgSrc: "assets/images/management-dept/our-recruiters/company7.png",
+          imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/our-recruiters/company7.png",
         },
         {
-            imgSrc: "assets/images/management-dept/our-recruiters/company8.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/our-recruiters/company8.png",
         },
        {
-            imgSrc: "assets/images/management-dept/our-recruiters/company9.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/our-recruiters/company9.png",
         },
         {
-            imgSrc: "assets/images/management-dept/our-recruiters/company10.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/our-recruiters/company10.png",
         },
         {
-            imgSrc: "assets/images/management-dept/our-recruiters/company11.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/our-recruiters/company11.png",
         },
         {
-            imgSrc: "assets/images/management-dept/our-recruiters/company12.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/our-recruiters/company12.png",
         },
         {
-            imgSrc: "assets/images/management-dept/our-recruiters/company13.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/our-recruiters/company13.png",
         },
         {
-            imgSrc: "assets/images/management-dept/our-recruiters/company14.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/our-recruiters/company14.png",
         },
         {
-            imgSrc: "assets/images/management-dept/our-recruiters/company15.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/our-recruiters/company15.png",
         },
         {
-            imgSrc: "assets/images/management-dept/our-recruiters/company16.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/our-recruiters/company16.png",
         },
         {
-            imgSrc: "assets/images/management-dept/our-recruiters/company17.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/our-recruiters/company17.png",
         },
         {
-            imgSrc: "assets/images/management-dept/our-recruiters/company18.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/our-recruiters/company18.png",
         },
         {
-          imgSrc: "assets/images/management-dept/our-recruiters/company19.png",
+          imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/our-recruiters/company19.png",
         }, 
         {
-          imgSrc: "assets/images/management-dept/our-recruiters/company20.png",
+          imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/our-recruiters/company20.png",
         },
         {
-          imgSrc: "assets/images/management-dept/our-recruiters/company21.png",
+          imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/our-recruiters/company21.png",
         },
         {
-          imgSrc: "assets/images/management-dept/our-recruiters/company22.png",
+          imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/our-recruiters/company22.png",
         },
         {
-          imgSrc: "assets/images/management-dept/our-recruiters/company24.png",
+          imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/our-recruiters/company24.png",
         }, 
         {
-          imgSrc: "assets/images/management-dept/our-recruiters/company23.png",
+          imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/our-recruiters/company23.png",
         },  
        
       ]

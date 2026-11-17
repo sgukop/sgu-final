@@ -5,7 +5,7 @@ import MenuList from '../../Reusable-components/MenuList';
 
 const MLTDeptInfrastructure = () => {
    return (
-    <section className="tl-14-about pt-100 pb-100" data-background="assets/images/tl-14/cta-bg.png">
+    <section className="tl-14-about pt-100 pb-100" data-background="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-14/cta-bg.png">
         <div className="container-fluid">
         <h2 className="tl-9-section-title">Academic Infrastructure</h2>
         <div className="row">
@@ -42,7 +42,7 @@ const MLTDeptInfrastructure = () => {
                         <div className="tl-9-event-img">
                           <a>
                             <figure>
-                              <img src="assets/images/allied-health-sciences/MLT/Infrastructure/1.jpg" alt="Events Image" />
+                              <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/MLT/Infrastructure/1.jpg" alt="Events Image" />
                             </figure>
                           </a>
                         </div>
@@ -56,7 +56,7 @@ const MLTDeptInfrastructure = () => {
                         <div className="tl-9-event-img">
                           <a>
                             <figure>
-                              <img src="assets/images/allied-health-sciences/MLT/Infrastructure/2.jpg" alt="Events Image" />
+                              <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/MLT/Infrastructure/2.jpg" alt="Events Image" />
                             </figure>
                           </a>
                         </div>
@@ -70,7 +70,7 @@ const MLTDeptInfrastructure = () => {
                         <div className="tl-9-event-img">
                           <a>
                             <figure>
-                              <img src="assets/images/allied-health-sciences/MLT/Infrastructure/3.jpg" alt="Events Image" />
+                              <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/MLT/Infrastructure/3.jpg" alt="Events Image" />
                             </figure>
                           </a>
                         </div>
@@ -84,7 +84,7 @@ const MLTDeptInfrastructure = () => {
                         <div className="tl-9-event-img">
                           <a>
                             <figure>
-                              <img src="assets/images/allied-health-sciences/MLT/Infrastructure/4.jpg" alt="Events Image" />
+                              <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/MLT/Infrastructure/4.jpg" alt="Events Image" />
                             </figure>
                           </a>
                         </div>

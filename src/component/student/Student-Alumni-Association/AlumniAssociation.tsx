@@ -11,7 +11,7 @@ const AlumniAssociation = () => {
             <div className="tl-11-section-heading"><h2 className="tl-11-section-title">Student Council 2021-22</h2></div>
                 <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/student/sgu-alumni-association/Student_Council_21_22.jpg" alt="Achievement Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/sgu-alumni-association/Student_Council_21_22.jpg" alt="Achievement Image"/>
                     </div>
                     <div className="tl-8-course-txt">
                         <Link href="https://manage-api.sguk.ac.in/api/assets/6756d8859173bf9f471abf94" target="_blank">

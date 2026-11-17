@@ -33,7 +33,7 @@ const AIandMLDeptFaculty = () => {
                   <div className="tl-1-course-new">
                     <div className="tl-1-course-img-new">
                       <img
-                        src="/assets/images/faculty-profile-photos/AIDS/Aditya Khirsagar.jpg"
+                        src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/AIDS/Aditya Khirsagar.jpg"
                         alt="Faculty Image"
                       />
                     </div>
@@ -61,7 +61,7 @@ const AIandMLDeptFaculty = () => {
                   <div className="tl-1-course-new">
                     <div className="tl-1-course-img-new">
                       <img
-                        src="/assets/images/faculty-profile-photos/AIDS/Anurag Fulare.jpg"
+                        src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/AIDS/Anurag Fulare.jpg"
                         alt="Faculty Image"
                       />
                     </div>
@@ -89,7 +89,7 @@ const AIandMLDeptFaculty = () => {
                   <div className="tl-1-course-new">
                     <div className="tl-1-course-img-new">
                       <img
-                        src="/assets/images/faculty-profile-photos/AIDS/Akshat Singh.jpeg"
+                        src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/AIDS/Akshat Singh.jpeg"
                         alt="Faculty Image"
                       />
                     </div>
@@ -117,7 +117,7 @@ const AIandMLDeptFaculty = () => {
                   <div className="tl-1-course-new">
                     <div className="tl-1-course-img-new">
                       <img
-                        src="/assets/images/faculty-profile-photos/AIDS/Aishik Day.jpeg"
+                        src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/AIDS/Aishik Day.jpeg"
                         alt="Faculty Image"
                       />
                     </div>
@@ -145,7 +145,7 @@ const AIandMLDeptFaculty = () => {
                   <div className="tl-1-course-new">
                     <div className="tl-1-course-img-new">
                       <img
-                        src="/assets/images/faculty-profile-photos/AIDS/Harshad Vaghela.PNG"
+                        src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/AIDS/Harshad Vaghela.png"
                         alt="Faculty Image"
                       />
                     </div>
@@ -173,7 +173,7 @@ const AIandMLDeptFaculty = () => {
                   <div className="tl-1-course-new">
                     <div className="tl-1-course-img-new">
                       <img
-                        src="/assets/images/faculty-profile-photos/AIDS/Rahul P.jpeg"
+                        src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/AIDS/Rahul P.jpeg"
                         alt="Faculty Image"
                       />
                     </div>

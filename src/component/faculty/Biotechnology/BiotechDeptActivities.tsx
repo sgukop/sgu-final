@@ -52,7 +52,7 @@ const BiotechDeptActivities = () => {
             <div className="tl-11-section-heading mt-50"><h2 className="tl-11-section-title">Guest lecture on "Good Laboratory Practices” at the School of Allied Health Sciences</h2></div>
                 <div className="tl-8-course mb-30">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/biotechnology/activities/1.png" alt="Activity Image" style={{width:"auto"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/biotechnology/activities/1.png" alt="Activity Image" style={{width:"auto"}}/>
                     </div>
                     
                     <div className="tl-8-course-txt">
@@ -64,7 +64,7 @@ const BiotechDeptActivities = () => {
 
              {/*   <div className="tl-8-course mb-30">
                      <div className="tl-8-course-img">
-                        <img src="assets/images/biotechnology/activities/4.png" alt="Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/biotechnology/activities/4.png" alt="Activity Image"/>
                     </div>
                     
                     <div className="tl-8-course-txt">
@@ -83,7 +83,7 @@ const BiotechDeptActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                            <img src="assets/images/biotechnology/activities/3.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/biotechnology/activities/3.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -91,7 +91,7 @@ const BiotechDeptActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                            <img src="assets/images/biotechnology/activities/4.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/biotechnology/activities/4.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -110,7 +110,7 @@ const BiotechDeptActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                            <img src="assets/images/biotechnology/activities/5.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/biotechnology/activities/5.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -118,7 +118,7 @@ const BiotechDeptActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                            <img src="assets/images/biotechnology/activities/6.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/biotechnology/activities/6.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -137,7 +137,7 @@ const BiotechDeptActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                            <img src="assets/images/biotechnology/activities/7.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/biotechnology/activities/7.png" alt="Activity Image"/>
                         </div>
                         <h3 className="tl-6-latest-article-title">3 Days of Hands-on Training in Microbiology by Dr. Mrudula Bhendigiri</h3>
                     </div>
@@ -146,7 +146,7 @@ const BiotechDeptActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                            <img src="assets/images/biotechnology/activities/8.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/biotechnology/activities/8.png" alt="Activity Image"/>
                         </div>
                         <h3 className="tl-6-latest-article-title">Guest lecture on 'Career Readiness: Preparing for Success' by Dr. Uttam Jadhav</h3>
                     </div>
@@ -155,7 +155,7 @@ const BiotechDeptActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                            <img src="assets/images/biotechnology/activities/9.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/biotechnology/activities/9.png" alt="Activity Image"/>
                         </div>
                         <h3 className="tl-6-latest-article-title">Guest lecture on 'Fundamental Techniques in Life Sciences' by Mr. Mahaveer Kanchgauda</h3>
                     </div>

@@ -10,7 +10,7 @@ const AboutSGGroup = () => {
             <div className="row gx-0 gy-4 gy-md-5 align-items-center justify-content-between">
                 <div className="col-xxl-6 col-lg-6">
                     <div className="w-full">
-                        <img src="assets/images/about-us/sggroup-new.png" alt="About SGG Image" className="rounded-full w-full h-full w-fit about-sgg-image" style={{border:"30px solid #4f70b6",padding:"20px"}}/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-us/sggroup-new.png" alt="About SGG Image" className="rounded-full w-full h-full w-fit about-sgg-image" style={{border:"30px solid #4f70b6",padding:"20px"}}/>
                     </div>
                 </div>
 

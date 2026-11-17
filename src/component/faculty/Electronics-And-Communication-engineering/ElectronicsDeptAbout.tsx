@@ -11,7 +11,7 @@ import PhdPEO from './PEOs-POs-PSOs/PhdPEO';
 
 const ElectronicsDeptAbout = () => {
    return (
-        <section className="tl-14-about pt-100 pb-100" data-background="assets/images/tl-14/cta-bg.png">
+        <section className="tl-14-about pt-100 pb-100" data-background="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-14/cta-bg.png">
             <div className="container-fluid">
                 <div className="row">
                     <MenuList dept="Electronics and Communication Engineering" subMenu={NavLinks} />
@@ -19,7 +19,7 @@ const ElectronicsDeptAbout = () => {
                             <div className="row align-items-center">
                                 <div className="col-lg-5">
                                     <div className="tl-14-about-img">
-                                        <img src="assets/images/electronics-communication-engineering/about-dept/hod-photo.png" alt="HOD Desk" className="rounded-full" style={{border:"10px solid #4f70b6", padding:"20px"}} />
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electronics-communication-engineering/about-dept/hod-photo.png" alt="HOD Desk" className="rounded-full" style={{border:"10px solid #4f70b6", padding:"20px"}} />
                                     </div>
                                 </div>
 

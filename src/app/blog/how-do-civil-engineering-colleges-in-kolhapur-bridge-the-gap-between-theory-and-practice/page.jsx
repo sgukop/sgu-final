@@ -32,7 +32,7 @@ export default function CivilEngineeringBlogPage() {
           <p className={styles.publishedDate}>Published: 3rd Jul’26</p>
 
           <Image
-            src="/assets/images/images/11.jpg"
+            src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/images/11.jpg"
             alt="Civil Engineering Colleges in Kolhapur |SGU"
             width={1040}
             height={580}

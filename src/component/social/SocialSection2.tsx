@@ -3,7 +3,7 @@ import React from 'react'
 
 const SocialSection2 = () => {
   return (
-    <section className="tl-4-socials tl-4-socials bg-defaults" data-background="assets/images/tl-4/social-bg.jpg">
+    <section className="tl-4-socials tl-4-socials bg-defaults" data-background="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-4/social-bg.jpg">
         <div className="row g-0">
             <div className="col-xl-3 col-md-6 col-12">
                 <div className="tl-4-social tl-5-social">

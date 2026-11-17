@@ -22,7 +22,7 @@ const WorkshopConducted = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/english-dept/activities/eft1.jpg" alt="Workshop Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/english-dept/activities/eft1.jpg" alt="Workshop Image"/></figure>
                     </div>
                        
                 </div>
@@ -31,7 +31,7 @@ const WorkshopConducted = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/english-dept/activities/eft2.jpg" alt="Workshop Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/english-dept/activities/eft2.jpg" alt="Workshop Image"/></figure>
                     </div>
                 </div>
             </div>
@@ -39,7 +39,7 @@ const WorkshopConducted = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/english-dept/activities/eft3.jpg" alt="Workshop Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/english-dept/activities/eft3.jpg" alt="Workshop Image"/></figure>
                     </div>
                 </div>
             </div>
@@ -59,7 +59,7 @@ const WorkshopConducted = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/english-dept/activities/imld1.jpg" alt="Workshop Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/english-dept/activities/imld1.jpg" alt="Workshop Image"/></figure>
                     </div>
                        
                 </div>
@@ -68,7 +68,7 @@ const WorkshopConducted = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/english-dept/activities/imld2.jpg" alt="Workshop Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/english-dept/activities/imld2.jpg" alt="Workshop Image"/></figure>
                     </div>
                 </div>
             </div>
@@ -76,7 +76,7 @@ const WorkshopConducted = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/english-dept/activities/imld3.jpg" alt="Workshop Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/english-dept/activities/imld3.jpg" alt="Workshop Image"/></figure>
                     </div>
                 </div>
             </div>
@@ -84,7 +84,7 @@ const WorkshopConducted = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/english-dept/activities/imld4.jpg" alt="Workshop Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/english-dept/activities/imld4.jpg" alt="Workshop Image"/></figure>
                     </div>
                 </div>
             </div>
@@ -92,7 +92,7 @@ const WorkshopConducted = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/english-dept/activities/imld5.jpg" alt="Workshop Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/english-dept/activities/imld5.jpg" alt="Workshop Image"/></figure>
                     </div>
                 </div>
             </div>
@@ -100,7 +100,7 @@ const WorkshopConducted = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/english-dept/activities/imld6.jpg" alt="Workshop Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/english-dept/activities/imld6.jpg" alt="Workshop Image"/></figure>
                     </div>
                 </div>
             </div>
@@ -120,7 +120,7 @@ const WorkshopConducted = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/english-dept/activities/boc1.jpg" alt="Workshop Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/english-dept/activities/boc1.jpg" alt="Workshop Image"/></figure>
                     </div>
                        
                 </div>
@@ -129,7 +129,7 @@ const WorkshopConducted = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/english-dept/activities/boc2.jpg" alt="Workshop Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/english-dept/activities/boc2.jpg" alt="Workshop Image"/></figure>
                     </div>
                 </div>
             </div>
@@ -137,7 +137,7 @@ const WorkshopConducted = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/english-dept/activities/boc3.jpg" alt="Workshop Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/english-dept/activities/boc3.jpg" alt="Workshop Image"/></figure>
                     </div>
                 </div>
             </div>
@@ -145,7 +145,7 @@ const WorkshopConducted = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/english-dept/activities/boc4.jpg" alt="Workshop Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/english-dept/activities/boc4.jpg" alt="Workshop Image"/></figure>
                     </div>
                 </div>
             </div>
@@ -153,7 +153,7 @@ const WorkshopConducted = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/english-dept/activities/boc5.jpg" alt="Workshop Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/english-dept/activities/boc5.jpg" alt="Workshop Image"/></figure>
                     </div>
                 </div>
             </div>
@@ -161,7 +161,7 @@ const WorkshopConducted = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/english-dept/activities/boc6.jpg" alt="Workshop Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/english-dept/activities/boc6.jpg" alt="Workshop Image"/></figure>
                     </div>
                 </div>
             </div>
@@ -169,7 +169,7 @@ const WorkshopConducted = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/english-dept/activities/boc7.jpg" alt="Workshop Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/english-dept/activities/boc7.jpg" alt="Workshop Image"/></figure>
                     </div>
                 </div>
             </div>
@@ -177,7 +177,7 @@ const WorkshopConducted = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/english-dept/activities/boc8.jpg" alt="Workshop Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/english-dept/activities/boc8.jpg" alt="Workshop Image"/></figure>
                     </div>
                 </div>
             </div>
@@ -185,7 +185,7 @@ const WorkshopConducted = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/english-dept/activities/boc10.jpg" alt="Workshop Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/english-dept/activities/boc10.jpg" alt="Workshop Image"/></figure>
                     </div>
                 </div>
             </div>

@@ -20,7 +20,7 @@ const ChemicalDeptProgrammes = () => {
                 <div className="row gy-4 gy-sm-5 tl-1-blogs-row justify-content-center">
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/chemical-sciences-dept/programmes/bsc-chemistry.png" alt="Chemistry UG Image" className="tl-1-blog-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/programmes/bsc-chemistry.png" alt="Chemistry UG Image" className="tl-1-blog-img"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/chemical-UG-program">UG</Link></h4>
                                     <Link href="/chemical-UG-program" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
@@ -30,7 +30,7 @@ const ChemicalDeptProgrammes = () => {
 
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/chemical-sciences-dept/programmes/msc-chemistry.png" alt="chemistry PG Image" className="tl-1-blog-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/programmes/msc-chemistry.png" alt="chemistry PG Image" className="tl-1-blog-img"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/chemical-PG-program">PG</Link></h4>
                                     <Link href="/chemical-PG-program" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
@@ -39,7 +39,7 @@ const ChemicalDeptProgrammes = () => {
                     </div>
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/chemical-sciences-dept/programmes/phd-image.png" alt="chemistry PHD Image" className="tl-1-blog-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/programmes/phd-image.png" alt="chemistry PHD Image" className="tl-1-blog-img"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/chemical-PHD-program">Ph.D.</Link></h4>
                                     <Link href="/chemical-PHD-program" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>

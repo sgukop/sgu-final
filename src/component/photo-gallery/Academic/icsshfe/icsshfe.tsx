@@ -3,34 +3,34 @@ import React from "react";
 const icsshfe = () => {
   const icsshfe = [
     {
-        imgSrc: "assets/images/photo-gallery/academics/icsshfe/1.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/icsshfe/1.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/icsshfe/2.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/icsshfe/2.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/icsshfe/3.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/icsshfe/3.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/icsshfe/4.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/icsshfe/4.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/icsshfe/5.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/icsshfe/5.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/icsshfe/6.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/icsshfe/6.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/icsshfe/7.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/icsshfe/7.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/icsshfe/8.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/icsshfe/8.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/icsshfe/9.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/icsshfe/9.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/icsshfe/10.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/icsshfe/10.jpeg",
     },
 
  ];

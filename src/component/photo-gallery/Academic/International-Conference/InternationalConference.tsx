@@ -3,82 +3,82 @@ import React from "react";
 const InternationalConference = () => {
   const conferencephotoes = [
     {
-        imgSrc: "assets/images/photo-gallery/academics/second-international-conference/1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/second-international-conference/1.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/second-international-conference/2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/second-international-conference/2.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/second-international-conference/3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/second-international-conference/3.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/second-international-conference/4.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/second-international-conference/4.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/second-international-conference/5.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/second-international-conference/5.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/second-international-conference/6.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/second-international-conference/6.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/second-international-conference/7.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/second-international-conference/7.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/second-international-conference/8.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/second-international-conference/8.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/second-international-conference/9.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/second-international-conference/9.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/second-international-conference/10.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/second-international-conference/10.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/second-international-conference/11.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/second-international-conference/11.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/second-international-conference/12.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/second-international-conference/12.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/second-international-conference/13.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/second-international-conference/13.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/second-international-conference/14.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/second-international-conference/14.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/second-international-conference/15.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/second-international-conference/15.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/second-international-conference/16.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/second-international-conference/16.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/second-international-conference/17.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/second-international-conference/17.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/second-international-conference/18.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/second-international-conference/18.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/second-international-conference/19.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/second-international-conference/19.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/second-international-conference/20.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/second-international-conference/20.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/second-international-conference/21.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/second-international-conference/21.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/second-international-conference/22.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/second-international-conference/22.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/second-international-conference/23.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/second-international-conference/23.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/second-international-conference/24.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/second-international-conference/24.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/second-international-conference/25.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/second-international-conference/25.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/second-international-conference/26.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/second-international-conference/26.jpg",
     },
  ];
 

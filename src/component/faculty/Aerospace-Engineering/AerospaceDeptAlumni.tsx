@@ -40,43 +40,43 @@ function AerospaceDeptAlumni() {
                 <tr>
                   <td><p>1</p></td>
                   <td><p>Mr. PRASAD MALI</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/tata.jpg"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2023-2024/.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/company-logo/tata.jpg"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/2023-2024/.png"/></td>
                 </tr>
 
                 <tr>
                   <td><p>2</p></td>
                   <td><p>Ms.VRUSHALI JITENDRA PATIL</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/hitech.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2024-2025/22.jpg"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/company-logo/hitech.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/2024-2025/22.jpg"/></td>
                 </tr>
 
                 <tr>
                   <td><p>3</p></td>
                   <td><p>Ms. AISHWARYA JANVEKAR</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/hitech.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2024-2025/3.JPG"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/company-logo/hitech.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/2024-2025/3.jpg"/></td>
                 </tr>
 
                 <tr>
                   <td><p>4</p></td>
                   <td><p>Ms. HUMAIRA SALIM PARKAR</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/starair.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2024-2025/4.jpg"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/company-logo/starair.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/2024-2025/4.jpg"/></td>
                 </tr>
 
                 <tr>
                   <td><p>5</p></td>
                   <td><p>Mr.OM CHAITANYA GODSE</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/starair.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2024-2025/"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/company-logo/starair.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/2024-2025/"/></td>
                 </tr>
 
                 <tr>
                   <td><p>6</p></td>
                   <td><p>Ms. PRATIKSHA RAJKUMAR MALI</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/aeroChamp.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2024-2025/5.JPG"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/company-logo/aeroChamp.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/2024-2025/5.jpg"/></td>
                 </tr>
               </tbody>
             </Table>
@@ -102,36 +102,36 @@ function AerospaceDeptAlumni() {
                 <tr>
                   <td><p>1</p></td>
                   <td><p>MR. ARGAE VYANKTESH VIDYADHAR</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/boeing.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2019-2023/alumni-1.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/company-logo/boeing.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/2019-2023/alumni-1.png"/></td>
                 </tr>
 
                 <tr>
                   <td><p>2</p></td>
                   <td><p>MR. AMOL CHAMKERI SHRIKANT </p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/indigo.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2019-2023/alumni-2.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/company-logo/indigo.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/2019-2023/alumni-2.png"/></td>
                 </tr>
 
                 <tr>
                   <td><p>3</p></td>
                   <td><p>MR. GURUDAS PRADIP WALAVE</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/gridpro.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2019-2023/alumni-3.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/company-logo/gridpro.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/2019-2023/alumni-3.png"/></td>
                 </tr>
 
                 <tr>
                   <td><p>4</p></td>
                   <td><p>MR. YASH AMOL JADHAV</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/starair.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2019-2023/alumni-4.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/company-logo/starair.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/2019-2023/alumni-4.png"/></td>
                 </tr>
 
                 <tr>
                   <td><p>5</p></td>
                   <td><p>MR. UTKARSH NIVRUTTI MANGORE</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/starair.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2019-2023/alumni-5.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/company-logo/starair.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/2019-2023/alumni-5.png"/></td>
                 </tr>
               </tbody>
             </Table>
@@ -158,36 +158,36 @@ function AerospaceDeptAlumni() {
                 <tr>
                   <td><p>1</p></td>
                   <td><p>MR. ARGAE VYANKTESH VIDYADHAR</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/boeing.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2019-2023/alumni-1.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/company-logo/boeing.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/2019-2023/alumni-1.png"/></td>
                 </tr>
 
                 <tr>
                   <td><p>2</p></td>
                   <td><p>MR. AMOL CHAMKERI SHRIKANT </p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/indigo.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2019-2023/alumni-2.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/company-logo/indigo.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/2019-2023/alumni-2.png"/></td>
                 </tr>
 
                 <tr>
                   <td><p>3</p></td>
                   <td><p>MR. GURUDAS PRADIP WALAVE</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/gridpro.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2019-2023/alumni-3.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/company-logo/gridpro.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/2019-2023/alumni-3.png"/></td>
                 </tr>
 
                 <tr>
                   <td><p>4</p></td>
                   <td><p>MR. YASH AMOL JADHAV</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/starair.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2019-2023/alumni-4.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/company-logo/starair.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/2019-2023/alumni-4.png"/></td>
                 </tr>
 
                 <tr>
                   <td><p>5</p></td>
                   <td><p>MR. UTKARSH NIVRUTTI MANGORE</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/starair.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2019-2023/alumni-5.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/company-logo/starair.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/2019-2023/alumni-5.png"/></td>
                 </tr>
               </tbody>
             </Table>
@@ -215,36 +215,36 @@ function AerospaceDeptAlumni() {
                 <tr>
                   <td><p>1</p></td>
                   <td><p>MR. SHLOK SURENDRA PATIL</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/indigo.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2018-2022/alumni-1.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/company-logo/indigo.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/2018-2022/alumni-1.png"/></td>
                 </tr>
 
                 <tr>
                   <td><p>2</p></td>
                   <td><p>MR. TEJAS MANIK MASAL</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/hitech.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2018-2022/alumni-2.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/company-logo/hitech.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/2018-2022/alumni-2.png"/></td>
                 </tr>
 
                 <tr>
                   <td><p>3</p></td>
                   <td><p>MS. ANUSHKA MADAN SHINDE</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/hitech.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2018-2022/alumni-3.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/company-logo/hitech.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/2018-2022/alumni-3.png"/></td>
                 </tr>
 
                 <tr>
                   <td><p>4</p></td>
                   <td><p>MS. DEVIKA SHINDE</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/atlascopco.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2018-2022/alumni-4.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/company-logo/atlascopco.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/2018-2022/alumni-4.png"/></td>
                 </tr>
 
                 <tr>
                   <td><p>5</p></td>
                   <td><p>MR. ARJUN RAJ</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/capgemini-logo.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2018-2022/alumni-5.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/company-logo/capgemini-logo.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/2018-2022/alumni-5.png"/></td>
                 </tr>
               </tbody>
             </Table>
@@ -271,28 +271,28 @@ function AerospaceDeptAlumni() {
                 <tr>
                   <td><p>1</p></td>
                   <td><p>MS. VAISHANVI HIREKODI</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/boeing.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2017-2021/alumni-1.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/company-logo/boeing.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/2017-2021/alumni-1.png"/></td>
                 </tr>
 
                 <tr>
                   <td><p>2</p></td>
                   <td><p>MR. VINAYAK MENDULE</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/alten.png"/></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/2017-2021/alumni-2.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/company-logo/alten.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/2017-2021/alumni-2.png"/></td>
                 </tr>
 
                 <tr>
                   <td><p>3</p></td>
                   <td><p>MR. NIKHILRAJE BHARAT KURLE</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/accenture.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/company-logo/accenture.png"/></td>
                   <td></td>
                 </tr>
 
                 <tr>
                   <td><p>4</p></td>
                   <td><p>MR. VINAYAK KALUNGADA</p></td>
-                  <td><img src="assets/images/aerospace-engineering-dept/alumni/company-logo/safran.png"/></td>
+                  <td><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/alumni/company-logo/safran.png"/></td>
                   <td></td>
                 </tr>
               </tbody>

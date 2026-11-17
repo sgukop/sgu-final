@@ -8,40 +8,40 @@ import { Table } from 'react-bootstrap';
 const PhysicalDeptActivities = () => {
     const scistar = [
         {
-          imgSrc: "assets/images/physical-sciences-dept/activities/6.png",
+          imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/physical-sciences-dept/activities/6.png",
         },
         {
-          imgSrc: "assets/images/physical-sciences-dept/activities/7.png",
+          imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/physical-sciences-dept/activities/7.png",
         },
         {
-          imgSrc: "assets/images/physical-sciences-dept/activities/8.png",
+          imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/physical-sciences-dept/activities/8.png",
         },
         {
-          imgSrc: "assets/images/physical-sciences-dept/activities/9.png",
+          imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/physical-sciences-dept/activities/9.png",
         },
         {
-            imgSrc: "assets/images/physical-sciences-dept/activities/new-activities/image1.jpg",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/physical-sciences-dept/activities/new-activities/image1.JPG",
         },
         {
-            imgSrc: "assets/images/physical-sciences-dept/activities/new-activities/image2.jpg",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/physical-sciences-dept/activities/new-activities/image2.JPG",
         },
         {
-            imgSrc: "assets/images/physical-sciences-dept/activities/new-activities/image3.jpg",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/physical-sciences-dept/activities/new-activities/image3.JPG",
         },
         {
-            imgSrc: "assets/images/physical-sciences-dept/activities/new-activities/image4.jpg",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/physical-sciences-dept/activities/new-activities/image4.JPG",
         },
         {
-            imgSrc: "assets/images/physical-sciences-dept/activities/new-activities/image5.jpg",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/physical-sciences-dept/activities/new-activities/image5.JPG",
         },
         {
-            imgSrc: "assets/images/physical-sciences-dept/activities/new-activities/image6.jpg",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/physical-sciences-dept/activities/new-activities/image6.JPG",
         },
         {
-            imgSrc: "assets/images/physical-sciences-dept/activities/new-activities/image7.jpg",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/physical-sciences-dept/activities/new-activities/image7.JPG",
         },
         {
-            imgSrc: "assets/images/physical-sciences-dept/activities/new-activities/image8.jpg",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/physical-sciences-dept/activities/new-activities/image8.JPG",
         },
     ];
   return (
@@ -138,7 +138,7 @@ const PhysicalDeptActivities = () => {
 
             <div className="tl-8-course mt-50 mb-30">
                 <div className="tl-8-course-img">
-                    <img src="assets/images/physical-sciences-dept/activities/1.jpg" alt="Activities Images" style={{width:"auto", height:"auto"}}/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/physical-sciences-dept/activities/1.jpg" alt="Activities Images" style={{width:"auto", height:"auto"}}/>
                 </div>
                 <div className="tl-8-course-txt">
                     <p className="dark-mode-white-color">National seminar on <strong>“EMERGING NANO MATERIALS FOR RENEWABLE ENERGY - 2022”</strong></p>
@@ -147,7 +147,7 @@ const PhysicalDeptActivities = () => {
 
             <div className="tl-8-course mb-30">
                 <div className="tl-8-course-img">
-                    <img src="assets/images/physical-sciences-dept/activities/2.png" alt="Activities Images" style={{width:"auto", height:"auto"}}/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/physical-sciences-dept/activities/2.png" alt="Activities Images" style={{width:"auto", height:"auto"}}/>
                 </div>
                 <div className="tl-8-course-txt">
                     <p className="dark-mode-white-color"><strong>Industrial visits : </strong>One Day Industrial Visit @ Gokul, Kolhapur</p>
@@ -156,7 +156,7 @@ const PhysicalDeptActivities = () => {
 
             <div className="tl-8-course mb-30">
                 <div className="tl-8-course-img">
-                    <img src="assets/images/physical-sciences-dept/activities/3.png" alt="Activities Images" style={{width:"auto", height:"auto"}} />
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/physical-sciences-dept/activities/3.png" alt="Activities Images" style={{width:"auto", height:"auto"}} />
                 </div>
                 <div className="tl-8-course-txt">
                     <p className="dark-mode-white-color"><strong>Industrial visits : </strong>One Day Industrial Visit @ WAICHAL Research Lab, Ichalkaranji</p>
@@ -165,10 +165,10 @@ const PhysicalDeptActivities = () => {
 
             <div className="tl-8-course mb-30">
                 <div className="tl-8-course-img">
-                    <img src="assets/images/physical-sciences-dept/activities/4.png" alt="Activities Images" style={{width:"auto", height:"auto"}} />
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/physical-sciences-dept/activities/4.png" alt="Activities Images" style={{width:"auto", height:"auto"}} />
                 </div>
                 <div className="tl-8-course-img">
-                    <img src="assets/images/physical-sciences-dept/activities/5.png" alt="Activities Images" style={{width:"auto", height:"auto"}} />
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/physical-sciences-dept/activities/5.png" alt="Activities Images" style={{width:"auto", height:"auto"}} />
                 </div>
                 <div className="tl-8-course-txt">
                     <p className="dark-mode-white-color">State Level Science Competition</p>
