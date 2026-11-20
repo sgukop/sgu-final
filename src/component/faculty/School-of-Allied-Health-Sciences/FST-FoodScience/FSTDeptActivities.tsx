@@ -6,7 +6,7 @@ import { Table } from 'react-bootstrap';
 
 const FSTDeptActivities = () => {
    return (
-    <section className="tl-14-blogs tl-3-section-spacing" data-background="assets/images/tl-14/cta-bg.png">
+    <section className="tl-14-blogs tl-3-section-spacing" data-background="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-14/cta-bg.png">
         <div className="container-fluid">
         <h2 className="tl-9-section-title mb-50">Events, Activities & Achievements</h2>
         <div className="row">
@@ -38,7 +38,7 @@ const FSTDeptActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                            <img src="assets/images/allied-health-sciences/FST/events/1.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/FST/events/1.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -48,7 +48,7 @@ const FSTDeptActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                        <img src="assets/images/allied-health-sciences/FST/events/2.jpg" alt="Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/FST/events/2.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -66,7 +66,7 @@ const FSTDeptActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                            <img src="assets/images/allied-health-sciences/FST/events/3.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/FST/events/3.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -74,7 +74,7 @@ const FSTDeptActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                        <img src="assets/images/allied-health-sciences/FST/events/4.jpg" alt="Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/FST/events/4.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -93,7 +93,7 @@ const FSTDeptActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                            <img src="assets/images/allied-health-sciences/FST/events/6.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/FST/events/6.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -102,7 +102,7 @@ const FSTDeptActivities = () => {
                <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                        <img src="assets/images/allied-health-sciences/FST/events/7.jpg" alt="Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/FST/events/7.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div> 
@@ -110,7 +110,7 @@ const FSTDeptActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                        <img src="assets/images/allied-health-sciences/FST/events/8.jpg" alt="Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/FST/events/8.jpg" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -128,7 +128,7 @@ const FSTDeptActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                            <img src="assets/images/allied-health-sciences/FST/events/event1.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/FST/events/event1.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -137,7 +137,7 @@ const FSTDeptActivities = () => {
                <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                        <img src="assets/images/allied-health-sciences/FST/events/event2.png" alt="Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/FST/events/event2.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>   
@@ -145,7 +145,7 @@ const FSTDeptActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                        <img src="assets/images/allied-health-sciences/FST/events/event3.png" alt="Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/FST/events/event3.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -165,7 +165,7 @@ const FSTDeptActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                            <img src="assets/images/allied-health-sciences/FST/events/event4.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/FST/events/event4.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -173,7 +173,7 @@ const FSTDeptActivities = () => {
                {/* <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                        <img src="assets/images/allied-health-sciences/FST/events/event2.png" alt="Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/FST/events/event2.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>   */}
@@ -181,7 +181,7 @@ const FSTDeptActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                        <img src="assets/images/allied-health-sciences/FST/events/event5.png" alt="Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/FST/events/event5.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -203,7 +203,7 @@ const FSTDeptActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                            <img src="assets/images/allied-health-sciences/FST/guest-lecture/guest-lecture1.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/FST/guest-lecture/guest-lecture1.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -211,7 +211,7 @@ const FSTDeptActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                        <img src="assets/images/allied-health-sciences/FST/guest-lecture/guest-lecture2.png" alt="Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/FST/guest-lecture/guest-lecture2.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -229,7 +229,7 @@ const FSTDeptActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                            <img src="assets/images/allied-health-sciences/FST/guest-lecture/guest-lecture3.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/FST/guest-lecture/guest-lecture3.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -237,7 +237,7 @@ const FSTDeptActivities = () => {
                <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                        <img src="assets/images/allied-health-sciences/FST/guest-lecture/guest-lecture4.png" alt="Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/FST/guest-lecture/guest-lecture4.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -259,7 +259,7 @@ const FSTDeptActivities = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                            <img src="assets/images/allied-health-sciences/FST/industrial-visit/visit1.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/FST/industrial-visit/visit1.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -267,7 +267,7 @@ const FSTDeptActivities = () => {
                <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img">
-                        <img src="assets/images/allied-health-sciences/FST/industrial-visit/visit2.png" alt="Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/FST/industrial-visit/visit2.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>

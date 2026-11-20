@@ -34,7 +34,7 @@ export default function FashionDesignBlogPage() {
           </p>
 
           <Image
-            src="/assets/images/images/10.jpg"
+            src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/images/10.jpg"
             alt="Fashion design colleges in kolhapur | SGU"
             width={1040}
             height={580}

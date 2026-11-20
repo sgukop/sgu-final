@@ -9,7 +9,7 @@ const NSS = () => {
                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/civil-engineering-dept/NSS/1.jpeg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/NSS/1.jpeg" alt="Events Image"/></figure>
                         </div>
                         
                     </div>
@@ -18,7 +18,7 @@ const NSS = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/civil-engineering-dept/NSS/2.jpeg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/NSS/2.jpeg" alt="Events Image"/></figure>
                         </div>
                        
                     </div>

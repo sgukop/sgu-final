@@ -5,37 +5,37 @@ const MedicalFacilities = () => {
  
     const medical = [
     {
-        imgSrc: "assets/images/infrastructure/medical-aid/medical-aid1.JPG",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/infrastructure/medical-aid/medical-aid1.JPG",
     },
     {
-        imgSrc: "assets/images/infrastructure/medical-aid/medical-aid2.JPG",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/infrastructure/medical-aid/medical-aid2.JPG",
     },
     {
-        imgSrc: "assets/images/infrastructure/medical-aid/medical-aid3.JPG",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/infrastructure/medical-aid/medical-aid3.JPG",
     },
     {
-        imgSrc: "assets/images/infrastructure/medical-aid/medical-aid4.JPG",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/infrastructure/medical-aid/medical-aid4.JPG",
     },
     {
-        imgSrc: "assets/images/infrastructure/medical-aid/medical-aid5.JPG",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/infrastructure/medical-aid/medical-aid5.JPG",
     },
     {
-        imgSrc: "assets/images/infrastructure/medical-aid/medical-aid6.JPG",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/infrastructure/medical-aid/medical-aid6.JPG",
     },
     {
-        imgSrc: "assets/images/infrastructure/medical-aid/medical-aid7.JPG",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/infrastructure/medical-aid/medical-aid7.JPG",
     },
     {
-        imgSrc: "assets/images/infrastructure/medical-aid/medical-aid8.JPG",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/infrastructure/medical-aid/medical-aid8.JPG",
     },
     {
-      imgSrc: "assets/images/infrastructure/medical-aid/medical-aid13.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/infrastructure/medical-aid/medical-aid13.jpg",
     },
     {
-        imgSrc: "assets/images/infrastructure/medical-aid/medical-aid9.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/infrastructure/medical-aid/medical-aid9.jpeg",
     },
     {
-        imgSrc: "assets/images/infrastructure/medical-aid/medical-aid11.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/infrastructure/medical-aid/medical-aid11.jpeg",
     },
     
   ]

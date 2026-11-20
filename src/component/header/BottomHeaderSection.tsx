@@ -16,7 +16,7 @@ const BottomHeaderSection = () => {
               <div className="col-lg-12 col-6">
                 <div className="logo">
                   <Link href="/">
-                    <img src="/assets/images/logos/logo.png" alt="Logo" />
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/logos/logo.png" alt="Logo" />
                   </Link>
                 </div>
               </div>

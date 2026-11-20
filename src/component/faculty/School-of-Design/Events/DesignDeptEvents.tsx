@@ -20,7 +20,7 @@ const DesignDeptEvents = () => {
                 <div className="row gy-4 gy-sm-5 tl-1-blogs-row">
                     <div className="col-lg-6">
                         <div className="tl-1-blog">
-                            <img src="assets/images/design-dept/events/1.jpeg" alt="Event Images" className="tl-1-blog-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/events/1.jpeg" alt="Event Images" className="tl-1-blog-img"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/design-events-garba">Garba Event :- 2022</Link></h4>
                                     <Link href="/design-events-garba" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>

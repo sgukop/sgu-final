@@ -40,7 +40,7 @@ const CivilDeptLaboratories = () => {
                     <div className="tl-9-event-img">
                       <figure>
                         <img
-                          src="assets/images/civil-engineering-dept/laboratories/Civil1.jpg"
+                          src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/laboratories/Civil1.jpg"
                           alt="Events Image"
                         />
                       </figure>
@@ -56,7 +56,7 @@ const CivilDeptLaboratories = () => {
                     <div className="tl-9-event-img">
                       <figure>
                         <img
-                          src="assets/images/civil-engineering-dept/laboratories/Civil2.jpg"
+                          src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/laboratories/Civil2.jpg"
                           alt="Events Image"
                         />
                       </figure>
@@ -72,7 +72,7 @@ const CivilDeptLaboratories = () => {
                     <div className="tl-9-event-img">
                       <figure>
                         <img
-                          src="assets/images/civil-engineering-dept/laboratories/Civil3.jpg"
+                          src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/laboratories/Civil3.jpg"
                           alt="Events Image"
                         />
                       </figure>
@@ -88,7 +88,7 @@ const CivilDeptLaboratories = () => {
                     <div className="tl-9-event-img">
                       <figure>
                         <img
-                          src="assets/images/civil-engineering-dept/laboratories/Civil4.jpg"
+                          src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/laboratories/Civil4.jpg"
                           alt="Events Image"
                         />
                       </figure>
@@ -104,7 +104,7 @@ const CivilDeptLaboratories = () => {
                     <div className="tl-9-event-img">
                       <figure>
                         <img
-                          src="assets/images/civil-engineering-dept/laboratories/Civil5.jpg"
+                          src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/laboratories/Civil5.jpg"
                           alt="Events Image"
                         />
                       </figure>
@@ -120,7 +120,7 @@ const CivilDeptLaboratories = () => {
                     <div className="tl-9-event-img">
                       <figure>
                         <img
-                          src="assets/images/civil-engineering-dept/laboratories/Civil6.jpg"
+                          src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/laboratories/Civil6.jpg"
                           alt="Events Image"
                         />
                       </figure>
@@ -136,7 +136,7 @@ const CivilDeptLaboratories = () => {
                     <div className="tl-9-event-img">
                       <figure>
                         <img
-                          src="assets/images/civil-engineering-dept/laboratories/Civil7.jpg"
+                          src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/laboratories/Civil7.jpg"
                           alt="Events Image"
                         />
                       </figure>
@@ -152,7 +152,7 @@ const CivilDeptLaboratories = () => {
                     <div className="tl-9-event-img">
                       <figure>
                         <img
-                          src="assets/images/civil-engineering-dept/laboratories/Civil8.jpg"
+                          src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/laboratories/Civil8.jpg"
                           alt="Events Image"
                         />
                       </figure>
@@ -168,7 +168,7 @@ const CivilDeptLaboratories = () => {
                     <div className="tl-9-event-img">
                       <figure>
                         <img
-                          src="assets/images/civil-engineering-dept/laboratories/Civil9.jpg"
+                          src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/laboratories/Civil9.jpg"
                           alt="Events Image"
                         />
                       </figure>
@@ -184,7 +184,7 @@ const CivilDeptLaboratories = () => {
                     <div className="tl-9-event-img">
                       <figure>
                         <img
-                          src="assets/images/civil-engineering-dept/laboratories/Civil10.jpg"
+                          src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/laboratories/Civil10.jpg"
                           alt="Events Image"
                         />
                       </figure>
@@ -200,7 +200,7 @@ const CivilDeptLaboratories = () => {
                     <div className="tl-9-event-img">
                       <figure>
                         <img
-                          src="assets/images/civil-engineering-dept/laboratories/Civil11.jpg"
+                          src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/laboratories/Civil11.jpg"
                           alt="Events Image"
                         />
                       </figure>
@@ -216,7 +216,7 @@ const CivilDeptLaboratories = () => {
                     <div className="tl-9-event-img">
                       <figure>
                         <img
-                          src="assets/images/civil-engineering-dept/laboratories/Civil12.jpg"
+                          src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/laboratories/Civil12.jpg"
                           alt="Events Image"
                         />
                       </figure>

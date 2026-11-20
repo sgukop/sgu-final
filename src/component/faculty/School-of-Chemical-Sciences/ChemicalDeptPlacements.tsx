@@ -34,7 +34,7 @@ const ChemicalDeptPlacements = () => {
                     className="tl-8-testimonial-slider owl-carousel">
                        
                         <SwiperSlide className="placement-image">
-                                <img src="assets/images/chemical-sciences-dept/placement/placement1.jpg" alt="Placement image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/placement/placement1.jpg" alt="Placement image"/>
                         </SwiperSlide>
                     </Swiper>
                 </div>

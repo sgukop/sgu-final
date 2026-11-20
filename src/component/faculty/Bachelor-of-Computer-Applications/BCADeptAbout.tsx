@@ -14,7 +14,7 @@ import MenuList from '../Reusable-components/MenuList';
 
 const BCADeptAbout = () => {
    return (
-    <section className="tl-14-about pt-100 pb-100" data-background="assets/images/tl-14/cta-bg.png">
+    <section className="tl-14-about pt-100 pb-100" data-background="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-14/cta-bg.png">
         <div className="container-fluid">
         <h2 className="tl-9-section-title mb-50">About Department</h2>
         <div className="row">
@@ -32,7 +32,7 @@ const BCADeptAbout = () => {
             </p>
                 <div className="col-lg-6">
                     <div className="tl-14-about-img">
-                        <img src="/assets/images/faculty-profile-photos/computer-applications/3. Ms. SWATI PATIL.jpg" alt="About Department" className="rounded-full"
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/computer-applications/3. Ms. SWATI PATIL.jpg" alt="About Department" className="rounded-full"
                           style={{border:"10px solid #4f70b6", padding:"100px"}} />
                     </div>
                 </div>

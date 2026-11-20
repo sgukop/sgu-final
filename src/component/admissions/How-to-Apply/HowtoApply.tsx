@@ -9,10 +9,10 @@ const HowtoApply = () => {
             <div className="row gx-0 gy-4 gy-md-5 align-items-center justify-content-between">
                 <div className="col-xxl-7 col-lg-6">
                     <div className="tl-13-about-img">
-                        <img src="assets/images/academic-excellence/how-to-apply.jpg" alt="How to Apply"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/academic-excellence/how-to-apply.jpg" alt="How to Apply"/>
 
                         <div className="tl-13-about-stat">
-                            <img src="assets/images/tl-13/stat-icon.png" alt="Image" className="tl-13-about-stat-icon"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-13/stat-icon.png" alt="Image" className="tl-13-about-stat-icon"/>
                             <span className="tl-13-about-stat-number">10+</span>
                             <span className="tl-13-about-stat-name">years of experience</span>
                         </div>

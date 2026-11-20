@@ -34,7 +34,7 @@ const SubBannerSection = () => {
   return (
     <section className="tl-1-sub-banner pt-50 text-center">
       <div className="sub-banner-img-container">
-        <img src="assets/images/tl-1/sub-banner.png" alt="Sub Banner Image" />
+        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/sub-banner.png" alt="Sub Banner Image" />
       </div>
       
       <div className="tl-1-sub-banner-text-top">

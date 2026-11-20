@@ -70,7 +70,7 @@ const ComputerDeptNewEvents = () => {
             <div className="tl-8-course flex flex-col rounded-[20px] h-full shadow-sm p-2 hover:shadow-lg transition duration-300 bg-white">
               <div className="tl-8-course-img self-center">
                 <img
-                  src={`assets/images/photo-gallery/celebrities@sgu/${item.img}`}
+                  src={`https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/celebrities@sgu/${item.img}`}
                   alt="Celebrity Image"
                   className="rounded-xl shadow-md"
                 />

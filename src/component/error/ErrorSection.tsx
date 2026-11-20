@@ -7,7 +7,7 @@ const ErrorSection: React.FC<ErrorProps> = ({ type }) => {
   return (
     <div className="dynamic-error-page-container">
       <div className="not-found-image-container">
-        <img src="/assets/images/404.png" alt="page not found" />
+        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/404.png" alt="page not found" />
       </div>
       <p className="no-page-found-text">
         The {type} you are looking for does not exist.

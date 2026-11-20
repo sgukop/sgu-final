@@ -88,7 +88,7 @@ const ChemicalDeptMOU = () => {
           </div>
         </div>
            {/*  <div className="tl-8-course">
-                <div className="tl-8-course-img"><img src="assets/images/chemical-sciences-dept/mou/chonnam-university.jpg" alt="MOU University Image"/></div>
+                <div className="tl-8-course-img"><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/mou/chonnam-university.jpg" alt="MOU University Image"/></div>
                     <div className="tl-8-course-txt">
                         <div className="tl-8-course-info">
                             <span className="tl-8-course-price" style={{fontSize:"20px"}}>South Korea</span>
@@ -107,7 +107,7 @@ const ChemicalDeptMOU = () => {
                </div>
 
                <div className="tl-8-course mt-20">
-                <div className="tl-8-course-img"><img src="assets/images/chemical-sciences-dept/mou/yeungnam-university.jpg" alt="MOU University Image"/></div>
+                <div className="tl-8-course-img"><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/mou/yeungnam-university.jpg" alt="MOU University Image"/></div>
                     <div className="tl-8-course-txt">
                         <div className="tl-8-course-info">
                             <span className="tl-8-course-price" style={{fontSize:"20px"}}>South Korea</span>
@@ -126,7 +126,7 @@ const ChemicalDeptMOU = () => {
                </div>
 
                <div className="tl-8-course mt-20">
-                <div className="tl-8-course-img"><img src="assets/images/chemical-sciences-dept/mou/IITM.jpg" alt="MOU University Image"/></div>
+                <div className="tl-8-course-img"><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/mou/IITM.jpg" alt="MOU University Image"/></div>
                     <div className="tl-8-course-txt">
                         <div className="tl-8-course-info">
                             <span className="tl-8-course-price" style={{fontSize:"20px"}}>Government of India</span>

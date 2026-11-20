@@ -73,7 +73,7 @@ const ElectricalDeptLaboratories = () => {
                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/electrical-electronics-engineering/laboratories/Car-1.jpg" alt="Laboratories Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electrical-electronics-engineering/laboratories/Car-1.jpg" alt="Laboratories Image"/></figure>
                         </div>
                        
                     </div>
@@ -82,7 +82,7 @@ const ElectricalDeptLaboratories = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/electrical-electronics-engineering/laboratories/Car-2.jpg" alt="Laboratories Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electrical-electronics-engineering/laboratories/Car-2.jpg" alt="Laboratories Image"/></figure>
                         </div>
                        
                     </div>
@@ -91,7 +91,7 @@ const ElectricalDeptLaboratories = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/electrical-electronics-engineering/laboratories/Car-4.jpg" alt="Laboratories Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electrical-electronics-engineering/laboratories/Car-4.jpg" alt="Laboratories Image"/></figure>
                         </div>
                       
                     </div>
@@ -100,7 +100,7 @@ const ElectricalDeptLaboratories = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/electrical-electronics-engineering/laboratories/Car-5.jpg" alt="Laboratories Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electrical-electronics-engineering/laboratories/Car-5.jpg" alt="Laboratories Image"/></figure>
                         </div>
                        
                     </div>
@@ -109,7 +109,7 @@ const ElectricalDeptLaboratories = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/electrical-electronics-engineering/laboratories/Car-6.jpg" alt="Laboratories Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electrical-electronics-engineering/laboratories/Car-6.jpg" alt="Laboratories Image"/></figure>
                         </div>
                        
                     </div>
@@ -118,7 +118,7 @@ const ElectricalDeptLaboratories = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/electrical-electronics-engineering/laboratories/Car-7.jpg" alt="Laboratories Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electrical-electronics-engineering/laboratories/Car-7.jpg" alt="Laboratories Image"/></figure>
                         </div>
                        
                     </div>
@@ -127,7 +127,7 @@ const ElectricalDeptLaboratories = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/electrical-electronics-engineering/laboratories/Car-8.jpg" alt="Laboratories Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electrical-electronics-engineering/laboratories/Car-8.jpg" alt="Laboratories Image"/></figure>
                         </div>
                        
                     </div>
@@ -136,7 +136,7 @@ const ElectricalDeptLaboratories = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/electrical-electronics-engineering/laboratories/Car-9.jpg" alt="Laboratories Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electrical-electronics-engineering/laboratories/Car-9.jpg" alt="Laboratories Image"/></figure>
                         </div>
                        
                     </div>
@@ -145,7 +145,7 @@ const ElectricalDeptLaboratories = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/electrical-electronics-engineering/laboratories/Car-10.jpg" alt="Laboratories Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electrical-electronics-engineering/laboratories/Car-10.jpg" alt="Laboratories Image"/></figure>
                         </div>
                         
                     </div>
@@ -154,7 +154,7 @@ const ElectricalDeptLaboratories = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/electrical-electronics-engineering/laboratories/Car-11.jpg" alt="Laboratories Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electrical-electronics-engineering/laboratories/Car-11.jpg" alt="Laboratories Image"/></figure>
                         </div>
                        
                     </div>
@@ -163,7 +163,7 @@ const ElectricalDeptLaboratories = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/electrical-electronics-engineering/laboratories/Car-12.jpg" alt="Laboratories Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electrical-electronics-engineering/laboratories/Car-12.jpg" alt="Laboratories Image"/></figure>
                         </div>
                       
                     </div>
@@ -172,7 +172,7 @@ const ElectricalDeptLaboratories = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/electrical-electronics-engineering/laboratories/Car-13.jpg" alt="Laboratories Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electrical-electronics-engineering/laboratories/Car-13.jpg" alt="Laboratories Image"/></figure>
                         </div>
                       
                     </div>

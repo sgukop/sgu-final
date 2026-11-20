@@ -10,7 +10,7 @@ const ElectricalDeptAbout = () => {
   return (
     <section
       className="tl-14-about pt-100 pb-100"
-      data-background="assets/images/tl-14/cta-bg.png"
+      data-background="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-14/cta-bg.png"
     >
       <div className="container-fluid">
         <h2 className="tl-9-section-title mb-50">About Department</h2>
@@ -29,7 +29,7 @@ const ElectricalDeptAbout = () => {
               <div className="col-lg-5">
                 <div className="tl-14-about-img">
                   <img
-                    src="assets/images/electrical-electronics-engineering/about-dept/male.jpg"
+                    src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electrical-electronics-engineering/about-dept/male.jpg"
                     alt="Image"
                     className="rounded-full"
                     style={{border:"10px solid #4f70b6", padding:"20px"}}

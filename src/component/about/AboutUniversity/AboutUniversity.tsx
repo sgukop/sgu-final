@@ -7,10 +7,10 @@ const AboutUniversity = () => {
             <div className="row gy-4 gy-sm-5 align-items-center">
                 <div className="col-lg-6 col-12">
                   <div className="gallery">
-                        <img src="assets/images/about-university/image1.jpg" alt="University Image" />
-                        <img src="assets/images/about-university/image2.jpg" alt="University Image" />
-                        <img src="assets/images/about-university/image3.jpg" alt="University Image" />
-                        <img src="assets/images/about-university/image4.jpg" alt="University Image" />
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-university/image1.jpg" alt="University Image" />
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-university/image2.jpg" alt="University Image" />
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-university/image3.jpg" alt="University Image" />
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-university/image4.jpg" alt="University Image" />
                     </div>
                 </div> 
 
@@ -44,7 +44,7 @@ const AboutUniversity = () => {
           <div className="col-lg-5">
             <div className="tl-10-fees-txt">
              {/*  <img
-                src="assets/images/tl-10/fees-icon.png"
+                src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-10/fees-icon.png"
                 alt=""
                 className="tl-10-fees-img"
               />  */}
@@ -52,7 +52,7 @@ const AboutUniversity = () => {
               Vision and <span className="last-word">Mission</span>
               </h2>
               
-              <img src="assets/images/about-university/image2.jpg" alt="vision and mision image" className="rounded-full w-full h-[500px] w-fit" style={{border: "10px solid rgb(79, 112, 182)", padding: "20px"}}/>
+              <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-university/image2.jpg" alt="vision and mision image" className="rounded-full w-full h-[500px] w-fit" style={{border: "10px solid rgb(79, 112, 182)", padding: "20px"}}/>
               
             </div>
           </div>

@@ -61,7 +61,7 @@ const ElectronicsDeptAchievements = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/electronics-communication-engineering/activities/new-activities/activity1.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electronics-communication-engineering/activities/new-activities/activity1.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -81,7 +81,7 @@ const ElectronicsDeptAchievements = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/electronics-communication-engineering/activities/new-activities/activity2.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electronics-communication-engineering/activities/new-activities/activity2.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -89,7 +89,7 @@ const ElectronicsDeptAchievements = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/electronics-communication-engineering/activities/new-activities/activity3.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electronics-communication-engineering/activities/new-activities/activity3.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -101,7 +101,7 @@ const ElectronicsDeptAchievements = () => {
                <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/electronics-communication-engineering/activities/new-activities/activity4.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electronics-communication-engineering/activities/new-activities/activity4.png" alt="Activity Image"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <h4 className="achievements-title">In August 2024, the ECE Department, through EESA, hosted an expert lecture by Shri Gajanan C Kulkarni, CEO of Zillion Group, Pune, on career prospects in semiconductor technology, IoT, automation, and more, guiding students toward industry success.</h4>
@@ -112,7 +112,7 @@ const ElectronicsDeptAchievements = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/electronics-communication-engineering/activities/new-activities/activity5.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electronics-communication-engineering/activities/new-activities/activity5.png" alt="Activity Image"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <h4 className="achievements-title">On October 8, 2024, Mr. Ganesh Bhoi from Morya Industries conducted a hands-on PCB workshop for SY and TY students, focusing on design and manufacturing using Proteus software.</h4>
@@ -123,7 +123,7 @@ const ElectronicsDeptAchievements = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/electronics-communication-engineering/activities/new-activities/activity6.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electronics-communication-engineering/activities/new-activities/activity6.png" alt="Activity Image"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <h4 className="achievements-title"><strong>Exploring the Frontiers of Space: ECE Students ISRO Visit</strong> <br/>
@@ -135,7 +135,7 @@ const ElectronicsDeptAchievements = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/electronics-communication-engineering/activities/new-activities/activity8.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electronics-communication-engineering/activities/new-activities/activity8.png" alt="Activity Image"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <h4 className="achievements-title"><strong>Celebrating Excellence: Mrs. Jyoti Vimal Madanrao Waykule Receives Research Excellence Award at Dipganga Bhagirathi State-Level Awards 2024</strong></h4>
@@ -146,7 +146,7 @@ const ElectronicsDeptAchievements = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/electronics-communication-engineering/activities/new-activities/activity7.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electronics-communication-engineering/activities/new-activities/activity7.png" alt="Activity Image"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <h4 className="achievements-title"><strong>Ms. Swapnali Kore Secures Prestigious IIT Internship with NPTEL Digital Electronics Course Exam Success</strong></h4>
@@ -159,7 +159,7 @@ const ElectronicsDeptAchievements = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/electronics-communication-engineering/activities/new-activities/activity9.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electronics-communication-engineering/activities/new-activities/activity9.png" alt="Activity Image"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <h4 className="achievements-title"><strong>Mrs. Jyoti Vimal Madanrao Waykule Honored as Judge at State-Level Dance Talent Showcase 2025 in Miraj, Sangli (26-27 January 2025)</strong></h4>
@@ -170,7 +170,7 @@ const ElectronicsDeptAchievements = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/electronics-communication-engineering/activities/new-activities/activity10.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electronics-communication-engineering/activities/new-activities/activity10.png" alt="Activity Image"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <h4 className="achievements-title"><strong>Ms. Kore was honored with a "Sanman Patra" for her poem "Tuich Tuzhi," celebrating self-empowerment and resilience, published in the "Vyaktitva Vikas Diwali Ank 2024." </strong></h4>
@@ -180,7 +180,7 @@ const ElectronicsDeptAchievements = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/electronics-communication-engineering/activities/new-activities/activity15.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electronics-communication-engineering/activities/new-activities/activity15.png" alt="Activity Image"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <h4 className="achievements-title"><strong>Anjali Mali, an ECE student, achieved finalist status at Sthithpradnya, Runner-Up at INFOSTAV 2K24, 3rd at SCI-STAR 24-25, and earned certifications in cybersecurity and professional ethics.</strong></h4>
@@ -190,7 +190,7 @@ const ElectronicsDeptAchievements = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/electronics-communication-engineering/activities/new-activities/activity20.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electronics-communication-engineering/activities/new-activities/activity20.png" alt="Activity Image"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <h4 className="achievements-title"><strong>Sakshi Santosh Adhegavkar Reflects on Her First Year Journey in Electronics and Communication Engineering at SGU</strong></h4>
@@ -201,7 +201,7 @@ const ElectronicsDeptAchievements = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/electronics-communication-engineering/activities/new-activities/activity11.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electronics-communication-engineering/activities/new-activities/activity11.png" alt="Activity Image"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <h4 className="achievements-title"><strong>Ms. Kore authored "Digital Techniques" (2024), an extensive textbook on digital electronics, covering logic gates to complex digital circuits and systems.</strong></h4>
@@ -212,7 +212,7 @@ const ElectronicsDeptAchievements = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/electronics-communication-engineering/activities/new-activities/activity12.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electronics-communication-engineering/activities/new-activities/activity12.png" alt="Activity Image"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <h4 className="achievements-title"><strong>Ms. Kore authored "Microprocessor Programming" (2025), a comprehensive textbook on microprocessor systems, architecture, and assembly language.</strong></h4>
@@ -223,7 +223,7 @@ const ElectronicsDeptAchievements = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/electronics-communication-engineering/activities/new-activities/activity14.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electronics-communication-engineering/activities/new-activities/activity14.png" alt="Activity Image"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <h4 className="achievements-title"><strong>Anand Bhupal Kumbhar's Powerful Performance at Pracharya Shivajirao Kumbhar Smruti Natyavachan Competition in Islampur on 26th January 2025</strong></h4>
@@ -236,7 +236,7 @@ const ElectronicsDeptAchievements = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/electronics-communication-engineering/activities/new-activities/activity16.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electronics-communication-engineering/activities/new-activities/activity16.png" alt="Activity Image"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <h4 className="achievements-title"><strong>Chaitali Pravin Jagtap Shines at All India Inter University Mallakhamb Tournament 2023-24 in Jaipur</strong></h4>
@@ -247,7 +247,7 @@ const ElectronicsDeptAchievements = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/electronics-communication-engineering/activities/new-activities/activity17.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electronics-communication-engineering/activities/new-activities/activity17.png" alt="Activity Image"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <h4 className="achievements-title"><strong>Chaitali Pravin Jagtap Shines at All India Inter University Mallakhamb Tournament 2023-24 in Jaipur</strong></h4>
@@ -258,7 +258,7 @@ const ElectronicsDeptAchievements = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/electronics-communication-engineering/activities/new-activities/activity18.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electronics-communication-engineering/activities/new-activities/activity18.png" alt="Activity Image"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <h4 className="achievements-title"><strong>Pruthvi Jadhav: Innovator and Leader at SGU, Founder of EngiiGenius and Vice President of EESA</strong></h4>
@@ -269,7 +269,7 @@ const ElectronicsDeptAchievements = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/electronics-communication-engineering/activities/new-activities/activity19.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electronics-communication-engineering/activities/new-activities/activity19.png" alt="Activity Image"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <h4 className="achievements-title"><strong>Pruthvi Jadhav's Impact: Judge at State-level Tech Innovation Fest and Workshop Leader at SVERI Engineering College</strong></h4>

@@ -86,7 +86,7 @@ const CivilDeptProgrammes = () => {
                 <div className="row gy-4 gy-sm-5 tl-1-blogs-row mt-50">
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/civil-engineering-dept/programmes/Civil-Btech.png" alt="Civil UG Image" className="tl-1-blog-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/programmes/Civil-Btech.png" alt="Civil UG Image" className="tl-1-blog-img"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/civil-UG-program">UG</Link></h4>
                                     <Link href="/civil-UG-program" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
@@ -96,7 +96,7 @@ const CivilDeptProgrammes = () => {
 
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/civil-engineering-dept/programmes/Civil-Mtech.png" alt="Civil PG Image" className="tl-1-blog-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/programmes/Civil-Mtech.png" alt="Civil PG Image" className="tl-1-blog-img"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/civil-PG-program">PG</Link></h4>
                                     <Link href="/civil-PG-program" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>

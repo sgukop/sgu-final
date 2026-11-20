@@ -25,7 +25,7 @@ const ResearchStructure = () => {
                 </div>
             <div className="col-xl-6 col-lg-10">
                 <div className="tl-8-about-img">
-                    <img src="assets/images/r&d/structure-r-d/r&d-new.jpg" alt="Research Structure Image" className="tl-8-about-main-img"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/r&d/structure-r-d/r&d-new.jpg" alt="Research Structure Image" className="tl-8-about-main-img"/>
                 </div>
             </div>
             </div>

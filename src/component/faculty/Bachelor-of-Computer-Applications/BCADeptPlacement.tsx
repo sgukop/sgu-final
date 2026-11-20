@@ -34,29 +34,29 @@ const BCADeptPlacement = () => {
   };
   const placementimages = [
     {
-      imgSrc: "assets/images/BCA-dept/placement/1.png",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/placement/1.png",
     },
     {
-      imgSrc: "assets/images/BCA-dept/placement/2.png",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/placement/2.png",
     },
     {
-      imgSrc: "assets/images/BCA-dept/placement/3.png",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/placement/3.png",
     },
     {
-        imgSrc: "assets/images/BCA-dept/placement/4.png",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/placement/4.png",
     },
     {
-      imgSrc: "assets/images/BCA-dept/placement/5.png",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/placement/5.png",
     },
     {
-      imgSrc: "assets/images/BCA-dept/placement/6.png",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/placement/6.png",
     },
     
   ]
   return (
     <section
       className="pt-100 pb-100"
-      data-background="assets/images/tl-14/cta-bg.png"
+      data-background="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-14/cta-bg.png"
     >
       <div className="container-fluid">
         <h2 className="tl-9-section-title mb-50">Internship & Placements</h2>

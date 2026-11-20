@@ -730,7 +730,7 @@ const ICSSHFE = () => {
                 className="group"
               >
                 <img
-                  src="/assets/images/ICSSHFR-2026.jpeg"
+                  src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/ICSSHFR-2026.jpeg"
                   alt="Conference in India"
                   className="rounded-xl shadow-lg max-w-sm w-full 
                              transition-transform duration-300 

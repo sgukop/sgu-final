@@ -21,7 +21,7 @@ function LawDeptProgrammes() {
         <div className="row">
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/law-dept/programs/LLB-Program.png" alt="Law Department Program Image" className="tl-1-blog-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/programs/LLB-Program.png" alt="Law Department Program Image" className="tl-1-blog-img"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/law-dept-LLB">LLB</Link></h4>
                                     <Link href="/law-dept-LLB" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
@@ -31,7 +31,7 @@ function LawDeptProgrammes() {
 
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/law-dept/programs/BBA-LLB-program.png" alt="Law Department Program Image" className="tl-1-blog-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/programs/BBA-LLB-program.png" alt="Law Department Program Image" className="tl-1-blog-img"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/law-dept-BBALLB">BBA LLB</Link></h4>
                                     <Link href="/law-dept-BBALLB" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
@@ -41,7 +41,7 @@ function LawDeptProgrammes() {
 
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/law-dept/programs/BA-LLB-program.png" alt="Law Department Program Image" className="tl-1-blog-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/programs/BA-LLB-program.png" alt="Law Department Program Image" className="tl-1-blog-img"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/law-dept-BALLB">BA LLB</Link></h4>
                                     <Link href="/law-dept-BALLB" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>

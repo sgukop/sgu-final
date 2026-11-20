@@ -98,7 +98,7 @@ const AlumniTestimonialSlider = () => {
                 {alumniTextList.map((item) => (
                   <div className="slider-item" key={item.id}>
                     <div className="tl-5-single-testimony">
-                        <img className="tl-5-single-testimony-icon" src="assets/images/tl-5/testimonial-icon.png" alt="Quotation Icon"/>
+                        <img className="tl-5-single-testimony-icon" src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-5/testimonial-icon.png" alt="Quotation Icon"/>
 
                         <div className="tl-5-single-testimony-txt">
                             <p>{item.text}</p>

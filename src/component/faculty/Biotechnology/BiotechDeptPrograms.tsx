@@ -20,7 +20,7 @@ const BiotechDeptPrograms = () => {
         <div className="row g-4 justify-content-between align-items-center">
             <div className="col-xl-6 col-lg-6">
                 <div className="tl-8-about-img">
-                    <img src="assets/images/biotechnology/programs/program-image.png" alt="BSC Biotechnology" className="rounded-full"
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/biotechnology/programs/program-image.png" alt="BSC Biotechnology" className="rounded-full"
                     style={{border:"10px solid #4f70b6", padding:"20px"}} />
                 </div>
             </div>

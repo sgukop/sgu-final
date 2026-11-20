@@ -4,22 +4,22 @@ const DesignEventsGarba = () => {
 
   const garbaimages = [
     {
-        imgSrc: "assets/images/design-dept/events/1.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/events/1.jpeg",
     },
     {
-        imgSrc: "assets/images/design-dept/events/2.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/events/2.jpeg",
     },
     {
-        imgSrc: "assets/images/design-dept/events/3.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/events/3.jpeg",
     },
     {
-        imgSrc: "assets/images/design-dept/events/4.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/events/4.jpeg",
     },
     {
-        imgSrc: "assets/images/design-dept/events/5.1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/events/5.1.jpg",
     },
     {
-        imgSrc: "assets/images/design-dept/events/6.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/events/6.jpeg",
     },
 ];
 return (

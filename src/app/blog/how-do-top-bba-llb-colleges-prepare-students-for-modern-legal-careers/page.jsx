@@ -31,7 +31,7 @@ export default function BBALLBPage() {
           </p>
 
           <Image
-            src="/assets/images/images/8.jpg"
+            src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/images/8.jpg"
             alt="BBA LLB colleges in kolhapur | SGU"
             width={1040}
             height={580}

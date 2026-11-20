@@ -28,7 +28,7 @@ const Media = () => {
 
                                 <div className="tl-1-course-img-new">
                                 <img
-                                    src="/assets/images/sgu-news/5.jpeg"
+                                    src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-news/5.jpeg"
                                     alt="News Image"
                                     className="w-full h-auto"
                                 />
@@ -51,7 +51,7 @@ const Media = () => {
 
                                 <div className="tl-1-course-img-new">
                                 <img
-                                    src="/assets/images/sgu-news/4.jpeg"
+                                    src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-news/4.jpeg"
                                     alt="News Image"
                                     className="w-full h-auto"
                                 />
@@ -74,7 +74,7 @@ const Media = () => {
 
                                 <div className="tl-1-course-img-new">
                                 <img
-                                    src="/assets/images/sgu-news/3.jpeg"
+                                    src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-news/3.jpeg"
                                     alt="News Image"
                                     className="w-full h-auto"
                                 />
@@ -97,7 +97,7 @@ const Media = () => {
 
                                 <div className="tl-1-course-img-new">
                                 <img
-                                    src="/assets/images/sgu-news/1.jpeg"
+                                    src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-news/1.jpeg"
                                     alt="News Image"
                                     className="w-full h-auto"
                                 />
@@ -120,7 +120,7 @@ const Media = () => {
 
                                 <div className="tl-1-course-img-new">
                                 <img
-                                    src="/assets/images/sgu-news/2.jpg"
+                                    src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sgu-news/2.jpg"
                                     alt="News Image"
                                     className="w-full h-auto"
                                 />
@@ -144,7 +144,7 @@ const Media = () => {
                          <div className="tl-1-course-new bg-white rounded-lg shadow-md overflow-hidden">
                         <div className="tl-1-course-img-new">
                         <img
-                        src="assets/images/training-and-placement/media-coverage/161A.jpeg"
+                        src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/training-and-placement/media-coverage/161A.jpeg"
                         alt="Media Coverage Image"
                         className="w-full h-auto"
                          />
@@ -164,7 +164,7 @@ const Media = () => {
                          <div className="tl-1-course-new bg-white rounded-lg shadow-md overflow-hidden">
                          <div className="tl-1-course-img-new">
                      <img
-                      src="assets/images/training-and-placement/media-coverage/160A.jpeg"
+                      src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/training-and-placement/media-coverage/160A.jpeg"
                        alt="Events Image"
                        className="w-full h-auto"
                        />
@@ -184,7 +184,7 @@ const Media = () => {
                          <div className="tl-1-course-new bg-white rounded-lg shadow-md overflow-hidden">
                          <div className="tl-1-course-img-new">
                          <img
-                        src="assets/images/training-and-placement/media-coverage/60A.jpeg"
+                        src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/training-and-placement/media-coverage/60A.jpeg"
                          alt="Events Image"
                         className="w-full h-auto"
                         />
@@ -204,7 +204,7 @@ const Media = () => {
                          <div className="tl-1-course-new bg-white rounded-lg shadow-md overflow-hidden">
                          <div className="tl-1-course-img-new">
                          <img
-                         src="assets/images/training-and-placement/media-coverage/07-05-2022.jpg"
+                         src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/training-and-placement/media-coverage/07-05-2022.jpg"
                          alt="Events Image"
                          className="w-full h-auto"
                         />
@@ -224,7 +224,7 @@ const Media = () => {
                          <div className="tl-1-course-new bg-white rounded-lg shadow-md overflow-hidden">
                          <div className="tl-1-course-img-new">
                          <img
-                         src="assets/images/training-and-placement/media-coverage/31-03-22_A.jpg"
+                         src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/training-and-placement/media-coverage/31-03-22_A.jpg"
                          alt="Events Image"
                          className="w-full h-auto"
                          />
@@ -244,7 +244,7 @@ const Media = () => {
                          <div className="tl-1-course-new bg-white rounded-lg shadow-md overflow-hidden">
                          <div className="tl-1-course-img-new">
                          <img
-                         src="assets/images/training-and-placement/media-coverage/31-03-22_2.jpg"
+                         src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/training-and-placement/media-coverage/31-03-22_2.jpg"
                          alt="Events Image"
                          className="w-full h-auto"
                          />

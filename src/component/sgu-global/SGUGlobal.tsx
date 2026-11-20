@@ -3,13 +3,13 @@ import React from 'react';
 
 const SGUGlobal = () => {
    return (
-    <section className="tl-14-about pt-100 pb-100" data-background="assets/images/tl-14/cta-bg.png">
+    <section className="tl-14-about pt-100 pb-100" data-background="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-14/cta-bg.png">
         <div className="container">
         <h2 className="tl-9-section-title mb-50">SGU Global</h2>
             <div className="row gy-4 align-items-center">
                 <div className="col-lg-6">
                     <div className="tl-14-about-img">
-                        <img src="assets/images/SGU-global/sgu-global-image.jpg" alt="SGU Global Cover Image" />
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/sgu-global-image.jpg" alt="SGU Global Cover Image" />
                     </div>
                 </div>
 
@@ -107,7 +107,7 @@ const SGUGlobal = () => {
             <div className="row gy-4 align-items-center mt-50">
                 <div className="col-lg-6">
                     <div className="tl-14-about-img">
-                        <img src="assets/images/SGU-global/teesside-university.jpg" alt="Teesside University" />
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/SGU-global/teesside-university.jpg" alt="Teesside University" />
                     </div>
                 </div>
 

@@ -3,13 +3,13 @@ import React from "react";
 const BirthdayCelebration60 = () => {
   const celebrationsphotoes = [
     {
-        imgSrc: "assets/images/photo-gallery/celebrations/60th-birthday-celebration/1.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/celebrations/60th-birthday-celebration/1.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/celebrations/60th-birthday-celebration/2.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/celebrations/60th-birthday-celebration/2.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/celebrations/60th-birthday-celebration/3.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/celebrations/60th-birthday-celebration/3.jpeg",
     },
     
         

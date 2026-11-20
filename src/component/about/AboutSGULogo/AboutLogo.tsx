@@ -15,7 +15,7 @@ const AboutSGULogo = () => {
             <div className="row justify-content-center">
                 <div className="col-lg-4 col-md-4 col-12 col-xxs-12">
                     <div className="tl-9-service text-center">
-                    <img src="assets/images/about-logo-image/aboutlogo.jpg" alt="Program image"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-logo-image/aboutlogo.jpg" alt="Program image"/>
                 </div>
                 </div>
 

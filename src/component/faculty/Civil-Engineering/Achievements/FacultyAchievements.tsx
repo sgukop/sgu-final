@@ -6,7 +6,7 @@ const FacultyAchievements = () => {
    <div className="tl-11-section-heading"><h2 className="tl-11-section-title">Faculty Achievements</h2></div>
      <div className="tl-8-course mb-30">
           <div className="tl-8-course-img">
-              <img src="assets/images/civil-engineering-dept/achievements/faculty-achievement.jpg" alt="Achievement Image"/>
+              <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/achievements/faculty-achievement.jpg" alt="Achievement Image"/>
           </div>
           <div className="tl-8-course-txt">
               <p className="dark-mode-white-color">Prof. C.S. Patil awarded with Best Student Mentoring Award in 3rd R. N. Raikar Memorial International Conference, MUMBAI, on 14-15 December, 2018</p>

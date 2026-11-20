@@ -9,131 +9,131 @@ import MasscommunicationDeptEvents from '../MasscommunicationDeptEvents';
 
 const Photojournalism = [
   {
-      imgSrc: "assets/images/mass-communication-dept/activities&achievements/guest-lecture-photojournalism/guest-lecture1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/guest-lecture-photojournalism/guest-lecture1.jpg",
   },
   {
-      imgSrc: "assets/images/mass-communication-dept/activities&achievements/guest-lecture-photojournalism/guest-lecture2.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/guest-lecture-photojournalism/guest-lecture2.JPG",
   },
   {
-      imgSrc: "assets/images/mass-communication-dept/activities&achievements/guest-lecture-photojournalism/guest-lecture3.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/guest-lecture-photojournalism/guest-lecture3.JPG",
   },
 ];
 
 const visittomatofm = [
   {
-      imgSrc: "assets/images/mass-communication-dept/activities&achievements/visit-tomato-fm/visit-1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/visit-tomato-fm/visit-1.jpg",
   },
   {
-      imgSrc: "assets/images/mass-communication-dept/activities&achievements/visit-tomato-fm/visit-2.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/visit-tomato-fm/visit-2.jpg",
   },
   {
-      imgSrc: "assets/images/mass-communication-dept/activities&achievements/visit-tomato-fm/visit-3.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/visit-tomato-fm/visit-3.jpg",
   },
 ];
 
 const sangalivisit = [
   {
-      imgSrc: "assets/images/mass-communication-dept/activities&achievements/expo-sangli/image1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/expo-sangli/image1.JPG",
   },
   {
-      imgSrc: "assets/images/mass-communication-dept/activities&achievements/expo-sangli/image2.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/expo-sangli/image2.JPG",
   },
   {
-      imgSrc: "assets/images/mass-communication-dept/activities&achievements/expo-sangli/image3.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/expo-sangli/image3.JPG",
   },
 ];
 
 const newspaperpublications = [
   {
-      imgSrc: "assets/images/mass-communication-dept/activities&achievements/campus-newspaper-publication/image1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/campus-newspaper-publication/image1.jpg",
   },
 ];
 
 const workshopphotography = [
   {
-      imgSrc: "assets/images/mass-communication-dept/activities&achievements/workshop-photography/photography1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/workshop-photography/photography1.jpg",
   },
   {
-      imgSrc: "assets/images/mass-communication-dept/activities&achievements/workshop-photography/photography2.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/workshop-photography/photography2.jpg",
   },
   {
-    imgSrc: "assets/images/mass-communication-dept/activities&achievements/workshop-photography/photography3.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/workshop-photography/photography3.jpg",
   },
 ];
 
 const voiceculture = [
   {
-      imgSrc: "assets/images/mass-communication-dept/activities&achievements/workshop-voice-culture/image1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/workshop-voice-culture/image1.jpg",
   },
 ];
 
 const tedx = [
   {
-      imgSrc: "assets/images/mass-communication-dept/activities&achievements/TEDXSanjayGhodawatUniversity/image1.jpeg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/TEDXSanjayGhodawatUniversity/image1.jpeg",
   },
   {
-    imgSrc: "assets/images/mass-communication-dept/activities&achievements/TEDXSanjayGhodawatUniversity/image2.jpeg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/TEDXSanjayGhodawatUniversity/image2.jpeg",
   },
   {
-    imgSrc: "assets/images/mass-communication-dept/activities&achievements/TEDXSanjayGhodawatUniversity/image3.jpeg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/TEDXSanjayGhodawatUniversity/image3.jpeg",
   },
 ];
 
 const nilgudkarguestlecture = [
   {
-      imgSrc: "assets/images/mass-communication-dept/activities&achievements/guest-lecture-nilgudkar/image1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/guest-lecture-nilgudkar/image1.JPG",
   },
   {
-    imgSrc: "assets/images/mass-communication-dept/activities&achievements/guest-lecture-nilgudkar/image2.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/guest-lecture-nilgudkar/image2.JPG",
   },
   {
-    imgSrc: "assets/images/mass-communication-dept/activities&achievements/guest-lecture-nilgudkar/image3.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/guest-lecture-nilgudkar/image3.JPG",
   },
 ];
 
 const proguestlecturejpfrient = [
   {
-      imgSrc: "assets/images/mass-communication-dept/activities&achievements/pro-guest-lecture/image1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/pro-guest-lecture/image1.jpg",
   },
   {
-    imgSrc: "assets/images/mass-communication-dept/activities&achievements/pro-guest-lecture/image2.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/pro-guest-lecture/image2.jpg",
   },
   {
-    imgSrc: "assets/images/mass-communication-dept/activities&achievements/pro-guest-lecture/image3.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/pro-guest-lecture/image3.jpg",
   },
 ];
 
 const worldpressfridomday = [
   {
-      imgSrc: "assets/images/mass-communication-dept/activities&achievements/worldpress-fridom-day/image1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/worldpress-fridom-day/image1.jpg",
   },
   {
-    imgSrc: "assets/images/mass-communication-dept/activities&achievements/worldpress-fridom-day/image2.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/worldpress-fridom-day/image2.jpg",
   },
   {
-    imgSrc: "assets/images/mass-communication-dept/activities&achievements/worldpress-fridom-day/image3.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/worldpress-fridom-day/image3.jpg",
   },
   {
-    imgSrc: "assets/images/mass-communication-dept/activities&achievements/worldpress-fridom-day/image4.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/worldpress-fridom-day/image4.jpg",
   },
   {
-    imgSrc: "assets/images/mass-communication-dept/activities&achievements/worldpress-fridom-day/image5.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/worldpress-fridom-day/image5.jpg",
   },
   {
-    imgSrc: "assets/images/mass-communication-dept/activities&achievements/worldpress-fridom-day/image6.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/worldpress-fridom-day/image6.jpg",
   },
 ];
 
 const canonworkshop = [
   {
-      imgSrc: "assets/images/mass-communication-dept/activities&achievements/canon-worshop/image1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/canon-worshop/image1.jpg",
   },
   
 ];
 
 const jayraneworkshop = [
   {
-      imgSrc: "assets/images/mass-communication-dept/activities&achievements/workshop-jay-rane/image1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/activities&achievements/workshop-jay-rane/image1.jpg",
   },
   
 ];

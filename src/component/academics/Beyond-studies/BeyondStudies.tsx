@@ -6,12 +6,12 @@ import BeyondStudiesData from './BeyondStudiesData';
 const BeyondStudies = () => {
     const { openVideoModal } = useTalimContext();
     return (
-        <section className="tl-14-about pt-100 pb-100" data-background="assets/images/tl-14/cta-bg.png">
+        <section className="tl-14-about pt-100 pb-100" data-background="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-14/cta-bg.png">
             <div className="container">
                 <div className="row gy-4 align-items-center">
                     <div className="col-lg-6">
                         <div className="tl-14-about-img">
-                            <img src="assets/images/beyond-studies/beyond-studies.jpg" alt="Image" />
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/beyond-studies/beyond-studies.jpg" alt="Image" />
                         </div>
                     </div>
 

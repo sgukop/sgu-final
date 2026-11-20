@@ -25,7 +25,7 @@ const AerospaceDeptMOU = () => {
                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                          <figure><img src="assets/images/aerospace-engineering-dept/mou/mou1.jpg" alt="Events Image"/></figure>
+                          <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/mou/mou1.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">MOU with AEROTICS TECHNOLOGIES, BENGALURU</h3>
                     </div>
@@ -34,7 +34,7 @@ const AerospaceDeptMOU = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                          <figure><img src="assets/images/aerospace-engineering-dept/mou/mou2.jpg" alt="Events Image"/></figure>
+                          <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/mou/mou2.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">MOU with AGNI AEROSPORTS PVT. LTD.</h3>
                     </div>
@@ -43,7 +43,7 @@ const AerospaceDeptMOU = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                          <figure><img src="assets/images/aerospace-engineering-dept/mou/mou3.jpg" alt="Events Image"/></figure>
+                          <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/mou/mou3.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">MOU WITH BANGALORE AIRCRAFT INDUSTRIES PVT. LTD.(BAIL)</h3>
                     </div>
@@ -52,7 +52,7 @@ const AerospaceDeptMOU = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                          <figure><img src="assets/images/aerospace-engineering-dept/mou/mou4.jpg" alt="Events Image"/></figure>
+                          <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/mou/mou4.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">MOU WITH TANEJA AEROSPACE AVIATION PVT. LTD.</h3>
                     </div>
@@ -61,7 +61,7 @@ const AerospaceDeptMOU = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                          <figure><img src="assets/images/aerospace-engineering-dept/mou/mou5.jpg" alt="Events Image"/></figure>
+                          <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/mou/mou5.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">MOU WITH SKY AEROSPACE BANGALORE</h3>
                     </div>
@@ -70,7 +70,7 @@ const AerospaceDeptMOU = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                          <figure><img src="assets/images/aerospace-engineering-dept/mou/mou6.jpg" alt="Events Image"/></figure>
+                          <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/mou/mou6.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">MOU WITH SS TECHNOLOGIES BANGALORE</h3>
                     </div>
@@ -78,7 +78,7 @@ const AerospaceDeptMOU = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                          <figure><img src="assets/images/aerospace-engineering-dept/mou/mou7.jpeg" alt="Events Image"/></figure>
+                          <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/mou/mou7.jpeg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Mou with Aerominds Pvt Ltd secunderabad</h3>
                     </div>
@@ -87,7 +87,7 @@ const AerospaceDeptMOU = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                          <figure><img src="assets/images/aerospace-engineering-dept/mou/mou8.jpeg" alt="Events Image"/></figure>
+                          <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/mou/mou8.jpeg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Mou with Agmay technologies secunderabad</h3>
                     </div>
@@ -95,7 +95,7 @@ const AerospaceDeptMOU = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                          <figure><img src="assets/images/aerospace-engineering-dept/mou/mou9.jpeg" alt="Events Image"/></figure>
+                          <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/mou/mou9.jpeg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">MOU with Takasago Fluidic Systems (TFS), Japan</h3>
                     </div>

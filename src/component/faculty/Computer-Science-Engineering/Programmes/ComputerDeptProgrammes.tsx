@@ -20,7 +20,7 @@ const ComputerDeptProgrammes = () => {
                 <div className="row gy-4 gy-sm-5 tl-1-blogs-row">
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/computer-science-engineering/programmes/btech-programmes.png" alt="Computer UG Image" className="tl-1-blog-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/programmes/btech-programmes.png" alt="Computer UG Image" className="tl-1-blog-img"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/computer-UG-program">UG</Link></h4>
                                     <Link href="/computer-UG-program" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
@@ -30,7 +30,7 @@ const ComputerDeptProgrammes = () => {
 
                     {/* <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/computer-science-engineering/programmes/AI-programmes.png" alt="Computer PG Image" className="tl-1-blog-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/programmes/AI-programmes.png" alt="Computer PG Image" className="tl-1-blog-img"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/computer-PG-program">PG</Link></h4>
                                     <Link href="/computer-PG-program" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
@@ -40,7 +40,7 @@ const ComputerDeptProgrammes = () => {
 
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/computer-science-engineering/programmes/phd-programmes.png" alt="Computer Phd Image" className="tl-1-blog-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/programmes/phd-programmes.png" alt="Computer Phd Image" className="tl-1-blog-img"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/computer-PHD-program">PHD</Link></h4>
                                     <Link href="/computer-PHD-program" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>

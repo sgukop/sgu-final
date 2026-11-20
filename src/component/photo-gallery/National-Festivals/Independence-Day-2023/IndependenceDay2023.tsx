@@ -3,52 +3,52 @@ import React from "react";
 const IndependenceDay2023 = () => {
   const independenceDay2023 = [
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/independence-day-2023/1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/independence-day-2023/1.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/independence-day-2023/2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/independence-day-2023/2.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/independence-day-2023/3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/independence-day-2023/3.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/independence-day-2023/4.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/independence-day-2023/4.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/independence-day-2023/5.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/independence-day-2023/5.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/independence-day-2023/6.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/independence-day-2023/6.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/independence-day-2023/7.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/independence-day-2023/7.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/independence-day-2023/8.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/independence-day-2023/8.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/independence-day-2023/9.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/independence-day-2023/9.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/independence-day-2023/10.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/independence-day-2023/10.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/independence-day-2023/11.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/independence-day-2023/11.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/independence-day-2023/12.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/independence-day-2023/12.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/independence-day-2023/13.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/independence-day-2023/13.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/independence-day-2023/14.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/independence-day-2023/14.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/independence-day-2023/15.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/independence-day-2023/15.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/independence-day-2023/16.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/independence-day-2023/16.jpg",
     },
 ]
 

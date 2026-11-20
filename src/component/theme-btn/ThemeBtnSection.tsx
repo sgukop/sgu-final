@@ -14,16 +14,16 @@ const ThemeBtnSection = () => {
 
     {/* <div className="social-media-container">
       <div>
-          <a href="https://www.facebook.com/SGUniversityKolhapur" target="_blank"><img src="assets/images/social-media-icons/facebook.png" /></a>
+          <a href="https://www.facebook.com/SGUniversityKolhapur" target="_blank"><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/social-media-icons/facebook.png" /></a>
       </div>
       <div>
-          <a href="https://www.youtube.com/watch?v=dia-Km9XXP4" target="_blank"><img src="assets/images/social-media-icons/youtube.png" /></a>
+          <a href="https://www.youtube.com/watch?v=dia-Km9XXP4" target="_blank"><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/social-media-icons/youtube.png" /></a>
       </div>
       <div>
-          <a href="https://twitter.com/SGUniversityKop" target="_blank"><img src="assets/images/social-media-icons/twitter.png" /></a>
+          <a href="https://twitter.com/SGUniversityKop" target="_blank"><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/social-media-icons/twitter.png" /></a>
       </div>
       <div>
-          <a href="https://www.sanjayghodawatuniversity.ac.in/sgu-exam" target="_blank"><img src="assets/images/social-media-icons/google-plus.png" /></a>
+          <a href="https://www.sanjayghodawatuniversity.ac.in/sgu-exam" target="_blank"><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/social-media-icons/google-plus.png" /></a>
       </div>
     </div>  */}
 

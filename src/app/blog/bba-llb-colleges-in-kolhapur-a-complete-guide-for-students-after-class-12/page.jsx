@@ -30,7 +30,7 @@ export default function BBALLBBlogPage() {
           <p className={styles.publishedDate}>Published: 17th July 2026</p>
 
           <Image
-            src="/assets/images/images/14.jpg"
+            src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/images/14.jpg"
             alt="BBA LLB Colleges in Kolhapur | SGU"
             width={1040}
             height={580}

@@ -31,7 +31,7 @@ export const MainModal = ({
         <div className="modal-background text-center">
          
           <div className="modalheader">
-            <img src="assets/images/sguu-logoo.png" width="90px" />
+            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sguu-logoo.png" width="90px" />
             <h3 style={{ fontWeight: "700" }}>
               Admission Notification 2026-27
             </h3>

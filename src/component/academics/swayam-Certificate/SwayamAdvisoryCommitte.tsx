@@ -15,12 +15,12 @@ const PhdProgram = () => {
                   <tr>
                     <td className="text-center">
                       <a
-                        href="/assets/images/admission-open/3.png"
+                        href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/admission-open/3.png"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
                         <img
-                          src="/assets/images/admission-open/3.png"
+                          src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/admission-open/3.png"
                           alt="Admission Open 1"
                           className="img-fluid"
                           style={{
@@ -38,12 +38,12 @@ const PhdProgram = () => {
                   <tr>
                     <td className="text-center">
                       <a
-                        href="/assets/images/admission-open/4.png"
+                        href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/admission-open/4.png"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
                         <img
-                          src="/assets/images/admission-open/4.png"
+                          src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/admission-open/4.png"
                           alt="Admission Open 2"
                           className="img-fluid"
                           style={{

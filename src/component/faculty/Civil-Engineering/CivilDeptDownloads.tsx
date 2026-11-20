@@ -17,7 +17,7 @@ const CivilDeptDownloads = () => {
         <div className="row gy-5 align-items-center">
         <div className="col-lg-5">
                 <div className="tl-13-banner-img text-center text-lg-end">
-                    <img src="assets/images/civil-engineering-dept/download-brochure/brochure.jpg" alt="Banner Image"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/civil-engineering-dept/download-brochure/brochure.jpg" alt="Banner Image"/>
                 </div>
             </div>
             <div className="col-lg-7">

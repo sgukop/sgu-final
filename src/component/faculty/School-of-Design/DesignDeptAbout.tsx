@@ -6,7 +6,7 @@ import MenuList from '../Reusable-components/MenuList';
 
 const DesignDeptAbout = () => {
    return (
-    <section className="pt-100 pb-100" data-background="assets/images/tl-14/cta-bg.png">
+    <section className="pt-100 pb-100" data-background="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-14/cta-bg.png">
         <div className="container-fluid">
         <h2 className="tl-9-section-title mb-50">School of Design</h2>
         <div className="row">
@@ -20,7 +20,7 @@ const DesignDeptAbout = () => {
             <div className="row gy-2 align-items-center">
                 <div className="col-lg-5">
                     <div className="tl-14-about-img">
-                        <img src="assets/images/design-dept/about-department/about-dept.png" alt="About Department Image" className="rounded-full"
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/about-department/about-dept.png" alt="About Department Image" className="rounded-full"
                         style={{border:"10px solid #4f70b6", padding:"20px"}} />
                     </div>
                 </div>

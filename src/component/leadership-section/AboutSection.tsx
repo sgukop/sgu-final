@@ -8,29 +8,29 @@ const AboutSection = () => {
         <div className="row gy-5 align-items-center">
           {/* <div className="col-lg-6">
             <div className="tl-10-about-img">
-              <img src="assets/images/about-us/aboutus-image1.jpg" alt="students" />
+              <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-us/aboutus-image1.jpg" alt="students" />
 
             </div>
           </div> */}
                   <div className="col-lg-6">
             {/* <div className="tl-10-about-img">
-              <img src="assets/images/about-us/about-universityy.jpg" alt="university" />
+              <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-us/about-universityy.jpg" alt="university" />
 
             </div> */}
                        <div className="tl-10-about-img">
-              <img src="assets/images/about-us/aboutus-image01.png" alt="university" />
+              <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-us/aboutus-image01.png" alt="university" />
 
               {/* <span className="bottom-img">
-                <img src="assets/images/about-us/about-university02.png" alt="university" />
+                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-us/about-university02.png" alt="university" />
               </span> */}
 
               {/* <div className="tl-10-users">
                 <div className="tl-10-users-img">
-                  <img src="assets/images/tl-10/04.png" alt="user" />
-                  <img src="assets/images/tl-10/03.png" alt="user" />
-                  <img src="assets/images/tl-10/02.png" alt="user" />
+                  <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-10/04.png" alt="user" />
+                  <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-10/03.png" alt="user" />
+                  <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-10/02.png" alt="user" />
                   <span className="last-img">
-                    <img src="assets/images/tl-10/01.png" alt="user" />
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-10/01.png" alt="user" />
                     <span className="last-img-txt">2k+</span>
                   </span>
                 </div>

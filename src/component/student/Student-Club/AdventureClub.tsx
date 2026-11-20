@@ -31,7 +31,7 @@ const AdventureClub = () => {
                             <div className="col-lg-4 col-sm-6">
                                 <div className="tl-2-blog tl-2-course">
                                     <div className="tl-2-course-img">
-                                        <img src="assets/images/student/officer/adventure-club-officer.jpg" alt="Profile Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/officer/adventure-club-officer.jpg" alt="Profile Image"/>
                                     </div>
 
                                     <div className="tl-2-course-txt">
@@ -45,7 +45,7 @@ const AdventureClub = () => {
                             <div className="col-lg-4 col-sm-6">
                                 <div className="tl-2-blog tl-2-course">
                                     <div className="tl-2-course-img">
-                                        <img src="assets/images/student/officer/male.jpg" alt="Profile Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/officer/male.jpg" alt="Profile Image"/>
                                     </div>
 
                                     <div className="tl-2-course-txt">
@@ -57,7 +57,7 @@ const AdventureClub = () => {
                             <div className="col-lg-4 col-sm-6">
                                 <div className="tl-2-blog tl-2-course">
                                     <div className="tl-2-course-img">
-                                        <img src="assets/images/student/officer/male.jpg" alt="Profile Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/officer/male.jpg" alt="Profile Image"/>
                                     </div>
 
                                     <div className="tl-2-course-txt">
@@ -77,7 +77,7 @@ const AdventureClub = () => {
                         <div className="row tl-event-details-row g-0">
                             <div className="tl-8-course">
                                 <div className="tl-8-course-img">
-                                    <img src="assets/images/student/student-photo-gallery/Vasota 01.jpg" alt="Event Image"/>
+                                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/student-photo-gallery/Vasota 01.jpg" alt="Event Image"/>
                                 </div>
                                 <div className="tl-8-course-txt">
                                     <p className="dark-mode-white-color"><strong>Vasota Jungle Trek on 21-22 January 2024</strong></p>

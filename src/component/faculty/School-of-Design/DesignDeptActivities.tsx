@@ -7,19 +7,19 @@ import MenuList from '../Reusable-components/MenuList';
 const DesignDeptActivities = () => {
     const activities1 = [
         {
-            imgSrc: "assets/images/design-dept/activities/latest-activities/1.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/1.png",
         },
         {
-            imgSrc: "assets/images/design-dept/activities/latest-activities/2.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/2.png",
         },
     ];
 
     const activities2 = [
         {
-            imgSrc: "assets/images/design-dept/activities/latest-activities/3.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/3.png",
         },
         {
-            imgSrc: "assets/images/design-dept/activities/latest-activities/5.1.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/5.1.png",
         },
     ];
 
@@ -47,7 +47,7 @@ return (
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/design-dept/activities/latest-activities/1.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/1.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -55,7 +55,7 @@ return (
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/design-dept/activities/latest-activities/2.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/2.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -73,7 +73,7 @@ return (
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/design-dept/activities/latest-activities/3.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/3.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -81,7 +81,7 @@ return (
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/design-dept/activities/latest-activities/4.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/4.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -99,7 +99,7 @@ return (
                 <div className="col-xl-4 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/design-dept/activities/latest-activities/5.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/5.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -107,7 +107,7 @@ return (
                 <div className="col-xl-4 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/design-dept/activities/latest-activities/6.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/6.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -115,7 +115,7 @@ return (
                 <div className="col-xl-4 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/design-dept/activities/latest-activities/7.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/7.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -144,7 +144,7 @@ return (
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/design-dept/activities/latest-activities/8.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/8.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -152,7 +152,7 @@ return (
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/design-dept/activities/latest-activities/9.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/9.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -170,7 +170,7 @@ return (
                 <div className="col-xl-4 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/design-dept/activities/latest-activities/10.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/10.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -178,7 +178,7 @@ return (
                 <div className="col-xl-4 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/design-dept/activities/latest-activities/11.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/11.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -186,7 +186,7 @@ return (
                 <div className="col-xl-4 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/design-dept/activities/latest-activities/12.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/12.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -194,7 +194,7 @@ return (
                 <div className="col-xl-4 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/design-dept/activities/latest-activities/13.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/13.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -202,7 +202,7 @@ return (
                 <div className="col-xl-4 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/design-dept/activities/latest-activities/14.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/14.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -220,7 +220,7 @@ return (
                 <div className="col-xl-3 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/design-dept/activities/latest-activities/15.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/15.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -228,7 +228,7 @@ return (
                 <div className="col-xl-3 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/design-dept/activities/latest-activities/16.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/16.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -236,7 +236,7 @@ return (
                 <div className="col-xl-3 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/design-dept/activities/latest-activities/17.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/17.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -244,7 +244,7 @@ return (
                 <div className="col-xl-3 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/design-dept/activities/latest-activities/18.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/18.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -256,7 +256,7 @@ return (
                 <div className="col-xl-6 col-lg-10">
                     
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/design-dept/activities/latest-activities/19.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/19.png" alt="Activity Image"/>
                         </div>
                    
                 </div>
@@ -282,7 +282,7 @@ return (
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/design-dept/activities/latest-activities/20.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/20.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -290,7 +290,7 @@ return (
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/design-dept/activities/latest-activities/21.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/21.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -308,7 +308,7 @@ return (
                 <div className="col-xl-4 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/design-dept/activities/latest-activities/22.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/22.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -316,7 +316,7 @@ return (
                 <div className="col-xl-4 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/design-dept/activities/latest-activities/23.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/23.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -324,7 +324,7 @@ return (
                 <div className="col-xl-4 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/design-dept/activities/latest-activities/24.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/latest-activities/24.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -335,7 +335,7 @@ return (
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px]">
                         <div className="tl-8-course-img">
-                            <img src="assets/images/design-dept/activities/Outreach activity.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/Outreach activity.jpg" alt="Activity Image"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <h4 className="achievements-title"><Link href="https://manage-api.sguk.ac.in/api/assets/67517c7a4b17e19d8f361f40" target="_blank">Report - Act of donation and a visit to Gurukul <i className="fa-regular fa-arrow-right-long"></i></Link></h4>
@@ -345,7 +345,7 @@ return (
                 <div className="col-xl-6 col-lg-10">
                 <div className="tl-8-course flex flex-col rounded-[20px]">
                     <div className="tl-8-course-img">
-                        <img src="assets/images/design-dept/activities/Brainstorming session.png" alt="Activity Image"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/activities/Brainstorming session.png" alt="Activity Image"/>
                     </div>
                     <div className="tl-8-course-txt">
                         <h4 className="achievements-title"><Link href="https://manage-api.sguk.ac.in/api/assets/67517cd34b17e19d8f361f45" target="_blank">Report - Brainstorming session on alternative solutions <i className="fa-regular fa-arrow-right-long"></i></Link></h4>

@@ -23,7 +23,7 @@ const MathematicsDeptAchievements = () => {
         <div className="tl-11-section-heading"><h2 className="tl-11-section-title">Faculty Achievements</h2></div>
             <div className="tl-8-course mb-30">
                 <div className="tl-8-course-img">
-                    <img src="assets/images/department-of-mathematics/achievements/sushant-patil.jpg" alt="Achievements"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/achievements/sushant-patil.jpg" alt="Achievements"/>
                 </div>
                 <div className="tl-8-course-txt">
                     <p className="dark-mode-white-color">Mr. Sushant T. Patil qualified SET examination in Mathematical Science subject</p>
@@ -46,7 +46,7 @@ const MathematicsDeptAchievements = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px]">
                         <div className="tl-8-course-img">
-                            <img src="assets/images/department-of-mathematics/achievements/student-achievements1.jpg" alt="Industrial Visit"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/achievements/student-achievements1.jpg" alt="Industrial Visit"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <p className="dark-mode-white-color">Mr. Akash Pawar M.Sc.-I students got selected for one month Summer program in Mathematics at NICER Bhuneshwar and Harish Chandra Research Institute at Allhabhad during May 2018.</p>
@@ -57,7 +57,7 @@ const MathematicsDeptAchievements = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px]">
                         <div className="tl-8-course-img">
-                            <img src="assets/images/department-of-mathematics/achievements/student-achievements2.jpg" alt="Industrial Visit"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/achievements/student-achievements2.jpg" alt="Industrial Visit"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <p className="dark-mode-white-color">Mr. Akash Powar from M.Sc.-II awarded as Best Outgoing Student from School of Science for A.Y. 2018-19</p>

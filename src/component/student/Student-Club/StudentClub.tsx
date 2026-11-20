@@ -13,7 +13,7 @@ const StudentClub = () => {
                
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/student/club/kc.jpeg" alt="Knowledge Club Image" className="tl-1-blog-img-new"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/club/kc.jpeg" alt="Knowledge Club Image" className="tl-1-blog-img-new"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/student-knowledge-club">Knowledge Club</Link></h4>
                                     <Link href="/student-knowledge-club" className="tl-1-blog-btn mt-0">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
@@ -23,7 +23,7 @@ const StudentClub = () => {
 
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/student/club/yc.jpeg" alt="Yoga And Meditation Club Image" className="tl-1-blog-img-new"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/club/yc.jpeg" alt="Yoga And Meditation Club Image" className="tl-1-blog-img-new"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/student-yoga-club">Yoga And Meditation Club</Link></h4>
                                     <Link href="/student-yoga-club" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
@@ -33,7 +33,7 @@ const StudentClub = () => {
 
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/student/club/ad.jpeg" alt="Adventure Club Image" className="tl-1-blog-img-new"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/club/ad.jpeg" alt="Adventure Club Image" className="tl-1-blog-img-new"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/student-adventure-club">Adventure Club</Link></h4>
                                     <Link href="/student-adventure-club" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
@@ -43,7 +43,7 @@ const StudentClub = () => {
 
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/student/club/bc.jpeg" alt="Business Club Image" className="tl-1-blog-img-new"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/club/bc.jpeg" alt="Business Club Image" className="tl-1-blog-img-new"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/student-business-club">Business Club</Link></h4>
                                     <Link href="/student-business-club" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
@@ -53,7 +53,7 @@ const StudentClub = () => {
 
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/student/club/gamerealm-club.jpg" alt="GameRealm Club Image" className="tl-1-blog-img-new"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/club/gamerealm-club.jpg" alt="GameRealm Club Image" className="tl-1-blog-img-new"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/student-game-realm-club">GameRealm Club</Link></h4>
                                     <Link href="/student-game-realm-club" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
@@ -63,7 +63,7 @@ const StudentClub = () => {
 
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/student/club/tc.jpg" alt="Entertainment Club Image" className="tl-1-blog-img-new"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/club/tc.jpg" alt="Entertainment Club Image" className="tl-1-blog-img-new"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/student-entertainment-club">Entertainment Club</Link></h4>
                                     <Link href="/student-entertainment-club" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
@@ -73,7 +73,7 @@ const StudentClub = () => {
 
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/student/club/fine-arts-club.jpg" alt="Fine Arts Club Image" className="tl-1-blog-img-new"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/club/fine-arts-club.jpg" alt="Fine Arts Club Image" className="tl-1-blog-img-new"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/student-finearts-club">Fine Arts Club</Link></h4>
                                     <Link href="/student-finearts-club" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
@@ -83,7 +83,7 @@ const StudentClub = () => {
 
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/student/club/design-club1.jpg" alt="Design Club Image" className="tl-1-blog-img-new"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student/club/design-club1.jpg" alt="Design Club Image" className="tl-1-blog-img-new"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/student-design-club">Design Club</Link></h4>
                                     <Link href="/student-design-club" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>

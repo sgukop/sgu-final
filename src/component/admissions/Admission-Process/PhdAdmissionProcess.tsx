@@ -18,7 +18,7 @@ const PhdAdmissionProcess = () => {
 
                                 <li><a rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://manage-api.sguk.ac.in/api/assets/67b306794f56d3a0bcfb7acd">Provisional list of SGUPET Applicants <i className="fa-regular fa-arrow-right-long"></i></a></li>
 
-                                <li><a rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="/assets/images/admission-process-icons/phd-admission-process/instructions for SGUPET.jpg">Instructions for SGUPET <i className="fa-regular fa-arrow-right-long"></i></a></li>
+                                <li><a rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/admission-process-icons/phd-admission-process/instructions for SGUPET.jpg">Instructions for SGUPET <i className="fa-regular fa-arrow-right-long"></i></a></li>
 
                                 <li><a rel="noopener noreferrer" className="dark-mode-white-color" target="_blank" href="/phdform-list">List of Forms for PG and Ph.D. <i className="fa-regular fa-arrow-right-long"></i></a></li>
 

@@ -7,151 +7,151 @@ import MenuList from '../Reusable-components/MenuList'
 const ComputerDeptNewEvents = () => {
   const workshopfullstack = [
       {
-        imgSrc: "assets/images/computer-science-engineering/activities/workshop-fullstack/image1.png",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/workshop-fullstack/image1.png",
       },
       {
-        imgSrc: "assets/images/computer-science-engineering/activities/workshop-fullstack/image2.png",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/workshop-fullstack/image2.png",
       },
       {
-        imgSrc: "assets/images/computer-science-engineering/activities/workshop-fullstack/image3.png",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/workshop-fullstack/image3.png",
       },
   ]
   const workshopDevops = [
       {
-        imgSrc: "assets/images/computer-science-engineering/activities/workshop-devops/1.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/workshop-devops/1.jpeg",
       },
       {
-        imgSrc: "assets/images/computer-science-engineering/activities/workshop-devops/2.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/workshop-devops/2.jpeg",
       },
       {
-        imgSrc: "assets/images/computer-science-engineering/activities/workshop-devops/3.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/workshop-devops/3.jpeg",
       },
   ]
 
   const newparentmeet = [
     {
-      imgSrc: "assets/images/computer-science-engineering/activities/new-parent-meet/1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/new-parent-meet/1.jpg",
     },
     {
-      imgSrc: "assets/images/computer-science-engineering/activities/new-parent-meet/2.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/new-parent-meet/2.jpg",
     },
     {
-      imgSrc: "assets/images/computer-science-engineering/activities/new-parent-meet/3.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/new-parent-meet/3.jpg",
     },
     {
-      imgSrc: "assets/images/computer-science-engineering/activities/new-parent-meet/4.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/new-parent-meet/4.jpg",
     },
     {
-      imgSrc: "assets/images/computer-science-engineering/activities/new-parent-meet/5.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/new-parent-meet/5.jpg",
     },
     
 ]
   const technophilia = [
       {
-        imgSrc: "assets/images/computer-science-engineering/activities/technophilia/techno1.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/technophilia/techno1.jpeg",
       },
       {
-        imgSrc: "assets/images/computer-science-engineering/activities/technophilia/techno2.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/technophilia/techno2.jpeg",
       },
       {
-        imgSrc: "assets/images/computer-science-engineering/activities/technophilia/techno3.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/technophilia/techno3.jpeg",
       },
       {
-        imgSrc: "assets/images/computer-science-engineering/activities/technophilia/techno4.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/technophilia/techno4.jpeg",
       },
       {
-        imgSrc: "assets/images/computer-science-engineering/activities/technophilia/techno5.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/technophilia/techno5.jpeg",
       },
       {
-        imgSrc: "assets/images/computer-science-engineering/activities/technophilia/techno6.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/technophilia/techno6.jpeg",
       },
       {
-        imgSrc: "assets/images/computer-science-engineering/activities/technophilia/techno7.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/technophilia/techno7.jpeg",
       },
       {
-        imgSrc: "assets/images/computer-science-engineering/activities/technophilia/techno8.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/technophilia/techno8.jpeg",
       },
       {
-        imgSrc: "assets/images/computer-science-engineering/activities/technophilia/techno9.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/technophilia/techno9.jpeg",
       },
   ]
   
     const asces = [
         {
-          imgSrc: "assets/images/computer-science-engineering/activities/acses/image1.jpeg",
+          imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/acses/image1.jpeg",
         },
         {
-            imgSrc: "assets/images/computer-science-engineering/activities/acses/image2.jpeg",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/acses/image2.jpeg",
           },
           {
-            imgSrc: "assets/images/computer-science-engineering/activities/acses/image3.jpeg",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/acses/image3.jpeg",
           },
           {
-            imgSrc: "assets/images/computer-science-engineering/activities/acses/image4.jpeg",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/acses/image4.jpeg",
           },
           {
-            imgSrc: "assets/images/computer-science-engineering/activities/acses/image5.jpeg",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/acses/image5.jpeg",
           },
           {
-            imgSrc: "assets/images/computer-science-engineering/activities/acses/image6.jpeg",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/acses/image6.jpeg",
           },
           {
-            imgSrc: "assets/images/computer-science-engineering/activities/acses/image7.jpeg",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/acses/image7.jpeg",
           },
           {
-            imgSrc: "assets/images/computer-science-engineering/activities/acses/image8.jpeg",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/acses/image8.jpeg",
           },
           {
-            imgSrc: "assets/images/computer-science-engineering/activities/acses/image9.jpeg",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/acses/image9.jpeg",
           },
           {
-            imgSrc: "assets/images/computer-science-engineering/activities/acses/image10.jpeg",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/acses/image10.jpeg",
           },
           {
-            imgSrc: "assets/images/computer-science-engineering/activities/acses/image11.jpeg",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/acses/image11.jpeg",
           },
           {
-            imgSrc: "assets/images/computer-science-engineering/activities/acses/image12.jpeg",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/acses/image12.jpeg",
           },
     ]
 
     const orientation = [
         {
-          imgSrc: "assets/images/computer-science-engineering/activities/orientation/1.png",
+          imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/orientation/1.png",
         },
         {
-            imgSrc: "assets/images/computer-science-engineering/activities/orientation/2.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/orientation/2.png",
         },
         {
-            imgSrc: "assets/images/computer-science-engineering/activities/orientation/3.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/orientation/3.png",
           },
         
           {
-            imgSrc: "assets/images/computer-science-engineering/activities/orientation/4.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/orientation/4.png",
           },
         
           {
-            imgSrc: "assets/images/computer-science-engineering/activities/orientation/5.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/orientation/5.png",
           },
     ]
     const techofill = [
         {
-          imgSrc: "assets/images/computer-science-engineering/activities/techo-fill/image1.png",
+          imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/techo-fill/image1.png",
         },
         {
-            imgSrc: "assets/images/computer-science-engineering/activities/techo-fill/image2.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/techo-fill/image2.png",
         },
     ]
 
     const hackathon = [
         {
-          imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image1.png",
+          imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/hackathon/image1.png",
         },
         {
-            imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image2.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/hackathon/image2.png",
         },
         {
-            imgSrc: "assets/images/computer-science-engineering/activities/hackathon/image3.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/hackathon/image3.png",
         },
        
        
@@ -161,43 +161,43 @@ const ComputerDeptNewEvents = () => {
 
     const parentmeet = [
         {
-          imgSrc: "assets/images/computer-science-engineering/activities/parent-meet/image1.jpeg",
+          imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/parent-meet/image1.jpeg",
         },
         {
-            imgSrc: "assets/images/computer-science-engineering/activities/parent-meet/image2.jpeg",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/parent-meet/image2.jpeg",
         },
         
     ]
 
     const algochamp = [
         {
-          imgSrc: "assets/images/computer-science-engineering/activities/algochamp/image1.png",
+          imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/algochamp/image1.png",
         },
         {
-            imgSrc: "assets/images/computer-science-engineering/activities/algochamp/image2.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/algochamp/image2.png",
         },
         {
-            imgSrc: "assets/images/computer-science-engineering/activities/algochamp/image3.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/algochamp/image3.png",
         },
     ]
 
     const industrialvisit = [
         {
-          imgSrc: "assets/images/computer-science-engineering/activities/industrial-visit/image1.png",
+          imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/industrial-visit/image1.png",
         },
         {
-            imgSrc: "assets/images/computer-science-engineering/activities/industrial-visit/image2.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/industrial-visit/image2.png",
         },
         {
-            imgSrc: "assets/images/computer-science-engineering/activities/industrial-visit/image3.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/industrial-visit/image3.png",
         },
     ]
     const Seminars = [
         {
-          imgSrc: "assets/images/computer-science-engineering/activities/Seminars/1.jpeg",
+          imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/Seminars/1.jpeg",
         },
         {
-          imgSrc: "assets/images/computer-science-engineering/activities/Seminars/2.jpeg",
+          imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/Seminars/2.jpeg",
         },
        
         
@@ -205,29 +205,29 @@ const ComputerDeptNewEvents = () => {
 
     const sports = [
         {
-          imgSrc: "assets/images/computer-science-engineering/activities/sports/image1.jpeg",
+          imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/sports/image1.jpeg",
         },
         {
-            imgSrc: "assets/images/computer-science-engineering/activities/sports/image2.jpeg",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/sports/image2.jpeg",
         },
         {
-            imgSrc: "assets/images/computer-science-engineering/activities/sports/image3.jpeg",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/sports/image3.jpeg",
         },
         
         {
-            imgSrc: "assets/images/computer-science-engineering/activities/sports/image5.jpeg",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/sports/image5.jpeg",
         },
         {
-            imgSrc: "assets/images/computer-science-engineering/activities/sports/image6.jpeg",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/sports/image6.jpeg",
         },
         {
-            imgSrc: "assets/images/computer-science-engineering/activities/sports/image7.jpeg",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/sports/image7.jpeg",
         },
         {
-            imgSrc: "assets/images/computer-science-engineering/activities/sports/image8.jpeg",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/sports/image8.jpeg",
         },
         {
-            imgSrc: "assets/images/computer-science-engineering/activities/sports/image9.jpeg",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/sports/image9.jpeg",
         },
     ]
   return (
@@ -405,7 +405,7 @@ const ComputerDeptNewEvents = () => {
                 <div className="col-xl-4 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/computer-science-engineering/activities/student-faculty-achievements/achievements1.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/student-faculty-achievements/achievements1.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -413,7 +413,7 @@ const ComputerDeptNewEvents = () => {
                 <div className="col-xl-4 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/computer-science-engineering/activities/student-faculty-achievements/achievements2.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/student-faculty-achievements/achievements2.png" alt="Activity Image"/>
                         </div>
                     </div>
                 </div>
@@ -421,7 +421,7 @@ const ComputerDeptNewEvents = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/computer-science-engineering/activities/student-faculty-achievements/achievements3.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/student-faculty-achievements/achievements3.jpg" alt="Activity Image"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <h4 className="achievements-title">S.Y B.tech and T. y B.tech Student got First prize  in Shark Hunt 2.0 Event which is organized by Commerce and Management Department  of SGU
@@ -433,7 +433,7 @@ const ComputerDeptNewEvents = () => {
                 <div className="col-xl-6 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/computer-science-engineering/activities/student-faculty-achievements/achievements4.jpg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/activities/student-faculty-achievements/achievements4.jpg" alt="Activity Image"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <h4 className="achievements-title">T. Y B.tech Student runner up in Hackthon  National Level Event which is organized by IBM

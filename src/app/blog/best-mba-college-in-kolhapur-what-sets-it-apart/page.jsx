@@ -30,7 +30,7 @@ export default function MbaBlogPage() {
           <p className={styles.publishedDate}>Published: 6th July 2026</p>
 
           <Image
-            src="/assets/images/images/12.jpg"
+            src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/images/12.jpg"
             alt="Best MBA College in Kolhapur | SGU"
             width={1040}
             height={580}

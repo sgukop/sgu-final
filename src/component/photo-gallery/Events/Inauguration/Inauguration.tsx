@@ -3,88 +3,88 @@ import React from "react";
 const Inauguration = () => {
   const inaugurationphotoes = [
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/1.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/2.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/3.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/4.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/4.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/5.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/5.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/6.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/6.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/7.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/7.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/8.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/8.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/9.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/9.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/10.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/10.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/11.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/11.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/12.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/12.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/13.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/13.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/14.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/14.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/15.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/15.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/16.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/16.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/17.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/17.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/18.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/18.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/19.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/19.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/20.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/20.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/21.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/21.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/22.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/22.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/23.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/23.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/24.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/24.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/25.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/25.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/26.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/26.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/27.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/27.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/events/school-of-architecture-inauguration/28.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/28.jpg",
     },
 ];
 

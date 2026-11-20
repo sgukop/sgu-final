@@ -10,7 +10,7 @@ const CampusSection:React.FC<CampusProps> = ({style,textBg}) => {
         <div className="row g-0">
             <div className="col-xxl-4 col-lg-3">
                 <div className="tl-5-campus-img">
-                    <img src="assets/images/tl-5/university3.1.jpg" alt="Students"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-5/university3.1.jpg" alt="Students"/>
                 </div>
             </div>
             <div className="col-xxl-4 col-lg-6 d-flex justify-content-center">
@@ -21,7 +21,7 @@ const CampusSection:React.FC<CampusProps> = ({style,textBg}) => {
             </div>
             <div className="col-xxl-4 col-lg-3">
                 <div className="tl-5-campus-img">
-                    <img src="assets/images/tl-5/university4.1.jpg" alt="Students"/>
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-5/university4.1.jpg" alt="Students"/>
                 </div>
             </div>
         </div>

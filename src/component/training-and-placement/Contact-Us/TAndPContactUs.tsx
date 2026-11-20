@@ -11,7 +11,7 @@ const TAndPContactUs = () => {
                 <div className="col-lg-4 col-sm-6">
                     <div className="tl-2-blog tl-2-course">
                         <div className="tl-2-course-img">
-                            <img src="assets/images/training-and-placement/contact-us/male.jpg" alt="Faculty Profile Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/training-and-placement/contact-us/male.jpg" alt="Faculty Profile Image"/>
                         </div>
 
                         <div className="tl-2-course-txt">

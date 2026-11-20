@@ -3,43 +3,43 @@ import React from "react";
 const FDP = () => {
   const fdpphotoes = [
     {
-        imgSrc: "assets/images/photo-gallery/academics/FDP/1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/FDP/1.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/FDP/2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/FDP/2.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/FDP/3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/FDP/3.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/FDP/4.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/FDP/4.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/FDP/5.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/FDP/5.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/FDP/6.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/FDP/6.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/FDP/7.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/FDP/7.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/FDP/8.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/FDP/8.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/FDP/9.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/FDP/9.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/FDP/10.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/FDP/10.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/FDP/11.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/FDP/11.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/FDP/12.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/FDP/12.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/FDP/13.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/FDP/13.jpg",
     },
  ];
 

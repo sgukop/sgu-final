@@ -7,7 +7,7 @@ const AboutTrust = () =>  {
     <div className="tl-staff-profile pt-100 pb-100">
         <div className="container">
             <div className="tl-staff-profile-top mb-30">
-                <img src="assets/images/board-of-directors/01.jpg" style={{border: "10px solid #4f70b6", padding: "10px"}}alt="Trust Image"/>
+                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/board-of-directors/01.jpg" style={{border: "10px solid #4f70b6", padding: "10px"}}alt="Trust Image"/>
                     <div className="tl-staff-profile-txt">
                         <div className="tl-staff-profile-intro">
                             <div className="py-2 rounded-tl-[40px] rounded-br-[40px] w-fit px-8 bg-[#4f70b6] font-bold text-white mx-auto">

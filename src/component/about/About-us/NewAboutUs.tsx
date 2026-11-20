@@ -6,34 +6,34 @@ import CountUp from "react-countup";
 
 const events = [
     {
-        image: "/assets/images/home/event-1.jpg",
+        image: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/event-1.jpg",
         title: "Birthday Celebration of Hon. President",
         description: "61th Birthday Celebration of Hon. President Mr. Sanjayji Ghodawat in the presenc...",
         slug : "/photo-gallery-54-birthday"
     },
     {
-        image: "assets/images/photo-gallery/academics/8th Convocation Ceremony/3.jpeg",
+        image: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/8th Convocation Ceremony/3.jpeg",
         title: "8th Convocation Ceremony - 2026",
         description: "Congratulations..!! Sanjay Ghodawat University became first University in India...",
         slug : "/photo-gallery-eightconvocation"
     },
         
     {
-        image: "assets/images/latest-news/tata2-blog.jpg",
+        image: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/latest-news/tata2-blog.jpg",
         title: "Inauguration of Technology Competency Center",
         description: "Inauguration of Technology Competency Center with TATA Technology...",
         slug : "/photo-gallery-tata-technology"
     },
     
     {
-        image: "assets/images/latest-news/event7.jfif",
+        image: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/latest-news/event7.jfif",
         title: "Reinventing India Event",
         description: "Padma Vibhushan Hon. Raghunath Mashelkar former Director General of CSIR...",
         slug : "/photo-gallery-reinventing-india"
     },
     
     {
-        image: "assets/images/latest-news/event5-blog.jpg",
+        image: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/latest-news/event5-blog.jpg",
         title: "A Story of Grit and Determination",
         description: "Sanjay Ghodawat Group (SGG) has grown significantly under its Founder...",
         slug : "https://manage-api.sguk.ac.in/api/assets/675d61099173bf9f471accaa"
@@ -71,7 +71,7 @@ const NewAboutUs = () => {
                     {/* Background Image */}
                     <div
                         className="inset-0 bg-contain bg-no-repeat h-full background-shapee"
-                    // style={{ backgroundImage: 'url(/assets/images/home/background-shape-2.png)' }}
+                    // style={{ backgroundImage: 'url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/background-shape-2.png)' }}
                     ></div>
 
                     {/* Overlay Text */}
@@ -90,7 +90,7 @@ const NewAboutUs = () => {
             <section className='w-full'>
                 <div className='relative w-full pb-10'>
                     <div
-                        className="inset-0 bg-cover bg-no-repeat w-full h-full z-0 bg-[linear-gradient(to_bottom,_rgb(237_224_224_/_0%)_0%,_rgba(0,_0,_0,_0)_80%,_rgb(255_255_255_/_100%)_100%),url('/assets/images/home/campus-image.jpg')]"
+                        className="inset-0 bg-cover bg-no-repeat w-full h-full z-0 bg-[linear-gradient(to_bottom,_rgb(237_224_224_/_0%)_0%,_rgba(0,_0,_0,_0)_80%,_rgb(255_255_255_/_100%)_100%),url('https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/campus-image.jpg')]"
                     >
                     <div className=' flex justify-center items-center pt-16'>
                             <h2 className='bg-[#4f70b6] w-fit py-4 rounded-tl-[40px] rounded-br-[40px] px-8 text-2xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl font-bold text-white capitalize tracking-wide'>
@@ -137,7 +137,7 @@ const NewAboutUs = () => {
                     </div>
                 </div>
                 {/* <div className='w-screen h-full relative background-image-home-1'>
-                    <img src='assets/images/about-campus/campus15.jpg' className='w-screen h-full' alt='Campus Life' />
+                    <img src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-campus/campus15.jpg' className='w-screen h-full' alt='Campus Life' />
                     <div className='absolute right-4 md:right-8 lg:right-10 top-12 bg-[#4f70b6] text-white py-4 rounded-tl-[40px] rounded-br-[40px] w-fit px-8'>
                         <h2 className='text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl font-bold text-white capitalize tracking-wide'>
                             Academic Excellence and Industry Integration
@@ -186,7 +186,7 @@ const NewAboutUs = () => {
             <section className='w-full h-full flex flex-col gap-y-4 lg:flex-row items-center justify-between gap-x-4 -mt-48'>
                 <div className='w-full lg:w-[50%] h-full z-30'>
                     <div className='w-full z-30 md:h-[800px]'>
-                        <img src='/assets/images/home/sgu-university.jpg' className='w-full h-full rounded-tr-[300px] border-[18px] border-white ' alt='SGU University' />
+                        <img src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/sgu-university.jpg' className='w-full h-full rounded-tr-[300px] border-[18px] border-white ' alt='SGU University' />
                     </div>
                 </div>
                 <div className='w-full lg:w-[50%] h-full z-30 px-4 sm:px-8 md:px-10 lg:px-0'>

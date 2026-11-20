@@ -30,7 +30,7 @@ export default function ProductDesignBlogPage() {
           <p className={styles.publishedDate}>Published: 12th June 2026</p>
 
           <Image
-            src="/assets/images/blog-product-design-college-kolhapur.jpg"
+            src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-product-design-college-kolhapur.jpg"
             alt="Design college in kolhapur | SGU"
             width={1040}
             height={580}

@@ -17,7 +17,7 @@ const EnglishDeptDownloads = () => {
         <div className="row g-4 align-items-center">
             <div className="col-lg-5">
                 <div className="tl-13-banner-img text-center text-lg-end">
-                    <img src="assets/images/english-dept/download-brochure/download-brochure-image.png" alt="Download Brochure Image" className="rounded-full"
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/english-dept/download-brochure/download-brochure-image.png" alt="Download Brochure Image" className="rounded-full"
                     style={{border:"10px solid #4f70b6", padding:"20px"}} />
                 </div>
             </div>

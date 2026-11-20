@@ -50,7 +50,7 @@ const NewSchoolsSection = () => {
                 {/* Background Image */}
                 <div
                     className="inset-0 bg-cover bg-no-repeat h-[800px] transition duration-300 ease-in-out hover:scale-110"
-                    style={{ backgroundImage: 'url(/assets/images/home/explore-image/sgu-image.jpg)' }}
+                    style={{ backgroundImage: 'url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/explore-image/sgu-image.jpg)' }}
                 ></div>
 
                 {/* Overlay Text */}
@@ -69,110 +69,110 @@ const NewSchoolsSection = () => {
                 <div className='w-full flex flex-wrap justify-center items-center gap-4 mt-10 pb-10'>
                   
                     <div className='w-[340px] p-3 xl:p-3 rounded-[10%] shadow-[0_0_60px_-10px_#c3c2c2]'>
-                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='/assets/images/management/team1.jpg' />
+                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management/team1.jpg' />
                         <a href="/president" target="_blank" className='text-center text-[#231f20] my-2 font-semibold text-xl justify-center items-center flex hover:text-[#ffcb04]'>Mr. Sanjay Ghodawat</a>
                         <p className='text-[#231f20] font-medium text-lg text-center'>President</p>
                         <div className='my-1 flex gap-2 items-center justify-center'>
                             <div className='rounded-full bg-[#4e94cf] cursor-pointer text-white transition-all duration-500 hover:-translate-y-1'>
                                 <a className='text-white w-[28px] h-[28px] flex justify-center items-center' target='_blank' href='https://www.instagram.com/sanjayghodawat_official?igsh=MXFzbjh1OTkwbWpkdQ=='>
-                                    <img src='/assets/images/home/instagram.svg' alt='Instagram' />
+                                    <img src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/instagram.svg' alt='Instagram' />
                                 </a>
                             </div>
                             <div className='rounded-full bg-[#4e94cf] cursor-pointer text-white transition-all duration-500 hover:-translate-y-1'>
                                 <a className='text-white w-[28px] h-[28px] flex justify-center items-center' target='_blank' href='https://www.facebook.com/share/12FuuYHWhau/?mibextid=wwXIfr'>
-                                    <img src='/assets/images/home/facebook.svg' alt='facebook' />
+                                    <img src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/facebook.svg' alt='facebook' />
                                 </a>
                             </div>
                           {/*  <div className='rounded-full bg-[#4e94cf] cursor-pointer text-white transition-all duration-500 hover:-translate-y-1'>
                                 <a className='text-white w-[28px] h-[28px] flex justify-center items-center' target='_blank' href=''>
-                                    <img src='/assets/images/home/linkedin.svg' alt='linkedin' />
+                                    <img src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/linkedin.svg' alt='linkedin' />
                                 </a>
                             </div>
                             <div className='rounded-full bg-[#4e94cf] cursor-pointer text-white transition-all duration-500 hover:-translate-y-1'>
                                 <a className='text-white w-[28px] h-[28px] flex justify-center items-center' target='_blank' href=''>
-                                    <img src='/assets/images/home/twitter.svg' alt='twitter' />
+                                    <img src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/twitter.svg' alt='twitter' />
                                 </a>
                             </div>  */}
                         </div>
                     </div>
                   
                     <div className='w-[340px] p-3 xl:p-3 rounded-[10%] shadow-[0_0_60px_-10px_#c3c2c2]'>
-                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='/assets/images/management/team2.jpg' />
+                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management/team2.jpg' />
                         <a href="/secretary" target="_blank" className='text-center text-[#231f20] my-2 font-semibold text-xl justify-center items-center flex hover:text-[#ffcb04]'>Mr. Shrenik Ghodawat</a>
                         <p className='text-[#231f20] font-medium text-lg text-center'>Secretary</p>
                         <div className='my-1 flex gap-2 items-center justify-center'>
                             <div className='rounded-full bg-[#4e94cf] cursor-pointer text-white transition-all duration-500 hover:-translate-y-1'>
                                 <a className='text-white w-[28px] h-[28px] flex justify-center items-center' target='_blank' href=''>
-                                    <img src='/assets/images/home/instagram.svg' alt='Instagram' />
+                                    <img src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/instagram.svg' alt='Instagram' />
                                 </a>
                             </div>
                             <div className='rounded-full bg-[#4e94cf] cursor-pointer text-white transition-all duration-500 hover:-translate-y-1'>
                                 <a className='text-white w-[28px] h-[28px] flex justify-center items-center' target='_blank' href=''>
-                                    <img src='/assets/images/home/facebook.svg' alt='facebook' />
+                                    <img src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/facebook.svg' alt='facebook' />
                                 </a>
                             </div>
                             <div className='rounded-full bg-[#4e94cf] cursor-pointer text-white transition-all duration-500 hover:-translate-y-1'>
                                 <a className='text-white w-[28px] h-[28px] flex justify-center items-center' target='_blank' href='https://www.linkedin.com/in/shrenik-ghodawat-80023852/'>
-                                    <img src='/assets/images/home/linkedin.svg' alt='linkedin' />
+                                    <img src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/linkedin.svg' alt='linkedin' />
                                 </a>
                             </div>
                             <div className='rounded-full bg-[#4e94cf] cursor-pointer text-white transition-all duration-500 hover:-translate-y-1'>
                                 <a className='text-white w-[28px] h-[28px] flex justify-center items-center' target='_blank' href=''>
-                                    <img src='/assets/images/home/twitter.svg' alt='twitter' />
+                                    <img src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/twitter.svg' alt='twitter' />
                                 </a>
                             </div>
                         </div>
                     </div>
                     <div className='w-[340px] p-3 xl:p-3 rounded-[10%] shadow-[0_0_60px_-10px_#c3c2c2]'>
-                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='/assets/images/management/team3.jpg' />
+                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management/team3.jpg' />
                         <a href="/trustee" target="_blank" className='text-center text-[#231f20] my-2 font-semibold text-xl justify-center items-center flex hover:text-[#ffcb04]'>Mr. Vinayak V Bhosale</a>
                         <p className='text-[#231f20] font-medium text-lg text-center'>Trustee</p>
                         <div className='my-1 flex gap-2 items-center justify-center'>
                             <div className='rounded-full bg-[#4e94cf] cursor-pointer text-white transition-all duration-500 hover:-translate-y-1'>
                                 <a className='text-white w-[28px] h-[28px] flex justify-center items-center' target='_blank' href='https://www.instagram.com/vinayak_bhosale_5?igsh=djFmeGd5dG93cTNo'>
-                                    <img src='/assets/images/home/instagram.svg' alt='Instagram' />
+                                    <img src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/instagram.svg' alt='Instagram' />
                                 </a>
                             </div>
                             <div className='rounded-full bg-[#4e94cf] cursor-pointer text-white transition-all duration-500 hover:-translate-y-1'>
                                 <a className='text-white w-[28px] h-[28px] flex justify-center items-center' target='_blank' href='https://www.facebook.com/share/1ERZdD3qfv/?mibextid=wwXIfr'>
-                                    <img src='/assets/images/home/facebook.svg' alt='facebook' />
+                                    <img src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/facebook.svg' alt='facebook' />
                                 </a>
                             </div>
                             <div className='rounded-full bg-[#4e94cf] cursor-pointer text-white transition-all duration-500 hover:-translate-y-1'>
                                 <a className='text-white w-[28px] h-[28px] flex justify-center items-center' target='_blank' href=''>
-                                    <img src='/assets/images/home/linkedin.svg' alt='linkedin' />
+                                    <img src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/linkedin.svg' alt='linkedin' />
                                 </a>
                             </div>
                             <div className='rounded-full bg-[#4e94cf] cursor-pointer text-white transition-all duration-500 hover:-translate-y-1'>
                                 <a className='text-white w-[28px] h-[28px] flex justify-center items-center' target='_blank' href=''>
-                                    <img src='/assets/images/home/twitter.svg' alt='twitter' />
+                                    <img src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/twitter.svg' alt='twitter' />
                                 </a>
                             </div>
                         </div>
                     </div>
                     <div className='w-[340px] p-3 xl:p-3 rounded-[10%] shadow-[0_0_60px_-10px_#c3c2c2]'>
-                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='/assets/images/management/team4.jpg' />
+                        <img className='rounded-[10%] w-full h-[340px] transition ease-in duration-200 hover:-translate-y-1 hover:scale-105' src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management/team4.jpg' />
                         <a href="/vice-chancellor" target="_blank" className='text-center text-[#231f20] my-2 font-semibold text-xl justify-center items-center flex hover:text-[#ffcb04]'>Dr. Udhav Bhosale</a>
                         <p className='text-[#231f20] font-medium text-lg text-center'>Vice Chancellor</p>
                         <div className='my-1 flex gap-2 items-center justify-center'>
                             <div className='rounded-full bg-[#4e94cf] cursor-pointer text-white transition-all duration-500 hover:-translate-y-1'>
                                 <a className='text-white w-[28px] h-[28px] flex justify-center items-center' target='_blank' href=''>
-                                    <img src='/assets/images/home/instagram.svg' alt='Instagram' />
+                                    <img src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/instagram.svg' alt='Instagram' />
                                 </a>
                             </div>
                             <div className='rounded-full bg-[#4e94cf] cursor-pointer text-white transition-all duration-500 hover:-translate-y-1'>
                                 <a className='text-white w-[28px] h-[28px] flex justify-center items-center' target='_blank' href=''>
-                                    <img src='/assets/images/home/facebook.svg' alt='facebook' />
+                                    <img src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/facebook.svg' alt='facebook' />
                                 </a>
                             </div>
                             <div className='rounded-full bg-[#4e94cf] cursor-pointer text-white transition-all duration-500 hover:-translate-y-1'>
                                 <a className='text-white w-[28px] h-[28px] flex justify-center items-center' target='_blank' href=''>
-                                    <img src='/assets/images/home/linkedin.svg' alt='linkedin' />
+                                    <img src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/linkedin.svg' alt='linkedin' />
                                 </a>
                             </div>
                             <div className='rounded-full bg-[#4e94cf] cursor-pointer text-white transition-all duration-500 hover:-translate-y-1'>
                                 <a className='text-white w-[28px] h-[28px] flex justify-center items-center' target='_blank' href=''>
-                                    <img src='/assets/images/home/twitter.svg' alt='twitter' />
+                                    <img src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/twitter.svg' alt='twitter' />
                                 </a>
                             </div>
                         </div>

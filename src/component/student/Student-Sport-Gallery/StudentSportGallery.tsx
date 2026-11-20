@@ -4,40 +4,40 @@ const StudentSportGallery = () => {
   
  const sports = [
     {
-        imgSrc: "assets/images/sports/sport1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sports/sport1.jpg",
     },
     {
-        imgSrc: "assets/images/sports/sport2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sports/sport2.jpg",
     },
     {
-        imgSrc: "assets/images/sports/sport3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sports/sport3.jpg",
     },
     {
-        imgSrc: "assets/images/sports/sport4.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sports/sport4.jpg",
     },
     {
-        imgSrc: "assets/images/sports/sport5.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sports/sport5.jpg",
     },
     {
-        imgSrc: "assets/images/sports/sport6.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sports/sport6.jpg",
     },
     {
-        imgSrc: "assets/images/sports/sport7.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sports/sport7.jpg",
     },
     {
-        imgSrc: "assets/images/sports/sport8.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sports/sport8.jpg",
     },
     {
-      imgSrc: "assets/images/sports/sport9.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sports/sport9.jpg",
   },
   {
-      imgSrc: "assets/images/sports/sport10.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sports/sport10.jpg",
   },
   {
-      imgSrc: "assets/images/sports/sport11.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sports/sport11.jpg",
   },
   {
-    imgSrc: "assets/images/sports/sport12.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/sports/sport12.jpg",
   },
  ]
 

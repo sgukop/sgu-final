@@ -67,37 +67,37 @@ const AboutSection6:React.FC<AboutProps> = ({padding,margin}) => {
                             >
                                 <div className="slider-item">
                                     <div className="tl-7-about-info-card" style={{backgroundColor:'#F2F3F8'}}>
-                                        <img src="assets/images/recruiters/company1.png" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/company1.png" alt="Dance Image"/>
                                     </div>
                                 </div>
                                 <div className="slider-item">
                                     <div className="tl-7-about-info-card" style={{backgroundColor:'#F2F3F8'}}>
-                                        <img src="assets/images/recruiters/company2.png" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/company2.png" alt="Dance Image"/>
                                     </div>
                                 </div>
                                 <div className="slider-item">
                                     <div className="tl-7-about-info-card" style={{backgroundColor:'#F2F3F8'}}>
-                                        <img src="assets/images/recruiters/company3.png" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/company3.png" alt="Dance Image"/>
                                     </div>
                                 </div>
                                 <div className="slider-item">
                                     <div className="tl-7-about-info-card" style={{backgroundColor:'#F2F3F8'}}>
-                                        <img src="assets/images/recruiters/company4.png" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/company4.png" alt="Dance Image"/>
                                     </div>
                                 </div>
                                 <div className="slider-item">
                                     <div className="tl-7-about-info-card" style={{backgroundColor:'#F2F3F8'}}>
-                                        <img src="assets/images/recruiters/company5.png" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/company5.png" alt="Dance Image"/>
                                     </div>
                                 </div>
                                 <div className="slider-item">
                                     <div className="tl-7-about-info-card" style={{backgroundColor:'#F2F3F8'}}>
-                                        <img src="assets/images/recruiters/company6.png" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/company6.png" alt="Dance Image"/>
                                     </div>
                                 </div>
                                 <div className="slider-item">
                                     <div className="tl-7-about-info-card" style={{backgroundColor:'#F2F3F8'}}>
-                                        <img src="assets/images/recruiters/engg10.jpg" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg10.jpg" alt="Dance Image"/>
                                     </div>
                                 </div>
                                
@@ -109,38 +109,38 @@ const AboutSection6:React.FC<AboutProps> = ({padding,margin}) => {
                             >
                                 <div className="slider-item">
                                     <div className="tl-7-about-info-card" style={{backgroundColor:'#F2F3F8'}}>
-                                        <img src="assets/images/recruiters/engg02.jpg" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg02.jpg" alt="Dance Image"/>
                                     </div>
                                 </div>
                                 <div className="slider-item">
                                     <div className="tl-7-about-info-card" style={{backgroundColor:'#F2F3F8'}}>
-                                        <img src="assets/images/recruiters/engg03.jpg" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg03.jpg" alt="Dance Image"/>
                                     </div>
                                 </div>
                                 <div className="slider-item">
                                     <div className="tl-7-about-info-card" style={{backgroundColor:'#F2F3F8'}}>
-                                        <img src="assets/images/recruiters/engg04.jpg" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg04.jpg" alt="Dance Image"/>
                                     </div>
                                 </div>
                                
                                 <div className="slider-item">
                                     <div className="tl-7-about-info-card" style={{backgroundColor:'#F2F3F8'}}>
-                                        <img src="assets/images/recruiters/engg09.jpg" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg09.jpg" alt="Dance Image"/>
                                     </div>
                                 </div>
                                 <div className="slider-item">
                                     <div className="tl-7-about-info-card" style={{backgroundColor:'#F2F3F8'}}>
-                                        <img src="assets/images/recruiters/engg06.jpg" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg06.jpg" alt="Dance Image"/>
                                     </div>
                                 </div>
                                 <div className="slider-item">
                                     <div className="tl-7-about-info-card" style={{backgroundColor:'#F2F3F8'}}>
-                                        <img src="assets/images/recruiters/engg07.jpg" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg07.jpg" alt="Dance Image"/>
                                     </div>
                                 </div>
                                 <div className="slider-item">
                                     <div className="tl-7-about-info-card" style={{backgroundColor:'#F2F3F8'}}>
-                                        <img src="assets/images/recruiters/engg11.jpg" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg11.jpg" alt="Dance Image"/>
                                     </div>
                                 </div>
                             </Slider>

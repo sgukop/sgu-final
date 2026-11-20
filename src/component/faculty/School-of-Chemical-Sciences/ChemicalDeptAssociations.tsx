@@ -22,7 +22,7 @@ const ChemicalDeptAssociations = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="tl-1-course">
                 <div className="tl-1-course-img">
-                <img src="assets/images/chemical-sciences-dept/associations/associations1.jpg" alt="Associations with Institutes Image"/>
+                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/associations/associations1.jpg" alt="Associations with Institutes Image"/>
                   <span className="tl-1-course-price">Kolhapur</span>
                 </div>
                 <div className="tl-1-course-txt">
@@ -34,7 +34,7 @@ const ChemicalDeptAssociations = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="tl-1-course">
                 <div className="tl-1-course-img">
-                <img src="assets/images/chemical-sciences-dept/associations/associations2.jpg" alt="Associations with Institutes Image"/>
+                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/associations/associations2.jpg" alt="Associations with Institutes Image"/>
                   <span className="tl-1-course-price">Kolhapur</span>
                 </div>
                 <div className="tl-1-course-txt">
@@ -46,7 +46,7 @@ const ChemicalDeptAssociations = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="tl-1-course">
                 <div className="tl-1-course-img">
-                <img src="assets/images/chemical-sciences-dept/associations/north-carolina -sate-university-usa.jpg" alt="Associations with Institutes Image"/>
+                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/associations/north-carolina -sate-university-usa.jpg" alt="Associations with Institutes Image"/>
                   <span className="tl-1-course-price">USA</span>
                 </div>
                 <div className="tl-1-course-txt">
@@ -58,7 +58,7 @@ const ChemicalDeptAssociations = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="tl-1-course">
                 <div className="tl-1-course-img">
-                <img src="assets/images/chemical-sciences-dept/associations/ICT-Mumbai.jpg" alt="Associations with Institutes Image"/>
+                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/associations/ICT-Mumbai.jpg" alt="Associations with Institutes Image"/>
                   <span className="tl-1-course-price">Mumbai</span>
                 </div>
                 <div className="tl-1-course-txt">
@@ -70,7 +70,7 @@ const ChemicalDeptAssociations = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="tl-1-course">
                 <div className="tl-1-course-img">
-                <img src="assets/images/chemical-sciences-dept/associations/Ncl-pune.jpg" alt="Associations with Institutes Image"/>
+                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/associations/Ncl-pune.jpg" alt="Associations with Institutes Image"/>
                   <span className="tl-1-course-price">Pune</span>
                 </div>
                 <div className="tl-1-course-txt">
@@ -82,7 +82,7 @@ const ChemicalDeptAssociations = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="tl-1-course">
                 <div className="tl-1-course-img">
-                <img src="assets/images/chemical-sciences-dept/associations/jasons-laboratories.jpg" alt="Associations with Institutes Image"/>
+                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/associations/jasons-laboratories.jpg" alt="Associations with Institutes Image"/>
                   <span className="tl-1-course-price">Pune</span>
                 </div>
                 <div className="tl-1-course-txt">
@@ -94,7 +94,7 @@ const ChemicalDeptAssociations = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="tl-1-course">
                 <div className="tl-1-course-img">
-                <img src="assets/images/chemical-sciences-dept/associations/chonnam-university.jpg" alt="Associations with Institutes Image"/>
+                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/associations/chonnam-university.jpg" alt="Associations with Institutes Image"/>
                   <span className="tl-1-course-price">South Korea</span>
                 </div>
                 <div className="tl-1-course-txt">
@@ -106,7 +106,7 @@ const ChemicalDeptAssociations = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="tl-1-course">
                 <div className="tl-1-course-img">
-                <img src="assets/images/chemical-sciences-dept/associations/IISER-Pune.jpg" alt="Associations with Institutes Image"/>
+                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/associations/IISER-Pune.jpg" alt="Associations with Institutes Image"/>
                   <span className="tl-1-course-price">Pune</span>
                 </div>
                 <div className="tl-1-course-txt">
@@ -118,7 +118,7 @@ const ChemicalDeptAssociations = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="tl-1-course">
                 <div className="tl-1-course-img">
-                <img src="assets/images/chemical-sciences-dept/associations/callidus-laboratories.jpg" alt="Associations with Institutes Image"/>
+                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/chemical-sciences-dept/associations/callidus-laboratories.jpg" alt="Associations with Institutes Image"/>
                   <span className="tl-1-course-price">Pune</span>
                 </div>
                 <div className="tl-1-course-txt">

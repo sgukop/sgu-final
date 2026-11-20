@@ -6,7 +6,7 @@ import Link from 'next/link';
 
 const OpenElective = () => {
     return (
-      <section className="tl-14-about pt-100 pb-100" data-background="assets/images/tl-14/cta-bg.png">
+      <section className="tl-14-about pt-100 pb-100" data-background="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-14/cta-bg.png">
         <div className="container">
             <div className="row gy-4 align-items-center">
                 <div className="d-flex justify-content-center"><h2 className="tl-2-section-title">Open Electives</h2></div>

@@ -13,7 +13,7 @@ const Management = () => {
              <div className="col-md-3 col-6 col-xxs-12">
                 <div className="tl-3-single-staff tl-8-single-expert tl-6-editorial">
                     <div className="tl-3-single-staff-img tl-8-single-expert-img">
-                      <img src="assets/images/management/team1.jpg" alt="Management Image" />
+                      <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management/team1.jpg" alt="Management Image" />
                     </div>
 
                     <div className="tl-3-single-staff-txt tl-8-single-expert-txt">
@@ -25,7 +25,7 @@ const Management = () => {
             <div className="col-md-3 col-6 col-xxs-12">
                 <div className="tl-3-single-staff tl-8-single-expert tl-6-editorial">
                     <div className="tl-3-single-staff-img tl-8-single-expert-img">
-                    <img src="assets/images/management/team2.jpg" alt="Management Image" />
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management/team2.jpg" alt="Management Image" />
                     </div>
 
                     <div className="tl-3-single-staff-txt tl-8-single-expert-txt">
@@ -37,7 +37,7 @@ const Management = () => {
             <div className="col-md-3 col-6 col-xxs-12">
                 <div className="tl-3-single-staff tl-8-single-expert tl-6-editorial">
                     <div className="tl-3-single-staff-img tl-8-single-expert-img">
-                    <img src="assets/images/management/team3.jpg" alt="Management Image" />
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management/team3.jpg" alt="Management Image" />
                     </div>
 
                     <div className="tl-3-single-staff-txt tl-8-single-expert-txt">

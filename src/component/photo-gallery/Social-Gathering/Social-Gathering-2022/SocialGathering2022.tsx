@@ -3,7 +3,7 @@ import React from "react";
 const SocialGathering2022 = () => {
   const gatheringphotoes = [
     {
-        imgSrc: "assets/images/photo-gallery/social-gathering/social-gathering-2022/1.jfif",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/social-gathering/social-gathering-2022/1.jfif",
     },
 ];
 

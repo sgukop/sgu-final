@@ -35,64 +35,64 @@ const AIandDSDeptAlumni:React.FC<AboutProps> = ({margin}) => {
       };
       const recruiters = [
         {
-          imgSrc: "assets/images/AIML/recruiters/1.png",
+          imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/recruiters/1.png",
         },
         {
-            imgSrc: "assets/images/AIML/recruiters/2.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/recruiters/2.png",
           },
           {
-            imgSrc: "assets/images/AIML/recruiters/3.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/recruiters/3.png",
           },
           {
-            imgSrc: "assets/images/AIML/recruiters/4.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/recruiters/4.png",
           },
           {
-            imgSrc: "assets/images/AIML/recruiters/5.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/recruiters/5.png",
           },
           {
-            imgSrc: "assets/images/AIML/recruiters/6.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/recruiters/6.png",
           },
             {
-            imgSrc: "assets/images/AIML/recruiters/7.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/recruiters/7.png",
           },
           {
-            imgSrc: "assets/images/AIML/recruiters/8.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/recruiters/8.png",
           },  
           {
-            imgSrc: "assets/images/AIML/recruiters/9.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/recruiters/9.png",
           },
           {
-            imgSrc: "assets/images/AIML/recruiters/10.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/recruiters/10.png",
           },
           {
-            imgSrc: "assets/images/AIML/recruiters/11.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/recruiters/11.png",
           },
           {
-            imgSrc: "assets/images/AIML/recruiters/12.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/recruiters/12.png",
           },
           {
-            imgSrc: "assets/images/AIML/recruiters/13.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/recruiters/13.png",
           },
           {
-            imgSrc: "assets/images/AIML/recruiters/14.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/recruiters/14.png",
           },
           {
-            imgSrc: "assets/images/AIML/recruiters/15.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/recruiters/15.png",
           },
           {
-            imgSrc: "assets/images/AIML/recruiters/16.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/recruiters/16.png",
           },
           {
-            imgSrc: "assets/images/AIML/recruiters/17.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/recruiters/17.png",
           },
           {
-            imgSrc: "assets/images/AIML/recruiters/18.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/recruiters/18.png",
           },
           {
-            imgSrc: "assets/images/AIML/recruiters/19.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/recruiters/19.png",
           },
           /* {
-            imgSrc: "assets/images/AIML/recruiters/20.png",
+            imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/recruiters/20.png",
           },  */ 
                           
       ]

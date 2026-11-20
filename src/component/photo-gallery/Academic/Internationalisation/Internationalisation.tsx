@@ -3,37 +3,37 @@ import React from "react";
 const Internationalisation = () => {
   const ieeephotoes = [
     {
-        imgSrc: "assets/images/photo-gallery/academics/Internationalisation/1.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/Internationalisation/1.jpeg",
     },
      {
-        imgSrc: "assets/images/photo-gallery/academics/Internationalisation/2.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/Internationalisation/2.jpeg",
     },
      {
-        imgSrc: "assets/images/photo-gallery/academics/Internationalisation/3.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/Internationalisation/3.jpeg",
     },
      {
-        imgSrc: "assets/images/photo-gallery/academics/Internationalisation/4.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/Internationalisation/4.jpeg",
     },
      {
-        imgSrc: "assets/images/photo-gallery/academics/Internationalisation/5.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/Internationalisation/5.jpeg",
     },
      {
-        imgSrc: "assets/images/photo-gallery/academics/Internationalisation/6.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/Internationalisation/6.jpeg",
     },
      {
-        imgSrc: "assets/images/photo-gallery/academics/Internationalisation/7.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/Internationalisation/7.jpeg",
     },
      {
-        imgSrc: "assets/images/photo-gallery/academics/Internationalisation/8.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/Internationalisation/8.jpeg",
     },
      {
-        imgSrc: "assets/images/photo-gallery/academics/Internationalisation/9.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/Internationalisation/9.jpeg",
     },
      {
-        imgSrc: "assets/images/photo-gallery/academics/Internationalisation/10.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/Internationalisation/10.jpeg",
     },
      {
-        imgSrc: "assets/images/photo-gallery/academics/Internationalisation/11.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/Internationalisation/11.jpeg",
     },
     
  ];

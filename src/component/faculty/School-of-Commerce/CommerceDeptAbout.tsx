@@ -10,7 +10,7 @@ import MenuList from '../Reusable-components/MenuList';
 
 const CommerceDeptAbout = () => {
    return (
-    <section className="tl-14-about pt-100 pb-100" data-background="assets/images/tl-14/cta-bg.png">
+    <section className="tl-14-about pt-100 pb-100" data-background="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-14/cta-bg.png">
         <div className="container-fluid">
         <h2 className="tl-9-section-title mb-50">Department of Commerce</h2>
         <div className="row">
@@ -28,7 +28,7 @@ const CommerceDeptAbout = () => {
               <div className="col-lg-5">
                 <div className="tl-14-about-img">
                   <img
-                    src="assets/images/faculty-profile-photos/commerce/revati-despande.jpg"
+                    src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/commerce/revati-despande.jpg"
                     alt="HOD Image"
                     className="rounded-full"
                     style={{border:"10px solid #4f70b6", padding:"100px"}}
@@ -81,7 +81,7 @@ Thank You for Visiting Us!
           {/*  <div className="row gy-4 align-items-center">
                 <div className="col-lg-5">
                     <div className="tl-14-about-img">
-                        <img src="assets/images/commerce-dept/about-department/about.png" alt="About Department Image" className="rounded-full"
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/about-department/about.png" alt="About Department Image" className="rounded-full"
                         style={{border:"10px solid #4f70b6", padding:"20px"}} />
                     </div>
                 </div>

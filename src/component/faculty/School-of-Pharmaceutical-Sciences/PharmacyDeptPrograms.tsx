@@ -21,7 +21,7 @@ const PharmacyDeptPrograms = () => {
         <div className="row g-4 align-items-center">
            <div className="col-xl-6 col-lg-6">
                 {/*<div className="tl-8-about-img">
-                    <img src="assets/images/pharmacy-dept/programs/program1.png" alt="Pharmacy Department Programs" className="rounded-full"
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/pharmacy-dept/programs/program1.png" alt="Pharmacy Department Programs" className="rounded-full"
                     style={{border:"10px solid #4f70b6", padding:"20px"}} />
                 </div>  */}
                  <Table bordered responsive className="governing-table">

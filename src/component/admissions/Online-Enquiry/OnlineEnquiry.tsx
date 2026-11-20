@@ -8,8 +8,8 @@ const OnlineEnquiry = () => {
             <div className="row gy-5 align-items-center tl-2-about-row">
                 <div className="col-lg-6">
                     <div className="tl-2-about-img">
-                        <img src="assets/images/online-enquiry-image/online-enquiry2.jpg" alt="Image"/>
-                        {/* <img src="assets/images/tl-2/arrow.png" alt="arrow" className="tl-2-about-arrow"/>  */}
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/online-enquiry-image/online-enquiry2.jpg" alt="Image"/>
+                        {/* <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-2/arrow.png" alt="arrow" className="tl-2-about-arrow"/>  */}
                     </div>
                 </div>
 

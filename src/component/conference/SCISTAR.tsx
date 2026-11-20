@@ -8,7 +8,7 @@ const SciStar2026FullPage = () => {
       id: 1, 
       title: "Online Science Quiz", 
       coordinator: "Mr. Vimalkumar Dige", 
-      img: "/assets/images/scistar2026/quiz.png", 
+      img: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/scistar2026/quiz.png", 
       doc: "1. Quiz Competation Rules & Regulations.pdf", 
       contact: "9091913133",
       rules: "35 MCQs | 20 Minutes | Round II Offline on 07/02/2026"
@@ -17,7 +17,7 @@ const SciStar2026FullPage = () => {
       id: 2, 
       title: "Poster Presentation", 
       coordinator: "Dr. Satish A Mahadik", 
-      img: "/assets/images/scistar2026/poster.png", 
+      img: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/scistar2026/poster.png", 
       doc: "2.Poster Presentation.pdf", 
       contact: "9822946226",
       rules: "Themes: AI, Sustainability, Social Issues | Visual & Q&A judging"
@@ -26,7 +26,7 @@ const SciStar2026FullPage = () => {
       id: 3, 
       title: "Scientific Model Competition", 
       coordinator: "Ms. Ashwini Chakote", 
-      img: "/assets/images/scistar2026/model.png", 
+      img: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/scistar2026/model.png", 
       doc: "3.Scientific Model Competition.pdf",
       rules: "Max size 60x60x60 cm | Working models preferred | Eco-friendly materials"
     },
@@ -34,7 +34,7 @@ const SciStar2026FullPage = () => {
       id: 4, 
       title: "Scientific Reel Presentation", 
       coordinator: "Ms. Manasi Patil", 
-      img: "/assets/images/scistar2026/reel.png", 
+      img: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/scistar2026/reel.png", 
       doc: "4. Scientific Reel Presentation (REEL-STAR).pdf", 
       email: "manasi.patil@fs.sguk.ac.in",
       rules: "30-60 Seconds | 9:16 Ratio | Format: MP4"
@@ -43,7 +43,7 @@ const SciStar2026FullPage = () => {
       id: 5, 
       title: "Scientific Meme Creation", 
       coordinator: "Ms. Shivani Samarth", 
-      img: "/assets/images/scistar2026/meme.png", 
+      img: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/scistar2026/meme.png", 
       doc: "5. Scientific Meme Creation Contest.pdf", 
       email: "shivani.samarth@py.sguk.ac.in",
       rules: "Original work only | Science/Tech humor | Under 5MB"
@@ -52,7 +52,7 @@ const SciStar2026FullPage = () => {
       id: 6, 
       title: "Scientific Short Film", 
       coordinator: "Mr. Siddhappa Balikar", 
-      img: "/assets/images/scistar2026/shortfilm.png", 
+      img: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/scistar2026/shortfilm.png", 
       doc: "6. Scientific Short Film Making Competition_Rules & Terms.pdf",
       rules: "3-5 Minutes | HD MP4 | Deadline: 31st Jan 2026"
     },
@@ -60,7 +60,7 @@ const SciStar2026FullPage = () => {
       id: 7, 
       title: "Water Rocket Challenge", 
       coordinator: "Dr. Sulthan S.", 
-      img: "/assets/images/scistar2026/waterrocket.png", 
+      img: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/scistar2026/waterrocket.png", 
       doc: "7. Water Rocket Design & Launch Challenge.pdf",
       rules: "Max 3 members | 0.5L to 2L bottles | Straight distance measurement"
     },
@@ -68,7 +68,7 @@ const SciStar2026FullPage = () => {
       id: 8, 
       title: "Ingredient Hunting (Blindfold)", 
       coordinator: "Dr. Tejaswini Vhaskoti", 
-      img: "/assets/images/scistar2026/blindfold.png", 
+      img: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/scistar2026/blindfold.png", 
       doc: "8. Blindfold - Ingredient hunt..pdf",
       rules: "60 Second limit | Identify by touch & smell | Single player per turn"
     },
@@ -76,7 +76,7 @@ const SciStar2026FullPage = () => {
       id: 9, 
       title: "Food Stall Participation", 
       coordinator: "Ms. Vishakha Deshpande", 
-      img: "/assets/images/scistar2026/food.png", 
+      img: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/scistar2026/food.png", 
       fee: "₹700", 
       doc: "9. Food Stall.pdf",
       rules: "Vegetarian only | Max 2 staff | Must bring own utensils/gas"
@@ -85,7 +85,7 @@ const SciStar2026FullPage = () => {
       id: 10, 
       title: "Health Check-up Camp", 
       coordinator: "Mr. Suraj Gabale", 
-      img: "/assets/images/scistar2026/health.png", 
+      img: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/scistar2026/health.png", 
       doc: "10. Health Checkup Camp for Participants.pdf",
       rules: "7th Feb, 11am-3pm | Height, Weight, BMI, Blood Group, Pulse"
     },

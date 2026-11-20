@@ -35,11 +35,11 @@ const SoftwareSlider = () => {
                             {/* <span className="tl-14-software-slide-index">01</span> */}
                             <h3 className="tl-8-course-title">NEWS AND EVENT</h3>
                             <p className="tl-8-course-descr">Chairman Sanjay ji Ghodawat is voted as the Influential Educator of the Year 2023 by 'Education Today' and has been awarded the Certificate of Excellence</p>
-                            <a href="/assets/images/more-details/educationtoday.jpeg" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
+                            <a href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/more-details/educationtoday.jpeg" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
                         </div>
 
                         <div className="tl-8-course-img">
-                        <img src="assets/images/tl-1/educationtoday 1.png" alt="About Image" />
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/educationtoday 1.png" alt="About Image" />
                         </div>
                     </SwiperSlide>
 
@@ -48,11 +48,11 @@ const SoftwareSlider = () => {
                             {/* <span className="tl-14-software-slide-index">02</span> */}
                             <h3 className="tl-8-course-title">NEWS AND EVENT</h3>
                             <p className="tl-8-course-descr">Sancheti, Chairman Sanjay ji Ghodawat were felicitated at the 35th Pune Festival.</p>
-                            <a href="assets/images/tl-1/Boss11.png" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
+                            <a href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/Boss11.png" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
                         </div>
 
                         <div className="tl-8-course-img">
-                        <img src="assets/images/tl-1/Boss11.png" alt="About Image" />
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/Boss11.png" alt="About Image" />
                         </div>
                     </SwiperSlide>
 
@@ -61,11 +61,11 @@ const SoftwareSlider = () => {
                             {/* <span className="tl-14-software-slide-index">03</span> */}
                             <h3 className="tl-8-course-title">NEWS AND EVENT</h3>
                             <p className="tl-8-course-descr">Chairman Sanjay ji Ghodawat receives Navbharat Times Scroll of Honour Award 2023 by the hands of Hon'ble Deputy CM Devendra Fadanvis for contributing in making Maharashtra's Economy number one in the country.</p>
-                            <a href="assets/images/tl-1/more33.png" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
+                            <a href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/more33.png" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
                         </div>
 
                         <div className="tl-8-course-img">
-                            <img src="assets/images/tl-1/more33.png" alt="About Image" />
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/more33.png" alt="About Image" />
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className="tl-14-software-slide tl-8-course">
@@ -73,11 +73,11 @@ const SoftwareSlider = () => {
                             {/* <span className="tl-14-software-slide-index">04</span> */}
                             <h3 className="tl-8-course-title">NEWS AND EVENT</h3>
                             <p className="tl-8-course-descr">Congratulations Chairman Sanjay ji Ghodawat receives Singhania Lifetime Achievement Award by the hands of Hon'ble Minister of Marathi Language and School Education Deepak ji Kesarkar.</p>
-                            <a href="assets/images/tl-1/more44.png" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
+                            <a href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/more44.png" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
                         </div>
 
                         <div className="tl-8-course-img">
-                            <img src="assets/images/tl-1/more44.png" alt="About Image" />
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/more44.png" alt="About Image" />
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className="tl-14-software-slide tl-8-course">
@@ -90,11 +90,11 @@ const SoftwareSlider = () => {
                                 ▪️Certificates for successful participation.<br />
                                 Link for Registration: <br />
                                 https://lnkd.in/dc6cDCTW.</p>
-                            <a href="assets/images/tl-1/banner-img.jpg" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
+                            <a href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/banner-img.jpg" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
                         </div>
 
                         <div className="tl-8-course-img">
-                            <img src="assets/images/tl-1/university.jpg" alt="About Image" />
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/university.jpg" alt="About Image" />
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className="tl-14-software-slide tl-8-course">
@@ -102,11 +102,11 @@ const SoftwareSlider = () => {
                             {/* <span className="tl-14-software-slide-index">06</span> */}
                             <h3 className="tl-8-course-title">NEWS AND EVENT</h3>
                             <p className="tl-8-course-descr">Proud moment for Sanjay Ghodawat University as Indian Star Woman Cricketer and Vice Captain, Smriti Mandhana has taken admission in our University for B. Com course. It is indeed a great news for SGU! Congratulations Team SGU and Smriti.</p>
-                            <a href="assets/images/tl-1/more10.png" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
+                            <a href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/more10.png" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
                         </div>
 
                         <div className="tl-8-course-img">
-                            <img src="assets/images/tl-1/more10.png" alt="About Image" />
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/more10.png" alt="About Image" />
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className="tl-14-software-slide tl-8-course">
@@ -114,11 +114,11 @@ const SoftwareSlider = () => {
                             {/* <span className="tl-14-software-slide-index">07</span> */}
                             <h3 className="tl-8-course-title">SGU GLOBAL</h3>
                             <p className="tl-8-course-descr">SGU Global Articulation and partnership programs.</p>
-                            <a href="assets/images/tl-1/banner-img.jpg" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
+                            <a href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/banner-img.jpg" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
                         </div>
 
                         <div className="tl-8-course-img">
-                            <img src="assets/images/tl-1/university.jpg" alt="About Image" />
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/university.jpg" alt="About Image" />
                         </div>
                     </SwiperSlide>
 
@@ -132,7 +132,7 @@ const SoftwareSlider = () => {
                         </div>
 
                         <div className="tl-8-course-img">
-                            <img src="assets/images/tl-1/university.jpg" alt="About Image" />
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/university.jpg" alt="About Image" />
                         </div>
                     </SwiperSlide>
 
@@ -142,11 +142,11 @@ const SoftwareSlider = () => {
                             <h3 className="tl-8-course-title">NEWS AND EVENT
                             </h3>
                             <p className="tl-8-course-descr">International school Miss. Aishwarya Jadhav Has won the 1st runner up title in finals of international Tennis Federation (ITF) J30 Tennis Tournament Girls Under-18 held at Bhilai.Congrats Aishwarya and her coach Arshad Desai.</p>
-                            <a href="assets/images/tl-1/more5.png" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
+                            <a href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/more5.png" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
                         </div>
 
                         <div className="tl-8-course-img">
-                            <img src="assets/images/tl-1/more5.png" alt="About Image" />
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/more5.png" alt="About Image" />
                         </div>
                     </SwiperSlide>
 
@@ -156,11 +156,11 @@ const SoftwareSlider = () => {
                             <h3 className="tl-8-course-title">NEWS AND EVENT
                             </h3>
                             <p className="tl-8-course-descr">Certificate and trophy of Appreciation to Hon'ble Sanjay ji Ghodawat, Chairman SG Group by Pravasi Sandesh for Most Prominent Indian Business Conglomerate having a legacy of more than 30 years of excellence in the business field.</p>
-                            <a href="assets/images/tl-1/more6.png" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
+                            <a href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/more6.png" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
                         </div>
 
                         <div className="tl-8-course-img">
-                            <img src="assets/images/tl-1/more6.png" alt="About Image" />
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/more6.png" alt="About Image" />
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className="tl-14-software-slide tl-8-course">
@@ -169,11 +169,11 @@ const SoftwareSlider = () => {
                             <h3 className="tl-8-course-title">DISASTER MANAGEMENT
                             </h3>
                             <p className="tl-8-course-descr">Train the Trainers Workshop on Disaster Management - The project supported by a Going Global Partnership Grant from the British Council's Going Global Partnership program.</p>
-                            <a href="assets/images/tl-1/disaster-management.jpeg" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
+                            <a href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/disaster-management.jpeg" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
                         </div>
 
                         <div className="tl-8-course-img">
-                            <img src="assets/images/tl-1/disaster-management.jpeg" alt="About Image" />
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/disaster-management.jpeg" alt="About Image" />
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className="tl-14-software-slide tl-8-course">
@@ -182,10 +182,10 @@ const SoftwareSlider = () => {
                             <h3 className="tl-8-course-title">GOLD MEDAL
                             </h3>
                             <p className="tl-8-course-descr">🚨🏆 SGU's Faculty of Commerce and Management proud to announce that our B.Com. student Mr. Suchit Patil won Gold Medal🏅 in 50mtr Butterfly style and won Bronze Medal🥉 in 100mtr Freestyle Swimming Championship in Maharashtra State Olympic Games 2023/Maharashtra Mini Olympic Games organised by Maharashtra Government, in association with the Maharashtra Olympic Association (MOA) during 2nd- 12th January 2023.</p>
-                            <a href="assets/images/tl-1/more77.png" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
+                            <a href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/more77.png" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
                         </div>
                         <div className="tl-8-course-img">
-                            <img src="assets/images/tl-1/more77.png" alt="About Image" />
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/more77.png" alt="About Image" />
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className="tl-14-software-slide tl-8-course">
@@ -197,7 +197,7 @@ const SoftwareSlider = () => {
                             <a href="https://manage-api.sguk.ac.in/api/assets/6756b9a59173bf9f471abde5" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
                         </div>
                         <div className="tl-8-course-img">
-                            <img src="assets/images/tl-1/university.jpg" alt="About Image" />
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/university.jpg" alt="About Image" />
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className="tl-14-software-slide tl-8-course">
@@ -206,10 +206,10 @@ const SoftwareSlider = () => {
                             <h3 className="tl-8-course-title">INDIAN FREEDOM STRUGGLE & YOUTH
                             </h3>
                             <p className="tl-8-course-descr">Guest Lecture On "Indian Freedom Struggle & Youth" on 18th March,2023.</p>
-                            <a href="assets/images/tl-1/indian-freedom.jpg" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
+                            <a href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/indian-freedom.jpg" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
                         </div>
                         <div className="tl-8-course-img">
-                            <img src="assets/images/tl-1/indian-freedom.jpg" alt="About Image" />
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/indian-freedom.jpg" alt="About Image" />
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className="tl-14-software-slide tl-8-course">
@@ -221,7 +221,7 @@ const SoftwareSlider = () => {
                             <a href="https://manage-api.sguk.ac.in/api/assets/6756baef9173bf9f471abdee" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
                         </div>
                         <div className="tl-8-course-img">
-                            <img src="assets/images/tl-1/teachers-day.png" alt="About Image" />
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/teachers-day.png" alt="About Image" />
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className="tl-14-software-slide tl-8-course">
@@ -234,7 +234,7 @@ For the year 2022-23, a total of 402 final-year students from the School of Tech
                             <a href="#" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
                         </div>
                         <div className="tl-8-course-img">
-                            <img src="assets/images/tl-1/university.jpg" alt="About Image" />
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/university.jpg" alt="About Image" />
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className="tl-14-software-slide tl-8-course">
@@ -246,7 +246,7 @@ For the year 2022-23, a total of 402 final-year students from the School of Tech
                             <a href="https://manage-api.sguk.ac.in/api/assets/6756bb819173bf9f471abdf5" target="_blank" className="tl-def-btn tl-14-def-btn">View</a>
                         </div>
                         <div className="tl-8-course-img">
-                            <img src="assets/images/tl-1/iso-certification.png" alt="About Image" />
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/iso-certification.png" alt="About Image" />
                         </div>
                     </SwiperSlide>
 

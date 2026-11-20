@@ -23,8 +23,8 @@ const MathematicsDeptNewsCorner = () => {
                    <div className="col-lg-4 col-md-12 col-12 col-xxs-12">
                         <div className="tl-3-single-staff tl-8-single-expert">
                             <div className="tl-3-single-staff-img tl-8-single-expert-img">
-                                <a data-fslightbox href="assets/images/department-of-mathematics/news-corner/6.jpg" target="_blank">
-                                    <img src="assets/images/department-of-mathematics/news-corner/6.jpg" alt="Staff Image"/>
+                                <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/news-corner/6.jpg" target="_blank">
+                                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/news-corner/6.jpg" alt="Staff Image"/>
                                 </a>
                             </div>
                         </div>
@@ -32,8 +32,8 @@ const MathematicsDeptNewsCorner = () => {
                     <div className="col-lg-4 col-md-12 col-12 col-xxs-12">
                         <div className="tl-3-single-staff tl-8-single-expert">
                             <div className="tl-3-single-staff-img tl-8-single-expert-img">
-                                <a data-fslightbox href="assets/images/department-of-mathematics/news-corner/2.jpg" target="_blank">
-                                    <img src="assets/images/department-of-mathematics/news-corner/2.jpg" alt="Staff Image"/>
+                                <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/news-corner/2.jpg" target="_blank">
+                                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/news-corner/2.jpg" alt="Staff Image"/>
                                 </a>
                             </div>
                         </div>
@@ -41,8 +41,8 @@ const MathematicsDeptNewsCorner = () => {
                     <div className="col-lg-4 col-md-12 col-12 col-xxs-12">
                         <div className="tl-3-single-staff tl-8-single-expert">
                             <div className="tl-3-single-staff-img tl-8-single-expert-img">
-                                <a data-fslightbox href="assets/images/department-of-mathematics/news-corner/9.jpg" target="_blank">
-                                    <img src="assets/images/department-of-mathematics/news-corner/9.jpg" alt="Staff Image"/>
+                                <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/news-corner/9.jpg" target="_blank">
+                                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/news-corner/9.jpg" alt="Staff Image"/>
                                 </a>
                             </div>
                         </div>
@@ -56,8 +56,8 @@ const MathematicsDeptNewsCorner = () => {
                    <div className="col-lg-4 col-md-12 col-12 col-xxs-12">
                         <div className="tl-3-single-staff tl-8-single-expert">
                             <div className="tl-3-single-staff-img tl-8-single-expert-img">
-                                <a data-fslightbox href="assets/images/department-of-mathematics/news-corner/11.jpg" target="_blank">
-                                    <img src="assets/images/department-of-mathematics/news-corner/11.jpg" alt="Staff Image"/>
+                                <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/news-corner/11.jpg" target="_blank">
+                                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/news-corner/11.jpg" alt="Staff Image"/>
                                 </a>
                             </div>
                         </div>
@@ -65,8 +65,8 @@ const MathematicsDeptNewsCorner = () => {
                     <div className="col-lg-4 col-md-12 col-12 col-xxs-12">
                         <div className="tl-3-single-staff tl-8-single-expert">
                             <div className="tl-3-single-staff-img tl-8-single-expert-img">
-                                <a data-fslightbox href="assets/images/department-of-mathematics/news-corner/10.jpg" target="_blank">
-                                    <img src="assets/images/department-of-mathematics/news-corner/10.jpg" alt="Staff Image"/>
+                                <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/news-corner/10.jpg" target="_blank">
+                                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/news-corner/10.jpg" alt="Staff Image"/>
                                 </a>
                             </div>
                         </div>
@@ -74,8 +74,8 @@ const MathematicsDeptNewsCorner = () => {
                     <div className="col-lg-4 col-md-12 col-12 col-xxs-12">
                         <div className="tl-3-single-staff tl-8-single-expert">
                             <div className="tl-3-single-staff-img tl-8-single-expert-img">
-                                <a data-fslightbox href="assets/images/department-of-mathematics/news-corner/7.jpg" target="_blank">
-                                    <img src="assets/images/department-of-mathematics/news-corner/7.jpg" alt="Staff Image"/>
+                                <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/news-corner/7.jpg" target="_blank">
+                                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/news-corner/7.jpg" alt="Staff Image"/>
                                 </a>
                             </div>
                         </div>
@@ -89,8 +89,8 @@ const MathematicsDeptNewsCorner = () => {
                    <div className="col-lg-4 col-md-12 col-12 col-xxs-12">
                         <div className="tl-3-single-staff tl-8-single-expert">
                             <div className="tl-3-single-staff-img tl-8-single-expert-img">
-                                <a data-fslightbox href="assets/images/department-of-mathematics/news-corner/12.jpg" target="_blank">
-                                    <img src="assets/images/department-of-mathematics/news-corner/12.jpg" alt="Staff Image"/>
+                                <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/news-corner/12.jpg" target="_blank">
+                                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/news-corner/12.jpg" alt="Staff Image"/>
                                 </a>
                             </div>
                         </div>
@@ -98,8 +98,8 @@ const MathematicsDeptNewsCorner = () => {
                     <div className="col-lg-4 col-md-12 col-12 col-xxs-12">
                         <div className="tl-3-single-staff tl-8-single-expert">
                             <div className="tl-3-single-staff-img tl-8-single-expert-img">
-                            <a data-fslightbox href="assets/images/department-of-mathematics/news-corner/5.jpg" target="_blank">
-                                <img src="assets/images/department-of-mathematics/news-corner/5.jpg" alt="Staff Image"/>
+                            <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/news-corner/5.jpg" target="_blank">
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/news-corner/5.jpg" alt="Staff Image"/>
                             </a>
                             </div>
                         </div>
@@ -107,8 +107,8 @@ const MathematicsDeptNewsCorner = () => {
                     <div className="col-lg-4 col-md-12 col-12 col-xxs-12">
                         <div className="tl-3-single-staff tl-8-single-expert">
                             <div className="tl-3-single-staff-img tl-8-single-expert-img">
-                                <a data-fslightbox href="assets/images/department-of-mathematics/news-corner/4.jpg" target="_blank">
-                                    <img src="assets/images/department-of-mathematics/news-corner/4.jpg" alt="Staff Image"/>
+                                <a data-fslightbox href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/news-corner/4.jpg" target="_blank">
+                                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/department-of-mathematics/news-corner/4.jpg" alt="Staff Image"/>
                                 </a>
                             </div>
                         </div>

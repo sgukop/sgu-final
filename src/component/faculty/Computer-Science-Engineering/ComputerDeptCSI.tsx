@@ -18,7 +18,7 @@ const ComputerDeptCSI = () => {
         <div className="row align-items-center tl-1-about-row">
             <div className="col-lg-6">
                 <div className="tl-1-about-img">
-                    <img src="assets/images/computer-science-engineering/CSI/CSI-logo.png" alt="CSI Logo Image" className="rounded-full
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/CSI/CSI-logo.png" alt="CSI Logo Image" className="rounded-full
                     " style={{border:"10px solid #4f70b6", padding:"20px"}} />
                 </div>
             </div>
@@ -36,7 +36,7 @@ const ComputerDeptCSI = () => {
                     <div className="tl-1-about-author mt-30">
                             <div className="tl-1-about-author-intro">
                                 <div className="tl-1-about-author-img">
-                                    <img src="/assets/images/faculty-profile-photos/cse/11. Ms. KETAKI KUDALE.jpg" alt="Author image" className="rounded-full"
+                                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/cse/11. Ms. KETAKI KUDALE.jpg" alt="Author image" className="rounded-full"
                                         style={{border:"4px solid #4f70b6", padding:"10px",width:"100px",height:"100px"}}/>
                                 </div>
                                 <div className="tl-1-about-author-info">

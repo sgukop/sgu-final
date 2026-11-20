@@ -40,7 +40,7 @@ const DesignDeptHamstech = () => {
                 </h3>
                 <div className="d-flex justify-content-center mb-4">
                   <img
-                    src="/assets/images/design-dept/hamstech-sgu.png"
+                    src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/hamstech-sgu.png"
                     alt="Hamstech and Sanjay Ghodawat University"
                     className="img-fluid rounded shadow-sm"
                     style={{
@@ -186,7 +186,7 @@ const DesignDeptHamstech = () => {
                 <div className="row align-items-center">
                   <div className="col-lg-5 text-center mb-4 mb-lg-0">
                     <img
-                      src="/assets/images/about-university/image1.jpg"
+                      src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-university/image1.jpg"
                       alt="World-Class Campus"
                       className="shadow"
                       style={{
@@ -439,7 +439,7 @@ const DesignDeptHamstech = () => {
                         style={{ height: "60px" }}
                       >
                         <img
-                          src={`/assets/images/recruiters/${index + 1}.png`}
+                          src={`https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/${index + 1}.png`}
                           alt={`Recruiter ${index + 1}`}
                           className="img-fluid"
                           style={{

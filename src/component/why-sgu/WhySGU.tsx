@@ -8,8 +8,8 @@ const WhySGU = () => {
             <div className="row align-items-center tl-1-about-row">
                 <div className="col-lg-6">
                     <div className="tl-1-about-img">
-                        <img src="assets/images/about-us/aboutus-new.jpg" alt="About SGU" className="tl-1-about-main-img"/>
-                        {/* <img src="assets/images/tl-1/sticker.png" alt="sticker" className="tl-1-about-sticker"/>   */} 
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-us/aboutus-new.jpg" alt="About SGU" className="tl-1-about-main-img"/>
+                        {/* <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/sticker.png" alt="sticker" className="tl-1-about-sticker"/>   */} 
                     </div>
                 </div>
 

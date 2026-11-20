@@ -3,10 +3,10 @@ import React from "react";
 const BirthdayCelebration58 = () => {
   const celebrationsphotoes = [
     {
-        imgSrc: "assets/images/photo-gallery/celebrations/58th-birthday-celebration/1.JPG",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/celebrations/58th-birthday-celebration/1.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/celebrations/58th-birthday-celebration/2.JPG",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/celebrations/58th-birthday-celebration/2.jpg",
     },
     
     

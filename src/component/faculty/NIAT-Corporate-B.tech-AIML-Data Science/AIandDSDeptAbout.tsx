@@ -8,7 +8,7 @@ const AIandDSDeptAbout = () => {
   return (
     <section
       className="pt-100 pb-100"
-      data-background="assets/images/tl-14/cta-bg.png"
+      data-background="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-14/cta-bg.png"
     >
       <div className="container-fluid">
         <h2 className="tl-9-section-title mb-50">About Department</h2>
@@ -25,7 +25,7 @@ const AIandDSDeptAbout = () => {
               <div className="col-lg-5">
                 <div className="tl-14-about-img">
                   <img
-                    src="assets/images/AIML/hod-photo/aiml-hod.png"
+                    src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/hod-photo/aiml-hod.png"
                     alt="HOD Image"
                     className="rounded-full"
                     style={{border:"10px solid #4f70b6", padding:"20px"}}

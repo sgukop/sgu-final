@@ -53,7 +53,7 @@ const CommerceDeptAlumni = () => {
     }
   }, []);
   return (
-    <section className="tl-13-testimonial pt-120 pb-120 bg-defaults" data-background="assets/images/tl-13/testimonial-bg.png">
+    <section className="tl-13-testimonial pt-120 pb-120 bg-defaults" data-background="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-13/testimonial-bg.png">
         <div className="container-fluid">
             <h2 className="tl-9-section-title mb-50">Alumni Students</h2>
             <div className="row">

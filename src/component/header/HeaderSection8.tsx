@@ -61,13 +61,13 @@ const HeaderSection8: React.FC<HeaderProps> = ({
       <div className="row g-0 justify-content-between align-items-center">
            <div className="col-lg-4">
            <Link href="/">
-              <img src="assets/images/logos/logo-banner-image.png"/>
+              <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/logos/logo-banner-image.png"/>
             </Link>
            </div>
            
            <div className="col-lg-4 text-right">
            <Link href="/">
-              <img src="assets/images/logos/logo-banner.jpg"/>
+              <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/logos/logo-banner.jpg"/>
             </Link>
            </div>
         </div>

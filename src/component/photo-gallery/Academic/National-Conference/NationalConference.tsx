@@ -3,124 +3,124 @@ import React from "react";
 const NationalConference = () => {
   const nationalconference = [
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/1.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/2.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/3.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/4.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/4.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/5.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/5.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/6.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/6.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/7.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/7.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/8.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/8.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/9.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/9.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/10.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/10.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/11.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/11.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/12.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/12.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/13.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/13.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/14.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/14.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/15.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/15.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/16.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/16.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/17.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/17.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/18.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/18.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/19.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/19.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/20.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/20.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/21.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/21.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/22.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/22.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/23.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/23.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/24.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/24.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/25.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/25.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/26.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/26.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/27.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/27.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/28.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/28.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/29.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/29.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/30.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/30.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/31.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/31.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/32.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/32.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/33.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/33.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/34.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/34.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/35.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/35.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/36.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/36.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/37.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/37.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/38.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/38.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/39.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/39.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/first-national-conference/40.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/first-national-conference/40.jpg",
     },
  ];
 

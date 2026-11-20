@@ -23,7 +23,7 @@ const AIMLDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/AIML/academic-infrastructure/image5.png" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/academic-infrastructure/image5.png" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Multimedia & Computer Vision Lab</h3>
                     </div>
@@ -32,7 +32,7 @@ const AIMLDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/AIML/academic-infrastructure/image6.png" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/academic-infrastructure/image6.png" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Programming Lab</h3>
                     </div>
@@ -41,7 +41,7 @@ const AIMLDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/AIML/academic-infrastructure/image7.png" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/academic-infrastructure/image7.png" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">AIML Lab</h3>
                     </div>
@@ -50,7 +50,7 @@ const AIMLDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/AIML/academic-infrastructure/image8.png" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/academic-infrastructure/image8.png" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Classroom 3</h3>
                     </div>
@@ -59,7 +59,7 @@ const AIMLDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/AIML/academic-infrastructure/image9.png" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/AIML/academic-infrastructure/image9.png" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Classroom 4</h3>
                     </div>

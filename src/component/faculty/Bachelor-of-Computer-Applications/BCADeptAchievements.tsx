@@ -18,7 +18,7 @@ const BCADeptAchievements = () => {
                 <div className="col-xl-4 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/BCA-dept/student-achievements/new-achievements/image1.jpeg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/student-achievements/new-achievements/image1.jpeg" alt="Activity Image"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <p className="dark-mode-white-color">WINNER🏆 title at TECHTHRIVE,  *Walchand College of Engineering, Sangli.</p>
@@ -29,7 +29,7 @@ const BCADeptAchievements = () => {
                 <div className="col-xl-4 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/BCA-dept/student-achievements/new-achievements/image2.jpeg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/student-achievements/new-achievements/image2.jpeg" alt="Activity Image"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <p className="dark-mode-white-color">Runner-up title at Techzest event, College of Engineering Kolhapur (KIT),</p>
@@ -40,7 +40,7 @@ const BCADeptAchievements = () => {
                 <div className="col-xl-4 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/BCA-dept/student-achievements/new-achievements/image3.jpeg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/student-achievements/new-achievements/image3.jpeg" alt="Activity Image"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <p className="dark-mode-white-color">Secured 3rd place 🥉 At HackWave with our innovative solution for online attendance marking! .</p>
@@ -51,7 +51,7 @@ const BCADeptAchievements = () => {
                 <div className="col-xl-4 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/BCA-dept/student-achievements/new-achievements/image4.jpeg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/student-achievements/new-achievements/image4.jpeg" alt="Activity Image"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <p className="dark-mode-white-color">1st Rank in Webverse Web Development Hackathon 2024!</p>
@@ -62,7 +62,7 @@ const BCADeptAchievements = () => {
                 <div className="col-xl-4 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/BCA-dept/student-achievements/new-achievements/image5.jpeg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/student-achievements/new-achievements/image5.jpeg" alt="Activity Image"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <p className="dark-mode-white-color">2nd position🏆 at Christ University, Bangalore  in 'Ares Thechwar' Hackathon.</p>
@@ -73,7 +73,7 @@ const BCADeptAchievements = () => {
                 <div className="col-xl-4 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/BCA-dept/student-achievements/tanaya-kulkarni/image.png" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/student-achievements/tanaya-kulkarni/image.png" alt="Activity Image"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <p className="dark-mode-white-color">Ms.Tanaya Kulkarni for standing first in BCA-I</p>
@@ -84,7 +84,7 @@ const BCADeptAchievements = () => {
                 <div className="col-xl-4 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/BCA-dept/student-achievements/new-achievements/image6.jpeg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/student-achievements/new-achievements/image6.jpeg" alt="Activity Image"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <p className="dark-mode-white-color">Winner of Nirmaan 2.0 Solo category organised by Google Developer Students Club MIT, Pune</p>
@@ -95,7 +95,7 @@ const BCADeptAchievements = () => {
                 <div className="col-xl-4 col-lg-10">
                     <div className="tl-8-course flex flex-col rounded-[20px] h-full">
                         <div className="tl-8-course-img self-center">
-                            <img src="assets/images/BCA-dept/student-achievements/new-achievements/image7.jpeg" alt="Activity Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/student-achievements/new-achievements/image7.jpeg" alt="Activity Image"/>
                         </div>
                         <div className="tl-8-course-txt">
                             <p className="dark-mode-white-color">Secured 1st rank in national level innovation hackathon organized by NIT (National Institute of Technology) Nagaland</p>
@@ -112,7 +112,7 @@ const BCADeptAchievements = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/BCA-dept/student-achievements/brain-it/1.bmp" alt="Student Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/student-achievements/brain-it/1.bmp" alt="Student Achievements Image"/></figure>
                     </div>
                        
                 </div>
@@ -121,7 +121,7 @@ const BCADeptAchievements = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/BCA-dept/student-achievements/brain-it/2.bmp" alt="Student Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/student-achievements/brain-it/2.bmp" alt="Student Achievements Image"/></figure>
                     </div>
                 </div>
             </div>
@@ -134,7 +134,7 @@ const BCADeptAchievements = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/BCA-dept/student-achievements/hackwave/1.png" alt="Student Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/student-achievements/hackwave/1.png" alt="Student Achievements Image"/></figure>
                     </div>
                        
                 </div>
@@ -143,7 +143,7 @@ const BCADeptAchievements = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/BCA-dept/student-achievements/hackwave/2.png" alt="Student Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/student-achievements/hackwave/2.png" alt="Student Achievements Image"/></figure>
                     </div>
                 </div>
             </div>
@@ -151,7 +151,7 @@ const BCADeptAchievements = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/BCA-dept/student-achievements/hackwave/3.png" alt="Student Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/student-achievements/hackwave/3.png" alt="Student Achievements Image"/></figure>
                     </div>
                 </div>
             </div>
@@ -164,7 +164,7 @@ const BCADeptAchievements = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/BCA-dept/student-achievements/orion-2k24/1.bmp" alt="Student Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/student-achievements/orion-2k24/1.bmp" alt="Student Achievements Image"/></figure>
                     </div>
                        
                 </div>
@@ -173,7 +173,7 @@ const BCADeptAchievements = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/BCA-dept/student-achievements/orion-2k24/2.bmp" alt="Student Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/student-achievements/orion-2k24/2.bmp" alt="Student Achievements Image"/></figure>
                     </div>
                 </div>
             </div>
@@ -187,7 +187,7 @@ const BCADeptAchievements = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/BCA-dept/student-achievements/music-instrumental-competition/1.bmp" alt="Student Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/student-achievements/music-instrumental-competition/1.bmp" alt="Student Achievements Image"/></figure>
                     </div>
                        
                 </div>
@@ -209,7 +209,7 @@ const BCADeptAchievements = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/BCA-dept/student-achievements/mit-pune-hackathon/6.bmp" alt="Student Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/student-achievements/mit-pune-hackathon/6.bmp" alt="Student Achievements Image"/></figure>
                     </div>
                        
                 </div>
@@ -230,7 +230,7 @@ const BCADeptAchievements = () => {
             <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                 <div className="tl-9-blog"> 
                     <div className="tl-9-event-img">
-                        <figure><img src="assets/images/BCA-dept/student-achievements/nit-hackathon/5.bmp" alt="Student Achievements Image"/></figure>
+                        <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/student-achievements/nit-hackathon/5.bmp" alt="Student Achievements Image"/></figure>
                     </div>
                        
                 </div>

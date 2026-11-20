@@ -24,7 +24,7 @@ const MechanicalDeptInfrastructure = () => {
                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/mechanical-engineering-dept/laboratories/Mech1.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mechanical-engineering-dept/laboratories/Mech1.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Computer Integrated Manufacturing Lab (CNC Machine)</h3>
                     </div>
@@ -33,7 +33,7 @@ const MechanicalDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/mechanical-engineering-dept/laboratories/Mech2.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mechanical-engineering-dept/laboratories/Mech2.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Mechanical Workshop(Machine Shop)</h3>
                     </div>
@@ -42,7 +42,7 @@ const MechanicalDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/mechanical-engineering-dept/laboratories/Mech3.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mechanical-engineering-dept/laboratories/Mech3.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Mechanical Workshop(Machine Shop)</h3>
                     </div>
@@ -51,7 +51,7 @@ const MechanicalDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/mechanical-engineering-dept/laboratories/Mech4.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mechanical-engineering-dept/laboratories/Mech4.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Carpentry Shop</h3>
                     </div>
@@ -60,7 +60,7 @@ const MechanicalDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/mechanical-engineering-dept/laboratories/Mech5.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mechanical-engineering-dept/laboratories/Mech5.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Smithy Shop</h3>
                     </div>
@@ -69,7 +69,7 @@ const MechanicalDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/mechanical-engineering-dept/laboratories/Mech6.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mechanical-engineering-dept/laboratories/Mech6.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">I.C. Engine Lab</h3>
                     </div>
@@ -78,7 +78,7 @@ const MechanicalDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/mechanical-engineering-dept/laboratories/Mech7.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mechanical-engineering-dept/laboratories/Mech7.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Basic Mechanical Engg. Lab</h3>
                     </div>
@@ -87,7 +87,7 @@ const MechanicalDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/mechanical-engineering-dept/laboratories/Mech8.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mechanical-engineering-dept/laboratories/Mech8.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Industrial Fluid Power Lab</h3>
                     </div>
@@ -96,7 +96,7 @@ const MechanicalDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/mechanical-engineering-dept/laboratories/Mech9.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mechanical-engineering-dept/laboratories/Mech9.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Heat and Mass Transfer Lab</h3>
                     </div>
@@ -105,7 +105,7 @@ const MechanicalDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/mechanical-engineering-dept/laboratories/Mech10.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mechanical-engineering-dept/laboratories/Mech10.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Theory of Machine Lab</h3>
                     </div>
@@ -114,7 +114,7 @@ const MechanicalDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/mechanical-engineering-dept/laboratories/Mech11.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mechanical-engineering-dept/laboratories/Mech11.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Material Science and Metallurgy Lab</h3>
                     </div>
@@ -123,7 +123,7 @@ const MechanicalDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/mechanical-engineering-dept/laboratories/Mech12.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mechanical-engineering-dept/laboratories/Mech12.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">CAD-CAM Lab</h3>
                     </div>
@@ -132,7 +132,7 @@ const MechanicalDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/mechanical-engineering-dept/laboratories/Mech13.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mechanical-engineering-dept/laboratories/Mech13.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Fluid and Turbo Machinery</h3>
                     </div>
@@ -141,7 +141,7 @@ const MechanicalDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/mechanical-engineering-dept/laboratories/Mech14.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mechanical-engineering-dept/laboratories/Mech14.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Applied Thermodynamic Lab</h3>
                     </div>
@@ -150,7 +150,7 @@ const MechanicalDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/mechanical-engineering-dept/laboratories/Mech15.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mechanical-engineering-dept/laboratories/Mech15.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Applied Thermodynamic Lab</h3>
                     </div>
@@ -159,7 +159,7 @@ const MechanicalDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/mechanical-engineering-dept/laboratories/Mech16.png" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mechanical-engineering-dept/laboratories/Mech16.png" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Technology Competency Center(TTL)</h3>
                     </div>
@@ -168,7 +168,7 @@ const MechanicalDeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/mechanical-engineering-dept/laboratories/Mech17.jpg" alt="Events Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mechanical-engineering-dept/laboratories/Mech17.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Car Lab</h3>
                     </div>

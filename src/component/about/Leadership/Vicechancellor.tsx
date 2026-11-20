@@ -6,7 +6,7 @@ const Vicechancellor = () => {
     <div className="container">
         <div className="tl-2-section-heading d-flex justify-content-center"><h2 className="tl-2-section-title py-4 rounded-tl-[40px] rounded-br-[40px] w-fit px-8 bg-[#4f70b6] font-bold text-white mx-auto">Vice Chancellor</h2></div>
         <div className="tl-staff-profile-top">
-            <img src="/assets/images/management/team4.jpg" alt="VC image"/>
+            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management/team4.jpg" alt="VC image"/>
 
             <div className="tl-staff-profile-txt">
                 <div className="tl-staff-profile-intro">

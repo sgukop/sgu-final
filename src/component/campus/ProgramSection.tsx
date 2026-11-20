@@ -13,7 +13,7 @@ const ProgramSection = () => {
                  <div className="col-lg-4 col-md-6 " key={item.id}>
                     <div className="tl-4-program relativeeeee">
                         <div className="tl-4-program-heading absoluteeee">
-                            {/* <img src={`assets/images/tl-4/program-${index + 1}.png`} alt="Icon"/> */}
+                            {/* <img src={`https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-4/program-${index + 1}.png`} alt="Icon"/> */}
               
                             <div className="tl-4-program-heading-txt">
                                 {/* <h4 className="tl-4-program-title">{item.programTitle}</h4> */}

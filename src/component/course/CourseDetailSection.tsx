@@ -62,7 +62,7 @@ const CourseDetailSection: React.FC<CourseProps> = ({ courseData }) => {
               <CourseRightsideInfo/>
               <img
                 className="tl-course-details-payment-methods"
-                src="/assets/images/card.png"
+                src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/card.png"
                 alt=""
               />
               <a

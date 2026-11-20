@@ -69,7 +69,7 @@ const NewHeaderSection = () => {
         
         <div className="w-full">
             <img
-                src="assets/images/new-logo/sgu-main-logo.jpg"
+                src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/new-logo/sgu-main-logo.jpg"
                 alt="Logo"
                 className="h-full object-contain w-full"
             />
@@ -357,25 +357,25 @@ const NewHeaderSection = () => {
          </div>
 
     <Marquee speed={100} gradient={false} pauseOnHover className="flex m-2">
-       <sup><img src="assets/images/new-icon-image.gif"/></sup>
+       <sup><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/new-icon-image.gif"/></sup>
        <a href="https://manage-api.sguk.ac.in/api/assets/6a02fdbda93e8415504a4dca" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">SGU Placements 2025 – Top Recruiters & Prominent Placements </a>
 
-      {/*<sup><img src="assets/images/new-icon-image.gif"/></sup>
+      {/*<sup><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/new-icon-image.gif"/></sup>
         <a href="https://www.sguk.ac.in/admission-open" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Admissions Open for Academic Year 2026–27 </a>*/}
 
-      <sup><img src="assets/images/new-icon-image.gif"/></sup>
+      <sup><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/new-icon-image.gif"/></sup>
       <a href="https://manage-api.sguk.ac.in/api/assets/69578ac6c03a7929c6c93c73" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6"> SGU Student Selected as Top 10 Finalist in National Innovation Challenge Powered by Google Gemini</a>
       
-      <sup><img src="assets/images/new-icon-image.gif"/></sup>
+      <sup><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/new-icon-image.gif"/></sup>
       <a href="https://manage-api.sguk.ac.in/api/assets/6867a31fb513ac737c09b117" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Achievements of SWAYAM - NPTEL SGU Local Chapter Jan-May 2025 </a>
     
-   {/* <sup><img src="assets/images/new-icon-image.gif"/></sup>
+   {/* <sup><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/new-icon-image.gif"/></sup>
       <a href="https://manage-api.sguk.ac.in/api/assets/6a0fe1fe45c0260733062523" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">📢 KOLHAPUR, GET READY FOR THE FUTURE OF DESIGN! </a>*/}
     
-     <sup><img src="assets/images/new-icon-image.gif"/></sup>
-      <a href="assets/images/admission-open/01.jpeg" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Brand Of Kolhapur </a>
+     <sup><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/new-icon-image.gif"/></sup>
+      <a href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/admission-open/01.jpeg" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Brand Of Kolhapur </a>
     
-     {/*<sup><img src="assets/images/new-icon-image.gif"/></sup>
+     {/*<sup><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/new-icon-image.gif"/></sup>
       <a href="https://forms.gle/AJnMtZPy1PaJgKtX6" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">SGUPET Registration form for A.Y.-2026-27 </a>
     */}
     

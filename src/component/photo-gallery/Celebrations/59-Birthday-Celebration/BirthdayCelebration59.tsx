@@ -3,19 +3,19 @@ import React from "react";
 const BirthdayCelebration59 = () => {
   const celebrationsphotoes = [
     {
-        imgSrc: "assets/images/photo-gallery/celebrations/59th-birthday-celebration/1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/celebrations/59th-birthday-celebration/1.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/celebrations/59th-birthday-celebration/2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/celebrations/59th-birthday-celebration/2.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/celebrations/59th-birthday-celebration/3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/celebrations/59th-birthday-celebration/3.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/celebrations/59th-birthday-celebration/4.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/celebrations/59th-birthday-celebration/4.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/celebrations/59th-birthday-celebration/5.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/celebrations/59th-birthday-celebration/5.jpg",
     },
         
     

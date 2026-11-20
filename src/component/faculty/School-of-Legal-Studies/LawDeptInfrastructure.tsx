@@ -5,7 +5,7 @@ import MenuList from '../Reusable-components/MenuList';
 
 const LawDeptInfrastrcuture = () => {
    return (
-    <section className="tl-14-about pt-100 pb-100" data-background="assets/images/tl-14/cta-bg.png">
+    <section className="tl-14-about pt-100 pb-100" data-background="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-14/cta-bg.png">
         <div className="container-fluid">
         <h2 className="tl-9-section-title mb-50">Academic Infrastructure</h2>
         <div className="row">
@@ -30,7 +30,7 @@ const LawDeptInfrastrcuture = () => {
                 <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/law-dept/academic-infrastructure/infra-1.jpeg" alt="Academic Infrastructure Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/academic-infrastructure/infra-1.jpeg" alt="Academic Infrastructure Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Modern Learning Environment </h3>
                     </div>
@@ -39,7 +39,7 @@ const LawDeptInfrastrcuture = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/law-dept/academic-infrastructure/infra-3.jpeg" alt="Academic Infrastructure Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/academic-infrastructure/infra-3.jpeg" alt="Academic Infrastructure Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Experience the Courtroom in Action  </h3>
                     </div>
@@ -48,7 +48,7 @@ const LawDeptInfrastrcuture = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/law-dept/academic-infrastructure/infra-9.jpeg" alt="Academic Infrastructure Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/academic-infrastructure/infra-9.jpeg" alt="Academic Infrastructure Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Smart Classroom</h3>
                     </div>
@@ -56,7 +56,7 @@ const LawDeptInfrastrcuture = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/law-dept/academic-infrastructure/infra-5.jpeg" alt="Academic Infrastructure Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/academic-infrastructure/infra-5.jpeg" alt="Academic Infrastructure Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Library/E-Library</h3>
                     </div>
@@ -65,7 +65,7 @@ const LawDeptInfrastrcuture = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/law-dept/academic-infrastructure/infra-4.jpeg" alt="Academic Infrastructure Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/academic-infrastructure/infra-4.jpeg" alt="Academic Infrastructure Image"/></figure>
                         </div>
                        
                     </div>

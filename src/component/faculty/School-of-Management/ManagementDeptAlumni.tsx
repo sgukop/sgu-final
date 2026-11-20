@@ -98,7 +98,7 @@ const ManagementDeptAlumni:React.FC<Props> = ({style,array}) => {
 
                                       <div className="tl-7-testimony-bottom-right">
                                         <img
-                                          src="assets/images/tl-7/quotation.png"
+                                          src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-7/quotation.png"
                                           alt="Quotation Mark"
                                         />
                                       </div>

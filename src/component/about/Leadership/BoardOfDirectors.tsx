@@ -13,7 +13,7 @@ const BoardOfDirectors = () => {
                     <div className="col-lg-3 col-md-6">
                         <div className="tl-3-single-blog">
                             <div className="tl-3-single-blog-img">
-                                <img src="assets/images/board-of-directors/00.jpg" alt="Trust Board of Director Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/board-of-directors/00.jpg" alt="Trust Board of Director Image"/>
                             </div>
 
                             <div className="tl-3-single-blog-txt">
@@ -25,7 +25,7 @@ const BoardOfDirectors = () => {
                      <div className="col-lg-3 col-md-6">
                         <div className="tl-3-single-blog">
                             <div className="tl-3-single-blog-img">
-                                <img src="assets/images/board-of-directors/01.jpg" alt="Trust Board of Director Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/board-of-directors/01.jpg" alt="Trust Board of Director Image"/>
                             </div>
 
                             <div className="tl-3-single-blog-txt">
@@ -38,7 +38,7 @@ const BoardOfDirectors = () => {
                     <div className="col-lg-3 col-md-6">
                         <div className="tl-3-single-blog">
                             <div className="tl-3-single-blog-img">
-                                <img src="assets/images/board-of-directors/team1.jpg" alt="Trust Board of Director Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/board-of-directors/team1.jpg" alt="Trust Board of Director Image"/>
                             </div>
 
                             <div className="tl-3-single-blog-txt">
@@ -51,7 +51,7 @@ const BoardOfDirectors = () => {
                     <div className="col-lg-3 col-md-6">
                         <div className="tl-3-single-blog">
                             <div className="tl-3-single-blog-img">
-                                <img src="assets/images/board-of-directors/003.jpg" alt="Trust Board of Director Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/board-of-directors/003.jpg" alt="Trust Board of Director Image"/>
                             </div>
 
                             <div className="tl-3-single-blog-txt">
@@ -64,7 +64,7 @@ const BoardOfDirectors = () => {
                     <div className="col-lg-3 col-md-6">
                         <div className="tl-3-single-blog">
                             <div className="tl-3-single-blog-img">
-                                <img src="assets/images/board-of-directors/team2.jpg" alt="Trust Board of Director Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/board-of-directors/team2.jpg" alt="Trust Board of Director Image"/>
                             </div>
 
                             <div className="tl-3-single-blog-txt">
@@ -77,7 +77,7 @@ const BoardOfDirectors = () => {
                      <div className="col-lg-3 col-md-6">
                         <div className="tl-3-single-blog">
                             <div className="tl-3-single-blog-img">
-                                <img src="assets/images/board-of-directors/06.jpg" alt="Trust Board of Director Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/board-of-directors/06.jpg" alt="Trust Board of Director Image"/>
                             </div>
 
                             <div className="tl-3-single-blog-txt">
@@ -90,7 +90,7 @@ const BoardOfDirectors = () => {
                      <div className="col-lg-3 col-md-6">
                         <div className="tl-3-single-blog">
                             <div className="tl-3-single-blog-img">
-                                <img src="assets/images/board-of-directors/05.jpg" alt="Trust Board of Director Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/board-of-directors/05.jpg" alt="Trust Board of Director Image"/>
                             </div>
 
                             <div className="tl-3-single-blog-txt">
@@ -103,7 +103,7 @@ const BoardOfDirectors = () => {
                     <div className="col-lg-3 col-md-6">
                         <div className="tl-3-single-blog">
                             <div className="tl-3-single-blog-img">
-                                <img src="assets/images/board-of-directors/08.jpg" alt="Trust Board of Director Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/board-of-directors/08.jpg" alt="Trust Board of Director Image"/>
                             </div>
 
                             <div className="tl-3-single-blog-txt">
@@ -116,7 +116,7 @@ const BoardOfDirectors = () => {
                     <div className="col-lg-3 col-md-6">
                         <div className="tl-3-single-blog">
                             <div className="tl-3-single-blog-img">
-                                <img src="assets/images/board-of-directors/team3.jpg" alt="Trust Board of Director Image"/>
+                                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/board-of-directors/team3.jpg" alt="Trust Board of Director Image"/>
                             </div>
 
                             <div className="tl-3-single-blog-txt">

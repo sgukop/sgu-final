@@ -10,7 +10,7 @@ const AboutTrust2 = () =>  {
           <h2 className="tl-6-section-title">Chairman's Message</h2>
         </div>
             <div className="tl-staff-profile-top mb-50">
-                <img src="assets/images/tl-8/sushila-ghodawat.jpg" alt="Trust Image"/>
+                <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-8/sushila-ghodawat.jpg" alt="Trust Image"/>
                 <div className="tl-staff-profile-txt">
                     <div className="tl-staff-profile-intro">
                         <div>

@@ -25,7 +25,7 @@ const MasscommunicationDeptAbout = () => {
         <div className="row g-0 align-items-center">
             <div className="col-xl-6 col-lg-5">
                 <div className="tl-8-about-img">
-                    <img src="assets/images/mass-communication-dept/about-department/about-us.png" alt="About Mass COmmunication Department" className="rounded-full"
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/mass-communication-dept/about-department/about-us.png" alt="About Mass COmmunication Department" className="rounded-full"
                     style={{border:"10px solid #4f70b6", padding:"20px"}} />
                 </div>
             </div>

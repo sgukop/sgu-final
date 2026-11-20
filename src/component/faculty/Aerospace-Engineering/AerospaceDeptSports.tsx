@@ -19,7 +19,7 @@ const AerospaceDeptSports = () => {
                <div className="col-lg-4 col-md-12 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                          <figure><img src="assets/images/aerospace-engineering-dept/sports/sport1.jpg" alt="Events Image"/></figure>
+                          <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/sports/sport1.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">BOYS SPORTS TEAM FROM AERONAUTICAL ENGINEERING</h3>
                     </div>
@@ -28,7 +28,7 @@ const AerospaceDeptSports = () => {
                   <div className="col-lg-4 col-md-12 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                          <figure><img src="assets/images/aerospace-engineering-dept/sports/sport2.jpg" alt="Events Image"/></figure>
+                          <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/sports/sport2.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">GIRLS SPORTS TEAM FROM AERONAUTICAL ENGINEERING</h3>
                     </div>
@@ -37,7 +37,7 @@ const AerospaceDeptSports = () => {
                   <div className="col-lg-4 col-md-12 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                          <figure><img src="assets/images/aerospace-engineering-dept/sports/sport3.jpg" alt="Events Image"/></figure>
+                          <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/sports/sport3.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">WINNERS AT NATIONAL LEVEL VOLLEYBALL COMPETITION</h3>
                     </div>
@@ -46,7 +46,7 @@ const AerospaceDeptSports = () => {
                   <div className="col-lg-4 col-md-12 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                          <figure><img src="assets/images/aerospace-engineering-dept/sports/sport4.jpg" alt="Events Image"/></figure>
+                          <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/sports/sport4.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">WINNERS FELICITATION BY HOD</h3>
                     </div>
@@ -55,7 +55,7 @@ const AerospaceDeptSports = () => {
                   <div className="col-lg-4 col-md-12 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                          <figure><img src="assets/images/aerospace-engineering-dept/sports/sport5.jpg" alt="Events Image"/></figure>
+                          <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/sports/sport5.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">NATIONAL WINNERS WITH DEPARTMENT FACULTIES</h3>
                     </div>
@@ -64,7 +64,7 @@ const AerospaceDeptSports = () => {
                   <div className="col-lg-4 col-md-12 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                          <figure><img src="assets/images/aerospace-engineering-dept/sports/sport6.jpg" alt="Events Image"/></figure>
+                          <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/aerospace-engineering-dept/sports/sport6.jpg" alt="Events Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">DEPARTMENT SPORTS ACTIVITY 2023-2024</h3>
                     </div>

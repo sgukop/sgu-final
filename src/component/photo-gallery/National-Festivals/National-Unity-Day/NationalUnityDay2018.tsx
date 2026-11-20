@@ -3,25 +3,25 @@ import React from "react";
 const NationalUnityDay2018 = () => {
   const nationalunityday1 = [
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/national-unity-day-2018/NSS-1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/national-unity-day-2018/NSS-1.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/national-unity-day-2018/NSS-2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/national-unity-day-2018/NSS-2.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/national-unity-day-2018/NSS-3.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/national-unity-day-2018/NSS-3.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/national-unity-day-2018/NSS-4.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/national-unity-day-2018/NSS-4.jpg",
     },
  ]
 
  const nationalunityday2 = [
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/national-unity-day-2018/NSS-6.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/national-unity-day-2018/NSS-6.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/national-festivals/national-unity-day-2018/NSS-5.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/national-festivals/national-unity-day-2018/NSS-5.jpg",
     },
 ]
 

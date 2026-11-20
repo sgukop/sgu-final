@@ -3,29 +3,29 @@ import React from "react";
 const Promptutsav = () => {
   const Promptutsav = [
     {
-        imgSrc: "assets/images/photo-gallery/academics/promptutsav-aiml-2025/9.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/promptutsav-aiml-2025/9.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/promptutsav-aiml-2025/33.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/promptutsav-aiml-2025/33.jpg",
     },
              
      
      {
-        imgSrc: "assets/images/photo-gallery/academics/promptutsav-aiml-2025/22.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/promptutsav-aiml-2025/22.jpg",
     },
      
          
     {
-        imgSrc: "assets/images/photo-gallery/academics/promptutsav-aiml-2025/11.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/promptutsav-aiml-2025/11.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/promptutsav-aiml-2025/5.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/promptutsav-aiml-2025/5.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/promptutsav-aiml-2025/1.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/promptutsav-aiml-2025/1.jpg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/promptutsav-aiml-2025/2.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/promptutsav-aiml-2025/2.jpg",
     },
     
     

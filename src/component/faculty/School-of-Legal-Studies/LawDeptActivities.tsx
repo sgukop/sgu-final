@@ -35,7 +35,7 @@ const LawDeptActivities = () => {
                             </ul>
 
                             <h5 className="tl-8-single-pricing-title text-[#4f70b6] mb-4 mt-4">Seminar on 3 New Criminal Laws</h5>
-                            <img src="assets/images/law-dept/upcoming-events/criminal-law-image.png" />
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/upcoming-events/criminal-law-image.png" />
                         </div>
                   </div>
                 </div>
@@ -48,7 +48,7 @@ const LawDeptActivities = () => {
             <div className="tl-8-course flex flex-col rounded-[20px] h-full">
               <div className="tl-8-course-img">
                 <img
-                  src="assets/images/law-dept/activities&achievements/1.jpg"
+                  src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/activities&achievements/1.jpg"
                   alt="Achievement Image"
                 />
               </div>
@@ -65,7 +65,7 @@ const LawDeptActivities = () => {
             <div className="tl-8-course flex flex-col rounded-[20px] h-full">
               <div className="tl-8-course-img">
                 <img
-                  src="assets/images/law-dept/activities&achievements/latest-events/1.png"
+                  src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/activities&achievements/latest-events/1.png"
                   alt="Achievement Image"
                 />
               </div>
@@ -82,13 +82,13 @@ const LawDeptActivities = () => {
             <div className="tl-8-course flex flex-col rounded-[20px] h-full">
               <div className="tl-8-course-img">
                 <img
-                  src="assets/images/law-dept/activities&achievements/latest-events/21.jpg"
+                  src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/activities&achievements/latest-events/21.jpg"
                   alt="Achievement Image"
                 />
               </div>
                <div className="tl-8-course-img">
                 <img
-                  src="assets/images/law-dept/activities&achievements/latest-events/22.jpg"
+                  src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/activities&achievements/latest-events/22.jpg"
                   alt="Achievement Image"
                 />
               </div>
@@ -107,13 +107,13 @@ const LawDeptActivities = () => {
             <div className="tl-8-course flex flex-col rounded-[20px] h-full">
               <div className="tl-8-course-img">
                 <img
-                  src="assets/images/law-dept/activities&achievements/latest-events/18.jpg"
+                  src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/activities&achievements/latest-events/18.jpg"
                   alt="Achievement Image"
                 />
               </div>
                <div className="tl-8-course-img">
                 <img
-                  src="assets/images/law-dept/activities&achievements/latest-events/19.jpg"
+                  src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/activities&achievements/latest-events/19.jpg"
                   alt="Achievement Image"
                 />
               </div>
@@ -131,19 +131,19 @@ const LawDeptActivities = () => {
             <div className="tl-8-course flex flex-col rounded-[20px] h-full">
               <div className="tl-8-course-img">
                 <img
-                  src="assets/images/law-dept/activities&achievements/latest-events/16.jpg"
+                  src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/activities&achievements/latest-events/16.jpg"
                   alt="Achievement Image"
                 />
               </div>
                <div className="tl-8-course-img">
                 <img
-                  src="assets/images/law-dept/activities&achievements/latest-events/17.jpg"
+                  src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/activities&achievements/latest-events/17.jpg"
                   alt="Achievement Image"
                 />
               </div>
                <div className="tl-8-course-img">
                 <img
-                  src="assets/images/law-dept/activities&achievements/latest-events/18.jpg"
+                  src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/activities&achievements/latest-events/18.jpg"
                   alt="Achievement Image"
                 />
               </div>
@@ -162,19 +162,19 @@ const LawDeptActivities = () => {
             <div className="tl-8-course flex flex-col rounded-[20px] h-full">
               <div className="tl-8-course-img">
                 <img
-                  src="assets/images/law-dept/activities&achievements/latest-events/13.jpg"
+                  src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/activities&achievements/latest-events/13.jpg"
                   alt="Achievement Image"
                 />
               </div>
                <div className="tl-8-course-img">
                 <img
-                  src="assets/images/law-dept/activities&achievements/latest-events/14.jpg"
+                  src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/activities&achievements/latest-events/14.jpg"
                   alt="Achievement Image"
                 />
               </div>
                <div className="tl-8-course-img">
                 <img
-                  src="assets/images/law-dept/activities&achievements/latest-events/15.jpg"
+                  src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/activities&achievements/latest-events/15.jpg"
                   alt="Achievement Image"
                 />
               </div>
@@ -193,7 +193,7 @@ const LawDeptActivities = () => {
             <div className="tl-8-course flex flex-col rounded-[20px] h-full">
               <div className="tl-8-course-img">
                 <img
-                  src="assets/images/law-dept/activities&achievements/latest-events/9.jpg"
+                  src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/activities&achievements/latest-events/9.jpg"
                   alt="Achievement Image"
                 />
               </div>
@@ -210,7 +210,7 @@ const LawDeptActivities = () => {
             <div className="tl-8-course flex flex-col rounded-[20px] h-full">
               <div className="tl-8-course-img">
                 <img
-                  src="assets/images/law-dept/activities&achievements/latest-events/10.jpg"
+                  src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/activities&achievements/latest-events/10.jpg"
                   alt="Achievement Image"
                 />
               </div>
@@ -227,7 +227,7 @@ const LawDeptActivities = () => {
             <div className="tl-8-course flex flex-col rounded-[20px] h-full">
               <div className="tl-8-course-img">
                 <img
-                  src="assets/images/law-dept/activities&achievements/latest-events/11.jpg"
+                  src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/activities&achievements/latest-events/11.jpg"
                   alt="Achievement Image"
                 />
               </div>
@@ -244,7 +244,7 @@ const LawDeptActivities = () => {
             <div className="tl-8-course flex flex-col rounded-[20px] h-full">
               <div className="tl-8-course-img">
                 <img
-                  src="assets/images/law-dept/activities&achievements/latest-events/12.jpg"
+                  src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/activities&achievements/latest-events/12.jpg"
                   alt="Achievement Image"
                 />
               </div>
@@ -265,7 +265,7 @@ const LawDeptActivities = () => {
             <div className="tl-8-course flex flex-col rounded-[20px] h-full">
               <div className="tl-8-course-img">
                 <img
-                  src="assets/images/law-dept/activities&achievements/latest-events/5.jpg"
+                  src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/activities&achievements/latest-events/5.jpg"
                   alt="Achievement Image"
                 />
               </div>
@@ -280,7 +280,7 @@ const LawDeptActivities = () => {
             <div className="tl-8-course flex flex-col rounded-[20px] h-full">
               <div className="tl-8-course-img">
                 <img
-                  src="assets/images/law-dept/activities&achievements/latest-events/6.jpg"
+                  src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/activities&achievements/latest-events/6.jpg"
                   alt="Achievement Image"
                 />
               </div>
@@ -295,7 +295,7 @@ const LawDeptActivities = () => {
             <div className="tl-8-course flex flex-col rounded-[20px] h-full">
               <div className="tl-8-course-img">
                 <img
-                  src="assets/images/law-dept/activities&achievements/latest-events/7.jpg"
+                  src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/activities&achievements/latest-events/7.jpg"
                   alt="Achievement Image"
                 />
               </div>
@@ -310,7 +310,7 @@ const LawDeptActivities = () => {
             <div className="tl-8-course flex flex-col rounded-[20px] h-full">
               <div className="tl-8-course-img">
                 <img
-                  src="assets/images/law-dept/activities&achievements/latest-events/2.png"
+                  src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/activities&achievements/latest-events/2.png"
                   alt="Achievement Image"
                 />
               </div>
@@ -326,7 +326,7 @@ const LawDeptActivities = () => {
             <div className="tl-8-course flex flex-col rounded-[20px] h-full">
               <div className="tl-8-course-img">
                 <img
-                  src="assets/images/law-dept/activities&achievements/latest-events/8.jpg"
+                  src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/activities&achievements/latest-events/8.jpg"
                   alt="Achievement Image"
                 />
               </div>
@@ -342,7 +342,7 @@ const LawDeptActivities = () => {
             <div className="tl-8-course flex flex-col rounded-[20px] h-full">
               <div className="tl-8-course-img">
                 <img
-                  src="assets/images/law-dept/activities&achievements/latest-events/3.png"
+                  src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/activities&achievements/latest-events/3.png"
                   alt="Achievement Image"
                 />
               </div>
@@ -361,7 +361,7 @@ const LawDeptActivities = () => {
             <div className="tl-8-course flex flex-col rounded-[20px] h-full">
               <div className="tl-8-course-img">
                 <img
-                  src="assets/images/law-dept/activities&achievements/latest-events/4.png"
+                  src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/activities&achievements/latest-events/4.png"
                   alt="Achievement Image"
                 />
               </div>
@@ -386,7 +386,7 @@ const LawDeptActivities = () => {
             <div className="tl-8-course flex flex-col rounded-[20px] h-full">
               <div className="tl-8-course-img">
                 <img
-                  src="assets/images/law-dept/activities&achievements/Debate competation photo.jpg"
+                  src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/activities&achievements/Debate competation photo.jpg"
                   alt="Achievement Image"
                 />
               </div>
@@ -406,7 +406,7 @@ const LawDeptActivities = () => {
             <div className="tl-8-course flex flex-col rounded-[20px] h-full">
               <div className="tl-8-course-img">
                 <img
-                  src="assets/images/law-dept/activities&achievements/Guest Lecture on ENV Law.png"
+                  src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/activities&achievements/Guest Lecture on ENV Law.png"
                   alt="Achievement Image"
                 />
               </div>
@@ -423,7 +423,7 @@ const LawDeptActivities = () => {
                <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <img src="assets/images/law-dept/activities&achievements/debate-competation-award.png" alt="Events Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/activities&achievements/debate-competation-award.png" alt="Events Image"/>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Debate competation Award</h3>
                     </div>
@@ -432,7 +432,7 @@ const LawDeptActivities = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <img src="assets/images/law-dept/activities&achievements/Moot Court Photo.png" alt="Events Image"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/law-dept/activities&achievements/Moot Court Photo.png" alt="Events Image"/>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Moot Court Photo</h3>
                     </div>

@@ -20,8 +20,8 @@ const Home10 = () => {
     <div className='home-10'>
         <HeaderSection8 
         style='tl-10-header'
-        darkLogo="assets/images/logos/logo-4.png" 
-        lightLogo="assets/images/logos/logo-4-light.png"
+        darkLogo="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/logos/logo-4.png" 
+        lightLogo="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/logos/logo-4-light.png"
         headerStyle=''
         btnStyle='tl-def-btn'
         loginBtn={true}
@@ -33,7 +33,7 @@ const Home10 = () => {
         <TestimonialSection2 />
         <PricingSection3 />
         {/* <BlogSection9 /> */}
-        <FooterSection7 style='' logo='assets/images/logos/logo-4-light.png' descStyle='tl-footer-descr' socialStyle='tl-footer-socials'/>
+        <FooterSection7 style='' logo='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/logos/logo-4-light.png' descStyle='tl-footer-descr' socialStyle='tl-footer-socials'/>
         <VideoModal />
     </div>
   )

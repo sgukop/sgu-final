@@ -1908,7 +1908,7 @@ textarea::placeholder {
   width: 100%;
   z-index: -1;
   height: 15px;
-  background-image: url(../images/tl/line.png);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl/line.png);
   background-repeat: no-repeat;
   background-size: 100% auto;
 }
@@ -3261,7 +3261,7 @@ button.tl-1-teachers-slider-dots.active {
   position: relative;
   isolation: isolate;
   z-index: 1;
-  background: url(../images/breadcrumbe-image/breadcrumbe-image.jpg) no-repeat bottom center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/breadcrumbe-image/breadcrumbe-image.jpg) no-repeat bottom center;
   background-size: cover;
   background-color: var(--black-5);
 }
@@ -3290,7 +3290,7 @@ button.tl-1-teachers-slider-dots.active {
   position: absolute;
   inset: 0;
   z-index: -1;
-  background: url(../images/brdc-2.png) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/brdc-2.png) no-repeat center center;
   background-position: left bottom;
   background-size: cover;
   opacity: 70%;
@@ -3301,7 +3301,7 @@ button.tl-1-teachers-slider-dots.active {
 }
 
 .tl-breadcrumb::after {
-  background: url(../images/brdc.png) no-repeat;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/brdc.png) no-repeat;
   background-size: 100% 320%;
   opacity: 25%;
   z-index: -2;
@@ -4715,7 +4715,7 @@ li.tl-nav-item.tl-9-nav-item.tl-dropdown>a:hover {
 
 /* ----- 05. Banner ----- */
 /*.tl-banner {
-  background: url(../images/banner-image/banner-image-new.jpg) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/banner-image/banner-image-new.jpg) no-repeat center center;
   background-size: cover;
   margin: 0 100px;
   height: 100%
@@ -4736,7 +4736,7 @@ li.tl-nav-item.tl-9-nav-item.tl-dropdown>a:hover {
   height: 100%;
   z-index: 0;
   opacity: 0.5;
-  background: url(../images/banner-image/banner-imagnew.jpg) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/banner-image/banner-imagnew.jpg) no-repeat center center;
   background-size: cover;
 }
 
@@ -4755,7 +4755,7 @@ li.tl-nav-item.tl-9-nav-item.tl-dropdown>a:hover {
   height: 100%;
   z-index: 0;
   opacity: 0.5;
-  background: url(../images/breadcrumbe-image/breadcrumbe-image.jpg) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/breadcrumbe-image/breadcrumbe-image.jpg) no-repeat center center;
   background-size: cover;
 }
 
@@ -4857,7 +4857,7 @@ li.tl-nav-item.tl-9-nav-item.tl-dropdown>a:hover {
   width: 100%;
   z-index: -1;
   height: 15px;
-  background-image: url(../images/tl/line.png);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl/line.png);
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -4943,7 +4943,7 @@ li.tl-nav-item.tl-9-nav-item.tl-dropdown>a:hover {
 }
 
 .tl-banner-single-card {
-  background: url(../images/tl/bannner-1.png) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl/bannner-1.png) no-repeat center center;
   height: 100%;
   background-size: cover;
   padding: 28px;
@@ -4952,7 +4952,7 @@ li.tl-nav-item.tl-9-nav-item.tl-dropdown>a:hover {
 }
 
 .industry-collaboration-card {
-  background: url(../images/tl/bannner-1.png) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl/bannner-1.png) no-repeat center center;
   height: 100%;
   background-size: cover;
   padding: 28px;
@@ -4973,15 +4973,15 @@ li.tl-nav-item.tl-9-nav-item.tl-dropdown>a:hover {
 }
 
 .tl-banner-single-card-2 {
-  background-image: url(../images/tl/banner2.png);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl/banner2.png);
 }
 
 .tl-banner-single-card-3 {
-  background-image: url(../images/tl/banner3.png);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl/banner3.png);
 }
 
 .tl-banner-single-card-4 {
-  background-image: url(../images/tl/banner4.png);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl/banner4.png);
 }
 
 .tl-banner-single-card .single-card-title {
@@ -5080,7 +5080,7 @@ li.tl-nav-item.tl-9-nav-item.tl-dropdown>a:hover {
 
 .tl-1-banner {
   background-position-y: bottom;
-  background-image: url(../images/tl-1/banner-bg.png);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/banner-bg.png);
   background-color: #F7F3EB;
 }
 
@@ -5139,7 +5139,7 @@ li.tl-nav-item.tl-9-nav-item.tl-dropdown>a:hover {
   position: absolute;
   top: -60px;
   left: -60px;
-  background: url(../images/tl-1/banner-vector.png) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/banner-vector.png) no-repeat center center;
   background-size: 100%;
   width: 75px;
   height: 65px;
@@ -5297,15 +5297,15 @@ li.tl-nav-item.tl-9-nav-item.tl-dropdown>a:hover {
 }
 
 .swiper-slide.tl-2-banner-slide.slider-1 {
-  background-image: url(../images/tl-2/banner-bg.jpg);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-2/banner-bg.jpg);
 }
 
 .swiper-slide.tl-2-banner-slide.slider-2 {
-  background-image: url(../images/tl-2/banner-bg-2.jpg);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-2/banner-bg-2.jpg);
 }
 
 .swiper-slide.tl-2-banner-slide.slider-3 {
-  background-image: url(../images/tl-2/banner-bg-3.jpg);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-2/banner-bg-3.jpg);
 }
 
 @media screen and (max-width: 1399px) {
@@ -5458,7 +5458,7 @@ li.tl-nav-item.tl-9-nav-item.tl-dropdown>a:hover {
 }
 
 .tl-3-banner {
-  background: url(../images/tl-3/banner-bg.png) no-repeat bottom center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-3/banner-bg.png) no-repeat bottom center;
   background-size: cover;
   padding: 190px 0 227px;
 }
@@ -5609,15 +5609,15 @@ li.tl-nav-item.tl-9-nav-item.tl-dropdown>a:hover {
 }
 
 .tl-4-banner-slide.slide-1 {
-  background-image: url(../images/tl-4/banner-bg-1.jpg);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-4/banner-bg-1.jpg);
 }
 
 .tl-4-banner-slide.slide-2 {
-  background-image: url(../images/tl-4/banner-bg-2.jpg);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-4/banner-bg-2.jpg);
 }
 
 .tl-4-banner-slide.slide-3 {
-  background-image: url(../images/tl-4/banner-bg-3.jpg);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-4/banner-bg-3.jpg);
 }
 
 @media screen and (max-width: 1399px) {
@@ -5843,7 +5843,7 @@ li.tl-nav-item.tl-9-nav-item.tl-dropdown>a:hover {
 
 .tl-5-banner-single-slide {
   padding: 325px 0 300px;
-  background: url("../images/tl-5/banner-bg.jpg") no-repeat center center;
+  background: url("https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-5/banner-bg.jpg") no-repeat center center;
   background-size: cover;
   position: relative;
   isolation: isolate;
@@ -5888,11 +5888,11 @@ li.tl-nav-item.tl-9-nav-item.tl-dropdown>a:hover {
 }
 
 .tl-5-banner-single-slide-2 {
-  background-image: url(../images/tl-5/banner-bg-2.jpg);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-5/banner-bg-2.jpg);
 }
 
 .tl-5-banner-single-slide-3 {
-  background-image: url("../images/tl-5/banner-bg-2.jpg");
+  background-image: url("https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-5/banner-bg-2.jpg");
 }
 
 .tl-5-banner-txt {
@@ -6350,7 +6350,7 @@ li.tl-nav-item.tl-9-nav-item.tl-dropdown>a:hover {
 }
 
 .tl-7-banner-single-slide {
-  background: url(../images/tl-7/banner-bg.jpg) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-7/banner-bg.jpg) no-repeat center center;
   background-size: cover;
   padding: 300px 0 340px;
 }
@@ -6386,11 +6386,11 @@ li.tl-nav-item.tl-9-nav-item.tl-dropdown>a:hover {
 }
 
 .tl-7-banner-single-slide-2 {
-  background-image: url(../images/tl-7/banner-bg-2.jpg);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-7/banner-bg-2.jpg);
 }
 
 .tl-7-banner-single-slide-3 {
-  background-image: url(../images/tl-7/banner-bg-3.jpg);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-7/banner-bg-3.jpg);
 }
 
 .tl-7-banner-txt {
@@ -6556,7 +6556,7 @@ li.tl-nav-item.tl-9-nav-item.tl-dropdown>a:hover {
 }
 
 .tl-8-banner-slide {
-  background: url(../images/tl-8/banner-bg.jpg) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-8/banner-bg.jpg) no-repeat center center;
   background-size: cover;
   padding: 330px 0 285px;
   position: relative;
@@ -6599,7 +6599,7 @@ li.tl-nav-item.tl-9-nav-item.tl-dropdown>a:hover {
 }
 
 .tl-8-banner-slide-2 {
-  background-image: url(../images/tl-8/banner-bg-2.jpg);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-8/banner-bg-2.jpg);
 }
 
 .tl-8-banner-txt {
@@ -6828,7 +6828,7 @@ li.tl-nav-item.tl-9-nav-item.tl-dropdown>a:hover {
 }
 
 .tl-9-banner-bg.bg-defaults {
-  background-image: url(../images/tl-9/banner-bg-2.jpg);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-9/banner-bg-2.jpg);
 }
 
 .tl-9-banner-txt {
@@ -7688,11 +7688,11 @@ li.tl-nav-item.tl-9-nav-item.tl-dropdown>a:hover {
 }
 
 .tl-9-services.tl-9-section-spacing {
-  background-image: url(../images/tl-4/admission2-img.jpg);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-4/admission2-img.jpg);
 }
 
 .tl-9-services.about-logo-banner {
-  background-image: url(../images/about-logo-image/about-logo-banner.jpg);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-logo-image/about-logo-banner.jpg);
 }
 
 .tl-9-services .tl-9-section-heading {
@@ -9205,7 +9205,7 @@ span.agree-condition {
 }
 
 .tl-7-about-stat-card {
-  background: url(../images/tl-7/about-card-bg.jpg) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-7/about-card-bg.jpg) no-repeat center center;
   background-size: cover;
   height: 100%;
   padding: 71.5px 40px;
@@ -10338,7 +10338,7 @@ span.agree-condition {
 .tl-1-testimonial-slider-container::before {
   content: "";
   position: absolute;
-  background: url(../images/tl-1/quote-icon.png) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/quote-icon.png) no-repeat center center;
   background-size: 100%;
   width: 197px;
   height: 162px;
@@ -10834,7 +10834,7 @@ span.agree-condition {
 .tl-4-testimony::before {
   content: "";
   position: absolute;
-  background: url(../images/tl-4/quote-icon.png) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-4/quote-icon.png) no-repeat center center;
   background-size: contain;
   bottom: 70px;
   right: 70px;
@@ -11593,7 +11593,7 @@ span.agree-condition {
 }
 
 .tl-8-testimony::before {
-  content: url(../images/tl-8/quote-icon.png);
+  content: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-8/quote-icon.png);
   position: absolute;
   left: 60px;
   top: 60px;
@@ -11601,7 +11601,7 @@ span.agree-condition {
 }
 
 .tl-8-testimony::after {
-  content: url(../images/tl-8/quote-icon.png);
+  content: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-8/quote-icon.png);
   position: absolute;
   right: 60px;
   bottom: 60px;
@@ -12625,7 +12625,7 @@ ul.tl-footer-links.tl-4-footer-links.tl-11-footer-link a:hover {
 }
 
 .tl-blog-heading .tl-section-title .last-word::before {
-  background-image: url(../images/tl/line-2.png);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl/line-2.png);
 }
 
 .tl-blog-inner-heading {
@@ -13634,7 +13634,7 @@ ul.tl-footer-links.tl-4-footer-links.tl-11-footer-link a:hover {
 }
 
 .tl-2-cta.bg-defaults {
-  background-image: url(../images/tl-2/tata-banner.jpg);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-2/tata-banner.jpg);
 }
 
 .tl-2-cta::before {
@@ -13732,7 +13732,7 @@ ul.tl-footer-links.tl-4-footer-links.tl-11-footer-link a:hover {
 
 .tl-3-cta {
   padding: 60px 80px;
-  background: url(../images/tl-3/cta-bg.jpg) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-3/cta-bg.jpg) no-repeat center center;
   background-size: cover;
   border-radius: 20px;
   margin-top: -120px;
@@ -13790,7 +13790,7 @@ ul.tl-footer-links.tl-4-footer-links.tl-11-footer-link a:hover {
 }
 
 .tl-7-cta-bg {
-  background: url(../images/tl-7/cta-bg.jpg) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-7/cta-bg.jpg) no-repeat center center;
   background-size: cover;
   padding: 68px 80px;
 }
@@ -13886,7 +13886,7 @@ ul.tl-footer-links.tl-4-footer-links.tl-11-footer-link a:hover {
    background-image: linear-gradient(to bottom, #f5f5f5 50%, #fff 0); 
 }  */
 .tl-8-cta .tl-7-cta-bg {
-  background-image: url(../images/tl-8/tata-bg.png);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-8/tata-bg.png);
 }
 
 @media screen and (max-width: 1399px) {
@@ -15081,26 +15081,26 @@ ul.tl-footer-links.tl-4-footer-links.tl-11-footer-link a:hover {
   content: "";
   top: 0;
   left: 0;
-  background: url(../images/tl-5/form-icon-1.png) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-5/form-icon-1.png) no-repeat center center;
   background-size: contain;
   width: 20px;
   height: 20px;
 }
 
 .tl-5-consult-form .input-field-container-address::before {
-  background-image: url(../images/tl-5/form-icon-2.png);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-5/form-icon-2.png);
 }
 
 .tl-5-consult-form .input-field-container-number::before {
-  background-image: url(../images/tl-5/form-icon-3.png);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-5/form-icon-3.png);
 }
 
 .tl-5-consult-form .input-field-container-subject::before {
-  background-image: url(../images/tl-5/form-icon-4.png);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-5/form-icon-4.png);
 }
 
 .tl-5-consult-form .input-field-container-ques::before {
-  background-image: url(../images/tl-5/form-icon-5.png);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-5/form-icon-5.png);
 }
 
 .tl-5-consult-form .input-field-container>* {
@@ -15517,7 +15517,7 @@ ul.tl-footer-links.tl-4-footer-links.tl-11-footer-link a:hover {
 /* ----- 20. Academics ----- */
 .tl-5-academic {
   padding: 120px 0;
-  background: url(../images/design-dept/white-bg.jpg) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/design-dept/white-bg.jpg) no-repeat center center;
   background-size: 100% 100%;
   background-position-y: top;
   /* margin: 0 100px;
@@ -15905,7 +15905,7 @@ ul.tl-footer-links.tl-4-footer-links.tl-11-footer-link a:hover {
 
 .tl-6-videos-banner {
   text-align: center;
-  background-image: url(../images/tl-6/video-banner-bg.jpg);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-6/video-banner-bg.jpg);
 }
 
 @media screen and (max-width: 991px) {
@@ -16092,7 +16092,7 @@ ul.tl-footer-links.tl-4-footer-links.tl-11-footer-link a:hover {
 }
 
 .tl-7-vid {
-  background: url(../images/tl-7/video-bg.jpg) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-7/video-bg.jpg) no-repeat center center;
   background-size: cover;
   text-align: center;
   padding: 255px 0;
@@ -16593,7 +16593,7 @@ ul.tl-footer-links.tl-4-footer-links.tl-11-footer-link a:hover {
 }
 
 .tl-6-sidebar-category {
-  background: url(../images/tl-6/category-1.jpg) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-6/category-1.jpg) no-repeat center center;
   background-size: cover;
   padding: 20px 25px;
   border: none;
@@ -16614,11 +16614,11 @@ ul.tl-footer-links.tl-4-footer-links.tl-11-footer-link a:hover {
 }
 
 .tl-6-sidebar-category:nth-child(2) {
-  background-image: url(../images/tl-6/category-2.jpg);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-6/category-2.jpg);
 }
 
 .tl-6-sidebar-category:nth-child(3) {
-  background-image: url(../images/tl-6/category-3.jpg);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-6/category-3.jpg);
 }
 
 .tl-6-sidebar-category-quantity {
@@ -16705,7 +16705,7 @@ ul.tl-footer-links.tl-4-footer-links.tl-11-footer-link a:hover {
   background-size: cover;
   min-height: 670px;
   position: relative;
-  background-image: url(../images/tl-4/social-bg.jpg);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-4/social-bg.jpg);
 }
 
 .tl-4-socials .row {
@@ -18239,7 +18239,7 @@ section.tl-6-membership.tl-9-membership .container {
 
 /* ----- 33. Footer ----- */
 /* .tl-footer {
-  background: url(../images/tl-10/footer-bg.png) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-10/footer-bg.png) no-repeat center center;
   background-size: cover;
   color: rgba(255, 255, 255, 0.6);
 }  */
@@ -18259,7 +18259,7 @@ section.tl-6-membership.tl-9-membership .container {
   height: 100%;
   z-index: 0;
   opacity: 0.1;
-  background: url(../images/footer-image/footer.jpg) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/footer-image/footer.jpg) no-repeat center center;
   background-size: cover;
 }
 
@@ -18613,7 +18613,7 @@ section.tl-6-membership.tl-9-membership .container {
 }
 
 .tl-2-footer {
-  background-image: url(../images/tl-2/footer-bg.jpg);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-2/footer-bg.jpg);
 }
 
 .tl-2-footer .tl-2-footer-links a:hover {
@@ -18962,7 +18962,7 @@ section.tl-6-membership.tl-9-membership .container {
 }
 
 .tl-9-footer {
-  background-image: url(../images/tl-9/footer-bg.jpg);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-9/footer-bg.jpg);
 }
 
 .tl-9-footer-subs-form button {
@@ -20311,7 +20311,7 @@ section.tl-6-membership.tl-9-membership .container {
   position: absolute;
   inset: 0;
   z-index: -1;
-  background: url(../images/staff-vector.png) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/staff-vector.png) no-repeat center center;
   background-size: 100% 120%;
   opacity: 0.1;
   background-position: 0 -280px;
@@ -20323,7 +20323,7 @@ section.tl-6-membership.tl-9-membership .container {
   position: absolute;
   inset: 0;
   z-index: -1;
-  background: url(../images/staff-vector.png) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/staff-vector.png) no-repeat center center;
   background-size: 100% 120%;
   opacity: 0.1;
   background-position: 0 -280px;
@@ -21714,7 +21714,7 @@ span.tl-9-class-duration img {
   position: absolute;
   top: 130px;
   right: 100px;
-  background: url(../images/tl-10/about-shape-2.png) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-10/about-shape-2.png) no-repeat center center;
   background-size: 100%;
   width: 74px;
   height: 58px;
@@ -21726,7 +21726,7 @@ span.tl-9-class-duration img {
   position: absolute;
   bottom: 120px;
   right: 200px;
-  background: url(../images/tl-10/about-shape-1.png) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-10/about-shape-1.png) no-repeat center center;
   background-size: 100%;
   width: 100px;
   height: 110px;
@@ -21778,7 +21778,7 @@ span.tl-9-class-duration img {
   width: 711px;
   height: 693px;
   z-index: -1;
-  background: url(../images/tl-10/about-img-vec.png) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-10/about-img-vec.png) no-repeat center center;
   background-size: 100%;
 }
 
@@ -21993,7 +21993,7 @@ span.tl-9-class-duration img {
 }
 
 .tl-10-about-title .last-word::before {
-  background-image: url(../images/tl/line-2.png);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl/line-2.png);
 }
 
 .tl-10-about-descr {
@@ -22060,16 +22060,16 @@ span.tl-9-class-duration img {
   padding: 45px 35px;
   width: 285px;
   height: 318px;
-  /* background: url(../images/tl-10/service-1-img.png) no-repeat center center; */
-  background: url(../images/academic-excellence/service-1.png) no-repeat center center;
+  /* background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-10/service-1-img.png) no-repeat center center; */
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/academic-excellence/service-1.png) no-repeat center center;
   background-size: cover;
 }
 
 .tl-10-single-course-new {
   padding: 20px 20px;
   width: 285px;
-  /* background: url(../images/tl-10/service-1-img.png) no-repeat center center; */
-  background: url(../images/academic-excellence/service-1.png) no-repeat center center;
+  /* background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-10/service-1-img.png) no-repeat center center; */
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/academic-excellence/service-1.png) no-repeat center center;
   background-size: cover;
 }
 
@@ -22148,13 +22148,13 @@ span.tl-9-class-duration img {
 }
 
 .tl-10-single-course-2 {
-  /* background-image: url(../images/tl-10/service-2-img.png); */
-  background-image: url(../images/academic-excellence/service-2.png);
+  /* background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-10/service-2-img.png); */
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/academic-excellence/service-2.png);
 }
 
 .tl-10-single-course-3 {
-  /* background-image: url(../images/tl-10/service-3-img.png); */
-  background-image: url(../images/academic-excellence/service-3.png);
+  /* background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-10/service-3-img.png); */
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/academic-excellence/service-3.png);
 }
 
 .tl-10-course-btn {
@@ -22493,7 +22493,7 @@ span.tl-9-class-duration img {
 }
 
 .tl-10-blog-heading .tl-10-section-title .last-word::before {
-  background-image: url(../images/tl/line-2.png);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl/line-2.png);
 }
 
 .tl-10-blog-inner-heading {
@@ -22605,7 +22605,7 @@ span.tl-9-class-duration img {
 }
 
 .tl-10-campus-section {
-  background: url(../images/campus-life/campus-life-bg.png) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/campus-life/campus-life-bg.png) no-repeat center center;
   background-size: 100% 100%;
   background-position-y: top;
   /* margin: 0 100px;
@@ -22652,7 +22652,7 @@ span.tl-9-class-duration img {
 }
 
 .tl-10-campus-section-title .last-word::before {
-  background-image: url(../images/tl/line-2.png);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl/line-2.png);
 }
 
 .tl-10-campus-section-single-img img {
@@ -22685,13 +22685,13 @@ span.tl-9-class-duration img {
 
 .tl-10-fees-section {
   /* margin: 0 100px; */
-  background: url(../images/tl-10/fees-bg.png) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-10/fees-bg.png) no-repeat center center;
   background-size: cover;
   background-color: #F1F3FF;
 }
 
 .vision-mision-section {
-  background: url(../images/tl-10/fees-bg.png) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-10/fees-bg.png) no-repeat center center;
   background-size: cover;
   background-color: #F1F3FF;
 }
@@ -22759,7 +22759,7 @@ span.tl-9-class-duration img {
 
 .tl-10-single-package {
   padding: 20px 20px;
-  background: url(../images/academic-excellence/service-2.png) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/academic-excellence/service-2.png) no-repeat center center;
   background-size: cover;
   color: var(--white);
 }
@@ -22771,7 +22771,7 @@ span.tl-9-class-duration img {
 }
 
 .tl-10-single-package-2 {
-  background-image: url(../images/academic-excellence/service-3.png);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/academic-excellence/service-3.png);
 }
 
 .mision-section {
@@ -24074,7 +24074,7 @@ span.tl-9-class-duration img {
 }
 
 .tl-11-socials {
-  background-image: url(../images/tl-11/socials-bg.jpg);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-11/socials-bg.jpg);
 }
 
 .tl-11-social:hover .tl-11-section-title {
@@ -24309,7 +24309,7 @@ span.tl-12-course-stat-icon {
 }
 
 .tl-12-banner::before {
-  content: url(../images/tl-12/banner-vector-4.png);
+  content: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-12/banner-vector-4.png);
   position: absolute;
   bottom: 168px;
   left: 0;
@@ -24368,7 +24368,7 @@ span.tl-12-course-stat-icon {
 }
 
 .tl-12-banner-title::before {
-  content: url(../images/tl-12/banner-vector-1.png);
+  content: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-12/banner-vector-1.png);
   position: absolute;
   left: -75px;
   bottom: 100%;
@@ -24552,7 +24552,7 @@ span.tl-12-course-stat-icon {
 
 .tl-12-banner-img::before {
   position: absolute;
-  content: url(../images/tl-12/banner-vector-2.png);
+  content: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-12/banner-vector-2.png);
   top: -70px;
   right: -15px;
 }
@@ -24566,7 +24566,7 @@ span.tl-12-course-stat-icon {
 
 .tl-12-banner-img::after {
   position: absolute;
-  content: url(../images/tl-12/banner-vector-3.png);
+  content: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-12/banner-vector-3.png);
   bottom: 23px;
   right: -25px;
   z-index: -1;
@@ -25023,7 +25023,7 @@ span.tl-12-course-stat-icon {
   height: 160px;
   top: -80px;
   left: 0px;
-  background: url(../images/tl-12/quote-icon.png) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-12/quote-icon.png) no-repeat center center;
   background-size: 100%;
 }
 
@@ -25267,7 +25267,7 @@ section.tl-4-membership.tl-11-section-spacing .container {
   position: absolute;
   width: 75px;
   height: 40px;
-  background: url(../images/tl-12/banner-vector-1.png) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-12/banner-vector-1.png) no-repeat center center;
   background-size: contain;
   transform: rotate(0deg);
   top: -50px;
@@ -25279,7 +25279,7 @@ section.tl-4-membership.tl-11-section-spacing .container {
   position: absolute;
   top: 100%;
   right: 0;
-  background: url(../images/tl-12/blog-vector.png) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-12/blog-vector.png) no-repeat center center;
   background-size: 100%;
   width: 65px;
   height: 65px;
@@ -25483,7 +25483,7 @@ section.tl-4-membership.tl-11-section-spacing .container {
 }
 
 .tl-12-cta-banner {
-  background: url(../images/tl-12/cta-bg-1.jpg) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-12/cta-bg-1.jpg) no-repeat center center;
   background-size: cover;
   padding-inline: 60px;
   display: flex;
@@ -25536,11 +25536,11 @@ section.tl-4-membership.tl-11-section-spacing .container {
 }
 
 .tl-12-cta-banner-2 {
-  background-image: url(../images/tl-12/cta-bg-2.png);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-12/cta-bg-2.png);
 }
 
 .tl-12-cta-banner-2 .tl-12-cta-banner-title::before {
-  content: url(../images/tl-12/cta-vector-2.png);
+  content: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-12/cta-vector-2.png);
 }
 
 .tl-12-cta-banner-txt {
@@ -25591,7 +25591,7 @@ section.tl-4-membership.tl-11-section-spacing .container {
 }
 
 .tl-12-cta-banner-title::before {
-  content: url(../images/tl-12/cta-vector-1.png);
+  content: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-12/cta-vector-1.png);
   position: absolute;
   left: calc(100% - 27px);
   top: -18px;
@@ -26061,7 +26061,7 @@ ul.tl-footer-links.tl-4-footer-links.tl-12-footer-links li a:hover {
   position: absolute;
   left: -60px;
   top: -35px;
-  background: url(../images/tl-12/banner-vector-1.png) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-12/banner-vector-1.png) no-repeat center center;
   background-size: contain;
   width: 66px;
   height: 37px;
@@ -26320,7 +26320,7 @@ ul.tl-footer-links.tl-4-footer-links.tl-12-footer-links li a:hover {
   height: 92px;
   top: -44px;
   right: 0;
-  background: url(../images/tl-13/icon-1.png) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-13/icon-1.png) no-repeat center center;
   background-size: 100%;
   z-index: -1;
 }
@@ -26332,7 +26332,7 @@ ul.tl-footer-links.tl-4-footer-links.tl-12-footer-links li a:hover {
   height: 54px;
   top: 100%;
   right: 140px;
-  background: url(../images/tl-13/icon-2.png) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-13/icon-2.png) no-repeat center center;
   background-size: 100%;
   z-index: -1;
 }
@@ -26554,7 +26554,7 @@ ul.tl-footer-links.tl-4-footer-links.tl-12-footer-links li a:hover {
   translate: 0 -50%;
   width: 32px;
   height: 32px;
-  background: url(../images/tl-13/about-ticker-vector.png) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-13/about-ticker-vector.png) no-repeat center center;
   background-size: 100%;
 }
 
@@ -27109,7 +27109,7 @@ section.tl-13-events.pt-120.pb-120 {
 }
 
 section.tl-13-banner {
-  background-image: url(../images/tl-13/banner-bg.png);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-13/banner-bg.png);
   /*  background-color: #f2efe8;  */
 }
 
@@ -27136,11 +27136,11 @@ section.tl-6-membership.tl-11-section-spacing .container {
 }
 
 section.tl-14-about.pt-120.pb-120 {
-  background-image: url(../images/tl-14/cta-bg.png);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-14/cta-bg.png);
 }
 
 section.tl-14-about.pt-50.pb-50 {
-  background-image: url(../images/tl-14/cta-bg.png);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-14/cta-bg.png);
 }
 
 @media screen and (max-width: 1399px) {
@@ -27559,7 +27559,7 @@ section.tl-14-about.pt-50.pb-50 {
 /* .tl-14-about-img::before {
   content: "";
   position: absolute;
-  background: url(../images/tl-12/banner-vector-1.png) no-repeat center center;
+  background: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-12/banner-vector-1.png) no-repeat center center;
   background-size: 100%;
   right: calc(100% + 7px);
   bottom: 100%;
@@ -33289,7 +33289,7 @@ footer.tl-footer.tl-14-footer.tl-1-footer {
 }
 
 .schools-section {
-  background-image: url(/assets/images/programsbg.jpg);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/programsbg.jpg);
   background-position: 50%;
   background-size: cover;
 
@@ -34210,7 +34210,7 @@ caption {
 /***********  Backgroung image css  *************/
 
 .bg-overlay-image:before {
-  background-image: url(../images/allied-health-sciences/MLT/bg-image.jpg);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/allied-health-sciences/MLT/bg-image.jpg);
   opacity: 0.3;
   z-index: -1;
   background-size: cover;
@@ -34223,12 +34223,12 @@ caption {
 .faculty-bg {
   background-attachment: fixed;
   background-position: center center;
-  background-image: url(../images/faculty-profile-photos/faculty-bg-section.png);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/faculty-bg-section.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
 .academic-calender-bg {
-  background-image: url(../images/calendar-bg.jpg);
+  background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/calendar-bg.jpg);
   /* background-image: url(../img/product-bg.png); */
   background-repeat: no-repeat;
   background-position: bottom;
@@ -34338,7 +34338,7 @@ caption {
 
 /* New Home Page Stylling */
 .background-image-home-1 {
-  background-image: url('../images/about-campus/campus15.jpg') !important;
+  background-image: url('https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-campus/campus15.jpg') !important;
 }
 
 /* .border-transparent-border {
@@ -34570,7 +34570,7 @@ caption {
 
 
 .background-shapee {
-  background-image: url('/assets/images/home/background-shape-2.png') !important;
+  background-image: url('https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/background-shape-2.png') !important;
 }
 
 @media (max-width: 1599px) {
@@ -34656,7 +34656,7 @@ caption {
   }
 
   .background-shapee {
-    background-image: url('/assets/images/home/background-shape-5.png') !important;
+    background-image: url('https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/background-shape-5.png') !important;
     position: relative !important;
     object-fit: contain !important;
   }
@@ -34704,7 +34704,7 @@ caption {
   }
 
   .background-shapee {
-    background-image: url('/assets/images/home/background-shape-8.png') !important;
+    background-image: url('https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/background-shape-8.png') !important;
     position: relative !important;
     object-fit: contain !important;
   }
@@ -34752,7 +34752,7 @@ caption {
   }
 
   .background-shapee {
-    background-image: url('/assets/images/home/background-shape-9.png') !important;
+    background-image: url('https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/background-shape-9.png') !important;
     position: relative !important;
     object-fit: contain !important;
   }
@@ -34793,7 +34793,7 @@ caption {
   }
 
   .background-shapee {
-    background-image: url('/assets/images/home/background-shape-10.png') !important;
+    background-image: url('https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/background-shape-10.png') !important;
     position: relative !important;
     object-fit: contain !important;
   }
@@ -34965,5 +34965,5 @@ caption {
         /*************** Background Image for International Conference ******/
 
         .bg-image{
-           background-image: url(../images/tl/banner2.png);
+           background-image: url(https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl/banner2.png);
         }

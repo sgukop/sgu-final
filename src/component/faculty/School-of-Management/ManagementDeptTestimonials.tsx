@@ -28,7 +28,7 @@ const ManagementDeptTestimonials:React.FC<PaddingProps>  = ({padding}) => {
                 modules={[Autoplay,Pagination]}
                 >
                     <SwiperSlide className="tl-1-testimony">
-                        <img src="assets/images/management-dept/alumni/sweta.jpg" alt="Testimonial Student Image" className="tl-1-testimony-img"/>
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/sweta.jpg" alt="Testimonial Student Image" className="tl-1-testimony-img"/>
 
                         <div className="tl-1-testimony-txt">
                            <p className="tl-1-testimony-review">My journey at Sanjay Ghodawat University was just magical, I would say 2 years of MBA were just full of memories and happy learning .Getting teachers in a friendly manner is just awe to look into my college days , they made my learning achievements possible through the way of approach to students which is really a fantastic experience overall, working for an organisation successfully is because of the good placement support provided. Teachers are not just teachers here they become your friend, sometimes even personal mentors to your problems. Grateful to be a part of SGU.</p>

@@ -1,27 +1,27 @@
 const memberList = [
   {
     id: 0,
-    imgSrc: "assets/images/tl-1/member-1.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/member-1.png",
   },
   {
     id: 1,
-    imgSrc: "assets/images/tl-1/member-2.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/member-2.png",
   },
   {
     id: 2,
-    imgSrc: "assets/images/tl-1/member-3.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/member-3.png",
   },
   {
     id: 3,
-    imgSrc: "assets/images/tl-1/member-4.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/member-4.png",
   },
   {
     id: 4,
-    imgSrc: "assets/images/tl-1/member-5.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/member-5.png",
   },
   {
     id: 5,
-    imgSrc: "assets/images/tl-1/member-3.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-1/member-3.png",
   },
 ];
 
@@ -29,7 +29,7 @@ const courseList = [
   {
     id: 0,
     youtubeUrl: "https://www.youtube.com/embed/v4G_a-R0Q48",
-    imgSrc: "assets/images/kb-13/event-2.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/kb-13/event-2.jpg",
     price: "$53.00",
     author: "Brian Cumin",
     title: "The Blueprint of Success Mr. Sanjay Ghodawat TEDxWCE Sangli",
@@ -44,7 +44,7 @@ const courseList = [
   {
     id: 1,
     youtubeUrl: "https://www.youtube.com/embed/wKRok_xGZEg",
-    imgSrc: "assets/images/kb-13/event-2.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/kb-13/event-2.jpg",
     price: "$45.00",
     author: "Alice Johnson",
     title: "Sanjay Ghodawat University Video",
@@ -60,7 +60,7 @@ const courseList = [
   {
     id: 2,
     youtubeUrl: "https://www.youtube.com/embed/ZjfLA2zSnBc",
-    imgSrc: "assets/images/kb-13/event-3.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/kb-13/event-3.jpg",
     price: "$69.00",
     author: "Emma Smith",
     title: "SGU LIVE 5th Convocation Ceremony",
@@ -76,7 +76,7 @@ const courseList = [
   {
     id: 3,
     youtubeUrl: "https://www.youtube.com/embed/yGhURLZxdFs",
-    imgSrc: "assets/images/kb-13/event-1.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/kb-13/event-1.jpg",
     price: "$59.00",
     author: "John Davis",
     title: "Chairman Sanjay Ghodawat Birthday Massage for Student",
@@ -92,7 +92,7 @@ const courseList = [
   {
     id: 4,
     youtubeUrl: "https://www.youtube.com/embed/o_HsdG6vdWQ?si=nN3XTXrstYUYW9ts",
-    imgSrc: "assets/images/blog/blog-1.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog/blog-1.png",
     price: "$40.00",
     author: "Sarah Brown",
     title: "Advanced Art and Creativity Workshop",
@@ -107,7 +107,7 @@ const courseList = [
   {
     id: 5,
     youtubeUrl: "https://www.youtube.com/embed/LxO-6rlihSg?si=dYrtS_H3CYCnpg4L",
-    imgSrc: "assets/images/blog/blog-2.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog/blog-2.png",
     price: "$75.00",
     author: "Michael Clark",
     title: "Advanced Outdoor Photography Masterclass",
@@ -122,7 +122,7 @@ const courseList = [
   {
     id: 6,
     youtubeUrl: "https://www.youtube.com/embed/nUydkUedo4s?si=Do30-mSUyH1-BZw7",
-    imgSrc: "assets/images/blog/blog-3.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog/blog-3.png",
     price: "$55.00",
     author: "Sophia Anderson",
     title: "Cooking and Culinary Arts Course",
@@ -137,7 +137,7 @@ const courseList = [
   {
     id: 7,
     youtubeUrl: "https://www.youtube.com/embed/fIJ86j0HIxM?si=0JZC457-nBM2r1OE",
-    imgSrc: "assets/images/blog/blog-4.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog/blog-4.png",
     price: "$68.00",
     author: "David White",
     title: "Financial Planning and Investment Strategies",
@@ -152,7 +152,7 @@ const courseList = [
   {
     id: 8,
     youtubeUrl: "https://www.youtube.com/embed/AJXiiwyxwE0?si=DVjNfqPHZrAg6AXK" ,
-    imgSrc: "assets/images/blog/blog-5.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog/blog-5.png",
     price: "$49.00",
     author: "Olivia Green",
     title: "Language and Culture Exchange Program",
@@ -167,7 +167,7 @@ const courseList = [
   {
     id: 9,
     youtubeUrl: "https://www.youtube.com/embed/sMqtwbKc8EA?si=vBtZZO0lHY4h_CV-" ,
-    imgSrc: "assets/images/blog/blog-6.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog/blog-6.png",
     price: "$42.00",
     author: "Daniel Lee",
     title: "Environmental Sustainability Workshop",
@@ -182,7 +182,7 @@ const courseList = [
   {
     id: 10,
     youtubeUrl: "https://www.youtube.com/embed/rwSNvPLG2CQ?si=6CNeTPlpj2LGaHRV",
-    imgSrc: "assets/images/blog/blog-7.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog/blog-7.png",
     price: "$62.00",
     author: "Grace Miller",
     title: "Yoga and Mindfulness Retreat",
@@ -197,7 +197,7 @@ const courseList = [
   {
     id: 11,
     youtubeUrl: "https://www.youtube.com/embed/0rHUDWjR5gg?si=D6g0WS26DQWEpBWB" ,
-    imgSrc: "assets/images/blog/blog-8.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog/blog-8.png",
     price: "$55.00",
     author: "Sophie Turner",
     title: "Introduction to Astronomy",
@@ -212,7 +212,7 @@ const courseList = [
   {
     id: 12,
     youtubeUrl: "https://www.youtube.com/embed/aozlwC3XwfY?si=wlxJKKraYK8c_8OX",
-    imgSrc: "assets/images/blog/blog-9.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog/blog-9.png",
     price: "$70.00",
     author: "Robert Harris",
     title: "Entrepreneurship and Business Development",
@@ -227,7 +227,7 @@ const courseList = [
   {
     id: 13,
     youtubeUrl: "https://www.youtube.com/embed/WONZVnlam6U?si=M6qq_TJpBFe16TUr",
-    imgSrc: "assets/images/blog/blog-10.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog/blog-10.png",
     price: "$58.00",
     author: "Lucy Parker",
     title: "Graphic Design Essentials",
@@ -242,7 +242,7 @@ const courseList = [
   {
     id: 14,
     youtubeUrl: "https://www.youtube.com/embed/A1wBXNu0zs4?si=7oxEyUbEaOl_ZDFt",
-    imgSrc: "assets/images/blog/blog-11.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog/blog-11.png",
     price: "$48.00",
     author: "Michael Adams",
     title: "Music Production and Composition Workshop",
@@ -257,7 +257,7 @@ const courseList = [
   {
     id: 15,
     youtubeUrl: "https://www.youtube.com/embed/6Ia0arVEhqs?si=f7GD1Rl-pYivxAOz",
-    imgSrc: "assets/images/blog-2/blog-1.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-2/blog-1.png",
     price: "$35.00",
     author: "Lisa Johnson",
     title: "Fun with Colors and Shapes",
@@ -272,7 +272,7 @@ const courseList = [
   {
     id: 16,
     youtubeUrl: "https://www.youtube.com/embed/0KsdJhWLPDw?si=HiHrhv9ZDOvKciyf",
-    imgSrc: "assets/images/blog-2/blog-2.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-2/blog-2.png",
     price: "$40.00",
     author: "David Smith",
     title: "Storytime Adventures",
@@ -287,7 +287,7 @@ const courseList = [
   {
     id: 17,
     youtubeUrl: "https://www.youtube.com/embed/3oLculV1Od8?si=E_zZXlUt_vAbgfjs",
-    imgSrc: "assets/images/blog-2/blog-3.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-2/blog-3.png",
     price: "$45.00",
     author: "Emily White",
     title: "Outdoor Nature Exploration",
@@ -302,7 +302,7 @@ const courseList = [
   {
     id: 18,
     youtubeUrl: "https://www.youtube.com/embed/sT-fdlxELxs?si=WnrSYd0RcCALbyt7",
-    imgSrc: "assets/images/blog-2/blog-4.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-2/blog-4.png",
     price: "$38.00",
     author: "Sarah Turner",
     title: "Creative Arts and Crafts",
@@ -317,7 +317,7 @@ const courseList = [
   {
     id: 19,
     youtubeUrl: "https://www.youtube.com/embed/Mv80WebB2e4?si=1UtPvIbU87m_Dxu3",
-    imgSrc: "assets/images/blog-2/blog-5.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-2/blog-5.png",
     price: "$30.00",
     author: "Daniel Green",
     title: "Music and Rhythm Playtime",
@@ -332,7 +332,7 @@ const courseList = [
   {
     id: 20,
     youtubeUrl: "https://www.youtube.com/embed/Uv9DNdCvG00?si=K_KqCYgtPoJSYFA6",
-    imgSrc: "assets/images/blog-2/blog-6.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-2/blog-6.png",
     price: "$33.00",
     author: "Sophia Davis",
     title: "Little Scientists Explorers",
@@ -347,7 +347,7 @@ const courseList = [
   {
     id: 21,
     youtubeUrl: "https://www.youtube.com/embed/OZLNb_fbGks?si=jjeuJ1u12O9-xq58",
-    imgSrc: "assets/images/blog-2/blog-7.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-2/blog-7.png",
     price: "$36.00",
     author: "Olivia Brown",
     title: "Outdoor Art and Nature Crafts",
@@ -362,7 +362,7 @@ const courseList = [
   {
     id: 22,
     youtubeUrl: "https://www.youtube.com/embed/Q_MejK4STuM?si=Rxm9nHqU8G4YKkrG" ,
-    imgSrc: "assets/images/blog-2/blog-8.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-2/blog-8.png",
     price: "$42.00",
     author: "Michael Harris",
     title: "Fantasy Storytelling Adventures",
@@ -377,7 +377,7 @@ const courseList = [
   {
     id: 23,
     youtubeUrl: "https://www.youtube.com/embed/mCD8IOt9ln8?si=U6AT9RIuR7FjxIwr",
-    imgSrc: "assets/images/blog-2/blog-9.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-2/blog-9.png",
     price: "$39.00",
     author: "Emma Turner",
     title: "Playful Math and Numbers",
@@ -392,7 +392,7 @@ const courseList = [
   {
     id: 24,
     youtubeUrl: "https://www.youtube.com/embed/T7VJvQFkO6Y?si=QOcXOd8L5DWHdIsj",
-    imgSrc: "assets/images/blog-2/blog-10.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-2/blog-10.png",
     price: "$37.00",
     author: "John Anderson",
     title: "Creative Storybook Illustration",
@@ -407,7 +407,7 @@ const courseList = [
   {
     id: 25,
     youtubeUrl: "https://www.youtube.com/embed/xplQI2X9RPU?si=B-OIrTigIyQLqAlq",
-    imgSrc: "assets/images/blog-2/blog-11.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-2/blog-11.png",
     price: "$34.00",
     author: "Sophie Adams",
     title: "Outdoor Science Explorers",
@@ -422,7 +422,7 @@ const courseList = [
   {
     id: 26,
     youtubeUrl: "https://www.youtube.com/embed/FyXyF9_La6w?si=ywbNis-FsJubofOU" ,
-    imgSrc: "assets/images/blog-2/blog-12.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-2/blog-12.png",
     price: "$32.00",
     author: "Lucy Parker",
     title: "Dance and Movement Exploration",
@@ -437,7 +437,7 @@ const courseList = [
   {
     id: 27,
     youtubeUrl: "https://www.youtube.com/embed/ECmGcs_VXrg?si=vyN3BeNbSvIuufcV",
-    imgSrc: "assets/images/blog-2/blog-13.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-2/blog-13.png",
     price: "$31.00",
     author: "Michael Turner",
     title: "Gardening and Planting Fun",
@@ -452,7 +452,7 @@ const courseList = [
   {
     id: 28,
     youtubeUrl: "https://www.youtube.com/embed/AhP5Tg_BLIk?si=ooXLT3Y9igiMeVYY",
-    imgSrc: "assets/images/blog-2/blog-14.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-2/blog-14.png",
     price: "$33.00",
     author: "Olivia Harris",
     title: "Exploring Animals and Nature",
@@ -467,7 +467,7 @@ const courseList = [
   {
     id: 29,
     youtubeUrl: "https://www.youtube.com/embed/WFygb_vU6e0?si=uoMkWKeKnzlIhu90" ,
-    imgSrc: "assets/images/blog-2/blog-15.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-2/blog-15.png",
     price: "$35.00",
     author: "Daniel Clark",
     title: "Fun with Science Experiments",
@@ -482,7 +482,7 @@ const courseList = [
   {
     id: 30,
     youtubeUrl: "https://www.youtube.com/embed/Q-o3ZL15d8s?si=i118y8c6emKElWI3" ,
-    imgSrc: "assets/images/blog-2/blog-16.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-2/blog-16.png",
     price: "$36.00",
     author: "Sophia Turner",
     title: "Crafting and Creative Play",
@@ -498,7 +498,7 @@ const courseList = [
 {
   id: 31,
   youtubeUrl: "https://www.youtube.com/embed/3dx04Vz3jiI?si=n1JkjIZfyys3Bxc5",
-  imgSrc: "assets/images/tl-8/colab1-img.png",
+  imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-8/colab1-img.png",
   price: "$250.00",
   author: "John Smith",
   title: "San Jose State University, California",
@@ -514,7 +514,7 @@ const courseList = [
   {
     id: 32,
     youtubeUrl: "https://www.youtube.com/embed/3dx04Vz3jiI?si=n1JkjIZfyys3Bxc5",
-    imgSrc: "assets/images/tl-8/colab2-img.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-8/colab2-img.png",
     price: "$250.00",
     author: "John Smith",
     title: "Teesside University",
@@ -530,7 +530,7 @@ const courseList = [
   {
     id: 33,
     youtubeUrl: "https://www.youtube.com/embed/3dx04Vz3jiI?si=n1JkjIZfyys3Bxc5",
-    imgSrc: "assets/images/tl-8/colab3-img.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-8/colab3-img.png",
     price: "$250.00",
     author: "John Smith",
     title: "Victorian Institute of Technology, Melbourne",
@@ -546,7 +546,7 @@ const courseList = [
   {
     id: 34,
     youtubeUrl: "https://www.youtube.com/embed/3dx04Vz3jiI?si=n1JkjIZfyys3Bxc5",
-    imgSrc: "assets/images/tl-8/colab4-img.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-8/colab4-img.png",
     price: "$250.00",
     author: "John Smith",
     title: "University of the Highlands and Islands, Scotland",
@@ -562,7 +562,7 @@ const courseList = [
   {
     id: 35,
     youtubeUrl: "https://www.youtube.com/embed/3dx04Vz3jiI?si=n1JkjIZfyys3Bxc5",
-    imgSrc: "assets/images/tl-8/colab5-img.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-8/colab5-img.png",
     price: "$250.00",
     author: "John Smith",
     title: "Chonnam National University",
@@ -578,7 +578,7 @@ const courseList = [
   {
     id: 36,
     youtubeUrl: "https://www.youtube.com/embed/3dx04Vz3jiI?si=n1JkjIZfyys3Bxc5",
-    imgSrc: "assets/images/tl-8/colab6-img.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-8/colab6-img.png",
     price: "$250.00",
     author: "John Smith",
     title: "Yeungnam University, Gyeongbuk",
@@ -594,7 +594,7 @@ const courseList = [
   {
     id: 37,
     youtubeUrl: "https://www.youtube.com/embed/3dx04Vz3jiI?si=n1JkjIZfyys3Bxc5",
-    imgSrc: "assets/images/tl-8/colab7-img.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-8/colab7-img.png",
     price: "$250.00",
     author: "John Smith",
     title: "Teesside University",
@@ -610,7 +610,7 @@ const courseList = [
   {
     id: 38,
     youtubeUrl: "https://www.youtube.com/embed/3dx04Vz3jiI?si=n1JkjIZfyys3Bxc5",
-    imgSrc: "assets/images/tl-8/colab8-img.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-8/colab8-img.png",
     price: "$250.00",
     author: "John Smith",
     title: "University of South Carolina Aiken",
@@ -626,7 +626,7 @@ const courseList = [
   {
     id: 39,
     youtubeUrl: "https://www.youtube.com/embed/3dx04Vz3jiI?si=n1JkjIZfyys3Bxc5",
-    imgSrc: "assets/images/tl-8/colab9-img.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-8/colab9-img.png",
     price: "$250.00",
     author: "John Smith",
     title: "Northumbria University",
@@ -643,7 +643,7 @@ const courseList = [
   {
     id: 40,
     youtubeUrl: "https://www.youtube.com/embed/BBz-Jyr23M4?si=uknYb9rUpowAwqOe",
-    imgSrc: "assets/images/tl-9/class-2.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-9/class-2.jpg",
     price: "$400",
     author: "David Harris",
     title: "Guitar Basics",
@@ -659,7 +659,7 @@ const courseList = [
   {
     id: 41,
     youtubeUrl: "https://www.youtube.com/embed/4SXQ_wlbWog?si=k3i3v5y-3WZLMyZS",
-    imgSrc: "assets/images/tl-9/class-3.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-9/class-3.jpg",
     price: "$380",
     author: "Olivia Smith",
     title: "Piano for Beginners",
@@ -675,7 +675,7 @@ const courseList = [
   {
     id: 42,
     youtubeUrl: "https://www.youtube.com/embed/K8HnZ8DHXN4?si=msY0Fz0RyeOFmPoH",
-    imgSrc: "assets/images/blog-4/blog-4.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-4/blog-4.png",
     price: "$320",
     author: "John Turner",
     title: "Drumming Essentials",
@@ -691,7 +691,7 @@ const courseList = [
   {
     id: 43,
     youtubeUrl: "https://www.youtube.com/embed/Rg8LfBRRR0o?si=NJmNtYbT4Cwi9ZRs",
-    imgSrc: "assets/images/blog-4/blog-5.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-4/blog-5.png",
     price: "$420",
     author: "Emily White",
     title: "Flute Masterclass",
@@ -707,7 +707,7 @@ const courseList = [
   {
     id: 44,
     youtubeUrl: "https://www.youtube.com/embed/G_IOGR87fbE?si=S32yzDiXCraypqSX" ,
-    imgSrc: "assets/images/blog-4/blog-6.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-4/blog-6.png",
     price: "$360",
     author: "Lucas Turner",
     title: "Trumpet Lessons",
@@ -723,7 +723,7 @@ const courseList = [
   {
     id: 45,
     youtubeUrl: "https://www.youtube.com/embed/AFfuYZudBIU?si=EjH_xcFsWy8zL4DP",
-    imgSrc: "assets/images/blog-4/blog-7.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-4/blog-7.png",
     price: "$400",
     author: "Sophia Smith",
     title: "Electric Guitar Rockstar",
@@ -739,7 +739,7 @@ const courseList = [
   {
     id: 46,
     youtubeUrl: "https://www.youtube.com/embed/-E5ovOA9VM8?si=8XqoOZRiO5fPqUWf",
-    imgSrc: "assets/images/blog-4/blog-8.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-4/blog-8.png",
     price: "$380",
     author: "Oliver Davis",
     title: "Saxophone Melodies",
@@ -755,7 +755,7 @@ const courseList = [
   {
     id: 47,
     youtubeUrl: "https://www.youtube.com/embed/Gfggr-IJeh4?si=W8XM3NxushOz3fny",
-    imgSrc: "assets/images/blog-4/blog-9.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-4/blog-9.png",
     price: "$360",
     author: "Natalie Harris",
     title: "Keyboard Magic",
@@ -771,7 +771,7 @@ const courseList = [
   {
     id: 48,
     youtubeUrl: "https://www.youtube.com/embed/gTnz040x5CA?si=8aGnDuB-LnRnB0Cf",
-    imgSrc: "assets/images/blog-4/blog-10.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-4/blog-10.png",
     price: "$380",
     author: "Daniel Turner",
     title: "Violin Mastery",
@@ -787,7 +787,7 @@ const courseList = [
   {
     id: 49,
     youtubeUrl: "https://www.youtube.com/embed/8Xd6XeWqEtI?si=2s3ocor5jt2PUMHB",
-    imgSrc: "assets/images/blog-4/blog-11.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-4/blog-11.png",
     price: "$420",
     author: "Emma Turner",
     title: "Harmonica Harmonies",
@@ -803,7 +803,7 @@ const courseList = [
   {
     id: 50,
     youtubeUrl: "https://www.youtube.com/embed/Iiaw93EbFBQ?si=eS5-7W3JXxWmBU6f" ,
-    imgSrc: "assets/images/blog-4/blog-12.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-4/blog-12.png",
     price: "$350",
     author: "Liam Harris",
     title: "Ukulele Strumming",
@@ -819,7 +819,7 @@ const courseList = [
   {
     id: 51,
     youtubeUrl: "https://www.youtube.com/embed/9FmnQcHnacg?si=w-Ras670v58IB1na",
-    imgSrc: "assets/images/blog-4/blog-13.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-4/blog-13.png",
     price: "$420",
     author: "Sophie Turner",
     title: "Accordion Virtuoso",
@@ -835,7 +835,7 @@ const courseList = [
   {
     id: 52,
     youtubeUrl: "https://www.youtube.com/embed/ywSMRccMDvE?si=woYCRn1uHD8NZfbB" ,
-    imgSrc: "assets/images/blog-4/blog-14.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-4/blog-14.png",
     price: "$360",
     author: "Mia Harris",
     title: "Xylophone Magic",
@@ -851,7 +851,7 @@ const courseList = [
   {
     id: 53,
     youtubeUrl: "https://www.youtube.com/embed/G5DBX9vrP5U?si=uCg7mY6ffOMfIzho",
-    imgSrc: "assets/images/blog-4/blog-1.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-4/blog-1.png",
     price: "$380",
     author: "Ethan Turner",
     title: "Harp Harmony",
@@ -867,7 +867,7 @@ const courseList = [
   {
     id: 54,
     youtubeUrl: "https://www.youtube.com/embed/qzJ1o165jpc?si=gMwFYp4hy_CU65U6",
-    imgSrc: "assets/images/blog-4/blog-2.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-4/blog-2.png",
     price: "$350",
     author: "Luna Smith",
     title: "Mandolin Melodies",
@@ -886,7 +886,7 @@ const courseList = [
 const testimonialList = [
   {
     id: 0,
-    imgSrc: "assets/images/electronics-communication-engineering/alumni/alumni01.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electronics-communication-engineering/alumni/alumni01.jpg",
     review:
       "Today I am pursuing the higher education in UK in a reputed university and the course of my choice . Thanks to our faculty and professors at Dept of  E& C Engg. at SGI who counseled me  in the beginning nurtured me and guided me to realize my dream to pursue M.S in UK.",
     name: "Mr.Girish Shirwadkar",
@@ -894,7 +894,7 @@ const testimonialList = [
   },
   {
     id: 1,
-    imgSrc: "assets/images/electronics-communication-engineering/alumni/alumni02.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electronics-communication-engineering/alumni/alumni02.jpg",
     review:
       "My Days at SGU remind me of three things very specifically Discipline, Hard work and Success. Engineering they say is a way of life and I am glad I could live it at E & TC Engg. Dept. at SGI now SGU. Those days were filled with challenges and learning. Thanks to my professors for always being supportive and recognizing the talents in me. I am ever so grateful for the lessons from them that I stand tall today by doing well in my life.",
     name: "Ms. Anam Sayad",
@@ -902,7 +902,7 @@ const testimonialList = [
   },
   {
     id: 2,
-    imgSrc: "assets/images/electronics-communication-engineering/alumni/alumni03.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electronics-communication-engineering/alumni/alumni03.jpg",
     review:
       "Dept of E & C and its faculty members are the reason why I am here today. They helped me develop my domain knowledge and other skills. I got placed in the campus itself. Indeed the institute has shaped my career and future.",
     name: "Ms. Romi Kumari",
@@ -910,7 +910,7 @@ const testimonialList = [
   },
   {
     id: 3,
-    imgSrc: "assets/images/electronics-communication-engineering/alumni/alumni04.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electronics-communication-engineering/alumni/alumni04.jpg",
     review:
       "I am fortunate to learn and graduate from Dept of E & TC Engineering at SGI now SGU. As they not only developed and taught domain based skills but also other skills which motivated me and prepared me to pass MPSC exams in flying colors and gave me the opportunity to serve the nation in police uniform.",
     name: "Ms. Neha Sutar",
@@ -921,7 +921,7 @@ const testimonialList = [
 const commerceAlumni = [
   {
     id: 1,
-    imgSrc: "assets/images/commerce-dept/alumni/alumni1.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/alumni/alumni1.png",
     review:
       "After appearing for CAT 2022, she is currently pursuing an MBA in Finance from the Indian Institute of Management (IIM) Amritsar. During her MBA, she interned with ICICI Bank at their headquarters, working in the Operational Risk Management Group. She has now secured a placement as a Finance Consultant with Deloitte USI.",
     name: "Mansi Wadhva",
@@ -930,7 +930,7 @@ const commerceAlumni = [
   },
   {
     id: 2,
-    imgSrc: "assets/images/commerce-dept/alumni/alumni2.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/alumni/alumni2.png",
     review:
       "He has Commerce Graduate and subsequently done an MBA with specialization in HR and Finance wherein He stood at second rank in the university level and in institution He was then first ranker in the year 2015 and later in the year 2021 He has completed with a law degree (LLB).Currently, He is working with Samruddhi Industries Limited, situated at Sangli having multiplication plants with a central corporate office in Sangli. He is leading HR functions and a senior member in strategic planning and key member in operations part in the organization, while reporting to MD.",
     name: "Atul Malpani",
@@ -939,7 +939,7 @@ const commerceAlumni = [
   },
   {
     id: 3,
-    imgSrc: "assets/images/commerce-dept/alumni/alumni3.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/alumni/alumni3.png",
     review:
       "We are a manufacturer of corrugated Boxes for packaging products.For the last 9 years he has been running his business successfully and achieved the Best Industrial performance award from Laxmi Co. Ind. Estate among 250 industries.",
     name: "Aniket Barwade",
@@ -948,7 +948,7 @@ const commerceAlumni = [
   },
   {
     id: 4,
-    imgSrc: "assets/images/commerce-dept/alumni/alumni4.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/alumni/alumni4.png",
     review:
       "Originally from Kolhapur, Maharashtra, He is an international athlete. He has competed in various National and international competitions. He has completed his Bachelor of commerce from Sanjay Ghodawat University, Kolhapur. After graduating from this institute he was officially called to represent in sports (Aquatics) by the university of Mumbai. He is now pursuing MBA in marketing from Pillai Institute of Management Studies & Research, Mumbai. During his MBA, he interned with ONGC at their headquarters at BKC, Mumbai (Oil& Natural Gas Corporation limited). Currently he is in his placement process associated with his current academics. Here are his current achievements in Swimming (Aquatics).",
     name: "Mr. Sujit",
@@ -957,7 +957,7 @@ const commerceAlumni = [
   },
   {
     id: 5,
-    imgSrc: "assets/images/commerce-dept/alumni/alumni5.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/alumni/alumni5.png",
     review:
       " We are proud to highlight the achievements of Sanket Jadhav a distinguished alumni of SGU, who is currently thriving in the role of Deputy Manager at Kotak Mahindra Bank. After completing his bachelor's degree in commerce in 2021, Sanket Jadhav embarked on a promising career journey in the banking and finance sector. Starting with a strong academic foundation and practical skills gained during his time at SGU, he quickly made a mark in the professional world.",
     name: "Sanket Jadhav",
@@ -966,7 +966,7 @@ const commerceAlumni = [
   },
   /* {
     id: 6,
-    imgSrc: "assets/images/commerce-dept/alumni/alumni6.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/alumni/alumni6.png",
     review:
       " We are proud to celebrate the achievements of Shweta Shedshale, an esteemed alumnus of Sanjay Ghodawat University, who is now making significant contributions as an Assistant Professor at the very same institution.",
     name: "Shweta Sunil Shedshale",
@@ -978,28 +978,28 @@ const commerceAlumni = [
 const pharmacyAlumniList = [
   {
     id: 1,
-    imgSrc: "assets/images/pharmacy-dept/alumni/phar_Alu_01.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/pharmacy-dept/alumni/phar_Alu_01.png",
     name: "Mr. Vedant R Patil",
     company: "TCS Sigma Pharmacovigilance",
     package: "3.8LPA"
   },
   {
     id: 2,
-    imgSrc: "assets/images/pharmacy-dept/alumni/phar_Alu_02.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/pharmacy-dept/alumni/phar_Alu_02.jpg",
     name: "Mr.Tejas Ananda Talekar",
     company: "TCS Sigma Pharmacovigilance",
     package: "3.8LPA"
   },
   {
     id: 3,
-    imgSrc: "assets/images/pharmacy-dept/alumni/phar_Alu_03.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/pharmacy-dept/alumni/phar_Alu_03.jpg",
     name: "Ms. Kimaya Rajendra Shinde",
     company: "Ediglobe/Aminfo/Bombay IIT/Episource",
     package: "5.5 LPA"
   },
   {
     id: 4,
-    imgSrc: "assets/images/pharmacy-dept/alumni/phar_Alu_04.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/pharmacy-dept/alumni/phar_Alu_04.jpg",
     name: "Mr. Arihant Shrenik Parmaj",
     company: "Edglobe/Wellness Forever/TCMS/Sigma Aldrich",
     package: "5.5 LPA"
@@ -1009,7 +1009,7 @@ const pharmacyAlumniList = [
 const managementAlumniList = [
   {
     id: 0,
-    imgSrc: "assets/images/management-dept/alumni/sanakar.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/sanakar.png",
     name: "Sanskar Nawal",
     batch:"BBA (International Business) 2017-20",
     designation: 'Retail Planner Trainee, LVMH Perfumes & Cosmetics,Dubai, United Arab Emirates. Founder, Glamup Ventures.',
@@ -1017,7 +1017,7 @@ const managementAlumniList = [
   },
   {
     id: 1,
-    imgSrc: "assets/images/management-dept/alumni/radhika.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/radhika.png",
     name: "Radhika Toshniwal",
     batch:"MBA 2022-24",
     designation : "Executive Associate, Ghodawat Consumer Ltd. (GCL), Chipri, Dist. Kolhapur",
@@ -1025,7 +1025,7 @@ const managementAlumniList = [
   },
   {
     id: 2,
-    imgSrc: "assets/images/management-dept/alumni/varad.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/varad.png",
     name: "Varad Bagewadi",
     batch:"MBA (Marketing) 2021-23",
     designation : "Territory Sales Officer, Asian Paints, Mumbai",
@@ -1033,7 +1033,7 @@ const managementAlumniList = [
   },
   {
     id: 3,
-    imgSrc: "assets/images/management-dept/alumni/punit.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/punit.jpg",
     name: "Punit Savala",
     batch:"MBA (Marketing) 2021-23",
     designation : "Talent Acquisition Specialist, Digital Intelligence Systems, LLC (DISYS) India Pvt. Ltd. Pune.",
@@ -1041,7 +1041,7 @@ const managementAlumniList = [
   },
   {
     id: 4,
-    imgSrc: "assets/images/management-dept/alumni/manasi.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/manasi.png",
     name: "Manasi Mirajkar",
     batch:"MBA (HR) 2021-23",
     designation : "HR Professional, Atyeti Inc. Pune.",
@@ -1049,7 +1049,7 @@ const managementAlumniList = [
   },
  /* {
     id: 5,
-    imgSrc: "assets/images/management-dept/alumni/vedashri.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/vedashri.png",
     name: "Vedashri Kulkarni",
     batch:"MBA (Marketing) 2021-23",
     designation : "US IT Recruiter, Spearhead Technology, Dallas, Texas, United States-On-site.",
@@ -1057,7 +1057,7 @@ const managementAlumniList = [
   }, */
   {
     id: 5,
-    imgSrc: "assets/images/management-dept/alumni/ronak.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/ronak.png",
     name: "Ronak Chauhan",
     batch:"MBA (HR) 2021-23",
     designation : "Talent Acquisition Specialist, Velociti HR Services,Pune.",
@@ -1065,7 +1065,7 @@ const managementAlumniList = [
   },
   {
     id: 6,
-    imgSrc: "assets/images/management-dept/alumni/harshada.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/harshada.png",
     name: "Harshada Mohite",
     batch:"MBA (Operations & SCM) 2021-23",
     designation : "Resource Executive, Shipco IT Private Limited, Pune.",
@@ -1073,7 +1073,7 @@ const managementAlumniList = [
   },
   {
     id: 7,
-    imgSrc: "assets/images/management-dept/alumni/vedika.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/vedika.png",
     name: "Vedika Narote",
     batch:"MBA (HR) 2021-23",
     designation : "Business Development Executive, tCognition, Pune.",
@@ -1081,7 +1081,7 @@ const managementAlumniList = [
   },
  /* {
     id: 9,
-    imgSrc: "assets/images/management-dept/alumni/avinash.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/avinash.jpg",
     name: "Avinash Diwan",
     batch:"MBA (Marketing) 2020-22",
     designation : "Sales Consultant, Lindström, Kolhapur.",
@@ -1090,7 +1090,7 @@ const managementAlumniList = [
 
   {
     id: 10,
-    imgSrc: "assets/images/management-dept/alumni/saurabh.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/saurabh.jpg",
     name: "Saurabh Agare",
     batch:"MBA (Operations & SCM) 2020-22",
     designation : "Operations Specialist, Tech Mahindra, Sangli.",
@@ -1098,7 +1098,7 @@ const managementAlumniList = [
   },
   {
     id: 11,
-    imgSrc: "assets/images/management-dept/alumni/shafiya.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/shafiya.jpg",
     name: "Shafiya Khatib",
     batch:"MBA (HR) 2020-22",
     designation : "Talent Acquisition Executive, Brainworks Business Solutions, Kolhapur.",
@@ -1106,7 +1106,7 @@ const managementAlumniList = [
   },
   {
     id: 12,
-    imgSrc: "assets/images/management-dept/alumni/aishwarya.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/aishwarya.jpg",
     name: "Aishwarya Shettimali",
     batch:"MBA (HR) 2020-22",
     designation : "Executive HR Recruiter, Le Human Resources Solutions Pvt. Ltd., Pune.",
@@ -1114,7 +1114,7 @@ const managementAlumniList = [
   },
   {
     id: 13,
-    imgSrc: "assets/images/management-dept/alumni/saba.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/saba.jpg",
     name: "Saba Mulla",
     batch:"MBA (HR) 2020-22",
     designation : "HR Executive, Anvis Digital Pvt Ltd, Mumbai.",
@@ -1123,7 +1123,7 @@ const managementAlumniList = [
 
   {
     id: 14,
-    imgSrc: "assets/images/management-dept/alumni/indrasen.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/indrasen.jpg",
     name: "Indrasen Mane",
     batch:"MBA (Marketing) 2018-20",
     designation : "Sr. Marketing Executive, Danube Properties (UAE).",
@@ -1131,7 +1131,7 @@ const managementAlumniList = [
   },
   {
     id: 15,
-    imgSrc: "assets/images/management-dept/alumni/nikhil.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/nikhil.jpg",
     name: "Nikhil Ghatekari",
     batch:"MBA (Marketing) 2018-20",
     designation : "Sr. Executive, Atal Incubation Centre - Pinnacle Industries, Mumbai.",
@@ -1139,7 +1139,7 @@ const managementAlumniList = [
   },
   {
     id: 16,
-    imgSrc: "assets/images/management-dept/alumni/abhinav.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/abhinav.jpg",
     name: "Abhinav Nalawade",
     batch:"MBA (Marketing) 2017-19",
     designation : "Deputy Manager-Corporate Sales, Indo Edge India Ltd., Kolhapur.",
@@ -1147,7 +1147,7 @@ const managementAlumniList = [
   },
   {
     id: 17,
-    imgSrc: "assets/images/management-dept/alumni/swarup.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/swarup.jpg",
     name: "Swarup Jadhav",
     batch:"MBA (Finance) 2015-17",
     designation : "Senior Financial Analyst, BNY Mellon, Pune.",
@@ -1155,7 +1155,7 @@ const managementAlumniList = [
   },
   {
     id: 18,
-    imgSrc: "assets/images/management-dept/alumni/shweta.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/shweta.jpg",
     name: "Shweta Singh",
     batch:"MBA (Marketing & HR) 2015-17",
     designation : "Assistant Manager Sales & Marketing, GTT Foundation, Pune.",
@@ -1163,7 +1163,7 @@ const managementAlumniList = [
   },
   {
     id: 19,
-    imgSrc: "assets/images/management-dept/alumni/sanyukta.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/sanyukta.jpg",
     name: "Sanyukta Bhilare",
     batch:"BBA (International Business) 2018-21",
     designation : "Import Export Executive, Seashell Logistics Pvt Ltd, Navi Mumbai.",
@@ -1171,7 +1171,7 @@ const managementAlumniList = [
   },
   {
     id: 20,
-    imgSrc: "assets/images/management-dept/alumni/sonukumar.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/sonukumar.jpg",
     name: "Sonukumar Bharti",
     batch:"B.Com. (Accounting & Finance) 2021-23",
     designation : "Business Development Manager, Niva Bupa Health Insurance, Sangli.",
@@ -1179,7 +1179,7 @@ const managementAlumniList = [
   },
   {
     id: 21,
-    imgSrc: "assets/images/management-dept/alumni/female.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/female.jpg",
     name: "Shweta Bagi",
     batch:"MBA (Finance & HR) 2012-14",
     designation : "Senior Auditor, HDFC Bank, Kolhapur.",
@@ -1187,7 +1187,7 @@ const managementAlumniList = [
   },
   {
     id: 22,
-    imgSrc: "assets/images/management-dept/alumni/shurti.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/shurti.jpg",
     name: "Shurti Patil",
     batch:"MBA (Finance & HR) 2012-14",
     designation : "Branch Operations Manager, Kotak Mahindra Bank Ltd., Pune.",
@@ -1195,7 +1195,7 @@ const managementAlumniList = [
   },
   {
     id: 23,
-    imgSrc: "assets/images/management-dept/alumni/jithin.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/jithin.jpg",
     name: "Jithin Vijayan",
     batch:"MBA (Finance & HR) 2013-15",
     designation : "Senior Manager, LTIMindtree, IT Services and IT Consulting Mumbai.",
@@ -1203,7 +1203,7 @@ const managementAlumniList = [
   },
   {
     id: 24,
-    imgSrc: "assets/images/management-dept/alumni/dilip.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/dilip.jpg",
     name: "Dilip Gatade",
     batch:"MBA (Marketing & HR) 2011-13",
     designation : "Marketing Head, Sevasadan Lifeline Super speciality Hospital, Miraj.",
@@ -1211,7 +1211,7 @@ const managementAlumniList = [
   },
   {
     id: 25,
-    imgSrc: "assets/images/management-dept/alumni/rohit.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/rohit.jpg",
     name: "Rohit Malagi",
     batch:"MBA (HR) 2012-14",
     designation : "Senior Human Resources Generalist, Atyeti Inc, Pune.",
@@ -1219,7 +1219,7 @@ const managementAlumniList = [
   },
   {
     id: 26,
-    imgSrc: "assets/images/management-dept/alumni/prasann.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/prasann.jpg",
     name: "Prasann Ingale",
     batch:"MBA (Marketing & Finance) 2014-16",
     designation : "Customer Service Officer, Hindustan Unilever Ltd.,Ratnagiri.",
@@ -1227,7 +1227,7 @@ const managementAlumniList = [
   },
   {
     id: 27,
-    imgSrc: "assets/images/management-dept/alumni/shweta.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/shweta.jpg",
     name: "Shweta Chandwani",
     batch:"MBA (Marketing) 2019-21",
     designation : "International Sales Executive, Market Research Future® (MRFR), Pune.",
@@ -1235,7 +1235,7 @@ const managementAlumniList = [
   },
   {
     id: 28,
-    imgSrc: "assets/images/management-dept/alumni/amar.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/amar.jpg",
     name: "Amar Vishnu Patil",
     batch:"MBA (Finance) 2021-23",
     designation : "Relationship Manager, Home First Finance Company (HFFC), Sangli.",
@@ -1243,7 +1243,7 @@ const managementAlumniList = [
   },
   {
     id: 29,
-    imgSrc: "assets/images/management-dept/alumni/sana.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/sana.jpg",
     name: "Sana Pathan",
     batch:"MBA (Marketing & HR) 2015-17",
     designation : "a Senior Officer-TAG, Hexaware Technologies, Mumbai.",
@@ -1251,7 +1251,7 @@ const managementAlumniList = [
   },
   {
     id: 30,
-    imgSrc: "assets/images/management-dept/alumni/amartya.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/amartya.jpg",
     name: "Amartya Yevluje",
     batch:"MBA (Marketing) 2021-23",
     designation : "Brand Manager, The Socma Digital Pvt Ltd, Pune.",
@@ -1259,7 +1259,7 @@ const managementAlumniList = [
   },
   {
     id: 31,
-    imgSrc: "assets/images/management-dept/alumni/vijayraj.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/vijayraj.png",
     name: "Vijayraj Khobare",
     batch:"MBA (Marketing) 2017-19",
     designation : "Business Owner, RepubliQ Fine Dine, Kolhapur.",
@@ -1267,7 +1267,7 @@ const managementAlumniList = [
   },
   {
     id: 32,
-    imgSrc: "assets/images/management-dept/alumni/chintan.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/chintan.jpg",
     name: "Chintan Rathod",
     batch:"MBA (Marketing & HR) 2015-17",
     designation : "Owner, Nakoda Travels, Kolhapur.",
@@ -1275,7 +1275,7 @@ const managementAlumniList = [
   },
   {
     id: 33,
-    imgSrc: "assets/images/management-dept/alumni/atul.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/atul.jpg",
     name: "Atul Malpani",
     batch:"MBA (Marketing) 2014-16",
     designation : "Executive Secretary and Business Coordinator, E-clerk, Samrudhi Industries Ltd, Sangli.",
@@ -1283,7 +1283,7 @@ const managementAlumniList = [
   },
   {
     id: 34,
-    imgSrc: "assets/images/management-dept/alumni/suraj.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/alumni/suraj.jpg",
     name: "Suraj Jamdade",
     batch:"MBA (Marketing & HR) 2011-13",
     designation : "Store Manager, Reliance Retail, Jalgaon.",
@@ -1296,7 +1296,7 @@ const managementAlumniList = [
 const computerAlumniList = [
   {
     id: 0,
-    imgSrc: "assets/images/computer-science-engineering/alumni/aa1.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/alumni/aa1.png",
     name: "Harshvardhan Patil",
     company:"EXL",
     designation: 'Automation Test Engineer',
@@ -1306,7 +1306,7 @@ const computerAlumniList = [
 
   {
     id: 1,
-    imgSrc: "assets/images/computer-science-engineering/alumni/alumni2.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/alumni/alumni2.png",
     name: "Aishwarya Bhosale",
     company:"Verdata",
     designation: 'Data Scientist',
@@ -1316,7 +1316,7 @@ const computerAlumniList = [
 
   {
     id: 2,
-    imgSrc: "assets/images/computer-science-engineering/alumni/alumni3.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/alumni/alumni3.png",
     name: "Ashish Sankpal",
     company:"Aexonic Technologies ",
     designation: 'Project Manager ',
@@ -1326,7 +1326,7 @@ const computerAlumniList = [
 
   {
     id: 3,
-    imgSrc: "assets/images/computer-science-engineering/alumni/alumni4.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/alumni/alumni4.png",
     name: "Pavan Ratankumar Advani",
     company:"Payment Services and Integrators",
     designation: 'Product Owner',
@@ -1336,7 +1336,7 @@ const computerAlumniList = [
 
   {
     id: 4,
-    imgSrc: "assets/images/computer-science-engineering/alumni/alumni5.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/alumni/alumni5.png",
     name: "Mahamadayaj Salim Mhaldar",
     company:"Paytm",
     designation: 'Technical Lead',
@@ -1346,7 +1346,7 @@ const computerAlumniList = [
 
   {
     id: 5,
-    imgSrc: "assets/images/computer-science-engineering/alumni/alumni6.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/alumni/alumni6.png",
     name: "Shivani Sunil Jadhav",
     company:"Technology Consulting Pvt. Ltd.",
     designation: 'Senior Quality Analyst ',
@@ -1356,7 +1356,7 @@ const computerAlumniList = [
 
   {
     id: 6,
-    imgSrc: "assets/images/computer-science-engineering/alumni/alumni7.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/alumni/alumni7.png",
     name: "Gautami Nilpankar",
     company:"Tieto India PVT LTD",
     designation: 'Software Engineer',
@@ -1366,7 +1366,7 @@ const computerAlumniList = [
 
   {
     id: 7,
-    imgSrc: "assets/images/computer-science-engineering/alumni/alumni8.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/alumni/alumni8.png",
     name: "Rohit Jamdar",
     company:"IBM India Pvt Ltd",
     designation: 'Senior System Engineer',
@@ -1376,7 +1376,7 @@ const computerAlumniList = [
 
   {
     id: 8,
-    imgSrc: "assets/images/computer-science-engineering/alumni/alumni9.jpeg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/alumni/alumni9.jpeg",
     name: "Tejas Ajay Shaha",
     company:"Mphasis",
     designation: 'Senior Software Engineer',
@@ -1386,7 +1386,7 @@ const computerAlumniList = [
 
   {
     id: 9,
-    imgSrc: "assets/images/computer-science-engineering/alumni/alumni10.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/computer-science-engineering/alumni/alumni10.png",
     name: "Siddhesh Sundar Toraskar",
     company:"Druva Inc.",
     designation: 'Principal Software Engineer',
@@ -1398,7 +1398,7 @@ const computerAlumniList = [
 const teacherList = [
   {
     id: 0,
-    imgSrc: "/assets/images/management/team1.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management/team1.jpg",
     name: "Mr. Sanjay Ghodawat",
     slug: "sanjay-ghodawat",
     position: "President",
@@ -1407,7 +1407,7 @@ const teacherList = [
   },
   {
     id: 1,
-    imgSrc: "/assets/images/management/team2.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management/team2.jpg",
     name: "Mr. Shrenik Ghodawat",
     slug: "shrenik-ghodawat",
     position: "Secretary",
@@ -1416,16 +1416,16 @@ const teacherList = [
   },
   {
     id: 2,
-    imgSrc: "/assets/images/management/team3.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management/team3.jpg",
     name: "Mr. Vinayak V Bhosale",
     slug: "vinayak-bhosale",
     position: "Trustee",
-    pdf:'/assets/images/short-profile/VB-profile.jpg',
+    pdf:'https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/short-profile/VB-profile.jpg',
     bio: "Every beginning has ending and every ending a new beginning! When we commenced the Sanjay Ghodawat Institutes, we wanted to foray in the Education sector and make a mark on the educational map of the Nation by providing the best of educational facilities to our students and stakeholders. Today Sanjay Ghodawat Institutes has evolved as Sanjay Ghodawat University after its successful streak in the education field for the last 8 years. The vision of our Chairman is crystal clear to be reckoned among top educational institutes of the globe in coming years.\nIt is with this vision that we are all marching towards attaining our goals. From successful institute to successful university that is where we want to head to. Accommodating students from all across the nation plus from other countries, giving them best of the educational environment and facilities, giving them a chance to rediscover their true selves so that they emerge as better human beings who go out and make an impact; that is our mission.\nAs our stakeholders and students have always given us wonderful response in the past, we hope to better ourselves to be worthy of their trust in us. We believe that we will continue through the University to serve a larger number of students with varied choices in the coming years. I appeal to all of you to continue with your love and trust for the Sanjay Ghodawat University.\nWith Best Wishes,",
   },
   {
     id: 3,
-    imgSrc: "/assets/images/management/team4.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management/team4.jpg",
     name: "Dr. Udhav Bhosle",
     slug: "udhav-bhosle",
     position: "Vice Chancellor",
@@ -1434,7 +1434,7 @@ const teacherList = [
   },
   {
     id: 4,
-    imgSrc: "assets/images/tl-2/board-of-director-image5.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-2/board-of-director-image5.jpg",
     name: "Mr. Shrenik S. Ghodawat",
     pdf:"#",
     slug: "shrenik-ghodawat",
@@ -1443,287 +1443,287 @@ const teacherList = [
   },
   {
     id: 5,
-    imgSrc: "assets/images/tl-2/board-of-director-image6.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-2/board-of-director-image6.jpg",
     name: "Mr. Vinod D. Ghodawat",
     slug: "vinod-ghodawat",
     position: "Trustee",
   },
   {
     id: 6,
-    imgSrc: "assets/images/tl-2/board-of-director-image7.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-2/board-of-director-image7.jpg",
     name: "Mr. Rajesh Ghodawat",
     slug: "rajesh-ghodawat",
     position: "Trustee",
   },
   {
     id: 7,
-    imgSrc: "assets/images/tl-2/board-of-director-image8.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-2/board-of-director-image8.jpg",
     name: "Mr. Atul M. Shinde",
     slug: "atul-shinde",
     position: "Trustee",
   },
   {
     id: 8,
-    imgSrc: "assets/images/tl-2/board-of-director-image9.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-2/board-of-director-image9.jpg",
     name: "Mr. Vinayak V. Bhosale",
     slug: "vinayak-bhosale",
     position: "Trustee",
   },
   {
     id: 9,
-    imgSrc: "assets/images/tl-2/teacher-10.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-2/teacher-10.jpg",
     name: "James Taylor",
     slug: "james-taylor",
     position: "Physics Teacher",
   },
   {
     id: 10,
-    imgSrc: "assets/images/tl-2/teacher-11.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-2/teacher-11.jpg",
     name: "Emma Wilson",
     slug: "emma-wilson",
     position: "Biology Teacher",
   },
   {
     id: 11,
-    imgSrc: "assets/images/tl-2/teacher-12.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-2/teacher-12.jpg",
     name: "Lucas Robinson",
     slug: "lucas-robinson",
     position: "Geography Teacher",
   },
   {
     id: 12,
-    imgSrc: "assets/images/tl-2/teacher-13.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-2/teacher-13.jpg",
     name: "Ava Garcia",
     slug: "ava-garcia",
     position: "French Teacher",
   },
   {
     id: 13,
-    imgSrc: "assets/images/tl-2/teacher-14.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-2/teacher-14.jpg",
     name: "Henry Adams",
     slug: "henry-adams",
     position: "Physical Education Teacher",
   },
   {
     id: 14,
-    imgSrc: "assets/images/tl-2/teacher-15.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-2/teacher-15.jpg",
     name: "Mia Turner",
     slug: "mia-turner",
     position: "Music Teacher",
   },
   {
     id: 15,
-    imgSrc: "assets/images/tl-2/teacher-16.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-2/teacher-16.jpg",
     name: "Oliver Martin",
     slug: "oliver-martin",
     position: "Drama Teacher",
   },
   {
     id: 16,
-    imgSrc: "assets/images/tl-2/teacher-17.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-2/teacher-17.jpg",
     name: "Sophie Evans",
     slug: "sophie-evans",
     position: "Computer Science Teacher",
   },
   {
     id: 17,
-    imgSrc: "assets/images/tl-7/fac-1.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-7/fac-1.jpg",
     name: "Parsley Montana",
     slug: "parsley-montana",
     position: "Special Education Teacher",
   },
   {
     id: 18,
-    imgSrc: "assets/images/tl-7/fac-2.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-7/fac-2.jpg",
     name: "Jackson Adams",
     slug: "jackson-adams",
     position: "Physical Education Teacher",
   },
   {
     id: 19,
-    imgSrc: "assets/images/tl-7/fac-3.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-7/fac-3.jpg",
     name: "Grace Martinez",
     slug: "grace-martinez",
     position: "Spanish Teacher",
   },
   {
     id: 20,
-    imgSrc: "assets/images/tl-7/fac-4.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-7/fac-4.png",
     name: "Sophie White",
     slug: "sophie-white",
     position: "Biology Teacher",
   },
   {
     id: 21,
-    imgSrc: "assets/images/tl-7/fac-5.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-7/fac-5.png",
     name: "Ethan Turner",
     slug: "ethan-turner",
     position: "Chemistry Teacher",
   },
   {
     id: 22,
-    imgSrc: "assets/images/tl-7/fac-6.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-7/fac-6.png",
     name: "Lucas Smith",
     slug: "lucas-smith",
     position: "Physics Teacher",
   },
   {
     id: 23,
-    imgSrc: "assets/images/tl-7/fac-7.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-7/fac-7.png",
     name: "Liam Johnson",
     slug: "liam-johnson",
     position: "Mathematics Teacher",
   },
   {
     id: 24,
-    imgSrc: "assets/images/tl-7/fac-8.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-7/fac-8.png",
     name: "Emma Wilson",
     slug: "emma-wilson",
     position: "English Teacher",
   },
   {
     id: 25,
-    imgSrc: "assets/images/tl-7/fac-9.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-7/fac-9.png",
     name: "Olivia Davis",
     slug: "olivia-davis",
     position: "Art Teacher",
   },
   {
     id: 26,
-    imgSrc: "assets/images/tl-7/fac-10.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-7/fac-10.png",
     name: "Daniel Taylor",
     slug: "daniel-taylor",
     position: "History Teacher",
   },
   {
     id: 27,
-    imgSrc: "assets/images/tl-7/fac-11.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-7/fac-11.png",
     name: "Ava Garcia",
     slug: "ava-garcia",
     position: "Music Teacher",
   },
   {
     id: 28,
-    imgSrc: "assets/images/tl-7/fac-12.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-7/fac-12.png",
     name: "Henry Adams",
     slug: "henry-adams",
     position: "Computer Science Teacher",
   },
   {
     id: 29,
-    imgSrc: "assets/images/tl-7/fac-13.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-7/fac-13.png",
     name: "Sophia Adams",
     slug: "sophia-adams",
     position: "Physical Education Teacher",
   },
   {
     id: 30,
-    imgSrc: "assets/images/tl-7/fac-14.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-7/fac-14.png",
     name: "David Johnson",
     slug: "david-johnson",
     position: "French Teacher",
   },
   {
     id: 31,
-    imgSrc: "assets/images/tl-7/fac-15.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-7/fac-15.png",
     name: "Lily Robinson",
     slug: "lily-robinson",
     position: "Geography Teacher",
   },
   {
     id: 32,
-    imgSrc: "assets/images/tl-5/faculty-1.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-5/faculty-1.jpg",
     name: "Dominic L. Ement",
     slug: "dominic-l-ement",
     position: "Lecturer",
   },
   {
     id: 33,
-    imgSrc: "assets/images/tl-5/faculty-2.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-5/faculty-2.jpg",
     name: "Sophia Williams",
     slug: "sophia-williams",
     position: "Physical Education Teacher",
   },
   {
     id: 34,
-    imgSrc: "assets/images/tl-5/faculty-3.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-5/faculty-3.jpg",
     name: "Jacob Brown",
     slug: "jacob-brown",
     position: "Spanish Teacher",
   },
   {
     id: 35,
-    imgSrc: "assets/images/tl-5/faculty-4.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-5/faculty-4.jpg",
     name: "Ava Davis",
     slug: "ava-davis",
     position: "Biology Teacher",
   },
   {
     id: 36,
-    imgSrc: "assets/images/tl-5/faculty-5.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-5/faculty-5.jpg",
     name: "Liam Turner",
     slug: "liam-turner",
     position: "Chemistry Teacher",
   },
   {
     id: 37,
-    imgSrc: "assets/images/tl-5/faculty-6.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-5/faculty-6.jpg",
     name: "Olivia Smith",
     slug: "olivia-smith",
     position: "Physics Teacher",
   },
   {
     id: 38,
-    imgSrc: "assets/images/tl-5/faculty-7.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-5/faculty-7.jpg",
     name: "Ethan Adams",
     slug: "ethan-adams",
     position: "Mathematics Teacher",
   },
   {
     id: 39,
-    imgSrc: "assets/images/tl-5/faculty-8.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-5/faculty-8.jpg",
     name: "Isabella Johnson",
     slug: "isabella-johnson",
     position: "English Teacher",
   },
   {
     id: 40,
-    imgSrc: "assets/images/tl-5/faculty-9.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-5/faculty-9.jpg",
     name: "Daniel Wilson",
     slug: "daniel-wilson",
     position: "Art Teacher",
   },
   {
     id: 41,
-    imgSrc: "assets/images/tl-5/faculty-10.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-5/faculty-10.jpg",
     name: "Sophie Taylor",
     slug: "sophie-taylor",
     position: "History Teacher",
   },
   {
     id: 42,
-    imgSrc: "assets/images/tl-5/faculty-11.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-5/faculty-11.jpg",
     name: "Mia Garcia",
     slug: "mia-garcia",
     position: "Music Teacher",
   },
   {
     id: 43,
-    imgSrc: "assets/images/tl-5/faculty-12.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-5/faculty-12.jpg",
     name: "Henry Smith",
     slug: "henry-smith",
     position: "Computer Science Teacher",
   },
   {
     id: 44,
-    imgSrc: "assets/images/tl-5/faculty-13.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-5/faculty-13.jpg",
     name: "Lily Adams",
     slug: "lily-adams",
     position: "Geography Teacher",
   },
   {
     id: 45,
-    imgSrc: "assets/images/tl-5/faculty-14.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-5/faculty-14.jpg",
     name: "Sophia Robinson",
     slug: "sophia-robinson",
     position: "French Teacher",
@@ -1734,28 +1734,28 @@ const aboutTestimonialList = [
   {
     id: 0,
     desc: "It was my immense luck and fortune to be a part of SGU University where I can grow. The entire faculty & department leaves no stone unturned to shape one's future in my four years.",
-    imgSrc: "assets/images/student-testimonials/student1.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student-testimonials/student1.jpg",
     name: "Shivtej Khot",
     label: "B.Tech - Civil, 2015 - 2020",
   },
   {
     id: 1,
     desc: "SGU University provided me with a nurturing environment to pursue my passion for technology. The support from professors and the cutting-edge facilities made my journey unforgettable.",
-    imgSrc: "assets/images/student-testimonials/student2.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student-testimonials/student2.jpg",
     name: "Vijay Patil",
     label: "B.Sc - Computer Science, 2016 - 2021",
   },
   {
     id: 2,
     desc: "I had an amazing time at SGU University. The diverse community and engaging courses helped me develop both academically and personally. I had a great time. Highly recommended!",
-    imgSrc: "assets/images/student-testimonials/student3.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student-testimonials/student3.jpg",
     name: "Abhishek Patil",
     label: "B.A - Economics, 2017 - 2022",
   },
   {
     id: 3,
     desc: "My experience at SGU University was transformative. The challenging curriculum and supportive professors prepared me for success in my chosen field. Hope everyone gets to experience it.",
-    imgSrc: "assets/images/student-testimonials/student4.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/student-testimonials/student4.jpg",
     name: "Sanskriti Bhokare",
     label: "B.Sc - Biology, 2018 - 2023",
   },
@@ -1764,23 +1764,23 @@ const aboutTestimonialList = [
 const alumniImgList = [
   {
     id: 0,
-    imgSrc: "assets/images/more-details-images/more1.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/more-details-images/more1.JPG",
   },
   {
     id: 1,
-    imgSrc: "assets/images/more-details-images/more2.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/more-details-images/more2.jpg",
   },
   {
     id: 2,
-    imgSrc: "assets/images/more-details-images/more3.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/more-details-images/more3.jpg",
   },
   {
     id: 3,
-    imgSrc: "assets/images/more-details-images/more4.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/more-details-images/more4.jpg",
   },
   {
     id: 4,
-    imgSrc: "assets/images/more-details-images/more5.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/more-details-images/more5.jpg",
   }
 ];
 
@@ -1814,135 +1814,135 @@ const alumniTextList = [
 const membershipList = [
   {
     id: 0,
-    imgSrc: "assets/images/recruiters/engg02.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg02.jpg",
   },
   {
     id: 1,
-    imgSrc: "assets/images/recruiters/engg03.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg03.jpg",
   },
   {
     id: 2,
-    imgSrc: "assets/images/recruiters/engg04.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg04.jpg",
   },
   {
     id: 3,
-    imgSrc: "assets/images/recruiters/engg05.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg05.jpg",
   },
   {
     id: 4,
-    imgSrc: "assets/images/recruiters/engg06.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg06.jpg",
   },
   {
     id: 5,
-    imgSrc: "assets/images/recruiters/engg07.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg07.jpg",
   },
   {
     id: 6,
-    imgSrc: "assets/images/recruiters/engg08.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg08.jpg",
   },
   {
     id: 7,
-    imgSrc: "assets/images/recruiters/engg09.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg09.jpg",
   },
   {
     id: 8,
-    imgSrc: "assets/images/recruiters/engg10.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg10.jpg",
   },
   {
     id: 9,
-    imgSrc: "assets/images/recruiters/engg11.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg11.jpg",
   },
   {
     id: 10,
-    imgSrc: "assets/images/recruiters/engg12.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg12.jpg",
   },
   {
     id: 11,
-    imgSrc: "assets/images/recruiters/engg14.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg14.jpg",
   },
   {
     id: 12,
-    imgSrc: "assets/images/recruiters/engg15.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg15.jpg",
   },
   {
     id: 13,
-    imgSrc: "assets/images/recruiters/engg16.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg16.jpg",
   },
   {
     id: 14,
-    imgSrc: "assets/images/recruiters/engg17.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg17.jpg",
   },
   {
     id: 15,
-    imgSrc: "assets/images/recruiters/engg18.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg18.jpg",
   },
   {
     id: 16,
-    imgSrc: "assets/images/recruiters/engg21.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg21.jpg",
   },
   {
     id: 17,
-    imgSrc: "assets/images/recruiters/engg33.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg33.jpg",
   },
   {
     id: 18,
-    imgSrc: "assets/images/recruiters/engg36.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg36.jpg",
   },
   {
     id: 19,
-    imgSrc: "assets/images/recruiters/engg37.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg37.jpg",
   },
   {
     id: 20,
-    imgSrc: "assets/images/recruiters/engg38.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/engg38.jpg",
   },
   {
     id: 21,
-    imgSrc: "assets/images/recruiters/mba01.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/mba01.jpg",
   },
   {
     id: 22,
-    imgSrc: "assets/images/recruiters/mba02.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/mba02.jpg",
   },
   {
     id: 23,
-    imgSrc: "assets/images/recruiters/mba04.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/mba04.jpg",
   },
   {
     id: 24,
-    imgSrc: "assets/images/recruiters/mba05.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/mba05.jpg",
   },
   {
     id: 25,
-    imgSrc: "assets/images/recruiters/mba07.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/mba07.jpg",
   },
   {
     id: 26,
-    imgSrc: "assets/images/recruiters/mba10.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/mba10.jpg",
   },
   {
     id: 27,
-    imgSrc: "assets/images/recruiters/mba11.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/mba11.jpg",
   },
   {
     id: 28,
-    imgSrc: "assets/images/recruiters/mba12.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/mba12.jpg",
   },
   {
     id: 29,
-    imgSrc: "assets/images/recruiters/mba14.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/mba14.jpg",
   },
   {
     id: 30,
-    imgSrc: "assets/images/recruiters/mba15.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/mba15.jpg",
   },
   {
     id: 31,
-    imgSrc: "assets/images/recruiters/mba16.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/mba16.jpg",
   },
   {
     id: 32,
-    imgSrc: "assets/images/recruiters/mba18.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/recruiters/mba18.jpg",
   },
 
 ];
@@ -1974,28 +1974,28 @@ const testimonialList2 = [
     desc: "Morbi consectetur elementum purus mattis cursus purus vel metus iaculis sagittis. Vestibulum molestie bibendum turpis, id luctus sem lacinia quis. Quisque sit amet velit sit amet dui hendrerit ultricies a id ipsum.",
     name: "Thomas R. Toe",
     role: "Student",
-    imgSrc: "assets/images/tl-7/reviewer-1.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-7/reviewer-1.jpg",
   },
   {
     id: 1,
     desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere ligula nec urna vehicula, eget ultrices velit efficitur. Vivamus eget nunc odio. Sed pharetra laoreet quam, at bibendum tellus placerat quis.",
     name: "Jennifer K. Smith",
     role: "Teacher",
-    imgSrc: "assets/images/tl-7/reviewer-2.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-7/reviewer-2.png",
   },
   {
     id: 2,
     desc: "Pellentesque tristique tincidunt dolor, nec placerat odio. Sed nec massa non mi rhoncus rhoncus. Sed eget massa scelerisque, aliquam quam a, suscipit nisl. Curabitur interdum ultricies ex, a laoreet quam semper a.",
     name: "David M. Johnson",
     role: "Alumnus",
-    imgSrc: "assets/images/tl-7/reviewer-3.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-7/reviewer-3.jpg",
   },
   {
     id: 3,
     desc: "Aenean dignissim tincidunt dolor, id aliquam nunc vehicula nec. In viverra libero vitae tincidunt tristique. Ut in ligula vitae lorem bibendum malesuada ac eget ante. Vestibulum pharetra arcu nec est pharetra, ut convallis tellus tristique.",
     name: "Emily L. White",
     role: "Parent",
-    imgSrc: "assets/images/tl-7/reviewer-4.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-7/reviewer-4.jpg",
   },
 ];
 
@@ -2005,28 +2005,28 @@ const testimonialList3 = [
     desc: "Morbi consectetur elementum purus mattis cursus purus vel metus iaculis sagittis. Vestibulum molestie bibendum turpis, id luctus sem lacinia quis. Quisque sit amet velit sit amet dui hendrerit ultricies a id ipsum.",
     name: "Thomas R. Toe",
     role: "Student",
-    imgSrc: "assets/images/tl-9/reviewer-1.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-9/reviewer-1.jpg",
   },
   {
     id: 1,
     desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere ligula nec urna vehicula, eget ultrices velit efficitur. Vivamus eget nunc odio. Sed pharetra laoreet quam, at bibendum tellus placerat quis.",
     name: "Jennifer K. Smith",
     role: "Teacher",
-    imgSrc: "assets/images/tl-9/reviewer-2.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-9/reviewer-2.jpg",
   },
   {
     id: 2,
     desc: "Pellentesque tristique tincidunt dolor, nec placerat odio. Sed nec massa non mi rhoncus rhoncus. Sed eget massa scelerisque, aliquam quam a, suscipit nisl. Curabitur interdum ultricies ex, a laoreet quam semper a.",
     name: "David M. Johnson",
     role: "Alumnus",
-    imgSrc: "assets/images/tl-9/reviewer-3.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-9/reviewer-3.jpg",
   },
   {
     id: 3,
     desc: "Aenean dignissim tincidunt dolor, id aliquam nunc vehicula nec. In viverra libero vitae tincidunt tristique. Ut in ligula vitae lorem bibendum malesuada ac eget ante. Vestibulum pharetra arcu nec est pharetra, ut convallis tellus tristique.",
     name: "Emily L. White",
     role: "Parent",
-    imgSrc: "assets/images/tl-9/reviewer-4.jpg",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-9/reviewer-4.jpg",
   },
 ];
 
@@ -2080,7 +2080,7 @@ const blogList = [
 
 id: 0,
 
-imgSrc: "assets/images/blog/blog-1.jpg",
+imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog/blog-1.jpg",
 
 date: "June 25, 2026",
 
@@ -2103,7 +2103,7 @@ slug: "emerging-trends-in-higher-education",
 const eventList = [
   {
     id: 0,
-    imgSrc: "assets/images/blog/blog-1.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog/blog-1.png",
     youtubeUrl: "https://www.youtube.com/embed/VqhDnaqhnd4?si=LL6xoZfjSJkMNNLJ",
     dayDate: '05',
     monthYear: 'March, 2023',
@@ -2117,7 +2117,7 @@ const eventList = [
   },
   {
     id: 1,
-    imgSrc: "assets/images/blog/blog-2.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog/blog-2.png",
     youtubeUrl: "https://www.youtube.com/embed/2U1mE-dJy_c?si=yZFpDpVICduMAukZ",
     dayDate: '15',
     monthYear: 'March, 2023',
@@ -2131,7 +2131,7 @@ const eventList = [
   },
   {
     id: 2,
-    imgSrc: "assets/images/blog/blog-3.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog/blog-3.png",
     youtubeUrl: "https://www.youtube.com/embed/5p248yoa3oE?si=0TyDKoEacnKTLTxH",
     dayDate: '20',
     monthYear: 'March, 2023',
@@ -2145,7 +2145,7 @@ const eventList = [
   },
   {
     id: 3,
-    imgSrc: "assets/images/blog/blog-4.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog/blog-4.png",
     youtubeUrl: "https://www.youtube.com/embed/C-EHoNfkoDM?si=ZGXNX6GSFRYTJ89W",
     dayDate: '10',
     monthYear: 'March, 2023',
@@ -2159,7 +2159,7 @@ const eventList = [
   },
   {
     id: 4,
-    imgSrc: "assets/images/blog/blog-5.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog/blog-5.png",
     youtubeUrl: "https://www.youtube.com/embed/ND_AjF_KTD8?si=zXbMMqzs6gvddhzN",
     dayDate: '12',
     monthYear: 'March, 2023',
@@ -2173,7 +2173,7 @@ const eventList = [
   },
   {
     id: 5,
-    imgSrc: "assets/images/blog/blog-6.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog/blog-6.png",
     youtubeUrl: "https://www.youtube.com/embed/UnIZlFrFWIY?si=uC1HnRZ27a4szFOY",
     dayDate: '22',
     monthYear: 'March, 2023',
@@ -2187,7 +2187,7 @@ const eventList = [
   },
   {
     id: 6,
-    imgSrc: "assets/images/blog/blog-7.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog/blog-7.png",
     youtubeUrl: "https://www.youtube.com/embed/bhkZEhPog2M?si=xCOR9grZ_zxu6yp-",
     dayDate: '18',
     monthYear: 'March, 2023',
@@ -2201,7 +2201,7 @@ const eventList = [
   },
   {
     id: 7,
-    imgSrc: "assets/images/blog/blog-8.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog/blog-8.png",
     youtubeUrl: "https://www.youtube.com/embed/8H3WaMzDiTo?si=Yj7pM2icDds9OnF3" ,
     dayDate: '07',
     monthYear: 'March, 2023',
@@ -2215,7 +2215,7 @@ const eventList = [
   },
   {
     id: 8,
-    imgSrc: "assets/images/blog/blog-9.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog/blog-9.png",
     youtubeUrl: "https://www.youtube.com/embed/_u-PQyM_mvE?si=zXQbNr5NYZqS5kO0",
     dayDate: '25',
     monthYear: 'March, 2023',
@@ -2229,7 +2229,7 @@ const eventList = [
   },
   {
     id: 9,
-    imgSrc: "assets/images/blog/blog-10.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog/blog-10.png",
     youtubeUrl: "https://www.youtube.com/embed/I1ZDQXNde98?si=zmC5ePxu7TXe24Mg",
     dayDate: '08',
     monthYear: 'March, 2023',
@@ -2243,7 +2243,7 @@ const eventList = [
   },
   {
     id: 10,
-    imgSrc: "assets/images/blog/blog-11.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog/blog-11.png",
     youtubeUrl: "https://www.youtube.com/embed/IYUoJ9pKlAA?si=1vQgxtU1viaDSFKR",
     dayDate: '17',
     monthYear: 'March, 2023',
@@ -2257,7 +2257,7 @@ const eventList = [
   },
   {
     id: 11,
-    imgSrc: "assets/images/blog/blog-12.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog/blog-12.png",
     youtubeUrl: "https://www.youtube.com/embed/csRe0WzvtD8?si=vBCwewGkgUlQErPb",
     dayDate: '13',
     monthYear: 'March, 2023',
@@ -2271,7 +2271,7 @@ const eventList = [
   },
   {
     id: 12,
-    imgSrc: "assets/images/blog/blog-13.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog/blog-13.png",
     youtubeUrl: "https://www.youtube.com/embed/rlOVickyVuQ?si=pZb5KdKDSXNmG8mm",
     dayDate: '28',
     monthYear: 'March, 2023',
@@ -2285,7 +2285,7 @@ const eventList = [
   },
   {
     id: 13,
-    imgSrc: "assets/images/blog/blog-14.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog/blog-14.png",
     youtubeUrl: "https://www.youtube.com/embed/xoVJKj8lcNQ?si=fOxnup0S1LGxGRAL",
     dayDate: '10',
     monthYear: 'April, 2023',
@@ -2299,7 +2299,7 @@ const eventList = [
   },
   {
     id: 14,
-    imgSrc: "assets/images/blog/blog-15.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog/blog-15.png",
     youtubeUrl: "https://www.youtube.com/embed/awUglvaa1dQ?si=q2dQ9TQlQsw-SCtz",
     dayDate: '05',
     monthYear: 'April, 2023',
@@ -2313,7 +2313,7 @@ const eventList = [
   },
   {
     id: 15,
-    imgSrc: "assets/images/blog-4/blog-1.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-4/blog-1.png",
     youtubeUrl: "https://www.youtube.com/embed/vwGp16NXgQU?si=BQzYwkuFlx0qHCwJ",
     dayDate: '08',
     monthYear: 'April, 2023',
@@ -2327,7 +2327,7 @@ const eventList = [
   },
   {
     id: 16,
-    imgSrc: "assets/images/blog-4/blog-2.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-4/blog-2.png",
     youtubeUrl: "https://www.youtube.com/embed/sYIu9ibtLXk?si=418AYr8cNN3YnyF9",
     dayDate: '12',
     monthYear: 'April, 2023',
@@ -2341,7 +2341,7 @@ const eventList = [
   },
   {
     id: 17,
-    imgSrc: "assets/images/blog-4/blog-3.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-4/blog-3.png",
     youtubeUrl: "https://www.youtube.com/embed/FJRl5yRB6v4?si=mC8q5Y0FCYIq8WLk",
     dayDate: '18',
     monthYear: 'April, 2023',
@@ -2355,7 +2355,7 @@ const eventList = [
   },
   {
     id: 18,
-    imgSrc: "assets/images/blog-4/blog-4.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-4/blog-4.png",
     youtubeUrl: "https://www.youtube.com/embed/eAcjgh2ofQ8?si=vNs6B7w-wmj6dCRb",
     dayDate: '22',
     monthYear: 'April, 2023',
@@ -2369,7 +2369,7 @@ const eventList = [
   },
   {
     id: 19,
-    imgSrc: "assets/images/blog-4/blog-5.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-4/blog-5.png",
     youtubeUrl: "https://www.youtube.com/embed/gDZdcPOl1b8?si=xlpPc1gwRG0OSHJi",
     dayDate: '25',
     monthYear: 'April, 2023',
@@ -2383,7 +2383,7 @@ const eventList = [
   },
   {
     id: 20,
-    imgSrc: "assets/images/blog-4/blog-6.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-4/blog-6.png",
     youtubeUrl: "https://www.youtube.com/embed/3zIlvmiWjM0?si=1fLnbd6t6lcCxVHr",
     dayDate: '02',
     monthYear: 'May, 2023',
@@ -2397,7 +2397,7 @@ const eventList = [
   },
   {
     id: 21,
-    imgSrc: "assets/images/blog-4/blog-7.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-4/blog-7.png",
     youtubeUrl: "https://www.youtube.com/embed/wucZxx-XaVA?si=qtl4m1Nst66Ay7F2",
     dayDate: '06',
     monthYear: 'May, 2023',
@@ -2411,7 +2411,7 @@ const eventList = [
   },
   {
     id: 22,
-    imgSrc: "assets/images/blog-4/blog-8.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-4/blog-8.png",
     youtubeUrl: "https://www.youtube.com/embed/lXqbilHU05Q?si=rMUp40JcMdoOoTrb",
     dayDate: '12',
     monthYear: 'May, 2023',
@@ -2425,7 +2425,7 @@ const eventList = [
   },
   {
     id: 23,
-    imgSrc: "assets/images/blog-4/blog-9.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-4/blog-9.png",
     youtubeUrl: "https://www.youtube.com/embed/dC2-X1Gk1Cw?si=9gyuZFNe3KiQ95os",
     dayDate: '16',
     monthYear: 'May, 2023',
@@ -2439,7 +2439,7 @@ const eventList = [
   },
   {
     id: 24,
-    imgSrc: "assets/images/blog-4/blog-10.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-4/blog-10.png",
     youtubeUrl: "https://www.youtube.com/embed/HgGAzBDE454?si=X-vREeKYVeoLcVjz",
     dayDate: '21',
     monthYear: 'May, 2023',
@@ -2453,7 +2453,7 @@ const eventList = [
   },
   {
     id: 25,
-    imgSrc: "assets/images/blog-4/blog-11.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-4/blog-11.png",
     youtubeUrl: "https://www.youtube.com/embed/26-1t15R_MU?si=AQfcwnTZufzwIjfZ",
     dayDate: '25',
     monthYear: 'May, 2023',
@@ -2467,7 +2467,7 @@ const eventList = [
   },
   {
     id: 26,
-    imgSrc: "assets/images/blog-4/blog-12.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-4/blog-12.png",
     youtubeUrl: "https://www.youtube.com/embed/FBlfDsZ4OvI?si=T54MzteZqADHUoXb",
     dayDate: '02',
     monthYear: 'June, 2023',
@@ -2481,7 +2481,7 @@ const eventList = [
   },
   {
     id: 27,
-    imgSrc: "assets/images/blog-4/blog-13.png",
+    imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/blog-4/blog-13.png",
     youtubeUrl: "https://www.youtube.com/embed/0GnavRiwgmk?si=DTFlTF3a98ToazAF",
     dayDate: '06',
     monthYear: 'June, 2023',
@@ -2756,20 +2756,20 @@ const socialMediaData = [
 ];
 
 const categoriesData = [
-  { title: 'Product Design', icon: 'assets/images/tl-12/sub-5.png' },
-  { title: 'App Development', icon: 'assets/images/tl-12/sub-3.png' },
-  { title: 'Data Engineering', icon: 'assets/images/tl-12/sub-7.png' },
-  { title: 'Language', icon: 'assets/images/tl-13/cate-4.png' },
-  { title: 'Rocket Science', icon: 'assets/images/tl-13/cate-2.png' },
-  { title: 'Literature', icon: 'assets/images/tl-13/cate-1.png' },
-  { title: 'Advanced Skills', icon: 'assets/images/tl-12/sub-2.png' },
-  { title: 'Higher Study', icon: 'assets/images/tl-12/sub-1.png' },
+  { title: 'Product Design', icon: 'https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-12/sub-5.png' },
+  { title: 'App Development', icon: 'https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-12/sub-3.png' },
+  { title: 'Data Engineering', icon: 'https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-12/sub-7.png' },
+  { title: 'Language', icon: 'https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-13/cate-4.png' },
+  { title: 'Rocket Science', icon: 'https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-13/cate-2.png' },
+  { title: 'Literature', icon: 'https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-13/cate-1.png' },
+  { title: 'Advanced Skills', icon: 'https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-12/sub-2.png' },
+  { title: 'Higher Study', icon: 'https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-12/sub-1.png' },
 ];
 
 const articlesData = [
   {
     category: 'revolution',
-    image: 'assets/images/tl-3/blog-1.jpg',
+    image: 'https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-3/blog-1.jpg',
     articleCategory: 'Education',
     date: 'March 23, 2023',
     title: 'Educational Insights: Discovering the Art of Learning.',
@@ -2777,7 +2777,7 @@ const articlesData = [
   },
   {
     category: 'notebook',
-    image: 'assets/images/tl-3/blog-2.jpg',
+    image: 'https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-3/blog-2.jpg',
     articleCategory: 'Education',
     date: 'March 23, 2023',
     title: 'Exploring Notebooks: A Comprehensive Guide.',
@@ -2785,7 +2785,7 @@ const articlesData = [
   },
   {
     category: 'revolution',
-    image: 'assets/images/tl-3/blog-3.jpg',
+    image: 'https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-3/blog-3.jpg',
     articleCategory: 'Education',
     date: 'March 23, 2023',
     title: 'Revolutionizing Education: The Future of Learning.',
@@ -2793,7 +2793,7 @@ const articlesData = [
   },
   {
     category: 'learning',
-    image: 'assets/images/tl-5/blog-1.jpg',
+    image: 'https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-5/blog-1.jpg',
     articleCategory: 'Education',
     date: 'March 23, 2023',
     title: 'The Art of Lifelong Learning: Strategies and Tips.',
@@ -2968,61 +2968,61 @@ const schoolsList = [
 const sguhighlightdata = [
       {
         id:0,
-        imgSrc:"assets/images/tl-10/scroll8.jpg",
+        imgSrc:"https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-10/scroll8.jpg",
         title:"2 th Convocation Ceremony 2021",
         slug:"https://www.sanjayghodawatuniversity.ac.in/convocation.php?year=2021"
       },
       {
         id:1,
-        imgSrc:"assets/images/tl-10/scroll1.jpg",
+        imgSrc:"https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-10/scroll1.jpg",
         title:"TATA Technology Competency Center",
         slug:"https://www.sanjayghodawatuniversity.ac.in/inauguration-tcc-tata.php"
       },
       {
         id:2,
-        imgSrc:"assets/images/tl-10/scroll3.jpg",
+        imgSrc:"https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-10/scroll3.jpg",
         title:"Bollywood Megastar Sara Ali Khan Visit",
         slug:"https://www.sanjayghodawatuniversity.ac.in/visit-saraalikhan.php"
       },
       {
         id:3,
-        imgSrc:"assets/images/tl-10/scroll6.jpg",
+        imgSrc:"https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-10/scroll6.jpg",
         title:"Reinventing India",
         slug:"https://www.sanjayghodawatuniversity.ac.in/reinventing-india-event.php"
       },
       {
         id:4,
-        imgSrc:"assets/images/tl-10/latest-image8.jpg",
+        imgSrc:"https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-10/latest-image8.jpg",
         title:"A Story of Grit and Determination",
         slug:"assets/docs/sgu-highlights/forbes-artical.pdf"
       },
       {
         id:5,
-        imgSrc:"assets/images/tl-10/scroll5.jpg",
+        imgSrc:"https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-10/scroll5.jpg",
         title:"Asian Tennis Volleyball Championship",
         slug:"assets/docs/sgu-highlights/shubham-kore-championship.pdf"
       },
       {
         id:6,
-        imgSrc:"assets/images/tl-10/scroll2.jpg",
+        imgSrc:"https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-10/scroll2.jpg",
         title:"Sci - Star 2018",
         slug:"https://www.sanjayghodawatuniversity.ac.in/scistar2018.php"
       },
       {
         id:7,
-        imgSrc:"assets/images/tl-10/scroll8.jpg",
+        imgSrc:"https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-10/scroll8.jpg",
         title:"1 st Convocation Ceremony 2020",
         slug:"https://www.sanjayghodawatuniversity.ac.in/convocation.php?year=2020"
       },
       {
         id:8,
-        imgSrc:"assets/images/tl-10/scroll20.jpg",
+        imgSrc:"https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-10/scroll20.jpg",
         title:"3 th Convocation Ceremony 2022",
         slug:"https://www.sanjayghodawatuniversity.ac.in/convocation.php?year=2022"
       },
       {
         id:9,
-        imgSrc:"assets/images/tl-10/scroll4.jpg",
+        imgSrc:"https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-10/scroll4.jpg",
         title:"NCSAS 2019",
         slug:"https://www.sanjayghodawatuniversity.ac.in/conference/ncsas2019.php"
       }
@@ -3407,37 +3407,37 @@ const openElectiveV = [
       id:1,
       facultyName : "Mr.S.Sulthan",
       position:"HOD & Assistant Professor",
-      imgSrc:"assets/images/faculty-profile/aerospace-engineering/hod.jpg"
+      imgSrc:"https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile/aerospace-engineering/hod.jpg"
   },
   {
     id:2,
     facultyName : "Mr. R.R. Vinoth Kumar",
     position:"Assistant Professor",
-    imgSrc:"assets/images/faculty-profile/aerospace-engineering/assistant-professor1.jpg"
+    imgSrc:"https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile/aerospace-engineering/assistant-professor1.jpg"
   },
   {
     id:3,
     facultyName : "Dr.Muzeer.S",
     position:"Assistant Professor",
-    imgSrc:"assets/images/faculty-profile/aerospace-engineering/male-dummy-image.jpg"
+    imgSrc:"https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile/aerospace-engineering/male-dummy-image.jpg"
   },
   {
     id:4,
     facultyName : "Mr. Anant Uday Nalavade",
     position:"Teaching Assistant",
-    imgSrc:"assets/images/faculty-profile/aerospace-engineering/male-dummy-image.jpg"
+    imgSrc:"https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile/aerospace-engineering/male-dummy-image.jpg"
   },
   {
     id:5,
     facultyName : "Mr. Syed Habeeb",
     position:"Assistant Professor",
-    imgSrc:"assets/images/faculty-profile/aerospace-engineering/assistant-professor2.jpg"
+    imgSrc:"https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile/aerospace-engineering/assistant-professor2.jpg"
   },
   {
     id:6,
     facultyName : "Mr.Mohammed Hashim Y",
     position:"Assistant Professor",
-    imgSrc:"assets/images/faculty-profile/aerospace-engineering/assistant-professor3.jpg"
+    imgSrc:"https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile/aerospace-engineering/assistant-professor3.jpg"
   }
 ]  */
 

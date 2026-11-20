@@ -3,13 +3,13 @@ import React from "react";
 const Convocation = () => {
   const Convocation = [
     {
-        imgSrc: "assets/images/photo-gallery/academics/6th Convocation Ceremony/1.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/6th Convocation Ceremony/1.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/6th Convocation Ceremony/2.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/6th Convocation Ceremony/2.jpeg",
     },
     {
-        imgSrc: "assets/images/photo-gallery/academics/6th Convocation Ceremony/3.jpeg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/academics/6th Convocation Ceremony/3.jpeg",
     },
     
  ];

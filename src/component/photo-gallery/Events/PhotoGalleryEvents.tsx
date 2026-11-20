@@ -9,7 +9,7 @@ const PhotoGalleryEvents = () => {
                 <div className="row gy-4 gy-sm-5 tl-1-blogs-row">
                     <div className="col-lg-4">
                         <div className="tl-1-blog flex flex-col justify-center h-full">
-                            <img src="assets/images/photo-gallery/events/swinburne-university-visit/Swinburne2.jpeg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/swinburne-university-visit/Swinburne2.jpeg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/photo-gallery-swinburne-university">Swinburne University Visit</Link></h4>
                                     <Link href="/photo-gallery-swinburne-university" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
@@ -20,7 +20,7 @@ const PhotoGalleryEvents = () => {
                     
                     <div className="col-lg-4">
                         <div className="tl-1-blog flex flex-col justify-center h-full">
-                            <img src="assets/images/photo-gallery/events/school-of-architecture-inauguration/25.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/school-of-architecture-inauguration/25.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/school-of-architecture-inauguration">School of Architecture Inauguration</Link></h4>
                                     <Link href="/school-of-architecture-inauguration" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
@@ -30,7 +30,7 @@ const PhotoGalleryEvents = () => {
 
                     <div className="col-lg-4">
                         <div className="tl-1-blog flex flex-col justify-center h-full">
-                            <img src="assets/images/photo-gallery/events/vibrant-2023/1.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/vibrant-2023/1.jpg" alt="Photo Gallery Image" className="tl-1-blog-img-new"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/photo-gallery-vibrant-2023">Vibrant 2023</Link></h4>
                                     <Link href="/photo-gallery-vibrant-2023" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>

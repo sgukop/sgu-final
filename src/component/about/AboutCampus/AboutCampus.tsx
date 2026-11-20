@@ -67,79 +67,79 @@ const AboutCampus:React.FC<AboutProps> = ({padding,margin}) => {
                             >
                                 <div className="slider-item">
                                     <div className="tl-7-about-info-card">
-                                        <img src="assets/images/about-campus/campus1.jpg" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-campus/campus1.jpg" alt="Dance Image"/>
                                     </div>
                                 </div>
                                 <div className="slider-item">
                                 <div className="tl-7-about-info-card">
-                                        <img src="assets/images/about-campus/campus2.jpg" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-campus/campus2.jpg" alt="Dance Image"/>
                                     </div>
                                 </div>
 
                                 <div className="slider-item">
                                     <div className="tl-7-about-info-card">
-                                        <img src="assets/images/about-campus/campus3.jpg" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-campus/campus3.jpg" alt="Dance Image"/>
                                     </div>
                                 </div>
                                 <div className="slider-item">
                                 <div className="tl-7-about-info-card">
-                                        <img src="assets/images/about-campus/campus4.jpg" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-campus/campus4.jpg" alt="Dance Image"/>
                                     </div>
                                 </div>
                                 <div className="slider-item">
                                 <div className="tl-7-about-info-card">
-                                        <img src="assets/images/about-campus/campus5.jpg" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-campus/campus5.jpg" alt="Dance Image"/>
                                     </div>
                                 </div>
 
                                 <div className="slider-item">
                                 <div className="tl-7-about-info-card">
-                                        <img src="assets/images/about-campus/campus6.jpg" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-campus/campus6.jpg" alt="Dance Image"/>
                                     </div>
                                 </div>
                                 <div className="slider-item">
                                 <div className="tl-7-about-info-card">
-                                        <img src="assets/images/about-campus/campus7.jpg" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-campus/campus7.jpg" alt="Dance Image"/>
                                     </div>
                                 </div>
                                 <div className="slider-item">
                                 <div className="tl-7-about-info-card">
-                                        <img src="assets/images/about-campus/campus8.jpg" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-campus/campus8.jpg" alt="Dance Image"/>
                                     </div>
                                 </div>
                                 <div className="slider-item">
                                 <div className="tl-7-about-info-card">
-                                        <img src="assets/images/about-campus/campus9.jpg" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-campus/campus9.jpg" alt="Dance Image"/>
                                     </div>
                                 </div>
                                 <div className="slider-item">
                                 <div className="tl-7-about-info-card">
-                                        <img src="assets/images/about-campus/campus10.jpg" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-campus/campus10.jpg" alt="Dance Image"/>
                                     </div>
                                 </div>
                                 <div className="slider-item">
                                 <div className="tl-7-about-info-card">
-                                        <img src="assets/images/about-campus/campus11.jpg" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-campus/campus11.jpg" alt="Dance Image"/>
                                     </div>
                                 </div>
                                 <div className="slider-item">
                                 <div className="tl-7-about-info-card">
-                                        <img src="assets/images/about-campus/campus12.jpg" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-campus/campus12.jpg" alt="Dance Image"/>
                                     </div>
                                 </div>
                                 <div className="slider-item">
                                 <div className="tl-7-about-info-card">
-                                        <img src="assets/images/about-campus/campus13.jpg" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-campus/campus13.jpg" alt="Dance Image"/>
                                     </div>
                                 </div>
                                 <div className="slider-item">
                                 <div className="tl-7-about-info-card">
-                                        <img src="assets/images/about-campus/campus14.jpg" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-campus/campus14.jpg" alt="Dance Image"/>
                                     </div>
                                 </div>
                                 <div className="slider-item">
                                 <div className="tl-7-about-info-card">
-                                        <img src="assets/images/about-campus/campus15.jpg" alt="Dance Image"/>
+                                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/about-campus/campus15.jpg" alt="Dance Image"/>
                                     </div>
                                 </div>
                             </Slider>

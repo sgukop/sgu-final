@@ -3,7 +3,7 @@ import React from "react";
 const ReinventingIndia2018 = () => {
   const reinventingphotoes = [
     {
-        imgSrc: "assets/images/photo-gallery/events/cover-photoes/img-2.jfif",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/cover-photoes/img-2.jfif",
     },
 ];
 

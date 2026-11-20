@@ -16,7 +16,7 @@ const ElectronicaDeptProgrammes = () => {
                 <h3 className="tl-event-details-area-title">Programs under Electronics and Communication Engineering</h3>
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/electronics-communication-engineering/programmes/about-btech.png" alt="Electronics UG Image" className="tl-1-blog-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electronics-communication-engineering/programmes/about-btech.png" alt="Electronics UG Image" className="tl-1-blog-img"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/electronics-UG-program">Undergraduate (UG) programs <br/> Intake 60</Link></h4>
                                     <Link href="/electronics-UG-program" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
@@ -26,7 +26,7 @@ const ElectronicaDeptProgrammes = () => {
 
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/electronics-communication-engineering/programmes/about-mtech.png" alt="Electronics PG Image" className="tl-1-blog-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electronics-communication-engineering/programmes/about-mtech.png" alt="Electronics PG Image" className="tl-1-blog-img"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/electronics-PG-program">Post Graduate (PG) <br/> Intake 06</Link></h4>
                                     <Link href="/electronics-PG-program" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>
@@ -36,7 +36,7 @@ const ElectronicaDeptProgrammes = () => {
 
                     <div className="col-lg-4">
                         <div className="tl-1-blog">
-                            <img src="assets/images/electronics-communication-engineering/programmes/about-phd.png" alt="Electronics PG Image" className="tl-1-blog-img"/>
+                            <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/electronics-communication-engineering/programmes/about-phd.png" alt="Electronics PG Image" className="tl-1-blog-img"/>
                                 <div className="tl-1-blog-txt">
                                     <h4 className="tl-1-blog-title"><Link href="/electronics-dept-phd-programs">Ph.D. (Intake : As per vacancy notified time to time.)</Link></h4>
                                     <Link href="/electronics-dept-phd-programs" className="tl-1-blog-btn">Continue Reading <i className="fa-regular fa-arrow-right"></i></Link>

@@ -30,7 +30,7 @@ export default function AIDrugDiscoveryBlogPage() {
           <p className={styles.publishedDate}>Published: 13th July 2026</p>
 
           <Image
-            src="/assets/images/images/13.jpg"
+            src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/images/13.jpg"
             alt="Pharmacy college in Kolhapur | SGU"
             width={1040}
             height={580}

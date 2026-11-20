@@ -21,7 +21,7 @@ const BCADeptInfrastructure = () => {
                {/* <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/BCA-dept/academic-infrastructure/1.jpg" alt="Infrastructure Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/academic-infrastructure/1.jpg" alt="Infrastructure Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">HOD Cabin</h3>
                   </div>
@@ -29,7 +29,7 @@ const BCADeptInfrastructure = () => {
                  <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/BCA-dept/academic-infrastructure/4.jpg" alt="Infrastructure Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/academic-infrastructure/4.jpg" alt="Infrastructure Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Cyber security Lab</h3>
                       </div>
@@ -37,7 +37,7 @@ const BCADeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/BCA-dept/academic-infrastructure/10.jpg" alt="Infrastructure Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/academic-infrastructure/10.jpg" alt="Infrastructure Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Well Equipped Lab</h3>
                       </div>
@@ -46,7 +46,7 @@ const BCADeptInfrastructure = () => {
                  {/* <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/BCA-dept/academic-infrastructure/10.jpg" alt="Infrastructure Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/academic-infrastructure/10.jpg" alt="Infrastructure Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Well Equipped Lab</h3>
                       </div>
@@ -55,7 +55,7 @@ const BCADeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/BCA-dept/academic-infrastructure/python-programng-lab.jpg" alt="Infrastructure Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/academic-infrastructure/python-programng-lab.jpg" alt="Infrastructure Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Python Programming Lab</h3>
                       </div>
@@ -64,7 +64,7 @@ const BCADeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/BCA-dept/academic-infrastructure/analytics-lab.jpg" alt="Infrastructure Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/academic-infrastructure/analytics-lab.jpg" alt="Infrastructure Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Data Analytics Lab</h3>
                       </div>
@@ -72,7 +72,7 @@ const BCADeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/BCA-dept/academic-infrastructure/2.jpg" alt="Infrastructure Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/academic-infrastructure/2.jpg" alt="Infrastructure Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Well Equipped ClassRoom 1</h3>
                       </div>
@@ -80,7 +80,7 @@ const BCADeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog flex flex-col h-full"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/BCA-dept/academic-infrastructure/3.jpg" alt="Infrastructure Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/academic-infrastructure/3.jpg" alt="Infrastructure Image"/></figure>
                         </div>
                         <h3 className="tl-6-latest-article-title mt-10">Well Equipped ClassRoom 2</h3>
                     </div>
@@ -89,7 +89,7 @@ const BCADeptInfrastructure = () => {
              {/*    <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/BCA-dept/academic-infrastructure/5.jpg" alt="Infrastructure Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/academic-infrastructure/5.jpg" alt="Infrastructure Image"/></figure>
                         </div>
                     </div>
                   </div>
@@ -97,7 +97,7 @@ const BCADeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/BCA-dept/academic-infrastructure/7.jpg" alt="Infrastructure Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/academic-infrastructure/7.jpg" alt="Infrastructure Image"/></figure>
                         </div>
                     </div>
                   </div>
@@ -105,21 +105,21 @@ const BCADeptInfrastructure = () => {
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/BCA-dept/academic-infrastructure/8.jpg" alt="Infrastructure Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/academic-infrastructure/8.jpg" alt="Infrastructure Image"/></figure>
                         </div>
                     </div>
                   </div>
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/BCA-dept/academic-infrastructure/9.jpg" alt="Infrastructure Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/academic-infrastructure/9.jpg" alt="Infrastructure Image"/></figure>
                         </div>
                     </div>
                   </div>
                   <div className="col-lg-4 col-md-6 col-10 col-xxs-12">
                     <div className="tl-9-blog"> 
                         <div className="tl-9-event-img">
-                            <figure><img src="assets/images/BCA-dept/academic-infrastructure/6.jpg" alt="Infrastructure Image"/></figure>
+                            <figure><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/BCA-dept/academic-infrastructure/6.jpg" alt="Infrastructure Image"/></figure>
                         </div>
                     </div>
                   </div>   */}

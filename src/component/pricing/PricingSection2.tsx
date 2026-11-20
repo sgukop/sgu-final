@@ -15,7 +15,7 @@ type PricingPackage = {
       title: 'Beginner',
       subTitle: 'Pay as you go Lesson',
       price: 69,
-      imgSrc: "assets/images/tl-9/plan-1.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-9/plan-1.jpg",
       features: [
         {
           id: 0,
@@ -45,7 +45,7 @@ type PricingPackage = {
       title: 'Intermediate',
       subTitle: '5 Private Classes',
       price: 240,
-      imgSrc: "assets/images/tl-9/plan-2.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-9/plan-2.jpg",
       features: [
         {
           id: 0,
@@ -74,7 +74,7 @@ type PricingPackage = {
       title: 'Master',
       subTitle: '10 Group Classes',
       price: 475,
-      imgSrc: "assets/images/tl-9/plan-3.jpg",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-9/plan-3.jpg",
       features: [
         {
           id: 0,

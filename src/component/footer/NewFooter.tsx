@@ -32,16 +32,16 @@ const NewFooter = () => {
 
                     <div className='w-fit h-fit flex flex-col gap-y-3'>
                         <div className='h-[50px] w-[50px] rounded-full flex justify-center items-center bg-[#f26122]'>
-                            <a className="hover:[transform:rotate(180deg)]" href="https://www.instagram.com/sanjayghodawatuniversity/profilecard/?igsh=MWp3b3Q3OTF2bHBwcQ==" target="_blank"><img src='/assets/images/home/instagram.svg' alt='Instagram' /></a>
+                            <a className="hover:[transform:rotate(180deg)]" href="https://www.instagram.com/sanjayghodawatuniversity/profilecard/?igsh=MWp3b3Q3OTF2bHBwcQ==" target="_blank"><img src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/instagram.svg' alt='Instagram' /></a>
                         </div>
                         <div className='h-[50px] w-[50px] rounded-full flex justify-center items-center bg-[#f26122]'>
-                            <a className="hover:[transform:rotate(180deg)]" href="https://www.facebook.com/SGUniversityKolhapur?mibextid=LQQJ4d" target="_blank"><img src='/assets/images/home/facebook.svg' alt='facebook' /></a>
+                            <a className="hover:[transform:rotate(180deg)]" href="https://www.facebook.com/SGUniversityKolhapur?mibextid=LQQJ4d" target="_blank"><img src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/facebook.svg' alt='facebook' /></a>
                         </div>
                         <div className='h-[50px] w-[50px] rounded-full flex justify-center items-center bg-[#f26122]'>
-                            <a className="hover:[transform:rotate(180deg)]" href="https://www.linkedin.com/school/sanjayghodawatuniversity/" target="_blank"><img src='/assets/images/home/linkedin.svg' alt='linkedin' /></a>
+                            <a className="hover:[transform:rotate(180deg)]" href="https://www.linkedin.com/school/sanjayghodawatuniversity/" target="_blank"><img src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/linkedin.svg' alt='linkedin' /></a>
                         </div>
                         <div className='h-[50px] w-[50px] rounded-full flex justify-center items-center bg-[#f26122]'>
-                            <a className="hover:[transform:rotate(180deg)]" href="https://www.youtube.com/@sguniversity7645" target="_blank"><img src='/assets/images/home/youtube.svg' alt='youtube' /></a>
+                            <a className="hover:[transform:rotate(180deg)]" href="https://www.youtube.com/@sguniversity7645" target="_blank"><img src='https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/home/youtube.svg' alt='youtube' /></a>
                         </div>
                     </div>
                 </div>

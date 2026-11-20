@@ -9,7 +9,7 @@ const loading = () => {
                 <div className="loading-content">
                     <Image 
                     className="loading-logo-text" 
-                    src="/assets/images/logo/logo-text1.jpg" 
+                    src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/logo/logo-text1.jpg" 
                     alt="SGU"
                     height={80}
                     width={242}

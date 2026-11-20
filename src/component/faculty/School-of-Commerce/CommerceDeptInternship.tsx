@@ -38,64 +38,64 @@ const CommerceDeptInternship:React.FC<AboutProps> = ({margin}) => {
   };
   const recruiters = [
     {
-      imgSrc: "assets/images/commerce-dept/our-recruiters/company1.png",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/our-recruiters/company1.png",
     },
     {
-      imgSrc: "assets/images/commerce-dept/our-recruiters/company2.png",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/our-recruiters/company2.png",
     },
     {
-      imgSrc: "assets/images/commerce-dept/our-recruiters/company3.png",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/our-recruiters/company3.png",
     },
     {
-        imgSrc: "assets/images/commerce-dept/our-recruiters/company4.png",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/our-recruiters/company4.png",
     },
     {
-      imgSrc: "assets/images/commerce-dept/our-recruiters/company5.png",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/our-recruiters/company5.png",
     },
     {
-      imgSrc: "assets/images/commerce-dept/our-recruiters/company6.png",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/our-recruiters/company6.png",
     },
     {
-      imgSrc: "assets/images/commerce-dept/our-recruiters/company7.png",
+      imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/our-recruiters/company7.png",
     },
     {
-        imgSrc: "assets/images/commerce-dept/our-recruiters/company8.jpg",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/our-recruiters/company8.jpg",
     },
    {
-        imgSrc: "assets/images/commerce-dept/our-recruiters/company9.png",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/our-recruiters/company9.png",
     },
     {
-        imgSrc: "assets/images/commerce-dept/our-recruiters/company10.png",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/our-recruiters/company10.png",
     },
     {
-        imgSrc: "assets/images/commerce-dept/our-recruiters/company11.png",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/our-recruiters/company11.png",
     },
     {
-        imgSrc: "assets/images/commerce-dept/our-recruiters/company12.png",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/our-recruiters/company12.png",
     },
     {
-        imgSrc: "assets/images/commerce-dept/our-recruiters/company13.png",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/our-recruiters/company13.png",
     },
     {
-        imgSrc: "assets/images/commerce-dept/our-recruiters/company14.png",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/our-recruiters/company14.png",
     },
     {
-        imgSrc: "assets/images/commerce-dept/our-recruiters/company15.png",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/our-recruiters/company15.png",
     },
     {
-        imgSrc: "assets/images/commerce-dept/our-recruiters/company16.png",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/our-recruiters/company16.png",
     },
     {
-        imgSrc: "assets/images/commerce-dept/our-recruiters/company17.png",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/our-recruiters/company17.png",
     },
     {
-        imgSrc: "assets/images/commerce-dept/our-recruiters/company18.png",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/commerce-dept/our-recruiters/company18.png",
     },  
   ]
   return (
     <section
       className="pt-100 pb-100"
-      data-background="assets/images/tl-14/cta-bg.png"
+      data-background="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-14/cta-bg.png"
     >
       <div className="container-fluid">
         <h2 className="tl-9-section-title mb-50">Internship</h2>

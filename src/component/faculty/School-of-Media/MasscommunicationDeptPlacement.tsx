@@ -9,7 +9,7 @@ const MasscommunicationDeptPlacement = () => {
  return (
     <section
       className="pt-100 pb-100"
-      data-background="assets/images/tl-14/cta-bg.png"
+      data-background="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-14/cta-bg.png"
     >
       <div className="container-fluid">
         <h2 className="tl-9-section-title mb-50">Internship & Placements</h2>

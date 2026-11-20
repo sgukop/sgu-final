@@ -9,7 +9,7 @@ const PhysicalPHDProgram = () => {
         <div className="row g-0 justify-content-between align-items-center">
             <div className="col-xl-6 col-lg-5">
                 <div className="tl-8-about-img">
-                    <img src="assets/images/physical-sciences-dept/programmes/PhD-Physics.png" alt="Ph.D. programmes Image" className="tl-8-about-main-img rounded-full" style={{border:"10px solid #4f70b6", padding:"20px"}}
+                    <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/physical-sciences-dept/programmes/PhD-Physics.png" alt="Ph.D. programmes Image" className="tl-8-about-main-img rounded-full" style={{border:"10px solid #4f70b6", padding:"20px"}}
                     />
                 </div>
             </div>

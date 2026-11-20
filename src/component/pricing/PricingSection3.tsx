@@ -8,7 +8,7 @@ const PricingSection3 = () => {
           <div className="col-lg-5">
             <div className="tl-10-fees-txt">
               <img
-                src="assets/images/tl-10/fees-icon.png"
+                src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-10/fees-icon.png"
                 alt=""
                 className="tl-10-fees-img"
               />

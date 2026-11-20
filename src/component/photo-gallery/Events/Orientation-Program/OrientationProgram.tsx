@@ -3,7 +3,7 @@ import React from "react";
 const OrientationProgram = () => {
   const programsphotoes = [
     {
-        imgSrc: "assets/images/photo-gallery/events/cover-photoes/5.jfif",
+        imgSrc: "https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/photo-gallery/events/cover-photoes/5.jfif",
     },
 ];
 

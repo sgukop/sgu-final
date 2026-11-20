@@ -14,7 +14,7 @@ import PO from "./managment-pg-PEO/PO";
 
 const ManagementDeptAbout = () => {
    return (
-    <section className="tl-14-about pt-100 pb-100" data-background="assets/images/tl-14/cta-bg.png">
+    <section className="tl-14-about pt-100 pb-100" data-background="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/tl-14/cta-bg.png">
         <div className="container-fluid">
         <h2 className="tl-9-section-title mb-50">Department of Management</h2>
         <div className="row">
@@ -31,7 +31,7 @@ const ManagementDeptAbout = () => {
               <div className="col-lg-5">
                 <div className="tl-14-about-img">
                   <img
-                    src="assets/images/faculty-profile-photos/management/4. Dr. GANESH JAGTAP.jpg"
+                    src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/faculty-profile-photos/management/4. Dr. GANESH JAGTAP.jpg"
                     alt="HOD Image"
                     className="rounded-full"
                     style={{border:"10px solid #4f70b6", padding:"150px"}}
@@ -82,7 +82,7 @@ const ManagementDeptAbout = () => {
          {/*   <div className="row gy-4 align-items-center">
                 <div className="col-lg-5">
                     <div className="tl-14-about-img">
-                        <img src="assets/images/management-dept/about-department/hod-photo.png" alt="About Department Image" className="rounded-full"
+                        <img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/management-dept/about-department/hod-photo.png" alt="About Department Image" className="rounded-full"
                           style={{border:"10px solid #4f70b6", padding:"20px"}} />
                     </div>
                 </div>

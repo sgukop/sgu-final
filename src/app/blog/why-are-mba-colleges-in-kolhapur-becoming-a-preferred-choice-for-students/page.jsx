@@ -29,7 +29,7 @@ export default function MBAPage() {
           </p>
 
           <Image
-            src="/assets/images/images/7.jpg"
+            src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/images/7.jpg"
             alt="mba colleges in kolhapur | SGU"
             width={1040}
             height={580}
