@@ -158,13 +158,13 @@ const PhdProgram = () => {
         </td>
         <td>
           <a href="https://manage-api.sguk.ac.in/api/assets/6b000654d15de44f8970cd86" target="_blank" rel="noopener noreferrer">
-            <i className="fa-solid fa-file-pdf text-red-500"> </i>
+            <i className="fa-solid fa-file-pdf text-red-500"></i>
           </a>
         </td>
       </tr>
        
        
-       
+    
         
 
 
