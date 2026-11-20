@@ -115,7 +115,7 @@ const PhdProgram = () => {
         </td>
       </tr>*/}
        <tr>
-        <td>08</td>
+        <td>07</td>
         <td>SGU Ph.D Admission Information Brochure</td>
         <td>
           <span className="bg-green-100 text-green-600 px-2 py-1 rounded text-xs">PDF</span>
@@ -127,7 +127,7 @@ const PhdProgram = () => {
         </td>
       </tr>
        <tr>
-        <td>09</td>
+        <td>08</td>
         <td> SGUPET Syllabus-2026</td>
         <td>
           <span className="bg-green-100 text-green-600 px-2 py-1 rounded text-xs">PDF</span>
@@ -138,6 +138,31 @@ const PhdProgram = () => {
           </a>
         </td>
       </tr>
+       <tr>
+        <td>09</td>
+        <td> Provisional List of Exempted Students Eligible for SGUPET-2026</td>
+        <td>
+          <span className="bg-green-100 text-green-600 px-2 py-1 rounded text-xs">PDF</span>
+        </td>
+        <td>
+          <a href="https://manage-api.sguk.ac.in/api/assets/6b000640d15de44f8970cd81" target="_blank" rel="noopener noreferrer">
+            <i className="fa-solid fa-file-pdf text-red-500"></i>
+          </a>
+        </td>
+      </tr>
+        <tr>
+        <td>10</td>
+        <td>Provisional List of Students Eligible for SGUPET-2026</td>
+        <td>
+          <span className="bg-green-100 text-green-600 px-2 py-1 rounded text-xs">PDF</span>
+        </td>
+        <td>
+          <a href="https://manage-api.sguk.ac.in/api/assets/6b000654d15de44f8970cd86" target="_blank" rel="noopener noreferrer">
+            <i className="fa-solid fa-file-pdf text-red-500"></i>
+          </a>
+        </td>
+      </tr>
+       
        
        
         
