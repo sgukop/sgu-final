@@ -376,7 +376,7 @@ const NewHeaderSection = () => {
       <a href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/admission-open/01.jpeg" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">Brand Of Kolhapur </a>
     
 <sup><img src="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/new-icon-image.gif"/></sup>
-      <a href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/admission-open/07.jpeg" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">West Zone Inter-University Basketball Tournament (Womens) </a>
+      <a href="https://sgukopbucket.s3.ap-south-1.amazonaws.com/images/admission-open/7.jpeg" target="_blank" className="text-[#800000] text-bold hover:text-[#212f64] mr-6">West Zone Inter-University Basketball Tournament (Womens) </a>
     
     
     
